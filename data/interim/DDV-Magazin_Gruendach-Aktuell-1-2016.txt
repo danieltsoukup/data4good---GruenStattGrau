@@ -1,0 +1,1370 @@
+Gründach AKTUELL
+D e r D eu t s ch e D ach g ä r t n e r Ve r ba n d i n fo r m i e r t
+
+Ausg a be 1 I 2016
+
+Spotlight
+
+Dachbegrünung aus der Vogelperspektive
+
+Aus der Praxis
+
+Interview mit Dachgärtner Jürgen Quindeau
+
+Projekte
+
+Facebook entdeckt Dachbegrünung
+
+Forschung
+
+Gründächer steigern Konzentration
+
+DDV-Nachrichten
+
+Veranstaltungen, Netzwerke, Lesetipps
+
+Gründach-Initiativen
+
+Leipzig plant Gründach-Strategie
+
+Editorial
+
+GRÜNDACHAKTUELL
+
+03
+
+Spotlight
+
+08
+
+Aus der Praxis
+
+Dachbegrünung aus der Vogelperspektive
+– „Rot ist das neue Grün“
+Dachgärtner aus Leidenschaft – Interview
+mit Jürgen Quindeau, Fa. GRÜN + DACH
+
+10
+
+Projekte
+
+12
+
+Forschung
+
+14
+
+DDV-Nachrichten
+
+22
+23
+23
+
+1‘2016
+
+Leben und arbeiten auf dem Dach – Die
+neue Facebook-Zentrale in Menlo Park
+
+Gründächer steigern Produktivität –
+Studie der Universität Melbourne
+
+Veranstaltungen und Netzwerke
+
+Literaturtipps
+Gründach-Initiativen
+Leipzig plant Gründach-Strategie
+
+Vorschau/Impressum
+
+Titelbild: © Stadt München/DLR/DDV
+
+Die Dachbegrünung kann in Deutschland auf eine jahrzehntelange Tradition zurückblicken. Trotzdem gibt es
+immer noch einige ungelöste Fragen. Wie viele Gründächer
+existieren bereits in Deutschlands Städten? Und welche
+Dächer bieten Potenzialflächen für den Ausbau der grünen
+Infrastruktur? Gemeinsam mit dem Deutschen Zentrum für
+Luft- und Raumfahrt (DLR) hat der Deutsche Dachgärtner
+Verband (DDV) ein Verfahren entwickelt, um diese Fragen in
+Zukunft schnell und effizient beantworten zu können. In der
+Rubrik „Spotlight“ präsentieren wir Ihnen eine Kurzbeschreibung der Methode.
+Apropos Potenziale. Beispiele für die Nutzung von Firmen‑
+dächern als „grüne Freiluftbüros“ und Erholungsbereiche sind
+hierzulande nur sehr selten zu finden. Wie sich ein Dachgarten für Mitarbeiter und Unternehmen doppelt bezahlt
+macht, zeigt die neue Facebook-Firmenzentrale in Kalifornien.
+Dass der Platzhirsch unter den Social Media Plattformen
+mit diesem Gebäude zusätzlich sein Umweltprofil in der
+Außendarstellung schärft, kommt als Bonus noch hinzu. Um
+Inspiration für den deutschen Gründach-Markt zu gewinnen,
+lohnt es sich, den Blick auch über die Ländergrenzen hinweg
+zu werfen.
+Viel Vergnügen beim Lesen wünscht Ihnen
+Wolfgang Ansel
+Geschäftsführer, Deutscher Dachgärtner Verband e. V.
+
+2
+
+DDV Gründach Aktuell 1/2016
+
+Spotlight
+
+Dachbegrünung aus der Vogelperspektive
+– „Rot ist das neue Grün“
+Gemeinsam mit dem Deutschen Zentrum für Luft- und
+Raumfahrt (DLR) hat der Deutsche Dachgärtner Verband
+(DDV) eine Methode zur fernerkundlichen Untersuchung
+begrünter Dächer entwickelt. Die Analyse der Dachflächen aus der Vogelperspektive gibt Auskunft darüber, wie
+groß der Anteil begrünter Dächer in den Städten bereits
+ist und welche weiteren Potenziale aktiviert werden
+können.
+Dachbegrünungen sind in der Lage, neue Handlungsspielräume für den Klimaschutz und die Klimawandelanpassung
+zu eröffnen, da sie in vielen stadtökologischen Bereichen
+positive Wirkungen entfalten (z. B. Stadtklima, Entwässerung und Artenvielfalt) und gleichzeitig auf ein enormes
+brachliegendes Freiraumpotenzial zurückgreifen können.
+Für die aktive Einbindung begrünter Dächer in kommunale
+Klimawandelanpassungsstrategien fehlten aber bislang
+Datensätze, die neben dem Umfang und der Lage bereits
+existierender Gründächer zusätzlich auch geeignete Dachflächen für eine nachträgliche Begrünung ausweisen. Um
+diese Informationen zur Verfügung stellen zu können, hat
+der Deutsche Dachgärtner Verband (DDV) gemeinsam mit
+dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) ein
+Verfahren zur fernerkundlichen Identifizierung und Potenzial‑
+analyse von Dachbegrünung entwickelt. Zu den weiteren
+Kooperationspartnern gehörten die Städte Hamburg, Karlsruhe, Stuttgart, München und Nürtingen sowie die HafenCity
+Universität Hamburg (HCU), der Gründach-Systemhersteller
+ZinCo GmbH und die Deutsche Gartenamtsleiterkonferenz
+(GALK). Das innovative Pilotprojekt wurde von der Deutschen Bundesstiftung Umwelt (DBU) gefördert.
+
+Die Kombination von Luftbildaufnahmen und Geobasisdaten
+ermöglicht die Identifizierung von Gründächern und Potenzialflächen.
+© Stadt München / DLR
+
+DDV Gründach Aktuell 1/2016
+
+Beschreibung der Methode
+Bei der von Julian Zeidler und Dr. Thomas Esch am Deutschen Zentrum für Luft- und Raumfahrt (DLR) in Ober‑
+pfaffenhofen entwickelten Methode werden für die Vegeta‑
+tionserfassung Luftbildaufnahmen verwendet, welche
+neben dem sichtbaren Spektralbereich (rot, grün, blau) zusätzlich auch den Bereich des nahen Infrarots abdecken. Die
+für das menschliche Auge nicht sichtbare Infrarotstrahlung
+wird von Pflanzen sehr stark reflektiert und liefert damit
+ein gut messbares Vegetationssignal. In Luftbildern wird
+dieser Effekt in der so genannten „Falschfarbendarstellung“
+wiedergegeben. Die Reflektion im nahen Infrarot wird dabei
+auf den roten Farbkanal gelegt, wodurch die vorhandene
+Vegetation rotgefärbt erscheint.
+
+Vergleich Echtfarben-Luftbild (oben) und Falschfarbeninfrarot-Luftbild
+(unten): Die Vitalität der Pflanzen spiegelt sich in der Stärke der Rotfärbung
+wider. © Stadt München
+
+3
+
+Spotlight
+
+Aus dem Bereich der Geobasisdaten werden als zweiter
+Eingangsdatensatz die Hausumringe beziehungsweise die
+digitalen Gebäudemodelle der betrachteten Städte benötigt.
+Für die Potenzialanalyse spielt außerdem die Dachform
+eine wichtige Rolle.
+Gründach-Inventarisierung: Um vorhandene Dachbegrünungsflächen zu identifizieren, werden Luftbildaufnahmen
+und Geobasisdaten überlagert. Für alle Bildpunkte, die inner‑
+halb einer Dachfläche liegen, wird eine Vegetationsanalyse
+durchgeführt. Auf Grundlage verschiedener Schwellenwerte (Stärke des Vegetationssignals, Größe der begrünten
+Dachfläche, Flächenanteile der Begrünung) entscheidet das
+Programm im Anschluss, ob das Dach als Dachbegrünung
+eingestuft wird.
+
+Überlagerung der Informationen des Falschfarbeninfrarot-Luftbildes mit den
+Hausumringen (rote Linien). © Stadt München/DLR
+
+Potenzialanalyse: Um die Anzahl der für eine nachträgliche
+Begrünung in Frage kommenden Gebäude mit Hilfe fernerkundlicher Methoden einzuschränken, können die Parameter
+„Dachneigung“ und „Kiesdächer/Gebäudestatik“ herangezogen werden. Da der technische und finanzielle Aufwand für
+die Begrünung von Schräg- und Steildächern vergleichsweise
+hoch ist, werden für die Potenzialanalyse nur Gebäude mit
+flachen oder leicht geneigten Dächern (bis ca. 10°) berücksichtigt. Falls es sich dabei um Kiesdächer handelt, die genug
+statische Lastreserven für die Installation einer extensiven
+Dachbegrünung besitzen, erhöht sich der Wert für die
+potenzielle Begrünbarkeit. Die beigefügte Abbildung liefert
+ein Beispiel für die Anwendung der Potenzialanalyse. Bei dem
+flachen bzw. leicht geneigten Dach des Gebäudes wurde bei
+der Analyse der Oberflächenstruktur auf 80 % der Dachfläche ein Kiesbelag erkannt.
+
+Luftbild eines detektierten Kiesdaches (roter Rahmen).
+© Stadt München
+
+Die tatsächliche Begrünbarkeit eines Gebäudes und deren
+voraussichtliche Kosten müssen aber zusätzlich auch im
+Rahmen von Vor-Ort-Besichtigungen überprüft werden,
+wobei eine Potenzialanalyse im Vorfeld die Anzahl der zu
+überprüfenden Gebäude deutlich reduzieren kann.
+
+Gründach-Identifizierung auf Gebäudeebene: Als Gründach bestätigte
+Dächer sind graphisch durch eine ganzheitliche grüne Färbung dargestellt.
+© Stadt München/DLR
+
+4
+
+DDV Gründach Aktuell 1/2016
+
+Spotlight
+
+Analyse Stadtgebiet: Die automatisierte fernerkundliche
+Methode ermöglicht Aussagen, die von der Gebäudeebene über Quartiere und Stadtteile bis hin zum gesamten
+Stadtgebiet reichen. Die nachfolgende Tabelle liefert eine
+Übersicht der Auswertung für die Stadt München.
+Kenngrößen der Gründach-Inventarisierung
+und Potenzialanalyse auf Stadtgebietsebene
+(Beispiel Stadt München)
+Kenngröße
+
+Ergebnis
+
+Anzahl aller Dächer mit
+Dachbegrünung
+
+59.082
+
+Vegetationsfläche aller
+begrünten Dachflächen
+
+3.148.043 m²
+
+Anzahl aller potenziell
+begrünbaren Gebäude
+(Dachfläche > 100 m²)
+
+31.740
+
+Gesamtfläche aller potenziell begrünbaren Gebäude
+(Dachfläche > 100 m²)
+
+13.233.965 m²
+
+Fazit
+Die entwickelte Softwarelösung macht eine bisher noch
+weitgehend ungenutzte Flächenressource mit einem riesigen
+Entwicklungspotenzial für die stadtökologischen Analysen
+zugänglich – die Dachflächen der Städte. Basierend auf der
+genauen Lokalisierung und Quantifizierung der vorhandenen
+Gründächer und möglicher Potenzialflächen erschließt sie
+den kommunalen Fachbehörden damit eine Vielfalt neuer
+Anwendungsmöglichkeiten.
+Nach Abschluss der Pilotprojektphase wird die Methode
+jetzt als neue fernerkundliche Dienstleistung durch die Firma
+EFTAS Fernerkundung Technologietransfer GmbH und den
+Deutschen Dachgärtner Verband angeboten. Weitere
+Informationen zu den Projektergebnissen und der praktischen Anwendung der Methode sind bei der Geschäftsstelle
+des Deutschen Dachgärtner Verbandes in Nürtingen erhältlich (E-Mail: contact@dachgaertnerverband.de,
+Tel.: 07022 301378).
+
+Mit 3,15 Millionen Quadratmeter Dachbegrünung auf
+knapp 60.000 Gebäuden besitzt die bayerische Landeshauptstadt bereits einen hohen Anteil begrünter Dächer.
+Hier zeigen sich die Erfolge einer langjährigen kommunalen
+Förderpolitik. Bereits seit 1996 wird in München über die
+Freiflächengestaltungssatzung gefordert, geeignete Flachdächer sowie flachgeneigte Dächer bis 20° ab einer Größe
+von 100 m² zu begrünen. Nichtsdestotrotz gibt es auch in
+München im Bestand noch eine große Anzahl potenziell
+begrünbarer Dachflächen, deren Eignung durch Vor-OrtBesichtigungen überprüft werden kann.
+Einsatzgebiete des Verfahrens
+Auf Grundlage der Auswertung lassen sich für die kommunalen Fachbehörden u.a. folgende stadtplanerische Anwendungsmöglichkeiten ableiten:
+• Einbindung der Daten in Modellierungen für das
+Stadtklima, die Entwässerungsplanung und die
+Biotopvernetzung
+• Gezielte kommunale Förderung begrünter Dächer
+in Gebieten mit mangelhafter Grünausstattung
+• Schaffung von vernetzten Grünzügen im Stadtgebiet
+unter Einbeziehung der Dachflächen
+• Ökologische Aufwertung bereits vorhandener
+Gründächer
+• Kontrollwerkzeug für die Ausführung begrünter Dächer
+
+DDV Gründach Aktuell 1/2016
+
+5
+
+Spotlight
+
+Julian Zeidler (Entwickler, Deutsches Zentrum für Luft- und
+Raumfahrt DLR) und Wolfgang Ansel (Geschäftsführer, Deutscher
+Dachgärtner Verband DDV) über Farbenspiele, Alibi-Begrünungen
+und ungenutzte Potenziale
+Was hat Sie bei der Anwendung des Verfahrens am
+meisten überrascht?
+
+Wolfgang Ansel © Petra Reidel /
+Redaktionsbüro Blätterwerk
+
+Julian Zeidler © Petra Reidel /
+Redaktionsbüro Blätterwerk
+
+Die Gründach-Inventarisierung basiert auf so genannten Falschfarbeninfrarot-Luftbildaufnahmen. Klingt
+ziemlich kompliziert. Warum konnte man nicht einfach
+das natürliche Grün der Dach-Vegetation zur Identifizierung verwenden?
+
+Ist bei der Dachbegrünung damit also alles im grünen
+Bereich?
+
+Julian Zeidler: Prinzipiell ließe sich zur Erkennung der
+Dachbegrünung auch das Grünsignal verwenden. Allerdings
+kommt man dann sehr schnell zu dem Problem, das natürliche Grün von künstlichem Grün zu unterscheiden. Man
+müsste dann für jedes neue Bild interpretieren, welches Grün
+auch wirklich Vegetation ist. Durch die Hinzunahme des
+nahen Infrarots kann hingegen der in der Fernerkundung bewährte NDVI-Index berechnet werden. Der NDVI beschreibt
+die Begrünung der Erdoberflache durch Vegetation und
+trennt auf standardisierte Weise pflanzliches und künstliches
+Grün. Auf diese Weise ist eine Übertragbarkeit auf andere
+Befliegungen sehr leicht zu realisieren.
+
+Wolfgang Ansel: Das würde ich so nicht sagen. Einerseits
+wird natürlich nach wie vor die Mehrzahl der Dachflächen
+nicht begrünt. Und dann gibt es leider auch einige Dachbegrünungen, die aufgrund geringer Substrathöhen und mangelnder Pflege nur eine sehr dürftige Vegetationsbedeckung
+besitzen. Diese „Alibi-Begrünungen“ unterscheiden sich bei
+der Luftbildauswertung nur wenig von Spontanbegrünungen
+auf bekiesten Dächern. Auch bei den Bestandsgründächern
+existiert deshalb ein großes Potenzial für Verbesserungen.
+
+Worin bestand für Sie die größte Herausforderung bei
+diesem Projekt?
+
+Julian Zeidler: Bei einer Organisation von der Größe des
+DLR ist es sehr schwer, die Relevanz eines einzelnen Projekts
+festzulegen, sofern es sich nicht gerade um einen Asteroidenlander handelt. Aus Sicht unseres Teams war es ein sehr
+spannendes Projekt, in dem wir unsere Expertise aus der
+Satellitenbildauswertung erfolgreich auf die sehr hochaufgelösten Befliegungsdaten übertragen konnten.
+
+Julian Zeidler: Für mich war die größte Herausforderung
+eine Methodik zu entwickeln, die flexibel genug ist, um mit
+den unterschiedlichen Eingangsdaten der Städtepartner
+zurechtzukommen. Die in optimaler Weise ohne große
+Anpassung der Einstellungen von einem versierten Benutzer
+schnell auf neue Daten angewendet werden kann, so dass mit
+jedem neuen Datensatz auch gleich die Analyse durchgeführt
+werden kann. Daneben war es uns ein Anliegen, dass die
+Methode von kommerzieller Software unabhängig ist und
+auf einem handelsüblichen Laptop lauffähig ist.
+
+6
+
+Wolfgang Ansel: In vielen Städten war der Anteil an begrünten Dächern viel höher als erwartet. In München kommen
+auf jeden Einwohner heute schon 2,1 m² Dachbegrünung.
+Auch in Nürtingen wird mit 1,6 m² ein respektabler Wert
+erreicht. Wenn man die Zahlen aus unseren Analysen mittelt
+und Erhebungen in Düsseldorf und Hannover einbezieht,
+dürfte die Fläche der bereits vorhandenen Dachbegrünungen
+in Deutschland bei ca. 100–150 Millionen m² liegen. Einen
+Unsicherheitsfaktor stellen dabei Tiefgaragenbegrünungen
+dar, die nicht in allen Datensätzen hinterlegt sind, aber einen
+erheblichen Umfang besitzen können. In München kommen
+hier zum Beispiel nochmals 1,5 Millionen m² Dachbegrünung
+auf Tiefgaragen hinzu.
+
+Ein letzte Frage an beide: Welche Relevanz hat das Projekt
+für Ihre Organisation?
+
+Wolfgang Ansel: Im Unterschied zum DLR sind wir natürlich
+etwas „bodenständiger“. Für unsere Verbandsarbeit kann man
+den Wert der neuen Methode deshalb gar nicht hoch genug
+einschätzen. Es ist für uns viel einfacher, mit kommunalen
+Gesprächspartnern die Wertigkeit begrünter Dächer für die
+Stadtplanung zu diskutieren, wenn man die stadtökologischen
+Effekte mit den Daten der Dachanalyse konkretisieren kann.
+
+DDV Gründach Aktuell 1/2016
+
+Anzeige
+
+Ihr Partner für Geoinformation
+• Fernerkundungsdaten
+• GIS & WebmApps
+• Entwicklung
+• Beratung
+
+Quelle: Luftbild Karlsruhe / DLR
+
+Unser Wissen für grüne Dächer:
+• Erfassung von Potenzialflächen
+• Inventarisierung von Gründächern
+
+EFTAS. Partner des Deutschen Dachgärtner Verbands e.V.
+
+Als GeoIT-Projekthaus erschließen wir maßgeschneidert
+die Mehrwerte von GeoIT für Auftraggeber aus
+Wirtschaft, Wissenschaft und Verwaltung – weltweit.
+Individuell, aus einer Hand, auf höchstem Niveau!
+EFTAS aus Münster. Seit 1988. Inhabergeführt.
+DDVISO
+Gründach
+Aktuell 1/2016
+9001-qualitätszertifiziert.
+ÖKOPROFIT-ausgezeichnet.
+
+EFTAS Fernerkundung
+Technologietransfer GmbH
+Oststr. 2-18 | D-48145 Münster
+Tel: 0251 13307-0
+info@eftas.com
+www.eftas.com
+
+7
+
+Aus der Praxis
+
+Dachgärtner aus Leidenschaft –
+Jürgen Quindeau, Fa. GRÜN + DACH,
+Heiligenhaus
+Herr Quindeau, Sie gehören zu
+den Unternehmen in Deutschland, die sich komplett auf die
+Begrünung von Dächern spezia‑
+lisiert haben. Gibt es ein besonderes Erfolgsrezept, um in diesem Markt langfristig erfolgreich
+tätig zu sein?
+Nicht direkt, 1984 habe ich mit
+meinem damaligen Chef mein erstes Dach abgedichtet
+und begrünt. Seitdem hat mich das Thema nicht mehr
+losgelassen und ich habe mich immer weiter in die Thematik
+eingearbeitet. Seit 1988 bin ich selbständig und seit 1997 bin
+ich ja auch noch Dachdecker und habe mit meiner gärtnerischen Tätigkeit den Erdboden endgültig verlassen. Meinen
+Auftraggebern gefällt wohl meine langjährige Erfahrung
+auf Dachflächen und die Tatsache, dass ich mich in beiden
+Gewerken auskenne.
+Die Doppelqualifikation macht natürlich vieles einfacher.
+Welches Projekt stellte Sie bisher vor die größten Heraus‑
+forderungen?
+Die Raststätte Beverbach an der A40 war schon eine besondere Geschichte. Neben den Flachdachbereichen mussten
+wir ein 600 m² großes Dach in Wellenform abdichten und
+begrünen. Und das bei einer Dachneigung von bis zu 32°, das
+ist deutlich steiler als eine durchschnittliche schwarze Piste
+beim Skilaufen. Den richtigen Systemaufbau zu verwenden,
+ist ja das eine. Aber mit dem Material in der Hand zu laufen
+und zu arbeiten, ist bei dieser Dachneigung nicht ganz ohne.
+Und die hektische Atmosphäre einer Großbaustelle bildet
+dann das i-Tüpfelchen.
+Bei diesem Projekt spielte sicher auch die Planung im
+Vorfeld eine wichtige Rolle. Welchen Tipp haben Sie für
+Architekten und Bauherren, um Gründächer erfolgreich
+umzusetzen?
+Ganz klar, frühestmöglich den erfahrenen Dachgärtner und
+den Dachdecker hinzuziehen, um Planungsfehler zu vermeiden. Wenn erst einmal klar ist, wie das Gründach am Ende
+aussehen soll, ist mit beiden Gewerken die Vorgehensweise
+abzustimmen. Es gibt nämlich nach wie vor einige Missverständnisse bei der Dachbegrünung. Wenn es um Anschlusshöhen, Gewichte, Entwässerung, Pflanzenverwendung und
+viele andere Dinge geht, gibt es noch immer erstaunlich viel
+Aufklärungsbedarf.
+8
+
+Projekte, wie die Dachbegrünung der Raststätte
+Beverbach besitzen eine große Außenwirkung durch
+die sichtbare Bepflanzung. Hat sich die Motivation
+für die Begrünung von Dächern bei den Bauherren
+und Investoren mit den Jahren gewandelt? Welches
+Argument ist derzeit am wichtigsten?
+Naja, die rein ökologischen Beweggründe aus den 80er
+Jahren stehen sicher nicht mehr so im Vordergrund, auch
+wenn es sie natürlich immer noch gibt. Die Motivation für
+ein Gründach reicht heute vom Zwang zur Begrünung durch
+den Bebauungsplan, über Regenwasserrückhaltung, Schutz
+der Dachhaut, Ästhetik, Trend, dem Wunsch nach nutzbarer
+Grünfläche bis hin zur Gebäudekühlung durch Dachbegrünung. Wir werden in naher Zukunft ein Museumsdach genau
+deswegen begrünen, damit es den Exponaten nicht zu warm
+wird.
+Sie haben den Trend angesprochen. Wo sehen Sie
+in diesem Zusammenhang Chancen für das Thema
+Dachbegrünung?
+Große Chancen sehe ich im innerstädtischen Bereich. So
+manch einer merkt, dass er ein ungenutztes Grundstück auf
+dem Dach besitzt. Da lässt sich einiges machen. Wir haben
+zum Beispiel in Düsseldorf-Gerresheim aus 300 m² Kiesdach
+auf einem Anbau an ein Mehrfamilienhaus einen Privatgarten
+gemacht. Mit Wintergarten, Sitzflächen, Wäschespinne und
+natürlich viel Grün. Und eingezäunt ist die Dachfläche auch,
+damit der Hund der Besitzer nicht abstürzt.
+In den letzten 30 Jahren haben Sie mit viel Engagement
+hunderte von Dachbegrünungen installiert. Auch wenn
+die Antwort sicher nicht einfach fällt – haben Sie ein
+Lieblingsprojekt?
+Ja, absolut und da brauche ich nicht zu überlegen. 2005
+durfte ich die Dachbegrünung auf dem Ronald McDonald
+Hundertwasserhaus in Essen realisieren. Die Umsetzung der
+Phantasien eines Visionärs wie Friedensreich Hundertwasser,
+der schon 1968 in seinen Reden zur Architektur die konsequente Begrünung von Gebäuden forderte und deren Zukunft voraus sah, war das absolute Highlight. Fünfzig Bäume,
+über einhundert Sträucher und eine Wildwiese auf teilweise
+bis zu 35° geneigten Dachflächen haben wir gepflanzt. Ich
+konnte damals aktiv an der Planung teilnehmen und betreue
+die Dachbegrünung bis heute und weiterhin mit großer
+Freude.
+
+DDV Gründach Aktuell 1/2016
+
+Aus der Praxis
+
+Auf den Dächern der Stadt zuhause – Projekte der Firma
+GRÜN + DACH
+
+© GRÜN + DACH
+
+© GRÜN + DACH
+
+Kurzporträt: Jürgen Quindeau (Dipl.-Ing. Grünplanung
++ Dachdecker) hat bereits 1984 sein erstes Dach begrünt.
+Nach einer Ausbildung zum Gärtner und dem Studium der
+Landschaftsarchitektur ist er seit 1997 in der Handwerksrolle
+als Dachdecker eingetragen. Seit dem hat er seine selbstständige Tätigkeit kontinuierlich auf´s Dach verlegt und seit
+2003 bietet er unter dem Namen GRÜN+DACH Beratung,
+Planung, Ausführung und Bauleitung bei extensiver und
+intensiver Dachbegrünung an. Die wurzelfeste Dachabdichtung ist dabei oft Bestandteil der Gesamtleistung. Internet:
+www.gruenunddach.de
+© GRÜN + DACH
+Anzeige
+
+SPIELEN AUF DEM DACH
+✔
+
+Ökologisch nachhaltig
+
+✔
+
+15 Jahre Garantie
+
+✔
+
+Dauerhaft dicht
+
+✔
+
+Durch und durch
+wurzelfest
+
+✔
+
+Extreme Langlebigkeit
+
+✔
+
+Natürlicher
+Regenwasserrückhalt
+
+Nicht nur beim Neubau sondern auch
+bei der Flachdachsanierung wird die
+Orig. kebu Wurzelschutzbahn PV S den
+höchsten Anforderungen gerecht. Verbunden mit einer 15-jährigen Garantie
+erhält der Bauherr eine langfristige
+und somit wirtschaftliche Lösung für
+sein flaches Dach.
+
+– Korrosionsschutz und Abdichtung seit 1933
+
+Telefon +49 209 9615-0 · E-Mail: info
+info@kebu.de · Internet: www.kebu.de
+
+DDV Gründach Aktuell 1/2016
+
+9
+
+Projekte
+
+Leben und arbeiten auf dem Dach – Die
+neue Facebook-Zentrale in Menlo Park
+
+Arbeiten und ausspannen an der frischen Luft. © Facebook
+
+In der neuen Facebook-Zentrale müssen Mitarbeiter,
+die in der Pause von der anstrengenden Computerarbeit etwas Natur genießen möchten, keine weiten
+Wege gehen. Auch für Besprechungen und Kreativ‑
+meetings steht ein besonderer Platz zur Verfügung –
+der 3,6 ha große Park auf dem Dach des Gebäudes.
+Den Entwurf für das 40.000 m² große, neue FacebookGebäude in Menlo Park, Kalifornien lieferte der amerikanische Star-Architekt Frank Gehry. Das auch unter dem
+Namen MPK20 (Menlo Park Building 20) bekannte neue
+Facebook-Domizil besteht im Inneren aus einem einzigen
+riesigen Raum und besitzt dadurch „den größten offenen
+Gebäude-Grundriss der Welt“, wie Facebook Vorstandsvor‑
+sitzender Mark Zuckerberg erläutert. Die Gestaltung der
+3,6 ha großen Dachfläche als nutzbare Parkanlage stellte in
+diesem Zusammenhang eine besondere Herausforderung dar.
+Die abwechslungsreiche Ausstattung des Dachgartens beinhaltet eine Vielzahl von einheimischen Bäumen und Blumen,
+verschiedene Gartenmöbel, Wandtafeln und Aussichtsplattformen. Ein 800 Meter langer Panoramaweg bietet zusätzlich
+Ausblicke auf die nahegelegenen städtischen Wasserlandschaften. Die Dimension der Dachfläche ermöglicht es, dass
+ein großer Teil der 2.800 Beschäftigten an einem warmen
+Sommertag den Park gleichzeitig nutzen kann.
+So genannte „Walking-Meetings“ haben in dem Social Net‑
+working Unternehmen, wo ein einfaches Gespräch unter
+Kollegen die nächste große Idee hervorbringen kann, eine
+lange Tradition. Mark Zuckerberg, Steve Jobs (verstorbener
+Gründer von Apple) und andere Internet- und IT-Pioniere
+sind bzw. waren dafür bekannt, Geschäftstreffen mit Spazier‑
+gängen zu kombinieren. Neben dem gesundheitlichen
+Nutzen belegt eine wissenschaftliche Studie der Stanford
+University aus dem Jahr 2014, dass Spaziergänge in der Natur
+zusätzlich das kreative Denken fördern.
+10
+
+Luftbild der neuen Facebook-Zentrale in Menlo Park/Kalifornien.
+© Facebook
+
+Das Grüne Dach auf dem dreistöckigen Facebook Gebäude
+bringt das offene Raumkonzept des Unternehmens sprichwörtlich auf ein neues Level. „Die neue mobile und flexible
+Arbeitswelt ermöglicht es heute, den festen Arbeitsplatz am
+Schreibtisch für kurze Gespräche mit den Kollegen zu verlassen“, erläutert Chris Guillard, Gründungspartner von CMG
+Landschaftsarchitektur, einem Büro, das an der Gestaltung
+des Facebook Gründaches beteiligt war.
+Die Förderung der Facebook-Arbeitsphilosophie ist aber nicht
+der einzige Vorteil, den das Gründach bietet. Das Dach absorbiert außerdem Hitze und Niederschläge und unterstützt die
+Firma dadurch bei der Reduzierung der Energiekosten und
+des Ablaufwasservolumens. Selbst in Trockenperioden kann
+ein Großteil der Pflanzen ohne Bewässerung auf dem Dach
+überleben, sagt Facebook.
+
+DDV Gründach Aktuell 1/2016
+
+Projekte
+
+Durch die Lage an der pazifischen Flugroute bietet das Dach
+zusätzlich Zugvögeln einen Ruheplatz während ihrer Wanderungen. Um zu untersuchen, welche Vögel das Dach
+nutzen können, ist Facebook eine Kooperation mit den
+Umweltorganisationen Santa ClaraValley Audubon Society
+und Sequoia Audubon Society eingegangen. Beide Organisationen nutzen das Dach außerdem für Veranstaltungen
+mit ihren Mitgliedern und Behördenvertretern. Auch andere
+Technologiekonzerne haben bereits damit begonnen, begrünte Dächer aus Umweltgründen in die Gebäudegestaltung
+einzubinden. Aber das Facebook-Gebäude bietet mehr als
+eine normale Dachbegrünung.
+
+Projektdaten
+Ort: Menlo Park, Kalifornien, USA
+Baujahr: 2015
+Architekt/Gestaltung: Frank Gehry
+Landschaftsdesign: CMG Landschaftsarchitektur
+Dachfläche: 36.000 m²
+
+„Unser Ansatz geht über die herkömmlichen Dachbegrünun‑
+gen hinaus, die häufig ungenutzt bleiben und aus einer Grasund Sukkulentenvegetation bestehen. Diese Dachfläche
+wurde für die Nutzung gestaltet“, sagt Lauren Swezey,
+Managerin für Nachhaltigkeit und Bürgerkontakte bei
+Facebook. „Vor allem ging es darum, ein Arbeitsumfeld
+zu schaffen, in dem sich unsere Angestellten erfolgreich
+verwirklichen können.“
+Quelle: IGRA Green Roof News 1/2016
+
+Der Dachpark verfügt über 400 Bäume und eine 800 m lange
+Spazierweg-Schleife. © Facebook
+
+Anzeige
+
+UND GENAU DARUM IST RHEPANOL® HG
+KEINE DACHBAHN WIE JEDE ANDERE.
+Das Original macht den Unterschied. Die langzeitdichte Kunststoff-Gründachbahn Rhepanol® hg.
+Ein Gründach muss halten, selbst wenn die Natur höchst aggressive Wurzeln schlägt.
+Die Abdichtungsbahn Rhepanol hg aus Polyisobutylen ist wurzel- und rhizomfest im
+Sinne der FLL-Richtlinie. Außerdem ist sie robust, UV-beständig, kälteflexibel bis minus
+60 °C und obendrein Hagelschlag-getestet.
+Abdichten mit dem Original.
+DDV Gründach Aktuell 1/2016
+
+11
+
+FDT FlachdachTechnologie GmbH & Co. KG I Eisenbahnstraße 6-8 I 68199 Mannheim I Tel 06 21-85 04-0 I www.fdt.de
+
+Forschung
+
+Gründächer steigern Produktivität –
+Studie der Universität Melbourne
+Eine aktuelle Studie der Universität Melbourne belegt,
+dass der kurze Blick auf ein Gründach bereits ausreicht,
+um die Konzentration von Büroangestellten zu erhöhen.
+In einem Interview erläutert die Wissenschaftlerin Kate
+E. Lee das Konzept der „grünen Mikropausen“ und das
+Potenzial begrünter Dächer für die Arbeits- und Umweltqualität in Städten.
+Wie lässt sich die optische Wirkung begrünter Dächer auf die
+Produktivität von Mitarbeitern messen? Zur Beantwortung
+dieser Frage wurde von der Universität Melbourne ein spe‑
+zieller experimenteller Ansatz gewählt. In einem Parallel-Ver‑
+such [1] wurden Studenten mit einer einfachen ComputerAufgabe betraut, die aber gleichzeitig eine hohe Konzentra‑
+tion erforderte. Während auf dem Bildschirm ständig neue
+Zahlen-Codes aufflackerten, mussten die Studenten beim
+Erkennen einer bestimmten Codelänge die Tastatur be‑
+dienen.
+Die monotone Arbeit wurde nur mit einer kurzen, 40-sekün‑
+digen „Mikropause“ unterbrochen, in der einem Teil der
+Studenten das Bild eines Gründaches gezeigt wurde, während
+die Vergleichsgruppe mit einem kahlen Betondach konfrontiert wurde. Bei der Bewertung der anschließenden Arbeits‑
+ergebnisse zeigte sich, dass die Gruppe mit der „grünen“
+Mikropause eine erhöhte Aufmerksamkeit und eine deutlich
+geringere Fehlerquote im Vergleich zur „grauen“ Variante
+aufwies. Die Forscher ziehen aus ihrer Arbeit den Schluss, dass
+bereits ein kurzer Blick aus dem Fenster auf ein Gründach
+dazu beitragen kann, die Produktivität von Büroangestellten
+zu erhöhen.
+
+Die Pausenbilder der Versuchsgruppen – die graue Variante stellt in der
+städtischen Dachlandschaft leider immer noch den Normalfall dar.
+© University of Melbourne
+
+________________________________________________________________________
+[1] (Lee, K.E., Williams, K.J.H., Sargent, L.D., Williams, N.S.W., & Johnson,
+K.A. (2015). 40-second Green Roof views sustain attention: The role of
+micro-breaks in attention restoration. Journal of Environmental Psychology,
+42, 182–189.)
+
+12
+
+DDV Gründach Aktuell 1/2016
+
+Forschung
+
+Interview mit Kate E. Lee, Wissenschaftlerin
+an der Universität von Melbourne
+Warum haben Sie sich für das
+Bild eines Gründaches anstelle
+eines Landschaftspanoramas
+entschieden? Haben Sie eine
+besondere Vorliebe für Dach‑
+begrünungen?
+Dass eine minuten- oder
+stundenlange Betrachtung von
+Natur in vielfältiger Art und
+Weise das Wohlbefinden
+steigert, wurde bereits wissenschaftlich belegt. Unsere Untersuchung zeigt nun, dass bereits eine kurze, nur wenige
+Sekunden dauernde Betrachtung eines städtischen Gründach-Bildes ausreicht, um die Konzentration zu steigern.
+Wir sprechen in diesem Fall von einer so genannten
+grünen Mikropause. Ohne Konzentration lassen sich die
+zahlreichen Aufgaben, mit denen wir tagtäglich konfrontiert werden, nicht bewältigen. Angestellte, die in hohen
+Bürogebäuden arbeiten, werden beim Blick aus dem Fenster
+eher mit einer Dachbegrünung als mit Grünanlagen am
+Boden in Kontakt kommen. Von einem Gründach können
+also tausende Angestellte der umliegenden Bürogebäude
+profitieren. Vor dem Hintergrund des Bevölkerungswachstums und der zunehmenden Verdichtung der Städte, kön‑
+nen Dachbegrünungen eine neue Lösung sein, um die Natur
+in die Städte zu bringen und in Verbindung mit dem Konzept der Mikropausen unser Wohlbefinden und unsere
+gesamte Lebensqualität zu verbessern.
+Es gibt Firmen, die begrünte Dachflächen für ihre Mitarbeiter als Pausen- und Erholungsraum zugänglich
+machen. Wie beurteilen Sie den direkten Kontakt mit
+der Natur im Vergleich zum visuellen Effekt?
+Es ist wichtig, sich zu vergegenwärtigen, dass es unterschiedliche Arten von Naturerlebnissen gibt und diese auch mit
+unterschiedlichen Wohlfahrtswirkungen für den Menschen
+verbunden sind. So geht der Aufenthalt in der Natur in der
+Regel auch mit einer besseren Luftqualität einher. Ein Effekt,
+den die Betrachtung eines Bildes allein nicht leistet. Um die
+Wirkungen visueller Eindrücke mit direktem Naturkontakt
+vergleichen zu können, sind weitergehende Forschungen
+nötig. In einem Verbundprojekt mit Ökologen, Stadtplanern,
+Architekten, Gesundheitsexperten und Behördenvertretern
+untersuchen wir neben den verschiedenen Nutzen, die mit
+dem Zugang zur Natur verbunden sind, auch den Einfluss
+von Naturqualitäten auf die Menschen, die Umwelt und den
+Lebensraum Stadt.
+
+DDV Gründach Aktuell 1/2016
+
+Untersuchungen zur ästhetischen Bewertung verschiedener Dachbegrünungen in Spanien und Nordamerika
+haben gezeigt, dass die Präferenzen sehr unterschiedlich
+ausfallen können. Haben Sie die gleiche Erfahrung in
+Ihrer Studie gemacht? Welcher Gründach-Typ kommt
+in Australien am besten an?
+In einem Forschungsprojekt haben wir 274 Büroangestellten
+verschiedene Stadtansichten mit digital bearbeiteten Gründächern vorgelegt und sie um eine Bewertung der Vegetation
+gebeten. Bei den verwendeten 40 Bildern wurden systematisch Pflanzen-Habitus, Blattfarbe, Höhe, Artenvielfalt und
+Blütenbildung variiert. Das beliebteste Gründach besaß eine
+höhere, blütenreiche Vegetation, wohingegen ein niedrigwüchsiges rotes Sedumdach am schlechtesten abschnitt. Die
+Bewertung dieses Gründaches konnte durch eine Erhöhung
+der Artenvielfalt verbessert werden. Ähnliche Muster wie
+bei der Gründachbewertung zeigen sich auch bei herkömmlichen Grünflächen, weshalb wir davon ausgehen, dass die
+australischen Präferenzen auch bei anderen Naturlandschaften Anwendung finden könnten.
+Welchen Rat würden Sie Investoren, Unternehmen und
+Planern von Firmengebäuden auf internationaler Ebene
+geben?
+Neben der Berücksichtigung der Vorteile begrünter Dächer
+für Gebäude und Umwelt ist es wichtig, auch die möglichen
+Vorteile für den Menschen zu beachten. Die Ergebnisse unserer Untersuchung legen den Schluss nahe, dass bereits der
+Blick auf ein Gründach ausreicht, um die Konzentrationsfähigkeit am Arbeitsplatz zu verbessern und damit der Erschöpfung durch den modernen Arbeitsalltag entgegen zu wirken.
+Zugängliche, begrünte Dachflächen und die Einbeziehung
+grüner Mikropausen wirken sich aber nicht nur auf das
+Arbeitsumfeld aus. Gleichzeitig wird auch die Lebensqualität
+der Stadtbevölkerung gesteigert und ein gesundes Wohnumfeld geschaffen. Es ist deshalb wichtig, dass Investoren,
+Unternehmen und Planer Pflanzen und Gestaltungsdesigns
+auswählen, die für Mensch, Umwelt und Gebäude Vorteile
+bringen, eine hohe öffentliche Akzeptanz besitzen und im
+Stadtbild sichtbar sind.
+Quelle: IGRA Green Roof News 1/2016
+
+13
+
+DDV-Nachrichten
+
+Deutscher Dachgärtner Verband feiert
+30jähriges Verbandsjubiläum auf der
+Insel Mainau
+30 Jahre Deutscher Dachgärtner Verband und dazu noch
+das 5. Gründach-Forum Insel Mainau – am 13. Oktober
+stand die Blumeninsel im Bodensee einen Tag lang ganz
+im Zeichen der Dachbegrünung. Mehr als 100 Gäste
+nutzten die Gelegenheit, um mit den Fachreferenten und
+Verbandsvertretern über die Zukunft der Dachbegrünung zu diskutieren.
+
+wir uns bei der Gestaltung von Gründächern in Zukunft an
+den mediterranen Ländern orientieren? Diese Fragen standen
+im Mittelpunkt der Vorträge und wurden auch zum Abschluss
+des Forums nochmals im Rahmen eines Podiumsgesprächs
+thematisiert.
+
+Die Insel Mainau mit ihrem reizvollen Ambiente wirkt nicht
+nur auf die Bodenseetouristen als Publikumsmagnet. Auch
+das 5. Gründach-Forum Insel Mainau im Oktober 2015 war
+mit über 100 Gästen einmal mehr komplett ausgebucht.
+Und den Teilnehmern wurde in diesem Jahr ein besonders
+spannendes und abwechslungsreiches Programm geboten,
+das mit dem Motto „Forschung – Praxis – Innovation“ sehr
+zukunftsorientiert war.
+
+Referenten und Kooperationspartner der DDV-Veranstaltung.
+© Petra Reidel / Redaktionsbüro Blätterwerk
+
+Der Dachgarten des Veranstaltungsortes Comturey erweitert die Parkfläche
+um 1.500 m². © Insel Mainau GmbH
+
+Die Palette der vorgestellten Themen reichte von der fernerkundlichen Inventarisierung und Potenzialanalyse von Dachbegrünung (Julian Zeidler, Deutsches Zentrum für Luft- und
+Raumfahrt und Wolfgang Ansel, Geschäftsführer Deutscher
+Dachgärtner Verband) über praktische Aspekte der Ausführung von Schrägdachbegrünungen (Jürgen Quindeau, GRÜN
++ DACH) bis zur Berücksichtigung von Biodiversitätsaspekten
+bei der Gründach-Pflege (Holger Zwirner, Zwirner Dachbegrünungen). Im Zeichen der Klimawandelanpassung standen
+die Vorträge von Helmut Kern (Leiter Gartenbauamt Karlsruhe), Dieter Schenk (Geschäftsführer ZinCo GmbH) und
+Roland Appl (Präsident International Green Roof Association
+IGRA/ Technischer Leiter ZinCo GmbH). Welche Art von
+Dachbegrünung wünschen sich die Kommunen zur Verbesserung des Stadtklimas? Wie reagiert die Gründach-Industrie
+auf die neuen Ansprüche und Herausforderungen im Bereich der Verdunstungsleistung? Und können bzw. müssen
+14
+
+Mit anregenden Diskussionen ging die Fachveranstaltung
+nahtlos in den Festakt zum 30jährigen DDV-Verbandsjubi‑
+läum über. Zu den ersten Gratulanten gehörten die Gast‑
+geberin Bettina Gräfin Bernadotte von der Insel Mainau
+GmbH und August Forster, Präsident des Bundesverbandes
+Garten-, Landschafts- und Sportplatzbau (BGL). Aus dem
+fernen Berlin grüßte außerdem Bundesumweltministerin
+Dr. Barbara Hendricks, die ihr Lob für die 30jährige aktive
+Lobbyarbeit des Verbandes mit einer herzlichen Einladung
+zur Beteiligung des DDV am Weißbuch „Stadtgrün“ verband.
+
+DDV-Präsident Reimer Meier überreichte Gräfin Bettina Bernadotte ein
+besonderes Geschenk – ein von DDV-Gründungsmitglied Willy Lebsanft angezogener Bergmammutbaum. © Petra Reidel / Redaktionsbüro Blätterwerk
+
+DDV Gründach Aktuell 1/2016
+
+DDV-Nachrichten
+
+In seinem Festvortrag „Gestern-Heute-Morgen – 30 Jahre
+Deutscher Dachgärtner Verband“ blickte DDV-Präsident
+Reimer Meier dann nochmals auf den spannenden Beginn
+der Gründach-Bewegung in den 80er Jahren zurück. Viel
+persönliches Engagement und Überzeugungsarbeit waren
+notwendig, um die Dachbegrünung aus der Nische eines
+ökologischen Experiments hin zu einem anerkannten Baustandard zu entwickeln. Als „DDV-Mann der ersten Stunde“
+betonte Ehrenpräsident Hans Seeger nochmals die Notwendigkeit, die Öffentlichkeitsarbeit des Verbandes von Beginn
+an sehr breit aufzustellen, um alle Baubeteiligten, von den
+Bauherren und Architekten über die Ausführungsbetriebe bis
+hin zu den kommunalen Entscheidungsträgern in Verwaltung
+und Politik, zu erreichen. Dieser Leitsatz gilt auch heute noch.
+Der Fokus des Vortrages lag an diesem Jubiläumsabend aber
+nicht in der Vergangenheit, sondern bei den zukünftigen
+Aktivitäten des Verbandes. In seinem Impulsvortrag machte
+DGNB-Gründungsmitglied Martin Haas zum Abschluss der
+Veranstaltung nochmals deutlich, wie wichtig begrünte
+Dächer für die Städte von morgen sein werden. Mit ihrer
+Anpassungsfähigkeit und ihren vielfältigen Einsatzgebieten
+liefert die Umwelttechnik Dachbegrünung ein perfektes
+Werkzeug, um die anstehenden Herausforderungen im
+Bereich des Klimawandels und der zunehmenden Urbanisierung zu meistern. Ein für die Dachbegrünung sehr passender
+Slogan lautet „The Sky is the Limit“ (Nach oben gibt es keine
+Grenzen). Treffender lässt sich das Zukunftspotenzial be‑
+grünter Dächer kaum beschreiben.
+
+Martin Haas stellt mit seinem Büro haas cook zemmrich / Studio 2050
+menschen- und umweltfreundliche Architekturkonzepte in den Mittelpunkt.
+© Petra Reidel / Redaktionsbüro Blätterwerk
+
+Hamburg: DDV-Präsidium beschließt
+Jahresplan 2016
+Für seine erste Sitzung des Jahres war der Vorstand des
+Deutschen Dachgärtner Verbandes im Februar 2016 in
+der Geschäftsstelle des Fachverbandes Garten-, Landschafts- und Sportplatzbau Hamburg zu Gast. Auf der
+Agenda stand die Verabschiedung eines umfangreichen
+Jahresprogramms, mit dem der DDV 2016 seine Aktivitäten weiter ausbauen wird.
+Geschäftsführer Wolfgang Ansel konnte den DDV-Vorstands‑
+mitgliedern Reimer Meier, Hans Schmid und Dieter Schenk
+die Planungen für ein sehr vielfältiges Jahresprogramm vor‑
+stellen. Dabei nimmt die Fortführung der Initiative „Fern‑
+erkundliche Inventarisierung und Potenzialanalyse von Dachbegrünung“ eine wichtige Rolle ein. Mit der Firma EFTAS
+Fernerkundung Technologietransfer GmbH aus Münster
+steht ein kompetenter Partner zur Verfügung, um die
+Methode als Dienstleistung für Kommunen anbieten zu
+können.
+
+DDV Gründach Aktuell 1/2016
+
+Ein Highlight stellt in diesem Zusammenhang die Präsenta‑
+tion des Verfahrens bei der Woche der Umwelt im Schloss
+Bellevue in Berlin dar. Auch im Bereich der DDV-Publika‑
+tionen tut sich einiges. Neben der Überarbeitung und Neuauflage bereits vorhandener Broschüren (DDV-Praxisratgeber „Das 1x1 der Dachbegrünung“, Leitfaden Sicherer Gewerkeübergang) wird die Fachreihe Dachbegrünung mit der
+Broschüre „Kommunale Gründach-Strategien – Inventarisierung – Potenzialanalyse – Praxisbeispiele“ ergänzt. Um
+das DDV-Netzwerk kontinuierlich über aktuelle Neuheiten
+aus der Gründach-Branche zu informieren, erscheint zu‑
+sätzlich das DDV-Magazin „GründachAktuell“ in drei Ausgaben. Neben den Publikationen stellt die Präsenz vor Ort
+einen wichtigen Baustein der DDV-Öffentlichkeitsarbeit
+dar. Die Veranstaltungsreihe „Gründach-Forum“ wird des‑
+halb in diesem Jahr auf sechs Veranstaltungen erweitert.
+Auch bei Fachvorträgen ist der DDV aktiv, und zwar in
+Eutin, Ellerhopp, Hamburg, Kassel, Leipzig, Ditzingen und
+Nürtingen.
+
+15
+
+DDV-Nachrichten
+
+Zu den weiteren DDV-Aktivitäten gehören die Mitarbeit im
+Regelwerksausschuss Dachbegrünung der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau (Überarbeitung der Dachbegrünungsrichtlinie) und die Bereitstellung
+von Fachinformationen für das Weißbuch Stadtgrün des
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB). Bei den Netzwerken ist außerdem
+die Dialog- und Aktionsplattform „Unternehmen Biologische
+Vielfalt 2020“ neu hinzugekommen. Gerade die letztge‑
+nannte Aktivität schlägt einen direkten Bogen zum diesjäh‑
+rigen DDV-Schwerpunktthema „Dachbegrünung und Bio‑
+diversität“. Mit der artenreichen Begrünung des Besucher‑
+zentrums der Internationalen Gartenschau 2017 in Berlin
+wurde hierzu bereits ein hervorragendes Referenzprojekt
+gefunden.
+
+DDV-Vorstandssitzung im Hamburger Haus des Landschaftsbaus. V.r.n.l.:
+Gastgeber und FGL-Geschäftsführer Dr. Michael Marrett-Foßen,
+Hans Schmid (Vizepräsident, DDV), Reimer Meier (Präsident, DDV)
+und Dieter Schenk (Beisitzer, DDV)
+
+Deutscher Dachgärtner Verband
+präsentiert Gründach-Forschungsprojekt
+bei Bundespräsident Joachim Gauck
+stattfinden und auf weiteren Moderationsbühnen etwa
+80 Foren zu vielfältigen Fachthemen. Die Veranstalter
+rechnen mit 12.000 Besuchern. Das Projekt „Fernerkundliche
+Inventarisierung und Potenzialanalyse von Dachbegrünung“
+wird vom DDV am Stand 181 präsentiert. Weitere Informationen zur Veranstaltung und zum Programm finden Sie unter:
+www.woche-der-umwelt.de.
+Wie viele Gründächer gibt es in deutschen Städten? Wie sind
+die Dachbegrünungen im Stadtgebiet verteilt? Und welche
+Bestandsgebäude bieten Potenzial für eine nachträgliche
+Begrünung? Gemeinsam mit dem Deutschen Zentrum für
+Luft- und Raumfahrt (DLR) und verschiedenen Partnerstädten hat der Deutsche Dachgärtner Verband (DDV) ein fern‑
+erkundliches Verfahren entwickelt, um diese Fragen schnell
+und effizient beantworten zu können. Die neue innovative
+Methode überzeugte auch die Auswahljury für die Leistungsschau „Woche der Umwelt 2016“ im Park von Schloss Bellevue. Vor der beeindruckenden Kulisse des Berliner Amtssitzes
+von Bundespräsident Joachim Gauck treffen sich am 7. und
+8. Juni 200 Aussteller aus Deutschland und der Schweiz,
+um einen spannenden Einblick in die Vielfalt neuer umweltfreundlicher Technologien, Produkte und Dienstleistungen
+zu geben. In den einzelnen Pavillons finden umfangreiche
+und anschauliche Projektpräsentationen statt, mit denen
+auch Querbezüge zur Bildung und Kommunikation sowie
+zur Digitalisierung dargestellt werden. Auf der Hauptbühne
+werden Diskussionsrunden zu zentralen Umweltthemen
+16
+
+Bundespräsident Joachim Gauck ist Schirmherr der Veranstaltung.
+© DBU
+
+DDV Gründach Aktuell 1/2016
+
+Anzeige
+
+Regenwasserbremse
+
+www.zinco.de/ Tel: 07022 9060- 600
+
+für die Kanalisationsnetze
+in unseren Städten!
+
+Wasserrückhalt
+via Retentions-Gründach
+als wirkungsvolle Maßnahme gegen zunehmende Starkregenereignisse. Überflutungen und die
+Reduzierung des Grundwasserspiegels verdeutlichen, dass die Ökologie des Wasserkreislaufes
+empfindlich gestört ist – als Folge des Klimawandels und der anhaltend hohen Flächenversiegelung.
+Mit diesem Systemaufbau bieten wir Ihnen ein wirkungsvolles Instrument, das Wasser trotzdem in
+den Griff zu bekommen. www.zinco.de
+
+DDV Gründach Aktuell 1/2016
+
+17
+
+DDV-Nachrichten
+
+Ausstellungstipp: PARKOMANIE auf
+dem Dach der Bundeskunsthalle Bonn
+(14. Mai – 18. September 2016)
+
+Der Dachgarten der Bundeskunsthalle verwandelt sich für die Ausstellung PARKOMANIE in eine Pücklersche Gartenlandschaft. Foto: Peter Oszvald,
+© Kunst- und Ausstellungshalle der Bundesrepublik Deutschland GmbH
+
+Ein genialer Gartenkünstler wird wiederentdeckt: Hermann
+Fürst von Pückler-Muskau (1785–1871), eine der schillerndsten Persönlichkeiten seiner Zeit. Seine nach englischem
+Vorbild angelegten Landschaftsparks in Bad Muskau/Łęknica
+(UNESCO Weltkulturerbe), Babelsberg (als Teil der Pots‑
+damer Kulturlandschaft ebenfalls UNESCO Welterbe) und
+Branitz zählen zu den Höhepunkten europäischer Landschaftsgestaltung im 19. Jahrhundert. Diesen drei bedeutendsten Gartenanlagen des Fürsten und den damit ver‑
+bundenen innovativen Ideen widmet die Bundeskunsthalle
+ihre Ausstellung PARKOMANIE vom 14. Mai bis 18. September 2016.
+Als Höhepunkt im doppelten Sinn und als Hommage an den
+Fürsten wird ein begehbares Gartenreich auf dem Dach der
+Bundeskunsthalle angelegt: In der eigens nach den Pücklerschen Gestaltungsprinzipien inszenierten Gartenland‑
+schaft erwartet die Besucherinnen und Besucher ein besonderes Gartenerlebnis – sie können inmitten von kunstvoll
+
+18
+
+angelegten Baumgruppen, darunter Blutbuchen, Eichen,
+Espen und Robinien flanieren und sich in der ersten Blühperiode an einem Blumenmeer aus 42.000 Frühblühern,
+wie verschiedene Tulpensorten und Narzissen erfreuen. Für
+das temporäre Gartenreich wird ebenfalls ein Wasserbassin
+nach den Vorbildern des Fürsten geformt und typische wie
+originelle Elemente aus den Parks integriert. Eine Nachbildung des Muskauer Rosary im „Pleasureground“, einem gartenkünstlerisch besonders fein gestalteten Gartenabschnitt
+im Übergang zwischen Haus und Park, wird ebenso zu finden
+sein wie eine Rosenlaube mit der Büste der weltberühmten
+Sopranistin Henriette Sontag oder die von glasierten Ziegeln
+umrandeten „Törtchenbeete“, die die Pücklerschen Gärten
+schmücken. Weitere Informationen zur Ausstellung finden
+Sie auf der Internetseite der Bundeskunsthalle
+www.bundeskunsthalle.de/index.html.
+
+DDV Gründach Aktuell 1/2016
+
+Bildquelle: © Ralf Grömminger
+
+Anzeige
+
+Helix® Compacta – Schalldämmung: DLSI,G = 31 dB, Schallabsorption: DLa = 9 dB
+
+Helix® Compacta – Hochabsorbierende, voll begrünte
+Lärmschutzwand mit (verborgenem) Mehrwert
+Am Ortsrand von Großsachsenheim in Baden-Württemberg wurde im Oktober 2014 ein zukunftsweisendes Pilotprojekt realisiert.
+In nur vier Wochen Bauzeit haben wir die rund 100
+Meter lange und 2,60 Meter hohe, sofort grüne Wand
+aufgebaut.
+Die Bewohner des Neubaugebietes profitieren von
+dem naturnahen, attraktiven Lärm- und Sichtschutz
+und die Stadtverwaltung freut sich über weitere positive Nebeneffekte.
+
+Gründe für eine begrünte Lärmschutzwand
+- Bewässerung mit Dachwasser
+- Vertikale Bepflanzung verbessert das Mikroklima
+- Hohe Akzeptanz der Bewohner
+- Steigerung des Wohnwertes
+Die tagesaktuellen Messwerte von Sauerstoffproduktion, CO2-Bindung und Kühlleistung der
+Grünen Lärmschutzwand finden Sie unter:
+www.helix-pflanzensysteme.de
+info@helix-pflanzensysteme.de
+Tel. 07154 80160
+
+Ökologische Leistung
+der Grünen Lärmschutzwand
+Helix® Compacta
+Sauerstoffproduktion
+
+z. B.
+22.04.2016
+25.03.2016 –
+22.04.2016
+
+Kohlendioxydreduktion
+
+Kühlleistung*
+
+1.83 kg
+
+2.51 kg
+
+83.22 kWh
+
+35.55 kg
+
+49.55 kg
+
+1560.25 kWh
+
+NEU
+
+Tagesaktuelle Messwerte unter:
+http://helix-pflanzensysteme.de
+
+DDV Gründach Aktuell 1/2016
+
+19
+
+Bildquelle: © Ralf Grömminger
+
+* Regenwassereinsatz
+
+DDV-Nachrichten
+
+DDV Mitgliederversammlung 2016 –
+Exkursion zu Landschaftsparks und
+Dachgärten
+Vielfalt der heimischen Tier- und Pflanzenwelt begünstigt. Für
+Petra und August Forster symbolisiert der Park Am Blauen
+See ihre Vision: Die Harmonie von Landschaft, Pflanzen,
+Tieren und Menschen.
+Das am Eingang des Parks gelegene Kulturhaus ist als Ver‑
+anstaltungsraum mit Cateringküche, Fußbodenheizung,
+bequemen Sitzmöbeln und einem phantastischen Blick auf
+das Parkgelände ausgestattet und bietet damit beste Voraussetzungen für interessante Begegnungen und anregende
+Gespräche.
+
+Petra und August Forster haben im Park Am Blauen See einen außergewöhnlichen Naturerlebnisraum geschaffen. © „Am Blauen See – Die Kunst des
+Gartens“
+
+Das jährliche Treffen der Dachgärtner aus dem gesamten
+Bundesgebiet findet 2016 wieder an einem ganz besonderen
+Ort statt. Auf Einladung von BGL-Präsident August Forster
+haben die DDV-Mitglieder am 09. Juli Gelegenheit, in
+Königswinter-Thomasberg ein Schmuckstück der Garten‑
+architektur zu besichtigen – den Landschaftspark „Am
+Blauen See“ (www.am-blauen-see.de). Die von Petra und
+August Forster kenntnisreich und liebevoll gestaltete Parkanlage orientiert sich an dem klassischen Vorbild des Englischen
+Landschaftsgartens. Den Besucher erwarten somit Freiraum
+und Weite, verwunschene Wegeverläufe, eine reizvolle
+Geländebewegung und immer wieder neue, überraschende
+Entdeckungen. Behutsame Eingriffe in die Natur haben die
+
+Neben der Besichtigung der Parkanlage stellt der Vortrag von
+FLL-Geschäftsführer Jürgen Rohrbach ein weiteres Highlight
+des Tagungsprogramms dar. Seit 40 Jahren sichert die Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau
+e. V. mit ihren Aktivitäten, zu denen auch die Erstellung der
+Dachbegrünungsrichtlinie gehört, die Qualität für die Grüne
+Branche.
+Auch zum Abschluss der Mitgliederversammlung steht am
+10. Juli mit dem Besuch der Ausstellung PARKOMANIE in
+der Bonner Kunsthalle (siehe Seite 18) die Dachbegrünung
+nochmals im Mittelpunkt. Damit schließt sich der Kreis, denn
+der Dachgarten der Bundeskunsthalle wurde ebenfalls von
+August Forster ausgeführt und gestaltet. Nach der Jubiläumsveranstaltung auf der Insel Mainau im letzten Jahr können
+sich die DDV-Mitglieder auch in diesem Sommer wieder auf
+ein abwechslungsreiches und fachlich interessantes Tagungsprogramm freuen.
+
+Auf 3,5 ha entfaltet der Park den Zauber von gestalteter Landschaft. © „Am Blauen See – Die Kunst des Gartens“
+
+20
+
+DDV Gründach Aktuell 1/2016
+
+DDV-Nachrichten
+
+Netzwerke: DDV tritt Initiative
+„Unternehmen Biologische Vielfalt
+2020“ bei
+• Umsetzung und Veröffentlichung beispielhafter Maßnahmen und Aktivitäten in verschiedenen Handlungsfeldern
+• Nutzung und Zusammenführung der breiten Expertise
+und Erfahrung in den bestehenden Institutionen
+• intensivierten Austausch und Verständigungsprozesse
+zwischen den Institutionen
+• mehr und bessere Informationen
+• Anregung von Eigeninitiative und Nutzung von
+Kooperationsmöglichkeiten.
+Im Mittelpunkt stehen die Handlungsmöglichkeiten in Industrie und Dienstleistungssektor. Im Rahmen einer Aktionsplattform sollen möglichst viele konkrete Aktivitäten entstehen
+und bekannt werden, mit denen die deutsche Wirtschaft ihre
+Verantwortung für den Schutz und die nachhaltige Nutzung
+von biologischer Vielfalt und Ökosystemleistungen wahrnimmt.
+Der DDV ist Unterstützer von „Unternehmen Biologische Vielfalt 2020“.
+
+Im März dieses Jahres ist der Deutsche Dachgärtner Verband
+der Initiative „Unternehmen Biologische Vielfalt 2020“ beigetreten. Die branchenübergreifende Dialog- und Aktionsplattform bietet ein hervorragendes Medium, um Akteure aus
+Industrie, Dienstleistungssektor, Naturschutz und Behörden über die Potenziale begrünter Dächer im Bereich der
+Biodiversität zu informieren.
+
+Neben der Beteiligung am Unterstützerkreis wird sich der
+Deutsche Dachgärtner Verband deshalb auch mit einem konkreten Projekt zur Förderung der Biodiversität bei Dach‑
+begrünungen in die Aktionsplattform des Netzwerkes einbringen. Mehr hierzu erfahren Sie in der nächsten Ausgabe
+der Zeitschrift GründachAktuell.
+Weitere Informationen zum Netzwerk finden Sie unter:
+www.biologischevielfalt.de/ubi_plattform.html
+
+Im Rahmen von „Unternehmen Biologische Vielfalt 2020“
+engagieren sich das Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit (BMUB) mit dem
+Bundesamt für Naturschutz (BfN), Wirtschaftsverbänden
+und Naturschutzorganisationen für eine Trendwende beim
+Verlust der biologischen Vielfalt. „Unternehmen Biologische
+Vielfalt 2020“ ist eine langfristig angelegte Dialog- und Aktionsplattform, die zur Umsetzung der Nationalen Strategie
+zur biologischen Vielfalt beitragen soll. Sie bietet Akteuren
+aus Wirtschaft und Naturschutz ein gemeinsames Forum,
+um ihre Perspektiven einzubringen und zusammenzuführen
+sowie beispielhafte Aktivitäten anzuregen und sichtbar zu
+machen. Die Plattform will dies erreichen durch:
+Die Verbesserung der Biodiversität von Dachbegrünungen ist das diesjährige
+Leitthema des Deutschen Dachgärtner Verbandes. ® ZinCo GmbH
+
+DDV Gründach Aktuell 1/2016
+
+21
+
+Literaturtipps
+
+Kommunale GründachStrategien – Inventarisierung,
+Potenzialanalyse, Praxisbeispiele
+
+Integriertes Regenwasser‑
+management für den wasser‑
+sensiblen Umbau von Städten
+
+Viele Städte räumen begrünten Dächern derzeit im Rahmen
+ihrer Anpassungspläne an den Klimawandel eine besonders
+hohe Priorität ein. Wie vielfältig die Einsatz- und Fördermög‑
+lichkeiten begrünter Dächer dabei auf kommunaler Ebene
+sein können, zeigen Fallbeispiele aus Berlin, Hamburg, Han‑
+nover, Ludwigsburg und Stuttgart. Außerdem enthält die
+Broschüre eine umfangreiche Beschreibung der Methoden
+und Ergebnisse des Forschungsprojektes „Fernerkundliche
+Inventarisierung und Potenzialanalyse von Dachbegrünung“,
+das der Deutsche Dachgärtner Verband gemeinsam mit dem
+Deutschen Zentrum für Luft- und Raumfahrt (DLR) entwickelt hat. Die „Sichtbarmachung“ der bereits vorhandenen
+Dachbegrünungen und der noch erschließbaren Potenzial‑
+flächen ermöglicht eine sehr breite Palette unterschiedlicher
+Anwendungsmöglichkeiten, die von der Nutzung in Stadt‑
+klimamodellen über die Entwässerungsplanung bis hin zu
+Aspekten der Biodiversität und der Umsetzung lokaler Grün‑
+dach-Strategien reicht.
+
+Großräumige Gestaltungsstrategien,
+Planungsinstrumente und Arbeitsschritte für die
+Qualifizierung innerstädtischer Bestandsquartiere
+
+2016, 48 Seiten, zahlreiche farbige Abbildungen, DDV-Verlag,
+Nürtingen, ISBN: 978-3-9814184-2-2
+
+Die Folgen des Klimawandels stellen Städte weltweit vor neue
+Herausforderungen: Vor allem zunehmende Starkregen‑
+ereignisse führen zu Überflutungen, die immense Schäden
+und somit Folgekosten im Stadtgebiet verursachen. Doch
+wie können Kommunalverwaltungen, Ingenieur- und
+Planungsbüros dies als Chance für die Schaffung einer nachhaltigen und lebenswerten Stadt begreifen? Elke Kruse zeigt
+anhand von New York City, Rotterdam und Singapur, dass
+selbst der wassersensible Umbau hoch verdichteter Quartiere
+gelingen kann. Basierend auf den Erkenntnissen entwickelt
+sie eine praxisnahe Handlungsanleitung für ein Integriertes
+Regenwassermanagement auf gesamtstädtischer Ebene, die
+sie beispielhaft anhand von Hamburg überprüft und weiterentwickelt.
+
+KOMMU N A L E G RÜ NDAC H - STRATEG I E N
+
+INVENTARISIERUNG, POTENZIALANALYSE, PRAXISBEISPIELE
+
+HCU
+
+HafenCity Universität
+Hamburg
+
+Elke Kruse
+
+Integriertes Regenwassermanagement
+für den wassersensiblen Umbau von Städten
+Großräumige Gestaltungsstrategien, Planungsinstrumente und Arbeitsschritte
+für die Qualifizierung innerstädtischer Bestandsquartiere
+
+Zur Autorin: Elke Kruse ist selbständige Landschaftsarchitektin und forscht seit 2009 an der HafenCity Universität
+Hamburg am Fachgebiet „Umweltgerechte Stadt- und Infrastrukturplanung“. Ihr Forschungsfokus: Klimaanpassung und
+nachhaltige Stadtentwicklung, Integriertes Regenwasser‑
+management, kommunale Gründachstrategien sowie multifunktionale Flächennutzungen. Zuvor war sie mehrere Jahre
+für Landschaftsarchitekturbüros in Deutschland und England
+als Projektleiterin tätig.
+2015, 246 Seiten, zahlreiche farbige Abbildungen, kartoniert,
+Fraunhofer IRB Verlag, ISBN 978-3-8167-9474-5
+
+22
+
+DDV Gründach Aktuell 1/2016
+
+Gründach-Initiativen
+
+Leipzig erarbeitet Gründach-Strategie
+als Anpassungsmaßnahme an den
+Klimawandel
+Viele Kommunen folgen aktuell dem Beispiel der Stadt
+Hamburg und entdecken die Dachbegrünung als wichtiges
+Instrument einer nachhaltigen Städteplanung. In Leipzig beschäftigt sich das Amt für Umweltschutz mit der Entwicklung
+einer kommunalen Gründach-Strategie.
+Die Umsetzung begrünter Dächer kann auf städtischer Ebene
+durch verschiedene Maßnahmen gefördert werden. Neben
+der verstärkten Festsetzung in Bebauungsplänen werden in
+Leipzig auch die Einbindung in das wichtige Handlungsfeld
+Regenwassermanagement und die Begrünung von öffent‑
+lichen Gebäuden diskutiert. Um bei der Erstellung der Grün‑
+dach-Strategie von den Erfahrungen anderer Kommunen zu
+profitieren, hat das Amt für Umweltschutz im März DDVGeschäftsführer Wolfgang Ansel zu einem interdisziplinären
+Workshop mit Vertretern unterschiedlicher Fachbehörden,
+Forschungseinrichtungen, städtischer Unternehmen und
+Verbände eingeladen.
+
+Auch die Leipziger Dachlandschaft bietet Potenziale für Dachbegrünungen.
+© Henry Pfeifer www. profiluftbild.de
+
+Zu den Zielen der Gründach-Strategie gehört es auch, Archi‑
+tekten, Planer, Handwerksbetriebe und Bauherren durch
+Maßnahmen der Öffentlichkeitsarbeit über die Vorteile der
+Dachbegrünung zu informieren. Den Startschuss hierzu
+liefert das Gründach-Forum Leipzig, das die Stadt Leipzig mit
+dem Deutschen Dachgärtner Verband am 20. Oktober 2016
+im Neuen Rathaus veranstalten wird.
+
+Themenvorschau
+GründachAktuell 2/2016
+Natur erleben: Das Biodiversitäts-Gründach des
+Besucherzentrums der Internationalen Gartenschau 2017
+in Berlin
+The Green Skyscraper: Interview mit dem Pionier
+bioklimatischer Hochhäuser Dr. Ken Yeang
+(HAMZAH & YEANG, Malaysia)
+
+GründachAktuell kostenfrei abonnieren:
+www.dachgaertnerverband.de
+
+Impressum GründachAktuell
+Herausgeber: GründachAktuell ist die Verbandszeitschrift
+des Deutschen Dachgärtner Verbandes e.V. (DDV)
+Redaktion: Wolfgang Ansel
+Fotos: Sofern nicht anders angegeben, liegen die Bildrechte
+beim Herausgeber.
+Verlag: DDV-Verlag Nürtingen
+Copyright: Nachdruck – auch auszugsweise – nur mit
+Genehmigung des Herausgebers gestattet.
+Deutscher Dachgärtner Verband e. V.
+Postfach 20 25
+72610 Nürtingen
+Tel. 07022 301378
+E-Mail: contact@dachgaertnerverband.de
+www.dachgaertnerverband.de
+
+DDV Gründach Aktuell 1/2016
+
+23
+
+30 Jahre aktiv „pro gründach“!
+
+Deutscher Dachgärtner VerbanD
+Folgende Publikationen sind bei der DDV-geschäftsstelle erhältlich:
+
+„Das 1x1 der Dachbegrünung“
+Fachbuch
+Moderne Dachgärten
+Leitfaden Dachbegrünung
+für Kommunen
+
+Leitfaden Sicherer
+Gewerkeübergang
+
+unsere aktivitäten im Überblick
+Fachberatung: Für Behörden, Bauherren und Architekten liefern wir Informationsmaterial und Beratung
+zu allen wichtigen Fragen rund um das Thema Dachbegrünung. Auf unserer Internetseite finden Sie außerdem
+erfahrene Dachbegrünungsbetriebe aus dem gesamten Bundesgebiet.
+netzwerk Kommune: Der DDV fördert den Informationsaustausch zwischen kommunalen Fachbehörden.
+Durch „Best-Pratice“-Beispiele wird die Entwicklung einer kommunalen Gründach-Strategie erleichtert.
+seminare und Fachvorträge: Mit der Informationsreihe „Gründach-Forum“ informieren wir Architekten,
+Baubeteiligte und Fachbehörden. Das DDV-Referenten-Team ist außerdem mit Fachvorträgen bei Umweltmessen, Bürgerinfo-Abenden und kommunalen Indoor-Seminaren präsent.
+richtlinienarbeit: Wir beteiligen uns an der Erstellung neuer Richtlinien und Regelwerke,
+z. B. an den neuen FLL-Dachbegrünungsrichtlinien.
+Hinweise zu unseren aktuellen Aktivitäten finden Sie auch im Internet unter:
+
+www.dachgaertnerverband.de
+
+24
+
+DDV Gründach Aktuell 1/2016
+
+
