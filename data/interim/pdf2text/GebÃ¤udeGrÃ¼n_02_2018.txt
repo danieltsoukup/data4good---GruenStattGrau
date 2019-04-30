@@ -1,0 +1,1989 @@
+ISSN 2568-9177
+Gebäude 2|2018
+
+Grün + DACH · FASSADE RAUM · GRÜN
+
+vormals Dach
+
+Grün
+
+Normen zur Entwässerung
+PATZER VERLAG
+Berlin-Hannover
+
+Sumpflanzen zur Dachbegrünung
+
+Aus FBB und DDV wird BuGG
+
+Sicher heißt nachhaltig.
+
+Ein Gründach ist schön und nachhaltig. Es heizt sich nicht auf, bindet Staub, speichert Regen und sorgt so für ein angenehmes Gründachklima. Fragen Sie uns, denn wir haben mehr als 25 Jahre Erfahrung mit Komplettsystemen von der Dampfsperre bis zur Pflanze. So werden Dächer von Bauder sicher grün.
+Beispielhafte Extensivbegrünung im Bauder Komplettsystem.
+
+www.bauder.de
+
+Editorial
+
+Es ist soweit ­ FBB und DDV fusionieren zum Bundesverband GebäudeGrün (BuGG)
+
+Was vor wenigen Monaten noch undenkbar erschien, ist nun Wirklichkeit ­ die Fachvereinigung Bauwerksbegrünung e. V. (FBB) und der Deutsche Dachgärtner Verband e. V. (DDV) haben sich zusammengetan! Und das gleich richtig! Sie sind zum Bundesverband GebäudeGrün e. V. (BuGG) fusioniert, korrekterweise verschmolzen!
+
+Einstimmig haben die Mitglieder schon bei den beiden ordentlichen Mitgliederversammlungen Anfang März der Fortführung der Fusionsgespräche zugestimmt, und auch jetzt bei den außerordentlichen Mitgliederversammlungen am 17. Mai in Stuttgart als die endgültige Abstimmung für die Fusion zum Bundesverband GebäudeGrün anstand, war die Zustimmung eindeutig ­ 100 Prozent der anwesenden Mitglieder beider Verbände haben für die Fusion gestimmt!
+
+Wir freuen uns über diese große Zustimmung, die wir nicht nur aus den eigenen Reihen, sondern darüber hinaus vor allem von Unternehmen, Hochschulen, Verbänden, Städtevertretern und weiteren Baubeteiligten bekommen. Endlich ist es soweit und die Akteure der Gebäudebegrünung ziehen an einem Strang und bearbeiten gemeinsam und zielgerichtet die vielen Themenfelder rund um die Dach-, Fassaden- und Innenraumbegrünung.
+Dabei freue ich mich auch sehr, dass mit Carsten Henselek, Hans Schmid, Gerd Vogt, Helmut Kern und mir ein Präsidium gewählt wurde, das für Kontinuität und Aufbruch gleichzeitig steht und dass wir die Ge-
+
+schäftsstelle in Saarbrücken mit Sylvia van Meegen in bewährter Weise erhalten und gleichzeitig den Sitz des BuGG nach Berlin, und damit nahe an die Politik, legen konnten.
+Wir haben mit der Fusion und der Gründung des Bundesverbandes GebäudeGrün e. V. (BuGG) viel Vertrauen und Vorschusslorbeeren bekommen ­ es soll nun der historische Startschuss sein für die Werbung und Umsetzung von deutlich mehr Grün auf, am und im Gebäude! Und in diesem Zuge
+
+rufen wir auch gleich zur aktiven Mitarbeit auf ­ jeder Interessierte kann sich und seine Stärken, Ideen, Vorstellungen und sein Netzwerk einbringen! Gemeinsam für mehr Stadtgrün, gemeinsam für mehr Gebäudegrün!
+Herzlichst Ihr Dr. Gunter Mann
+Präsident Bundesverband GebäudeGrün e. V. (BuGG)
+
+GebäudeGrün 2/2018 1
+
+Sie lesen
+
+4 Entwässerung
+4 Regelwerke zur Entwässerung von Flachdächern 8 Wasserabfluss bei einem Null-Grad-Dach
+11 Regenwasserbewirtschaftung
+11 Regenwassermanagement mit Hilfe moderner Bewässerungstechnik
+15 Dach als Wasserspeicher
+
+19 Forschung
+19 Sumpfplanzen zur Dachbegrünung 23 Urban Micro Climate Canopy
+
+QUEllE: BUGG/HERFoRT
+
+11
+2 GebäudeGrün 2/2018
+
+Zum Titelfoto
+Das Präsidium des neu gegründeten Bundesverband GebäudeGrün e. V. (BuGG) stellt sich vor (v.l.n.r.): Gerd Vogt (Schatzmeister), Dr. Gunter Mann (Präsident), Carsten Henselek (Vizepräsident), Hans Schmid (Präsidiumsmitglied), Helmut Kern (Präsidiumsmitglied).
+
+Grüne Dächer sind lila!
+
+26 Verbandsnachrichten
+26 Infos vom BuGG
+36 Infos vom VfB
+38 Infos von der SFG
+46 In Kürze
+60 Stellenangebote
+IMPRESSUM
+GebäudeGrün
+erscheint 4-mal pro Jahr im Patzer Verlag GmbH & Co. KG Postfach 330455, 14174 Berlin Telefon 030/89 59 03-0, Fax 030/89 59 03-17
+Verleger und Herausgeber: Ulrich Patzer, Berlin Verlagsleitung: Dr. Moritz Patzer, Berlin Redaktion: Ines lauzat, Koenigsallee 65, 14193 Berlin, Telefon 030/89 59 03-61, Fax -17, gg@patzerverlag.de; Dr. Gunter Mann, gunter.mann@bugg.de Vertriebsleitung: lutz Beisert, Berlin Vertrieb: Telefon 030/89 59 03-0, info@patzerverlag.de Werbeleitung: Alexandra Kasper, Telefon 030/89 59 03-30, werbeleitung@patzerverlag.de Anzeigen: Andreas Fischer, Telefon 030/89 59 03-41, anzeigen@patzerverlag.de Layout: Hanna Schrader, Hannover Druck und Weiterverarbeitung: BWH GmbH, Hannover Bezugspreis: Jahresbezugspreis 2018  32,00; Studenten und Auszubildende  21,33 (Inland einschließlich Portogebühren und MwSt. ­ Ausland zzgl. Porto) Bestellungen/Abbestellungen: gelten bis auf Weiteres, Abbestellungen bis 3 Monate vor Jahresende Bestellanschrift: siehe Verlag
+Verbandsorgan von Bundesverband GebäudeGrün e. V. (BuGG) www.bugg.de Verband für Bauwerksbegrünung Österreich e.V. (VfB) www.gruenstattgrau.at Schweizerische Fachvereinigung Gebäudebegrünung e.V. (SFG) www.sfg-gruen.ch
+
+Plus: beste Wärmedämmung fürs Gründach!
+
+D 0,027
+
+Alles Gute für ganz oben
+/VJOSLPZ[\UNZKpTTZ[VH\Z?7:
+25% bessere Dämmleistung
+,PUZWHY\UNHU+pTTZ[VKPJRL und damit Material
+6W[PTHSMYILNYU[L\UKILRPLZ[L <TRLOYKpJOLY
+
+^^^QHJRVUPUZ\SH[PVUJVT
+
+Entwässerung
+
+Regelwerke zur Entwässerung von Flachdächern
+
+Einleitung
+Ein Flachdach kann für die unterschiedlichsten Anwendungen verwendet werden. So kann das Flachdach als Dachterrasse mit Begrünung oder Kiesschüttung, als Parkdeck für Fahrzeuge oder auch als Sportplatz verwendet werden. Durch diese unterschiedlichen Einsatzbereiche müssen für die Entwässerung des Flachdaches vom Planer, aber auch von der ausführenden Firma, die unterschiedlichsten Normen und Richtlinien
+
+berücksichtigt werden. Diese sind für die Ausführung der Dachentwässerung entscheidend, damit ein sicheres und schnelles Ableiten des Berechnungsregens von der Dachfläche gewährleistet ist.
+Die bei der Flachdachentwässerung zu Grunde liegenden Normen können grundsätzlich in die Kategorien der Produkt- und Anwendungsnormen eingeteilt werden. Unter Produktnormen fällt zum Beispiel die DIN EN 1253-2 Dachabläufe und Bodenabläufe
+
+ohne Geruchsverschluss. Die in dieser Norm aufgeführten Anforderungen an den Dachablauf, müssen von den Abläufen erfüllt werden. Die wichtigsten Anwendungsnormen sind die DIN 1986-100: Entwässerungsanlagen für Gebäude und Grundstücke, die DIN EN 12056: Entwässerungsanlagen innerhalb von Gebäuden, aber auch die neu überarbeitete DIN 18531: Abdichtung von Dächern sowie Balkonen, loggien und laubengängen.
+Gebäude- und Grundstücksentwässerung
+
+Normen zur Gebäude- und Grundstücksentwässerung.
+
+Zur Planung, Auslegung und Installation von Entwässerungsanlagen für Gebäude wurde die DIN EN 12056 Teil 1­Teil 5 eingeführt. Diese Norm gilt nur für die Gebäudeentwässerung. Außerhalb des Gebäudes, für die Grundstücksentwässerung gilt die DIN EN 752. Der Einsatzbereich dieser Norm erstreckt sich von der privaten Grundstücksentwässerung bis zum Klärwerk. In der DIN EN 752 wird überwiegend die kommunale Entwässerung geregelt. Weitere Richtlinien zur Dimensionierung der Grundstücksentwässerung findet man in dem ATV Regelwerk A118.
+Zusätzlich zu diesen Normen und dem ATV Regelwerk muss die DIN 1986-100 berücksichtigt werden. Diese Norm legt einheitliche technische Bestimmungen für Planung, Bau, Betrieb und Instandhaltung von Entwässerungsanlagen zur Ableitung von Abwasser und somit auch Regenwasser in Gebäuden und auf Grundstücken in Ergänzung zu DIN EN 12056 Teil 1­5 fest.
+
+Aufteilung der neuen DIN 18513.
+
+Bei der Dachentwässerung sind weiterhin die Abdichtungsnormen zu berücksichtigen. Die DIN 18195 und die DIN 18531 wurden gemeinsam überarbeitet. Heraus gekommen ist die neue DIN 18531, Ausgabe Juli 2017 mit dem neuen Titel Abdichtung von Dächern sowie Balkonen, loggien und laubengängen mit den Teilen 1­5, die um die Abdichtung
+
+QUEllE: ACo
+
+QUEllE: ACo
+
+4 GebäudeGrün 2/2018
+
+Entwässerung
+
+QUEllE: ACo QUEllE: ACo
+
+Flachdachablauf Spin aus Edelstahl für Freispiegelentwässerung.
+
+Flachdachablauf Jet aus Edelstahl für Unterdruckentwässerung.
+
+von genutzten Dächern, Balkonen, loggien und laubengängen erweitert wurde und zusammen mit den weiteren neuen Abdichtungsnormen l DIN 18531-2: Nicht genutzte und ge-
+nutzte Dächer ­ Stoffe l DIN 18531-3: Nicht genutzte und ge-
+nutzte Dächer ­ Auswahl, Ausführung und Details l DIN 18531-4: Nicht genutzte und genutzte Dächer ­ Instandhaltung l DIN 18531-5: Balkone, loggien und laubengänge l DIN 18195: Abdichtung von Bauwerken-Begriffe veröffentlicht wurde.
+Gleichzeitig wurde zu dieser Normenreihe vom Zentralverband des Deutschen Dachdeckerhandwerkes e. V. (ZVDH) die Flachdachrichtlinie überarbeitet und in der Ausgabe 12.2017 veröffentlicht. In der Flachdachrichtlinie sind für die Planung und Ausführung von Abdichtungen für Flachdächer fachliche Regeln aufgeführt. Weiterhin sind in der Flachdachrichtlinie die Anforderungen für genutzte Flächen wie Balkone, Dachterrassen intensiv begrünte Flächen, aber auch nicht genutzte und extensiv begrünte Dachflächen aufgeführt.
+Dachentwässerung
+Bei der Wahl des Entwässerungssystems kann sowohl für die Regenentwässerung als auch bei der Notentwässerung ein Frei-
+
+spiegelsystem, oder bei vollgefüllten Regenwasserleitungen die Unterdruckentwässerung zum Einsatz kommen.
+Freispiegelentwässerung
+Bei der Freispiegelentwässerung wird das Regenwasser auf Grundlage des Schwerkraftprinzips über die Flachdachabläufe und die nachfolgende Rohrleitung entwässert. Bei der Planung muss berücksichtigt werden, dass das Rohrleitungssystem mit Gefälle verlegt wird und der Füllgrad berücksichtigt wird. Nach der DIN EN 12056 beträgt der Füllgrad (h/d) für Sammel- und Grundleitungen 0,7, da nur bis zu diesem Wert eine ausreichende Be- und Entlüftung der Rohrleitungen und somit eine sichere Ableitung des Regenwassers gewährleistet ist. Mit der Freispiegelentwässerung kann jede Dachfläche entwässert werden.
+Unterdruckentwässerung
+Bei der Entwässerung mit Druckströmung werden hierfür speziell gefertigte Flachdachabläufe eingesetzt, die im Gegensatz zur Freispiegelentwässerung mit planmäßig vollgefüllten Rohrleitungen (Füllgrad (h/d = 1,0) das Flachdach entwässern. Damit dies erreicht werden kann, muss das unerwünschte Ansaugen von luft beim Eintritt in den Flachdachablauf unterbunden werden. Dies wird durch die Verwendung von spezielle Funktionsteile in den Unterdruckabläufen erreicht. Sobald die für die Entwässerung
+
+nötige Bemessungsregenspende erreicht ist,
+
+arbeitet der Flachdachablauf mit dem an-
+
+geschlossenen Rohrleitungssystem im Druck-
+
+strömungsbereich, wodurch die angeschlos-
+
+sene Dachfläche schnell, effizient und sicher
+
+entwässert wird.
+
+Dachentwässerung kann mit Druckströmung
+
+betrieben werden, wenn:
+
+l Ein Höhenunterschied von mindestens
+
+4,2 Metern zwischen Dach und Grund-
+
+leitung vorhanden ist.
+
+l Große Dachflächen entwässert werden,
+
+wobei pro Ablauf eine Abflussleistung
+
+von mindestens 1,5 liter/Sekunde zu er-
+
+bringen ist.
+
+l Die Möglichkeit gegeben ist, dass die
+
+einzelnen Abläufe die an eine Falllei-
+
+tung angeschlossen sind, hydraulisch
+
+aufeinander abgestimmt werden kön-
+
+nen.
+
+l Eine Anlaufhöhe (Abstand zwischen
+
+Einlaufebene bis Mitte der Verzugslei-
+
+tung) von mindestens 0,5 Meter vor-
+
+handen ist.
+
+l Der Abstand zwischen Abläufen nicht
+
+mehr als 20 Meter beträgt.
+
+Für die Entwässerung von befahr- und be-
+
+gehbaren Flächen, wie zum Beispiel Park-
+
+decks oder Terrassen ist eine Entwässerung
+
+im Freispiegelsystem vorteilhafter. Für die
+
+sichere Funktion des Gesamtsystems ist eine
+
+Berechnung der Unterdruckentwässerung
+
+erforderlich. Eine entsprechende hydraulische
+
+Berechnung muss hierzu mit einer speziellen
+
+Berechnungssoftware nachgewiesen wer-
+
+den.
+
+u
+
+GebäudeGrün 2/2018 5
+
+Entwässerung
+
+Planung
+
+Die Dachentwässerung ist für Kiesdächer, begrünte Dächer aber auch für Terrassen oder Balkone nach der DIN 1986 ­ 100, und der DIN EN 12056-3 auszuführen. Bei der Planung muss berücksichtigt werden, ob ein Kaltdach, Warmdach oder Umkehrdach zum Einsatz kommt und somit einoder zweiteilige Flachdachabläufe eingesetzt werden.
+Des Weiteren ist bei der Planung die statistische Regenspende nach DIN EN 12056-3 zu berücksichtigen. Da aber diese statistischen Werte für Deutschland vorliegen, muss hier die DIN 1986-100 zusätzlich berücksichtigt werden, da in dieser Norm die statistischen Regenspenden für verschiedene orte angegeben werden und somit für die Regenentwässerung angesetzt werden müssen. Diese Werte wurden aus dem KostraDWD-2010-Atlas entnommen. Die nach DIN EN 12056-3 angegebene Berechnung mit der minimalen Berechnungsregenspende sowie dem Sicherheitsfaktor entfällt somit. Im nächsten Schritt muss festgelegt werden, welcher Aufbau oberhalb der Dachdichtungsbahn auf dem Flachdach zum Einsatz kommt. Hier kann zum Beispiel die Dachdichtungsbahn mit oder ohne Kies auf einem Betondach aufgebracht werden. Auch die Möglichkeit eines begrünten Daches, oder eines Trapezblechdaches mit oder ohne Wärmedämmung kann hier zum Einsatz
+Der Autor
+Thomas Johner Senior Produktmanager Entwässerung ACo Passavant GmbH 36457 Stadtlengsfeld Tel.+49 36965 819-301
+
+QUEllE: ACo QUEllE: ACo
+
+Flachdachablauf im Gründach mit Verlängerungsschacht.
+kommen. Bei dieser Auswahl, der unterschiedlichen Dachaufbauten muss der Abflussbeiwert (C ) aus der DIN 1986-100 berücksichtigt werden.
+Dieser Abflussbeiwert C wird in der DIN 1986-100 aus Tabelle 9 ­ Abflussbeiwerte C zur Ermittlung des Regenwasserabflusses, entnommen. In dieser Tabelle wird zwischen dem Spitzenabflussbeiwert Cs und dem mittleren Abflussbeiwert Cm unterschieden.
+Der Spitzenabflussbeiwert Cs bezeichnet das Verhältnis des Regenereignisses welches direkt zum Dachablauf gelangt, im Vergleich zu dem gesamten Regenereignis und wird zur Bemessung der Dachentwässerung und der Grundleitung benötigt. Bei einem Flachdach mit Kiesschüttung beträgt nach DIN1986-100 der Spitzenabflusswert Cs: 0,8. Bei einem Gründach hingegen beträgt der Spitzenabflusswert Cs bei Intensivbegrünung ab 30 Zentimeter Aufbaudicke 0,2. Durch das Speichervermögen des Substrates auf einem Gründach wird ein größerer Anteil des Regenwassers zurückgehalten. Dies muss bei der Berechnung der Statik des Daches berücksichtigt werden.
+Der in der DIN 1986-100 angegebene mittlere Abflussbeiwert Cm hingegen, wird zur Berechnung von Rückhalteräumen für Niederschlagswasser benötigt.
+
+Variante eines Notablaufs.
+laubengängen zu berücksichtigen. Der Anwendungsbereich dieser Norm berücksichtigt nicht genutzte und genutzte Dächer für die Freispiegelentwässerung und Unterdruckentwässerung, benennt die zu berücksichtigenden Einwirkungen und legt Planungsund Ausführungsgrundsätze fest. Sie gilt für Neubauten, bei Instandhaltung und Erneuerungen.
+Die Abdichtung in Verbindung mit dem Dachablauf ist so zu planen und auszuführen, dass wie unter Punkt 6.3 Dachneigung/Gefälle in dieser Norm beschrieben, das Niederschlagswasser nicht auf der Abdichtungsschicht stehen kann. Hierzu ist mit einem Mindestgefälle von zwei Prozent zu planen. Bei intensiv begrünten Dächern mit Anstaubewässerung kann von dieser Forderung abgewichen werden.
+Bei dem Einsatz von bahnförmigen Dachabdichtungsstoffen in Verbindung mit Durchdringungen wie zum Beispiel Dachabläufen ist ein Abstand von 30 Zentimeter nach DIN 18531 zwischen Flanschaußenkante zu anderen Durchdringungen oder Bauteilen wie zum Beispiel Attiken einzuhalten. Bei der Verwendung von flüssig zu verarbeitenden Abdichtungsstoffen reduziert sich dieser Abstand auf zehn Zentimeter. Von dieser Forderung sind Dachabläufe die für den Einbau in der Attika vorgesehen sind ausgenommen.
+
+Thomas.Johner@aco.com
+
+Weiterhin ist die DIN 18531, Abdichtung Ist ein wärmegedämmtes Dach mit Dampfvon Dächern, sowie Balkonen, loggien und sperre gefordert, sind die Dachabläufe nach
+
+6 GebäudeGrün 2/2018
+
+Entwässerung
+
+DIN 18531-3, zweiteilig auszubilden und die fabrikmäßig vorgefertigten Dachabläufe müssen der Normenreihe der DIN EN 1253 entsprechen. Auch nach DIN 1986 -100 müssen die Dachabläufe der DIN EN 12532 entsprechen. Sollte dies nicht der Fall sein, ist ein baurechtlicher Verwendungsnachweis vorzulegen. Bei zweiteiligen Dachabläufen ist nach DIN 1986-100 ein Dichtelement zwischen Ablauf- und Aufstockelement einzubringen, so dass hier ein Austritt von Regenwasser in die Isolierung ausgeschlossen ist.
+Wird der Flachdachablauf in Verbindung mit einem begrünten Dach eingesetzt, muss zwischen Flachdachabläufen innerhalb und außerhalb von Vegetationsflächen unterschieden werden.
+Flachdachabläufe innerhalb von Vegetationsflächen sind zum Schutz vor Verschmutzung und einwachsenden Pflanzen nach DIN 18531-3 so abzudecken, dass ein Zusetzen des Ablaufes sicher vermieden wird. Dies kann durch den Einsatz eines Verlängerungsschachtes erreicht werden. Auch die Flachdachrichtlinie fordert hier, dass Dachabläufe durch Kies- oder Platteneinfassungen zu schützen sind und die DIN 1986-100 fordert einen Schutz der Abläufe gegen Bewuchs. Hier empfiehlt es sich einen Verlängerungsschacht und einen mindestens 50cm breiten Kiesrand zu installieren.
+Erfolgt der Einbau des Flachdachablaufes außerhalb von Vegetationsflächen ist dieser nach der Dachbegrünungsrichtlinie in einem Kiesstreifen zu setzen und mit einem Kiesfang auszustatten.
+Notentwässerung
+Flachdachentwässerungssysteme sind stets für einen Bemessungsregen ausgelegt. Bei Starkregenereignissen wird dieser Bemessungsregen jedoch überschritten. Dies kann
+
+QUEllE: ACo
+
+Ablaufkörper mit Festflansch, zweiteilig für Balkone.
+
+zu Aufstau auf dem Flachdach führen. Gemäß DIN 1986-100 und der DIN 12056-3 aber auch nach DIN 18531-3 ist daher ein unabhängiges Notablaufsystem für Flachdachabläufe erforderlich, dass das Regenwasser auf freie Flächen abführt. Eine Anbindung der Notentwässerung an das Rohrleitungssystem für die reguläre Entwässerung ist nicht zulässig. Diese Grundsätze sind für Dächer mit und ohne Bekiesung, aber auch für begrünte Dächer zu berücksichtigen.
+Balkone
+Bei der Entwässerung von Balkonen und loggien muss die DIN 1986-100 berücksichtigt werden. Bisher durften Abläufe von Balkonen und loggien nach DIN 1986-100, Ausgabe Mai -2008 nicht an Fallleitungen der Dachentwässerung angeschlossen werden, um Rückstau und Überflutungen zu vermeiden.
+Dies hat sich geändert, denn nach der DIN 1986-100, Ausgabe 12-2016 ist dies jetzt möglich. Die Voraussetzung hierfür ist, dass wie unter dem Punkt 5.10 Balkone und loggien in der DIN 1986-100 aufgeführt, die Balkone eine zu mindestens 50 Prozent geöffnete Brüstung besitzen, die als freier Ablauf verfügbar ist, damit das Niederschlagswasser im Überflutungsfall nach außen ungehindert frei abfließen kann. Diese Änderung ist jedoch nur für Balkone und loggien ab dem ersten obergeschoss gültig. Abläufe von Balkonen und loggien im Erdgeschoss sind dagegen weiterhin getrennt an die Grundleitung anzuschließen, da hier
+
+das Risiko eines möglichen Rückstaus durch Überlastung der Regenwasserleitung besteht. Weiterhin gibt die DIN 1986-100 vor, dass Abläufe von Terrassen wegen Überflutungsgefahr bei Starkregen erst nach einem Entspannungspunkt ­ wie zum Beispiel einem Schacht an die Regenwassergrundleitung angebunden werden sollten.
+Ist die Brüstung des Balkons oder der loggia geschlossen, muss berücksichtigt werden, dass zu dem Balkonablauf zusätzlich ein Notablauf in der Brüstung vorhanden sein muss. Die Entwässerung erfolgt somit mit einem Speier, oder mit einem Notablauf welcher mit einer getrennten Fallleitung zur Dachentwässerung auf frei überflutbare Flächen entwässert.
+Zusammenfassung
+Grundlage für eine fachgerechte Entwässerung der Dachfläche sind Dachabläufe die den Anforderungen der Norm entsprechen. Die ein- und zweiteiligen ACo Dachabläufe aus den Materialien Gusseisen oder Edelstahl entsprechen der DIN EN 1253-2. Hierdurch wird eine dauerhafte und sichere Entwässerung gewährleistet. Abweichungen von den Normen und Regelwerken können zu Funktionsstörungen und zu Schäden am Bauwerk führen, wodurch hohe Folgekosten entstehen können. Genau aus diesen Gründen empfiehlt es sich die Normen und Regelwerke zu berücksichtigen.
+www.aco-haustechnik.de
+
+GebäudeGrün 2/2018 7
+
+Entwässerung
+
+Wissenswertes zum Thema Wasser
+Wasserabfluss bei einem Null-Grad-Dach
+
+Es heißt, Wasser fließt nicht bei null Grad. Das ist falsch. Wasser fließt mit dem Wasserspiegelgefälle. Es fließt langsamer als bei Dächern mit Neigung. Deshalb sind besonders für die Entwässerung eines Null-GradDaches die Fließlängen und die Anzahl der Abläufe bedeutend.
+Wie Wasser fließt
+Wasser besitzt viele physikalische und chemische Eigenschaften. Die bekanntesten Eigenschaften sind die Aggregatzustände: fest, flüssig und gasförmig. Auf Niederschlag bezogen sind dies Schnee, Regen und Wasserdampf (Abb. 1). Für die Entwässerung eines Null-Grad-Daches sind weitere physi-
+
+kalische Eigenschaften des Wassers von Belang. Damit der Wasserabfluss funktionieren kann, sind Eigenschaften wie die Kohäsion, die Viskosität und die Adhäsion von Wasser bedeutend. Kohäsion ist die Anziehung der Moleküle innerhalb eines Stoffes. Die Wassermoleküle ziehen sich untereinander an, weshalb es zu einer oberflächenspannung des Wassers kommt. Die Kohäsion von Wassermolekülen sorgt unter anderem auch für die Viskosität von Wasser, also die Zähflüssigkeit. Diese verändert sich mit der Temperatur und beeinflusst ebenfalls die Entwässerung.
+Die Adhäsion beschreibt die Anziehung von zwei Stoffen, wie zum Beispiel Wasser auf
+
+der Dachhaut. Die Adhäsionskräfte ziehen dabei die oberfläche am Rand der Wasserperle an den Feststoff (Abb. 2). Ein kleines Gefälle entsteht vom Tropfenmittelpunkt zum Tropfenrand. Dieses Gefälle innerhalb einer Wasserfläche trotz horizontalem Untergrund wird als Wasserspiegelgefälle bezeichnet. An dem Punkt, wo die Wassermenge größer als die Kohäsionskraft ist, breitet sich das Wasser aus. Das Wasser ,,läuft".
+Zunächst verbreitet sich die größer werdende Pfütze ungerichtet bis sie eine Ablaufmöglichkeit gefunden hat. Der Zusammenhalt unter den Molekülen sorgt dann für den Wasserabfluss zum Dachablauf. Solange es
+
+QUEllE: HERFERT
+
+Abb. 1: Wasserkreislauf auf dem Dach. 8 GebäudeGrün 2/2018
+
+Entwässerung
+
+QUEllE: HERFERT
+
+einen tiefer liegenden Punkt gibt, wie zum Beispiel einen Ablauf, fließt der Niederschlag mit Hilfe des Wasserspiegelgefälles ab.
+
+Abfluss besteht aus den Wörtern ,,ab" und ,,Fluss". Befindet sich etwas im ,,Fluss", bewegt es sich im stetig ununterbrochenen Fortgang. Es fließt in eine Richtung, dabei kann es in einer Menge bleiben, wie ein Tropfen, der eine Scheibe hinunterfließt oder durchgehend nachfließen, wie bei einem Bach. Der Zusatz ,,ab" beschreibt das Wegfließen des Flusses. Der ,,Fluss" hat ein bestimmtes Ende, was in Bezug auf ein Null-Grad-Dach den Ablauf beschreibt.
+Bei einer ebenen Dachfläche ist der Ausdruck ,,Fluss" nicht an jeder Stelle zutreffend. Nur ein bis zwei Meter um den Ablauf herum lässt sich auf der Wasseroberfläche eine Fließbewegung feststellen. Das angestaute Wasser wird dem abfließenden Wasser in den Ablauf hinterhergezogen. Außerhalb dieser Zone ist die oberfläche des Wassers unbewegt, allein der Wasserspiegel sinkt. Vergleichbar ist eine Badewanne, bei der gleichmäßig der Wasserspiegel absinkt und nur um den Ablauf herum eine Strömung erkennbar ist.
+
+Abb. 2: Kohäsion eines Tropfens.
+zahl mit einbezogen wird. Ist der Abflussbeiwert sehr niedrig, können sich rechnerisch eine bedenklich geringe Anzahl an Abläufen ergeben. Ein grundsätzlich positiv zu wertenden niedriger Abflussbeiwert könnte bei gefällelosen Dächern einer schnellen und geregelten Entwässerung entgegenstehen. Der verlangsamte Abfluss des Niederschlags bei einem gefällelosen Dach fordert tendenziell kurze Fließwege, um eine möglichst schnelle Entwässerung zu sichern. Die Ermittlung eines neuen Abflussbeiwertes für
+
+Dachbegrünungen auf einem Null-GradDach kann sinnvoll sein, um einen produktbezogenen möglichst verzögerten Abfluss des Niederschlags nachzuweisen.
+Fließwege zum Ablauf
+Wie lang sollten die Fließwege geplant werden? Auf dem Dach gibt es keine Vorgaben für Maximalabstände der Abläufe. In der DIN 1986-100 wird ein maximaler Abstand von 20 Meter für Abläufe gegeben, soweit u
+
+Dies bringt Vorteile auf einem Null-GradDach. Das Absinken des Wasserspiegels ohne eine Strömung hat den Vorteil, dass zum Beispiel bei Dachbegrünungen nicht mit Erosionen und Materialverlagerungen zu rechnen ist.
+
+Extensive Dachbegrünung
+
+Der Abfluss auf einem Null-Grad-Dach ist durch die Neigungsfreiheit und den Schichtaufbau der Dachbegrünung langsamer als bei einem Dach mit Gefälle. Folglich würde auch der Abflussbeiwert geringer ausfallen. Ein geringerer Abflussbeiwert für Dachflächen ohne Gefälle wird als kritisch angesehen, da er in der Berechnung der Dachablaufan-
+
+QUEllE: HERFERT
+
+Abb. 3: Dach mit Entwässerungsteilflächen.
+
+GebäudeGrün 2/2018 9
+
+Entwässerung
+
+QUEllE: HERFERT
+
+Abb. 4: ositionierung des Ablaufes in Bezug zur Fließlänge.
+
+diese auf ,,einem linearen Tiefpunkt ohne nennenswerte Höhendifferenzen" liegen (DIN 1986-100 2016, S. 62). Die Norm bezieht sich hier jedoch auf Kehlen, die ein geringes Gefälle aufweisen sollen. Eine Übertragung dieses Wertes auf Null-GradDächer ist zu überlegen.
+Die Abbildung (Abb. 3) zeigt ein Null-GradDach mit einer Fläche von 1600 Quadratmeter und den Maßen 40 mal 40 Meter. Flächen von circa 400 Quadratmeter sind eine in der Praxis übliche Faustzahl für die Größe von Entwässerungsteilflächen. Dies führt zu einem Einbau von vier Abläufen. Die Dachform ist quadratisch und die Anordnung der Abläufe zentral. Der maximale Abstand von 20 Meter kann hier eingehalten werden. Die längste Fließlänge beschränkt sich somit auf zehn Meter.
+In der Praxis sind jedoch die wenigsten Dächer quadratisch. Die Entwässerungsteilflächen sind eher schmal und lang (Abb. 4). Die Vorgabe von zehn Meter Maximalabstand bis zum nächstgelegenen Ablauf auf jegliche gefällelosen Dachflächen anzuwenden würde
+
+deshalb in den meisten Fällen viel mehr Abläufe bedingen, als rechnerisch nötig. Würde hier allein die Faustzahl der Flächengröße zugrunde gelegt, vergrößern sich die Abstände zwischen den Abläufen. Es können dabei Fließlängen von 20 bis 40 Meter entstehen. Das Wasser verbleibt länger auf dem Dach und der Abfluss verzögert sich zusätzlich.
+Wenn der Wasserfilm so hochsteigt, dass das Wasser ins Fließen gerät, gelangt es zum Ablauf. Kommt kein oder nur sehr wenig Wasser mehr nach, erschöpft sich der Wasserfluss. Es findet kein Abfluss mehr statt. Flächen mit kürzeren Fließlängen sind dann nahezu vollständig entwässert wohingegen bei Flächen mit langen Fließlängen Restwasser auf der Fläche verbleibt.
+Empfehlung für die Planung
+Die Festlegung einer maximalen Fließlänge und eines Mindestabstandes für Abläufe bei gefällelosen Dächern kann unter den gegensätzlichen Zielen von schneller Entwässerung und Abflussverzögerung erfolgen.
+
+Die Autoren
+MSc louisa Herfert Bauüberwachung/Bauausführung und Dipl.-Ing. Daniel Westerholt leibniz Universität Hannover Institut für landschaftsarchitektur Technisch-konstruktive Grundlagen der Freiraumplanung 30419 Hannover
+E-Mail: westerholt@ila.unihannover.de
+Eine vergleichsweise schnelle Entwässerung bei der dem Null-Grad-Dach eigenen hohen Abflussverzögerung kann mit Fließlängen von zehn Meter bis zum Ablauf erreicht werden, wobei sich deutlich mehr Abläufe ergeben als rechnerisch notwendig wären. Eine Vergrößerung der Entwässerungsteilfläche von 400 Quadratmeter auf 600 Quadratmeter und der maximalen Fließlänge von zehn Meter auf 20 Meter bis zum Ablauf (40 m zwischen zwei Abläufen) erscheint aufgrund der Untersuchungen von losken und Westerholt (FBB, 2015) vertretbar und entwässerungstechnisch unproblematisch und hätte wirtschaftliche Vorteile. Die Notentwässerung ist dementsprechend anzupassen. Inwieweit größere Fließlängen möglich sind, müsste experimentell untersucht werden.
+
+Quellen: DIN 1986 Teil 100. ,,Entwässerungsanlagen für Gebäude und Grundstücke ­ Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056", 12-2016.
+
+FBB ­ Fachvereinigung Bauwerksbegrünung. ,,Abschlussbericht zum Forschungsauftrag: Untersuchungen des Wasserabflusses bei extensiven Dachbegrünungen bei einer Dachneigung von Null Grad", Untersuchungsbericht, Eigenverlag FBB, 2015 (www.gebaeudegruen.info)
+
+10 GebäudeGrün 2/2018
+
+Regenwasserbewirtschaftung
+
+Dem natürlichen Wasserhaushalt nahe
+Regenwassermanagement mit Hilfe moderner Bewässerungstechnik
+
+In den Zentren der Städte mit dichter Bebauung ist der natürliche Wasserkreislauf gestört. Durch die schnelle Ableitung des anfallenden Regenwassers wird gegenüber der Natur weniger Wasser versickert und kaum Wasser verdunstet. Die Baumasse speichert die Strahlungsenergie der Sonne als Wärme und gibt diese in den Nachtstunden wieder ab. Durch die Wärmespeicherung und die reduzierte Verdunstung sind im Mittel die Temperaturen im Bereich dieser Wärmeinseln tagsüber zwischen 0,5 und zwei Grad, nachts sogar bis zu zehn
+
+Grad höher, als in den weniger dicht bebauten Siedlungsflächen außerhalb der Stadtgrenzen. Klimaforscher prognostizieren in den kommenden Jahren eine Zunahme dieser Temperaturextreme mit gravierenden Auswirkungen, vor allem im hoch verdichteten Siedlungsraum.
+Der natürliche Wasserkreislauf (WK) in einem locker bebauten Einfamilienhausgebiet ist in der Regel dem natürlichen WK relativ ähnlich. Im hochverdichteten Siedlungsraum, wie zum Beispiel in Gewerbe- und Indus-
+
+triegebieten, sowie in den hoch versiegelten Innenstädten mit ihren Wärmeinseln durch aufgeheizte Baukörper ist er dagegen meist stark gestört.
+ohne anthropogene Einflüsse würden in Mitteleuropa in den meisten Gebieten mit hoher Siedlungsdichte Wälder wachsen. Wälder kühlen im Sommer durch eine große Verdunstungsleistung die Umgebungstemperatur. Die Verdunstung aus Vegetationsflächen wird als Evapotranspiration bezeichnet. Mit Evaporation bezeichnet man die u
+
+QUEllE: GUNTER MANN/BUGG
+
+Eine hohe Verdichtung bringt eine hohe Versiegelung mit sich, wie hier in Frankfurt a. M.
+
+GebäudeGrün 2/2018 11
+
+Regenwasserbewirtschaftung
+
+QUEllE: WUS-ARCHITEKTUR
+
+onsflächen mit Pflanzen mit hoher Verdunstungsleistung, offenen Speicherteichen und vor allem Straßenbäumen mit hoher Verdunstungsleistung, für die dem ort in natürlicher Weise zu erwartenden oberflächenabflüsse, der natürlichen Grundwasserneubildung und Evapotranspiration zu sorgen.
+
+Regenwasser bewirtschaften ­ mit Hilfe moderner Bewässerungstechnik
+
+Natürlicher Wasserhaushalt/Wasserhaushalt im Siedlungsraum.
+
+Die Verdunstungsrate ist bei einem ausreichenden Wasserdargebot im Einfamilienhausgebiet mit offener Bauweise und sogar bei intensiven Dachbegrünungen der des natürlichen Wasserkreislaufs sehr ähnlich. Selbst bei extensiven Dachbegrünungen wird zwei Drittel dieser Wassermenge verdunstet. Wird das aus der Dachbegrünung ablaufende Regenwasser gespeichert und mit einer Bewässerungsanlage in regenarmen Perioden wieder auf die Fläche aufgebracht, kann sogar 100 Prozent des auf die Dachfläche gefallenen Niederschlags verdunstet werden. Der durch die Verdunstung entstehende Kühleffekt verbessert das Kleinklima erheblich. Die 100 Prozent Verdunstung würde aber nicht dem natürlichen Wasserkreislauf entsprechen, da keine Grundwasserneubildung erfolgt.
+
+Großflächige Beregnung von Rasenflächen.
+Verdunstung aus dem Bodenkörper, mit Transpiration die aktive Verdunstung der Pflanze durch die Spaltöffnungen der Blätter. Ein nicht unerheblicher Anteil der Evapotranspiration rührt aber von der so genannten Interzeptionsverdunstung her. Die Interzeptionsverdunstung bezeichnet den Anteil der Niederschläge, der auf oberirdischen Pflanzenteilen, wie zum Beispiel Blätter, Ästen und der Rinde zurückgehalten wird und nicht auf den Boden gelangt, sondern von den Pflanzen direkt wieder verdunstet. In einem Kiefernwald mit Krautschicht mit
+
+einer hohen Interzeptionskapazität kann diese Wassermenge, die in der Hydrologie daher auch als Interzeptionsverlust bezeichnet wird, bis zu 70 Prozent des Niederschlags ausmachen. Je nach Zusammensetzung der ursprünglichen lokalen Vegetation kann die Verdunstungsrate stark schwanken.
+Ziel einer Nachbildung des natürlichen Wasserkreislaufs mit einer Genauigkeit auf Flurstücksgröße müsste daher sein, mit allen zur Verfügung stehenden Möglichkeiten, wie Dach- und Fassadenbegrünungen, Vegetati-
+
+In der Studie des Bundesumweltamtes ,,Kosten-Nutzen von Anpassungsmaßnahmen an den Klimawandel. Analyse von 28 Anpassungsmaßnahmen in Deutschland" der Climate Change Reihe Nr. 10/2012 wird am Beispiel der Stadt Düsseldorf beschrieben, dass ein Anteil von 50 Prozent Gründachanteil mit einer Gesamtfläche von circa 13 Millionen Quadratmeter eine messbare kühlende Wirkung im lokalen Stadtklima erzeugen würde. Bei einer mittleren Evapotranspirationsrate im Sommer von 35 liter pro Quadratmeter in der Woche könnten auf diese Weise circa 455.000.000 liter Wasser wieder dem natürlichen Wasserkreislauf zugeführt werden, wobei 283.500.000 Kilowattstunden Energie
+
+QUEllE: KRESKo
+
+12 GebäudeGrün 2/2018
+
+Regenwasserbewirtschaftung
+
+QUEllE: WUS-ARCHITEKTUR
+
+der Umgebung entzogen werden ­ wenn den Pflanzen regelmäßig ausreichend Wasser zur Verfügung steht. Die Verdunstungsrate könnte noch gesteigert werden, wenn, entgegen jeder ,,vernünftig" geplanten Bewässerung, ein Interzeptionsverlust gefördert wird, indem an heißen sonnigen Tagen mit Regnern die oberirdischen Pflanzenteile benetzt werden, vorausgesetzt die eingesetzten Pflanzen sind gegenüber einer ,,kalten Dusche" nicht empfindlich.
+Nutzen des Bodenspeichers
+
+Totalausfall durch Wassermangel.
+Bodenspeicher als Retentionsvolumen in die Planung einzubeziehen. Bei extensiv und intensiv begrünten Dächern können die verschiedenen Aufbauvarianten mit Speichervlies oder Wasserspeicherelementen die Aufgabe übernehmen, die Feldkapazität des durch die Bebauung verloren gegangenen Bodenkörpers nachzubilden.
+
+bis zum Totalausfall sind die Folge. Ein gesunder Pflanzenbestand mit hoher Verdunstungsleistung ist nur bei einer gleichmäßigen Bodenfeuchte während der Vegetationsperiode erreichbar. Mit Hilfe moderner Bewässerungstechnik mit Bodenfeuchtesensoren kann in Trockenzeiten das gespeicherte Regenwasser gezielt ausgebracht werden.
+
+Regenwasserrückhalt in Speichern und Rigolen ist kostenintensiv. Die Speicherkapazität des natürlich anstehenden Bodens der nicht versiegelten Flächen wird selten gezielt genutzt. Die Feld- beziehungsweise Wasserkapazität von Böden und Substraten ist bei bindigen Böden sehr hoch, bei Sandböden und vor allem bei körperreichen Substraten für extensive Begrünung relativ gering. Für die Nachbildung des Natürlichen Wasserhaushalts ist es daher sinnvoll, auch den
+
+Einen Anteil des Niederschlagswassers sollte man in Regenwasserspeichern bevorraten, um Wasser für folgende niederschlagsarme Zeitspannen zu bevorraten. Um den Wasserbedarf der Pflanzen zu decken, muss vermieden werden, dass die nutzbare Feldbeziehungsweise Wasserkapazität unter 40 Prozent absinkt. Bei Werten unter dieser Schwelle setzt Trockenstress ein. Ein erhöhter Schädlingsdruck und Pflanzenschäden durch Welke und Absterben von Pflanzenpartien
+
+Bewässerung von Fassadenbegrünungen
+Kein Platz für bodennahe Bauweisen. Auch dann können Pflanzen für die Verdunstung eingesetzt werden. Steht bei bodengebundenen Fassadenbegrünungen meist noch ein, wenn auch oft begrenzter, Wurzelraum mit höherem Wasserspeicherungspotential zur Verfügung, ist dies bei wandgebundenen Fassadenbegrünungen nicht gegeben. Diese u
+
+BLÜHENDE DACHLANDSCHAFTEN IM HERZEN STUTTGARTS
+
+DACHBEGRÜNUNG Garten-Moser, 72762 Reutlingen, T. 07121/9288-0 | www.garten-moser.de
+
+Markante Architektur ­ aaufwendig gestaltete Dachbegrünung
+· Extensive und intensive
+Begrünung, Bepflanzung
+· Plattenbeläge, Wege in
+Elastopave-Beschichtung
+· Amorphe Linienführungen · Viele hochwertige Details
+
+Regenwasserbewirtschaftung
+
+Bodenferne Fassadenbegrünung mit wenig Substrat.
+
+bodenferne Art der vertikalen Begrünung der Gebäudehülle ist ohne eine Bewässerungsanlage nicht möglich. Natürliche Niederschläge werden zu einem großen Teil von den Blättern abgeleitet oder zurückgehalten (Interzeptionsverlust) und stehen für die Pflanzen nicht zur Verfügung. Je nach Sonnenexposition kann die Verdunstung deutlich über der einer horizontalen Gebäudebegrünung liegen. Wasserspeicher sind aufgrund statischer Belange nur eingeschränkt möglich. Auch im Winter muss bei Verwendung immergrüner Pflanzen in frostfreien Perioden durch den Einbau geeigneter Komponenten und einer witterungsabhängigen Steuerung der Bewässerungsanlage eine zuverlässige Zusatzbewässerung gewährleistet sein. Eine Fernüberwachung der Bodenfeuchte über Sensoren und der Funktion der Bewässerungsanlage ist mit modernen Bewässerungssteuerungen über Internet möglich.
+
+Bewässerungstechnik für die Regenwasserbewirtschaftung
+
+QUEllE: KRESKo
+
+Voraussetzung für eine funktionierende Bewässerungsanlage ist eine ausreichende Wasserversorgung mit einem ausreichend dimensionierten Betriebswasseranschluss (Regenwasser). Für die Pumpen der Regen-
+
+Trennstation.
+
+14 GebäudeGrün 2/2018
+
+QUEllE: GUNTER MANN/BUGG
+
+Der Autor
+Dipl. Ing. (FH) Architektur Reiner Götz M.eng. (Stadtplanung) WasserUmweltStadtArchitektur 70195 Stuttgart
+R.Goetz@wus-architektur.de
+wasserzentrale wird eine Stromversorgung benötigt. Steuergeräte für die Bewässerungsanlage sind mit 230-Volt-Stromversorgung, aber auch mit Batteriebetrieb verfügbar. Mit den Informationen von an die Steuerung angeschlossenen Bodenfeuchtesensoren, Durchflusssensoren, Wetterstationen und anderen Geräten, kann auch über Fernüberwachung mit internetbasierte Steuersystemen der Bodenwasserhaushalt überwacht werden.
+Zum Thema Bewässerungstechnik ist die lektüre des im Ulmer Verlag von Prof. Stephan Roth-Kleyer in der Reihe ,,Fachbibliothek grün" erschienene Fachbuch ,,Bewässerung im Garten- und landschaftsbau" (ISBN 978-3-8001-8386-9; 49,90 Euro) zu empfehlen.
+Für eine Bewässerungsanlage ist gemäß der Fll-Richtlinie ,,Richtlinien für die Planung, Installation und Instandhaltung von Bewässerungsanlagen in Vegetationsflächen" (Ausgabe 2015; ISBN 978-3-940122-56-8; 33,00 Euro) eine Wasserquelle zu wählen, bei der das Wasser für Bewässerungszwecke geeignet ist. Uneingeschränkt gilt dies für Regenwasser und Grauwasser. Für niederschlagsarme Zeiten sollten Bewässerungsanlagen, die mit Regen- und Grauwasser betrieben werden, mit einer Trinkwassernachpeisung gemäß DIN EN 1717 ausgerüstet werden. Trinkwasser ist in der Regel als Bewässerungswasser geeignet. Fest installierte Bewässerungsanlagen dürfen nicht direkt mit dem Trinkwassernetz verbunden werden. Eine Systemtrennung nach DIN 1988-100 muss vorgesehen werden. Ich empfehle den Einbau einer Trennstation gemäß DIN EN1717, die den höchsten Schutz gegen Verunreinigung oder Verkeimung für das Trinkwasser bietet und zusätzlich als Druckerhöhungsanlage dienen kann.
+
+Regenwasserbewirtschaftung
+Umdenken erwünscht ­ auch in Sachen Regenwasserbewirtschaftung
+Das Dach als Wasserspeicher
+
+Retention ­ also Wasserrückhalt ­ auf Dächern setzt ein Umdenken bei Architekten, Flachdach-Abdichtern und Entwässerungsplanern voraus. Bislang war und ist es immer noch gängig, Flachdächer so auszubilden,
+
+dass die bei Niederschlag auftreffende Wassermenge möglichst schnell vom Dach abgeführt wird. Genauso schnell ist dann aber auch bei Starkregen die Kanalisation überlastet und Überflutung vorprogrammiert.
+
+In Zeiten des Klimawandels und zunehmen-
+
+der Flächenversiegelung verschärft sich diese
+
+Problematik zusehends. Also warum nicht
+
+das Dach als Retentions-Speicher verwen-
+
+den?
+
+u
+
+QUEllE: ZINCo
+
+Umdenken ist erforderlich, denn aktuell wächst die Hochwassergefahr in Städten infolge Versiegelung und zunehmender Starkregenereignisse.
+GebäudeGrün 2/2018 15
+
+Regenwasserbewirtschaftung
+
+möglichst gering gehalten wird und dass es nicht zur statischen Überlastung eines Daches kommt.
+
+Wie eingangs erwähnt ist allerdings ein großer Nachteil dieser Bauweise, dass das Niederschlagswasser, welches bewusst schnell von den Dächern abgeführt wird, natürlich genauso schnell in der Kanalisation beziehungsweise im Vorfluter landet. Dort aber reichen die Kapazitäten oftmals nicht mehr aus und es kommt zu Überflutungen. Diese Problematik wiederum macht teure Rückhaltebauwerke notwendig.
+
+Rückhaltevolumen direkt auf dem Dach
+
+Sinnvoll wäre es also, das Rückhaltevolumen möglichst gleich am ort des Auftreffens des Niederschlages ­ also zum Beispiel auf Flachdächern ­ zur Verfügung zu stellen. Flachdächer müssen in vielen Bereichen ohnehin gebaut werden (Schulen, Büro, Gewerbe, Industrie,...) und eine zusätzliche last von 50, 60 oder 80 Kilogramm pro Quadratmeter stellt, solange sich ein Dach in der Planungsphase befindet, überhaupt kein Problem dar. Auch die zusätzlichen fünf, sechs oder acht Zentimeter, die die Dachabdichtung höher hinauf gezogen werden muss (bzw. die Wanne auf dem Dach tiefer werden muss) sind architektonisch und bautechnisch keinerlei Hinderungsgrund.
+
+Das ,,Retentions-Gründach", wie auf diesem Tiefgaragendach in Ratingen, speichert Regenwasser gezielt auf dem Dach und lässt es zeitverzögert abfließen.
+
+Die aktuelle Situation sieht so aus, dass gemäß einschlägiger Normen (DIN 18531 vom Juli 2017) und Richtlinien (Flachdachrichtlinie vom Dezember 2016) Flachdächer im Regelfall mit einem Gefälle von mindestens zwei Prozent ausgebildet werden. Gemäß DIN EN 12056 bzw. DIN 1986 (Entwässe-
+
+rungsnormen) werden Dachgullys so bemessen, dass es bei Freispiegelentwässerung bis zum Falle des Bemessungsregens nicht zu einem Rückstau auf der Dachfläche kommt. Ausbildung von Gefälle und rückstaufreie Entwässerung sollen dazu beitragen, dass im Falle einer Undichtigkeit der Schaden
+
+Selbstverständlich ist es sinnvoll, ein Dach, das als Retentionsraum genutzt wird, gefällelos auszubilden, damit das Volumen des dort zu speichernden Wassers möglichst groß wird und es zu einer gleichmäßigen Belastung der Deckenkonstruktion kommt. Grundsätzlich lassen sowohl die Dachabdichtungsnorm DIN 18531 als auch die Flachdachrichtlinie auch Bauweisen mit weniger als zwei Prozent Gefälle zu. Als Beispiel, wo dies sinnvoll ist, werden in den Richtlinien
+
+QUEllE: MITSUBISHI ElECTRIC EURoPE B.V.
+
+16 GebäudeGrün 2/2018
+
+Regenwasserbewirtschaftung
+
+intensive Dachbegrünungen mit Anstaubewässerung genannt. Und exakt so werden Intensivbegrünungen seit Jahrzehnten funktionssicher gebaut. Mehr als vierzig Jahre
+
+Erfahrung zeigen, dass eine Angst vor Wasseranstau auf dem Dach gänzlich unbegründet ist. Und zudem schützen Dachbegrünungen die Dachabdichtung weitaus
+
+besser als zum Beispiel ein Kiesbelag, da die Begrünung zuverlässig starke Temperaturschwankungen verhindert.
+u
+
+QUEllE: ZINCo
+
+Das präzise einstellbare Drosselelement reguliert zuverlässig Wasseranstau und -abfluss innerhalb des ,,Retentions-Gründachs". Auch die Überlaufhöhe wird gezielt eingestellt.
+
+QUEllE: ZINCo
+
+QUEllE: ZINCo
+
+Durch gegeneinander verschiebbare Ringe wird der Wasserdurchlass am Drosselelement eingestellt und fixiert.
+
+Das Drosselelement liegt geschützt unterhalb des Kontrollschachtes und reguliert den langsamen Wasserabfluss. Es fungiert gleichzeitig als Überlauf.
+
+GebäudeGrün 2/2018 17
+
+Regenwasserbewirtschaftung
+
+Perfekte Technik für die Retention
+Eine gewöhnliche Extensivbegrünung speichert zwischen 20 und 40 liter pro Quadratmeter Wasser, eine Intensivbegrünung dank gezieltem Wasseranstau und höherer Substratschicht bereits zwischen 50 und 100 liter pro Quadratmeter in Einzelfällen sogar darüber. Nicht jeder möchte jedoch solch einen (schweren) Dachgarten, den er später hegen und pflegen muss. Auch (pflege-) leichte Extensivbegrünungen lassen sich mit einem Wasseranstau auf dem Dach kombinieren. Der Retentions-Spacer RS 60 im ,,ZinCo-Retentions-Gründach" ermöglicht allein eine zusätzliche Speicherung von annähernd 60 liter pro Quadratmeter Wasser auf dem Dach. Vollflächig verlegt, gewährleisten diese Spacerelemente einen definierten Abstand zwischen Höchststand Anstauwasser und Begrünungsaufbau. Wie hoch dieser Hohlraum sein muss, hängt zum Beispiel von der örtlichen Regenspende oder von Einleitungsbeschränkungen ab und ist vom Entwässerungsplaner vorzugeben.
+In Sachen Transport, lagerung und Verarbeitung auf der Baustelle ist der Retentions-Spacer RS 60 im Gegensatz zu anderen Spacer-Elementen im deutlichen Vorteil, da die leichten Kunststoffelemente ineinander stapelbar und dadurch enorm platzsparend sind.
+Der Autor
+Dipl.-Ing. (FH) Gartenbau Ralf Walker Abteilungsleiter Forschung und Entwicklung ZinCo GmbH 72622 Nürtingen
+info@zinco-greenroof.com
+
+Präzise Drosselung
+Abgesehen vom eigentlichen Speichervolumen sind weitere Bestandteile des Systemaufbaus ,,Retentions-Gründach" ausschlaggebend. So muss der Volumenstrom an Niederschlagswasser, der durch die Dachgullys in die Fallleitungen gelangt, natürlich entsprechend gedrosselt werden. Hierfür wurde ein präzise regulierbares Drosselelement entwickelt, das einfach auf Gullys mit angeschäumten Abdichtungskragen aufgesetzt werden kann, und zwar unabhängig vom Gully-Hersteller. Der vorausberechnete Volumenstrom lässt sich hier auf einfache Art und Weise voreinstellen und fixieren. Dazu dienen gegeneinander verschiebbare Ringe. Üblicherweise wird hier eine Einstellung vorgenommen, die gewährleistet, dass nach etwa 24 Stunden das Dach wieder leer ist, aber auch davon abweichende Einstellungen sind möglich.
+Selbstverständlich fungiert das Drosselelement per se auch als Überlauf. Dieser ist mit einem Gewinde gezielt auf eine bestimmte Überlaufhöhe einstellbar und stellt sicher, dass Überschusswasser in die Fallleitungen abfließt, sofern es mehr regnet, als auf dem Dach angestaut werden kann.
+Damit all dies auch dauerhaft einwandfrei funktioniert, liegen Gully samt Drosselelement geschützt unterhalb des Kontrollschachts, dessen Feinschlitzung das Einschwemmen von Fremdstoffen verhindert.
+Alle Möglichkeiten nach oben offen
+oberhalb des beschriebenen Retentionsvolumens befindet sich nun der eigentliche Begrünungsaufbau. Dieser stellt alle für das Funktionieren der Dachbegrünung wichtigen Aspekte sicher, wie luft-Wasser-Haushalt im Wurzelraum, Dränage und Wasserspeicherung für die Pflanzen. Dank dieser Zweiteilung werden Vegetationsumbildung oder
+
+gar Staunässe und Wurzelfäulnis sicher vermieden. Und es sind alle denkbaren Dachbegrünungs- und Nutzungsvarianten möglich, auch Geh- und Fahrbeläge. Für höhere lasten, wie sie bei einem Fahrbelag auftreten, gibt es geeignete Elemente. So sind alle Möglichkeiten nach oben offen ­ hinsichtlich Gestaltung und auch hinsichtlich Steigerung des Retentionsvolumens.
+letzteres lässt sich nämlich durch die Modifikation des RSX-Spacers verdoppeln bzw. vervielfachen. Das geht problemlos, sofern auch die Statik des Daches darauf ausgelegt wird.
+Jetzt umdenken!
+Das Retentions-Gründach" bietet die perfekte Technik mit den aufeinander abgestimmten Bestandteilen von Retentions-Spacer und Drossel-Set (Drosselelement und Kontrollschacht). Unter Berücksichtigung der Parameter wie Dachgröße, örtliche Regenmenge (nach Kostra-Atlas), gewünschtem Anstauvolumen, Abflussmenge und Zeit, lässt sich das System objektgerecht einplanen. Dabei stehen die Ingenieure der ZinCo-Anwendungstechnik zu Diensten.
+Nur durch Information können vorhandenen Vorbehalte gegenüber dem Thema ,,Wasseranstau auf dem Dach" begegnet und entkräftet werden. Dann ist der Weg frei, Flachdächer gezielt als Retentionsfläche zu nutzen. Extensivbegrünungen werden dann mit Retention gebaut, so dass sie dieselben hohen Wasserrückhaltewerte wie bei einer Intensivbegrünung erzielen. Gleichsam werden auch Intensivbegrünungen und Belagsflächen jeglicher Art wie selbstverständlich mit Retention kombiniert und damit das Retentionsvolumen gesteigert. Genau das gleicht künftig Niederschlagsspitzen aus und reduziert die Hochwassergefahr.
+www.zinco.de
+
+18 GebäudeGrün 2/2018
+
+Forschung
+Verdunstungsintensive Gründächer für das Regenwassermanagement
+Sumpfpflanzen zur Dachbegrünung
+
+Gründächer erfreuen sich besonders im urbanen Raum immer größerer Beliebtheit. Eine zunehmende Zahl von Städten fördert die Dachbegrünung durch Gründachstrategien, die auf die regionalen Gegebenheiten zugeschnitten sind. Dabei gehen die Aktivitäten von der finanziellen Förderung des Gründachbaus bis zur Kreation regional besonders geeigneter Saatgutmischungen, wie aktuell beispielsweise der ,,leipziger Gründachmischung".
+
+QUEllE: FIRMA RHIZoTECH
+
+Je nach örtlichen Gegebenheiten und insbesondere auch für Bestandsgebäude, mit ihrer häufig vergleichsweise geringen lastreserve, gibt es heute für nahezu jedes Gebäude eine geeignete Möglichkeit der Gründachgestaltung. Dabei geht die Band-
+
+Abb. 1: Aufbau eines Sumpfpflanzendachs mit 15° Neigung.
+
+QUEllE: A. ZEHNSDoRF
+
+Abb. 2: Pilotsumpfpflanzendach mit 4,5 m2 Grundfläche.
+
+u
+GebäudeGrün 2/2018 19
+
+Forschung
+
+Abb. 3: Sumpfpflanzendach der Bundesforschungsanstalt für Landwirtschaft (FAL) in Braunschweig mit einer Fläche von 834 m2 im Betrieb mit Regenwasser.
+
+oft schon für andere Nutzungsformen vorgesehen. Hier können verdunstungsintensive Dachflächen eine geeignete Alternative bieten.
+Das Sumpfpflanzendach ist besonders dann interessant, wenn praktisch immer (Regen)Wasser zum Verdunsten zur Verfügung steht, wozu dieses zum Beispiel in Zisternen zwischengespeichert werden kann. Es ist eine Form der extensiven Dachbegrünung, wobei die Sumpfpflanzen flächendeckend auf das Dach aufgebracht und in Intervallen täglich bewässert werden. Als Pflanzenträger dient eine textile Matte, die von den Pflanzen
+
+QUEllE: M. BlUMBERG
+
+QUEllEN: A. ZEHNSDoRF
+
+QUEllEN: A. ZEHNSDoRF
+
+Abb. 4a+b: Durchwurzelung der Pflanzenträgermatte im Juli 2015 (links) und Oktober 2017 (rechts).
+
+breite von der einfachen extensiven Dachbegrünung bis zum aufwendigen Dachgarten oder sogar der Bar auf der ,,fünften Gebäudefassade" (Köhler 2017).
+Da Gründächer im städtischen Raum zunehmend auch in das Regenwassermanagement eingebunden werden, etabliert sich in letzter Zeit mehr und mehr auch eine auf den ersten Blick ungewöhnliche Version der Dachbegrünung: das verdunstungsintensive Sumpfpflanzendach. Diese Art der Dach-
+
+begrünung ist besonders dann interessant, wenn beispielsweise durch Nachverdichtung im städtischen Raum Wohnquartiere entstehen, in denen das anfallende Regenwasser vor ort verdunstet werden soll. Dies ist besonders dort der Fall, wo das vorhandene Kanalsystem weitgehend ausgelastet ist oder die Einleitung des Regenwassers in nahe Fließgewässer dem Hochwassermanagement zuwider läuft. Ebenerdige Flächen sind in solchen Fällen selten in ausreichender Größe vorhanden, sie sind preisintensiv und
+
+durchwurzelt wird. Diese Trägermatte dient als Verankerungsbasis und Wasserspeicher (BlUMBERG 2011).
+Zur näheren Untersuchung von Sumpfpflanzen als Dachbegrünung wurde am Helmholtz-Zentrum für Umweltforschung in leipzig ein ebenerdiges, praxisnahes Pilotdach mithilfe einer Holzkonstruktion (4,4 m länge, 1,1 m Breite, 15° Neigung) realisiert (Abb. 2). Diese Pilotanlage entspricht den von der Firma Rhizotech bereits in der Praxis mit
+
+20 GebäudeGrün 2/2018
+
+Monat/Jahr
+
+Abtropfgewicht max. [kg/m2]
+
+Wasserhaltekapazität [%]
+
+Pflanzenfrischmasse
+[kg/m2]
+
+Höhe des Wurzelraums [m]
+
+7/2015 10/2016
+
+55,3 77,1
+
+62,2 ± 2,1 61,9
+
+­ 4,6 ± 1,4
+
+0,11 ± 0,04 0,11
+
+Tab. 1: Daten für die Sumpfpflanzenmatten für 2015 und 2017 (Standardabweichung bei n=4)
+
+Regenwasser erprobten Konstruktionsvorgaben (Abb. 3).
+Zur Wasserversorgung wurde in die Holzkonstruktion ein 200 liter fassender Tank, quasi als ,,Minizisterne", eingebaut. Die Bewässerung der Sumpfpflanzenmatte erfolgte zeitgesteuert viermal täglich an der oberen Stirnseite der Konstruktion, über die gesamte Breite mit Hilfe einer Pumpe und eines PVCRohrs mit zehn Bohrungen von je drei Millimeter Durchmesser. Die eingestellte Flächenbelastung betrug über die gesamte Vegetationsperiode 2017 täglich zehn liter Wasser pro Quadratmeter. Da das Dach 2017 Teil einer Ausstellung im Botanischen Garten leipzig war wurde es in der 28. und 32. Kalenderwoche gedüngt, wodurch die Pflanzen deutlich üppiger wuchsen als bei reiner Regenwasserbewässerung (Abb. 2).
+
+(Myosotis scorpioides) ergänzt. Die ermittelten Kenndaten der Sumpfpflanzenmatte für die Jahre 2015 und 2017 sind in Tabelle 1 dargestellt.
+Da die Pflanzenfrischmasse oberhalb der Wurzelmatte nur einen geringen Anteil vom Gesamtgewicht ausmacht (siehe Tab. 1), ist die Zunahme des Abtropfgewichtes von 2015 zu 2017 nur mit einer deutlichen Dichtezunahme im Wurzelraum zu erklären. Ein signifikanter Höhenzuwachs des Wurzelraums fand im Untersuchungszeitraum nicht statt (Tab. 1).
+Die textile Pflanzenträgermatte war bereits 2015 gut durchwurzelt, bis Ende 2017 entwickelte sich ein noch dichteres Wurzelwerk, das die Trägermatte komplett einschloss (Abb. 4).
+
+Bereits im Jahr 2015 war das Pilotsumpfpflanzendach im Rahmen einer Bachelorarbeit hinsichtlich seiner Eignung zur Reinigung von Grauwasser untersucht worden (Zehnsdorf u. a. 2016). Zum Einsatz kam ein von der Gärtnerei Rhizotech (Rosdorf) zweijährig vorkultivierter Vegetationsträger mit der Sumpf-Segge (Carex acutiformis) als Hauptbestandsbildner. In geringer Anzahl waren Blaugrüne Binse (Juncus inflexus), FlatterBinse (Juncus effusus), Ufer-Segge (Carex riparia) und Blutweiderich (Lythrum salicaria) vorhanden. Für die Ausstellung 2017 wurden aus ästhetischen Gründen Sumpfschwertlilie (Iris pseudacorus), Pfennigkraut (Lysimachia nummularia) und Sumpf-Vergissmeinnicht
+
+Während der Vegetationsperiode 2017 wur-
+
+de das Sumpfpflanzendach viermal täglich
+
+bewässert, wobei pro Quadratmeter zehn
+
+liter Wasser beaufschlagt wurden. Diese
+
+Wasserzufuhr reichte aus, damit der Ablauf
+
+des Pilotdaches im Versuchszeitraum nie
+
+trocken fiel. Somit stand für die gesamte
+
+Dachfläche permanent Wasser zur Verduns-
+
+tung durch den Pflanzenbewuchs zur Ver-
+
+fügung. Von Anfang August bis Anfang
+
+September wurde im Zentrum des Wurzel-
+
+raums die Temperatur gemessen und auf-
+
+gezeichnet. Als Referenz diente ein Kiesdach
+
+mit weißem Kies. Die Ergebnisse dieser
+
+Temperaturmessungen sind in Abb. 5 dar-
+
+gestellt.
+
+u
+
+Sitaleicht. Jetzt auch online erleben: sita-bauelemente.de
+SitaDrain® Terra Für Terrassen und begrünte Dächer.
+Anpassungsfähig durch verstellbare Füße In Stahl oder Edelstahl verfügbar Einsatz als Revisionsschacht ­ die ideale Ergänzung zum Balkon- oder Attikagully
+
+Forschung
+
+QUEllE: A. ZEHNSDoRF QUEllE: A. ZEHNSDoRF
+
+Abb. 5: Temperaturen im Zentrum des Wurzelraums der Sumpfpflanzenmatte und des Kiesdachs.
+
+Abb. 6: Reger Insektenbesuch auf den Sumpfpflanzen, insbesondere am Blutweiderich.
+
+Der Autor
+Prof. Dr.-Ing. Andreas Zehnsdorf Arbeitsgruppenleiter Bioprozesstechnik am Department UBZ Helmholtz-Zentrum für Umweltforschung ­ UFZ 04318 leipzig
+andreas.zehnsdorf@ufz.de
+Während im Kiesdach Temperaturspitzen bis zu 45 Grad Celsius auftraten, lag die Temperatur im Inneren der Wurzelmatte des Sumpfpflanzendaches nie über 25 Grad Celsius. Als Maximum wurde eine Temperaturdifferenz zwischen den beiden Dächern
+
+von 25 K ermittelt (Abb. 5). Damit konnte ein deutlicher Kühleffekt für das Sumpfpflanzendach gezeigt werden, der sich bei einer entsprechenden Dachbegrünung zur Gebäudeklimatisierung in den Sommermonaten nutzen lässt.
+In der Praxis wird für den Winterbetrieb der Bewässerungscomputer so programmiert, dass bei sinkenden Temperaturen (ab 3 °C plus) die Wasserförderung auf das Dach abgestellt wird. Das Restwasser in den Bewässerungsleitungen läuft über ein Entleerungsventil in die Zisterne zurück. Sumpfpflanzen besitzen die Fähigkeit, dass sie die lebenstätigkeit auch in der kalten Jahreszeit nicht vollständig einstellen. Viele dieser Pflanzenarten sind frosttolerant und sehr robust gegenüber Witterungseinflüssen. Sie
+
+können im Sommer Reservestoffe speichern und diese im Winter für einen reduzierten Stoffwechsel nutzen. Neben der automatischen Frostabschaltung kann auch eine temperaturabhängig variierende Bewässerungsmenge entsprechend dem Wasserbedarf der Sumpfpflanzenmatten für Frühling, Sommer und Herbst programmiert werden. Die Pflanzen des Pilotsumpfpflanzendaches, insbesondere der blühende Blutweiderich, lockten eine Vielzahl von Insekten an. Das Artenspektrum der Pflanzen und Tiere eines Sumpfpflanzendaches soll perspektivisch eingehender untersucht werden.
+www.blumbergengineers.com/de/22/sumpfpflanzen-
+daecher
+
+Quellen: Blumberg, M. (2011): Sumpfpflanzendächer als Variante der Dachbegrünung, in GWF Praxiswissen, Band 1, Regenwasserbewirtschaftung, ISBN 978-3-8356-3257-8. Köhler, M. (2017): Rooftop Bars: Dachbars und Dachgärten weltweit. Patzer Verlag, ISBN 978-3-8761-7145-6.
+
+Zehnsdorf, A., N. Stock, J. Richter, M. Blumberg, R. A. Müller, (2016): Grauwasserreinigung mit einer Sumpfpflanzenmatte unter Praxisbedingungen. Chem. Ing. Tech., 88 (8), 1138­1144.
+
+22 GebäudeGrün 2/2018
+
+Natur und Kunst für besseres Mikroklima
+Urban Micro Climate Canopy
+
+Forschung
+
+,,Urban Micro Climate Canopy" ist ein architektonischer Prototyp, der als eine innovative pflanzlich-technische Verbundstruktur neue Möglichkeiten aufzeigt, wie das Mikroklima in unseren Städten verbessert werden könnte. Die robotisch gefertigte leichtbaukonstruktion ist mit Kletterpflanzen und Moosen begrünt und während der ,,luminale ­ Biennale für lichtkunst und Stadtgestaltung" vom 18. bis 23. März 2018 an der Hauptwache in Frankfurt am Main erstmals im öffentlichen Raum erlebbar.
+Das Projekt wurde in einem interdisziplinären Team von Architekten, landschaftsarchitekten und Ingenieuren der Technischen Universität München TUM an der Schnittstelle von lehre und Forschung entwickelt. Es ist ein
+
+erstes Versuchsbauwerk einer Forschungskooperation zwischen der Professur für Green Technologies in landscape Architecture (TUM), dem lehrstuhl für Gebäudetechnologie und klimagerechtes Bauen (TUM) und der Firma FibR GmbH aus Stuttgart.
+Insbesondere vor dem Hintergrund des Klimawandels und der zunehmenden städtischen Verdichtung ist die Gestaltung öffentlicher Plätze eine immer größer werdende Herausforderung. Bäume sind gut fürs Stadtklima, doch sie brauchen auch Platz und vor allem Erdreich für ihre Wurzeln. In Städten ist der Boden jedoch oft nicht für eine Bepflanzung geeignet, weil die Flächen versiegelt sind und sich darunter leitungen oder U-Bahnschächte befinden. Um dennoch
+
+Grün in die Metropolen zu bringen, wurde ,,Urban Micro Climate Canopy" als eine ,,künstliche Baumkrone" entwickelt.
+Dank neuer, robotergestützter Fertigungsverfahren ist es gelungen, eine modulare leichtbaustruktur zu schaffen, die transparent und doch hoch stabil ist. In diese Konstruktion sind ­ ähnlich einer Dachbegrünung ­ Vegetationsbereiche integriert, in denen Kletterpflanzen und Moose wachsen. Moose sind dafür bekannt, Feinstaub und Stickoxide binden zu können und tragen so zu einer Verbesserung der luftqualität bei. Kletterpflanzen können rasch eine große Blattmasse entwickeln und dadurch ­ wie ein ausgewachsener Baum ­ ein kühlendes Schattendach erzeugen. Durch die Verbindung u
+
+QUEllE: TUM/FIBR
+
+Integration verschiedener Funktionen.
+
+GebäudeGrün 2/2018 23
+
+Forschung
+
+Die Autoren
+TUM Prof. Ferdinand ludwig und lorenz Boigner, Professur für Green Technologies in landscape Architecture
+TUM Prof. Thomas Auer und Daniele Santucci, lehrstuhl für Gebäudetechnologie und klimagerechtes Bauen
+Moritz Dörstelmann, FibR GmbH
+ferdinand.ludwig@tum.de
+
+QUEllE: TUM/FIBR QUEllE: TUM/FIBR
+
+Modulares Aufbaukonzept.
+
+Der ,,Urban Micro Climate Canopy" in der Produktion.
+computergestützter Entwurfsverfahren und Robotik mit den klimatischen und ästhetischen Potentialen lebender Pflanzen entsteht eine innovative Mikroarchitektur, die eine neue Dimension in der Gestaltung öffentlicher Räume ermöglicht und insbesondere in städtischen Hitzeinseln den Außenraumkomfort verbessern soll. In den ,,künstlichen Baum" lässt sich Beleuchtung und Sensorik zur Messung des Mikroklimas integrieren. Hierdurch können wertvolle Daten zum städtischen Mikroklima gesammelt, sowie die Auswirkungen der Installation auf den wahrgenommenen Aufenthaltskomfort untersucht werden.
+
+zur Anwendung, sondern gleichermaßen aufgrund ihrer hervorragenden lichtleitenden Eigenschaften.
+Der gezeigte Prototyp stellt einen beispielhaften Ausschnitt eines möglichen Umsetzungsprojekts dar. Ziel ist es, Plätze großflächig mit einer derartigen Struktur zu bespielen, um so großmaßstäblich klimamodulierend in den öffentlichen Raum einzu-
+
+greifen und die Aufenthaltsqualität im Freiraum nachhaltig zu verbessern.
+Am Anfang des Entwurfsprozesses stand das konstruktive Ziel, leichtbaumodule zu entwickeln, die unterschiedliche pflanzliche und technische Elemente aufnehmen und in ihrer Geometrie an wechselnde räumliche Zielsetzungen und örtliche Bedingungen angepasst werden können. Zur Herstellung
+
+PROJEKTDATEN Standorte:
+Fertigstellung: Überdachte Grundfläche: Spannweite: Höhe: Tragwerksgewicht:
+
+München, Deutsches Museum: 03.­11. März 2018 Frankfurt, Hauptwache, luminale: Biennale für lichtkunst und Stadtgestaltung: 18. - 23. März 2018 Technische Universität München, Arcisstraße 21: voraussichtlich ab Mai 2018 2018 38 m2 7m 3,5 m 560 kg/15 kg/m2
+
+Die Struktur schafft Aufenthaltszonen mit unterschiedlichen Schatten- und lichtstimmungen, wobei die Materialeffizienz der zugrundeliegenden leichtbaustruktur mit einer leichtigkeit und Transparenz einhergeht, die besondere Möglichkeiten der Beleuchtung eröffnet. Die für die Tragstruktur verwendeten Glasfasern kommen hierbei nicht nur aufgrund ihrer Trageigenschaften
+
+PROJEKTBETEILIGTE UND SPONSOREN ­ Professur für Green Technologies in landscape Architecture, TUM Prof. Ferdinand
+ludwig, lorenz Boigner, lehrstuhl für Gebäudetechnologie und klimagerechtes Bauen, TUM Prof. Thomas Auer, Daniele Santucci, FibR GmbH Moritz Dörstelmann
+­ Design-Team: Teodor Andonov, Andrea Fölbach, Carlo Guernier, luciano Majorano, Francesco Martini, Qiguan Shu, Björn Siegmund, Marco Zanchetta
+­ FibR GmbH, KUKA Roboter GmbH, Hexion Stuttgart GmbH, owens Corning, Bruns Pflanzen-Export GmbH & Co. KG, Vertiko GmbH
+
+24 GebäudeGrün 2/2018
+
+Forschung
+
+QUEllE: TUM/FIBR
+
+QUEllE: TUM/FIBR
+
+Der ,,Urban Micro Climate Canopy" nach der Fertigstellung.
+
+QUEllE: TUM/FIBR u
+
+Blickfang und Botschaft für besseres Stadtklima.
+t
+Kunst und Natur im Einklang.
+
+dieser Elemente wurde eine innovative robotische Fertigungstechnik für leichtbaustrukturen verwendet. Hierbei werden wiederverwendbare Rahmenkonstruktionen von einem Industrieroboter mit harzgetränkten Glasfaserbündeln umwickelt, sodass zweifach gekrümmte, netzartige Strukturen entstehen. Nach der Aushärtung des Harzes wird der Rahmen herausgenommen und für die Fertigung weiterer Elemente wiederverwendet. Durch eine Variation des Wickelmusters, der Stärke der Faserbündel und der Anzahl der lagen kann auf unterschiedliche konstruktive Anforderungen reagiert werden.
+
+Das Ergebnis ist ein materialeffizienter, weitgehend abfallfreier Herstellungsprozess, bei dem auf den sonst üblichen Formenbau verzichtet werden kann.
+Ein erster Testaufbau der ,,Urban Micro Climate Canopy" war bereits im Rahmen der ,,Munich Creative Business Week 2018" im Deutschen Museum in München ausgestellt. Nach der luminale in Frankfurt soll der circa drei Meter hohe Prototyp mit einer Grundfläche von ca. 7,2 auf fünf Metern im Sommer 2018 auf dem Campus der TUM aufgebaut werden und dort eine län-
+
+gere Testphase durchlaufen. Dabei sollen zusätzlich zu den bislang verwendeten Efeupflanzen weitere Kletterpflanzen auf ihre Eignung getestet werden und im Sockelbereich soll ein Regenwassermanagementsystem integriert werden. In einem nächsten Forschungsschritt sollen die Wachstumsmuster und die mikroklimatische Performance unterschiedlicher Pflanzenarten parametrisiert werden, um sie systematisch in den computerbasierten Entwurfsprozess integrieren und ihre Wirkungen simulieren zu können.
+www.umcc.eu
+
+GebäudeGrün 2/2018 25
+
+Infos vom BuGG
+
+Messe Bautec/Grünbau in Berlin
+Erfolgreicher Jahresauftakt für Gebäudebegrüner
+
+Die Fachvereinigung Bauwerksbegrünung e. V. (FBB) hat das Jahr 2018 gleich mit einer Messepräsenz samt Symposium begonnen und über Dach-, Fassaden- und Innenraumbegrünung informiert. Den Auftakt machte am 20. Februar das FBB-Symposium Gebäudebegrünung in Berlin im Rahmen der Messe Bautec. Die organisatoren Dr. Gunter Mann (FBB-Präsident) und Sylvia van Meegen (FBBGeschäftsstelle) waren erfreut: ,,Ein reger Zuspruch, tolle Vorträge und zufriedene Gäste ­ was wollen wir mehr!? So kann es gerne weitergehen!"
+
+QUEllE: SUSANNE HERFoRT
+
+Mit 170 Teilnehmern volles Haus in Berlin beim FBB-Symposium Gebäudebegrünung.
+
+Der Messestand der FBB auf der Grünbau in Berlin war vor allem nach dem Symposium gut besucht.
+
+Das ,,grün-übergreifend" (Gebäudebegrünung = Dach-, Fassaden- und Innenraumbegrünung) durchgeführte Halbtagesseminar im Rahmen der Grünbau war ein schöner Erfolg ­ die Veranstaltung war mit 170 Personen restlos ,,ausverkauft"! Nach der Begrüßung und Vor-
+
+stellung der FBB durch Dr. Gunter Mann folgten Grundlagenvorträge zu den positiven Wirkungen und Förderungen von Gebäudebegrünungen (Susanne Herfort), zu den Planungsgrundlagen der Dachbegrünung (Dr. Gunter Mann), der Fassadenbegrünung (Dr. Nicole Pfoser) und
+
+der Innenraumbegrünung (Alexander Hildebrand, Fachverband Raumbegrünung und Hydrokultur e. V.).
+Zudem hatte die FBB einen Gemeinschaftsstand auf der Messe, der vor allem nach dem Symposium gut besucht war. Das Thema Gebäudegrün war durchaus ein Thema, dass die Messebesucher interessiert und angezogen hat.
+Eine große Anzahl an Verbänden und FBB-Mitgliedern haben Symposium und Messeauftritt unterstützt: Deutsche Gesellschaft für Nachhaltiges Bauen e. V. (DGNB), Institut Bauen und Umwelt e.V. (IBU), Zentralverband Gartenbau e. V. (ZVG) mit dem Fachverband Raumbegrünung und Hydrokultur, Schweizerische Fachvereinigung Gebäudebegrünung e. V. (SFG), Bundesverband Garten-, landschafts- und Sport-
+
+platzbau e. V. (BGl), Zentralverband des Deutschen Dachdeckerhandwerks e. V. (ZVDH), Bund Deutscher landschaftsarchitekten e. V. (BDlA), Fachvereinigung Betriebs- und Regenwassernutzung e. V. (fbr), optigrün international AG, Vulkatec Riebensahm GmbH, IlD Deutschland GmbH, Helix Pflanzensysteme GmbH, 6 fürs Grün GmbH, Jackon GmbH, Novihum Technologies GmbH, Gelsenrot GmbH, HanseGrand Klimabaustoffe, dani alu GmbH, Novintiss. Sachsenband Metalltechnik GmbH, Carls Stahl GmbH, Biotekt Thorwald Brandwein, Euro lam GmbH, Green Fortune GmbH, Vertical Green Design GmbH.
+Die Vorträge zum Symposium sind verfügbar unter: http://www.gebaeudegruen.info/ service/downloads/fbb-symposien/
+
+QUEllE: SUSANNE HERFoRT
+
+26 GebäudeGrün 2/2018
+
+Infos vom BuGG
+
+15. FBB-Gründachsymposium 2018 in Ditzingen
+Fachwissen und Praxisbeispiele rund um die Dachbegrünung
+
+Schon zwei Wochen nach dem Symposium Gebäudegrün in Berlin war die Fachvereinigung Bauwerksbegrünung e. V. (FBB) mit dem mittlerweile 15. FBB-Gründachsymposium 2018 wieder am Start. FBB-Präsident Dr. Gunter Mann fasste zusammen: ,,Es waren wieder interessante Vorträge mit regen Diskussionen eine rundum gelungene Veranstaltung!"
+
+Das 15. FBB-Gründachsymposium in Ditzingen bei Stuttgart ging mit elf Fachvorträgen auf Neuigkeiten, Trends und besondere Themen des Dachbegrünungsmarktes und der angrenzenden Gewerke ein. Das Ganztagesseminar wurde zudem mit etwa 110 Teilnehmern wieder seiner Rolle als Branchentreff gerecht wie die vielen Gespräche in den Pausen, vor und nach dem Symposium gezeigt haben. Die Vorträge, eingeteilt in die drei Themenbereiche ,,Forschung & lehre", ,,Recht, Richtlinie & Planungsgrundlagen" und ,,Aus der Praxis": Der schweizer Pflanzenfachmann Fritz WassmannTakigawa stellte das FBB-Schlaglicht9 ,,Geeignete Gehölze für Dachbegrünungen" mit Praxisbeispielen vor. Die nach Substrathöhen eingeteilte liste der für Dächer geeigneten Arten ist als pdf-Dokument auf der FBBIntenetseite verfügbar und eine gute Grundlage auch für die immer häufiger kommenden Hochhausbegrünungen. Im anschließenden von Vortrag Prof. Manfred Köhler wurden die Ergebnisse der Vegetationsaufnahmen einer über 15 Jahre alten
+
+QUEllE: SUSANNE HERFoRT
+
+Die Referenten des 15. FBB-Gründachsymposiums 2018 (v. l. n. r.): Dr. Gunter Mann (FBB-Präsident), Björn Ament, Andre Witzel, Beat Ellenberger, Yvonne Göckemeyer, Harald Mattheas, Frank Grootens, Holger Krüger, Dr. Anna Braune, Prof. Manfred Köhler, Rupert Wirzmüller, Fritz Wassmann-Takigawa.
+
+einfachen Intensivbegrünung in der Nähe Hamburg erläutert. Interessant war zu sehen, was sich trotz fehlender Pflege über Jahre hinweg behaupten konnte und was eingewandert war. In einem sehr anschaulichen Vortrag hat Holger Krüger, leiter Anwendungstechnik der Firma Bauder, die Grundlagen der Dachabdichtungsnormen 18531 ff vermittelt. Für die Dachabdichtungen unter Begrünungen gilt seit Mitte letzten Jahres die 18531 Teil 1­5. Mit einem eher ,,exotischen" Thema war Andre Witzel vom Verband Deutscher Blitzschutzfirmen (VDB) vertreten ­ er führte über die Grundlagen von Blitzschutzanlagen aus, insbesondere in Verbindung mit einer Dach-
+
+begrünung. Der Diskussionsbedarf war so groß, dass nicht alle Fragen beantwortet werden konnten und die Verantwortlichen Seitens FBB und VDB nun überlegen, ein Merkblatt zu diesem Thema aufzulegen. Vom Institut Bauen und Umwelt (IBU), einem Kooperationspartner der FBB, war Frank Grootens vor ort und führte über EPDs (Umwelt Produkt Deklaration) und deren Funktionen beim nachhaltigen Bauen aus. Aus dem Bereich Dachbegrünung liegt bislang nur eine EDP vor. Harald Mattheas vom Baureferat Gartenbau der Stadt München hat über die technischen Baustandards für Dachbegrünungen des Baureferats Gartenbau referiert.
+
+In dem interessanten und für alle Zuschauer lehrreichen Vortrag wurden verschiedene Aspekte ­ vom Zugang, über Sicherheit, Material bis zur Pflege ­ angesprochen. Björn Ament stellte das Gründachkataster der Stadt Marburg vor, ist dabei live ins Internet und hat die vielen interessanten Möglichkeiten und Informationen des online-Tools erläutert. Eine gute Arbeits- und Argumentationshilfe für Städte. In Ergänzung zum IBU-Vortrag hat Dr. Anna Braune vom DGNB (Deutsche Gesellschaft für Nachhaltiges Bauen) die Rolle begrünter Dächer beim nachhaltigen Bauen beleuchtet und dazu auch einzelne Beispiele vorgestellt. Tenor in der anschließen- u
+
+GebäudeGrün 2/2018 27
+
+Infos vom BuGG
+
+QUEllE: SUSANNE HERFoRT
+
+durch eine umfassende Regenwasserbewirtschaftung Hochwasserschäden verhindert werden können und welche wichtige Rolle Pflanzen dabei einnehmen. Den krönenden Abschluss machte Beat Ellenberger von der Schweizerischen Fachvereinigung Gebäudebegrünung (SFG) mit einem ergreifenden Plädoyer für Gebäudebegrünung und fand so einen gelungenen Abschluss des Gründachsymposiums in Ditzingen.
+
+Schöne Mischung aus Fachvorträgen und begleitender Fachausstellung.
+
+Wieder großes Interresse beim 15. FBB-Gründachsymposium in Ditzingen.
+
+den Diskussion war, dass sich Pflanzen in Form von Dach-, Fassaden- und Innenraumbegrünungen noch viel stärker positiv im Bewertungsschlüssel des DGNB finden müssen. Der land-
+
+schaftsarchitekt Rupert Wirzmüller aus München stellte den genossenschaftlichen Dachgarten ,,Wagnis 4" vor und zeigte auf, was auch mit geringerem Budget möglich ist. Ein schönes Beispiel,
+
+das Schule machen sollte und schon mehrfach prämiert wurde. Yvonne Göckemeyer, ebenfalls landschaftsarchitektin, stellte am Beispiel des Quartiers Wupperbogen in leichlingen vor, wie
+
+Eine große Anzahl an Verbänden, FBB-Mitgliedern und Verlagen haben das Gründachsymposium unterstützt: Deutsche Gesellschaft für Nachhaltiges Bauen e. V. (DGNB), Institut Bauen und Umwelt e. V. (IBU), Schweizerische Fachvereinigung Gebäudebegrünung e. V. (SFG), Bundesverband Garten-, landschaftsund Sportplatzbau e. V. (BGl), Bund Deutscher landschaftsarchitekten e. V. (BDlA), Fachvereinigung Betriebs- und Regenwassernutzung e. V. (fbr), optigrün international AG, Paul Bauder GmbH & Co. KG, Vulkatec Riebensahm GmbH, Foamglas GmbH, 6 fürs Grün GmbH, Jackon GmbH, Novihum GmbH, Gelsenrot GmbH, Garten Moser GmbH & Co. KG, Sempergreen, Verlag Dieter A. Kuberski GmbH, Haymarket Media GmbH & Co. KG, Georg D. W. Callway GmbH & Co. KG, Patzer Verlag GmbH & Co. KG., Reichlmeier Metallprofile GmbH, Dani Alu GmbH.
+Die Vorträge des FBB-Gründachsymposium sind verfügbar unter: www.gebaeudegruen.info
+
+QUEllE: SUSANNE HERFoRT
+
+28 GebäudeGrün 2/2018
+
+Infos vom BuGG
+
+Kooperation mit dem Bundesverband GebäudeGrün (BuGG)
+ZIM-Netzwerk ,,Stadtklima" erfolgreich in die Projektphase 1 gestartet
+
+Das Netzwerk ,,Stadtklima" wird im Rahmen des Förderprogramms ,,Zentrales Innovationsprogramm Mittelstand" (ZIM) vom Bundesministerium für Wirtschaft und Energie (BMWi), derzeit in der 1. Phase mit 90 % der bewilligten Kosten für das Management des Netzwerkes, gefördert. ZIM ist ein bundesweites, technologie- und branchenoffenes Förderprogramm für mittelständische Unternehmen und mit diesen zusammenarbeitenden wirtschaftsnahen Forschungseinrichtungen. Mit dem ZIM sollen die Innovationskraft und Wettbewerbsfähigkeit der Unternehmen nachhaltig unterstützt und damit ein Beitrag zu deren Wachstum verbunden mit der Schaffung und Sicherung von Arbeitsplätzen geleistet werden. Ein Netzwerk besteht aus Unternehmen und Forschungseinrichtungen, die unter einem oberthema (hier ,,Stadtklima") in Kooperation innovative Produkte und Dienstleistungen entwickeln wollen. Für organisatorische Aufgaben setzen sie eine Netzwerkmanagement-Einrichtung (hier GEMIFo) ein. Die beteiligten Unternehmen erreichen mehr Wettbewerbsfähigkeit durch: l Nutzung und Förderung der
+eigenen Kompetenzen l die Verbindung zwischen Wis-
+senschaft und Industrie l die Beteiligung an einer um-
+fangreichen Ideen-, Wissensund Kooperationsplattform l branchenübergreifende Kooperation bei Entwicklung und Vertrieb
+
+Einen wesentlichen Schub dabei soll von dem vom BMWi geförderten Netzwerkmanagement des Kooperationsnetzwerkes ausgehen. Wesentliche Aufgaben des Netzwerkmanagements sind: l Unterstützung bei der Part-
+nerfindung und Ideenkonkretisierung l Ideen-, Kompetenz- und Personalaustausch bei der Umsetzung von FuE-Projekten l Management der Aktivitäten im Netzwerk
+Das Netzwerkmanagement wird beim Netzwerk ,,Stadtklima" von der GEMIFo Gesellschaft für Mittelstandsförderung mbH mit den Netzwerkmanagern Gisela Carraß, olaf Schliebe und Dr. Gunter Mann übernommen. Sie koordinieren u.a. alle Aktivitäten, geben Hilfestellung bei Ideenfindung und Projektantrag und führen Unternehmen zusammen.
+Im Fokus des Kooperationsnetzwerkes ,,Stadtklima" sind Entwicklungen innovativer Produkte und Dienstleistungen, mit denen aktuelle technische Entwicklungen und daraus resultierende neue Möglichkeiten für die lokale Verbesserung der klimatischen Bedingungen genutzt werden. Wichtige Themenfelder sind: l Steigerung der Standortqua-
+lität durch Begrünung, ein an extreme Wetterereignisse angepasstes Gesundheitssystem, Vermeidung des Überschreitens von Grenzwerten und Verkehrseinschränkungen
+
+QUEllE: BUGG
+
+Auch mit begrünten Dächern zu einem angenehmeren Stadtklima. Das ZIM-Netzwerk ,,Stadtklima" ist erfolgreich gestartet.
+
+l Schaffung von Möglichkeiten zur Erfassung und Prognose durch ein Sensor-Netzwerk für Stadt-Klima-Warnungen
+l Förderung der Gesundheit durch Vermeidung und Reduzierung von Abgasen, Feinstäuben, Abwärme, lärm
+l Abmilderung der Folgen des Klimawandels durch Verminderung von Extremereignissen (Starkregenfälle, Hitze und Trockenheit, Wind, UV-Strahlung...)
+16 Klein- und mittelständische Unternehmen und wissenschaftliche Einrichtungen sind derzeit im Netzwerk ,,Stadtklima" aktiv, u. a. sind das: Bayerisches Zentrum für Angewandte Energieforschung e. V. (ZAE Bayern), Green Planet GmbH, Gruneberg GmbH, HanseGrand Klimabaustoffe, IlD GmbH, Institut für Agrar- und Gartenbauwissenschaften an der Humboldt-Universität zu Berlin
+
+(IASP), optigrün international AG, TU Berlin, Verticalgreendesign GmbH, Vertiko GmbH, Vulkatec Riebensahm GmbH, ElKGesellschaft für Erstellung, layout und Konzeption elektronischer Systeme mbH.
+Die Phase 1 des Netzwerkes läuft bis 31.10.2018. Nach derzeitiger Planung ist die Weiterführung des Netzwerkes in Förderphase 2 mit anfangs etwa sechs Einzelbzw. Kooperationsprojekten beabsichtigt. Dabei werden u. a. Themen wie Mooswände, kombinierte SolarGrünwände, Fahrradschnellwege und mobile Messeinrichtungen behandelt.
+Der Bundesverband GebäudeGrün e. V. (BuGG) unterstützt das Netzwerk, ein Teil der Netzwerkpartner sind BuGG-Mitglieder.
+Weitere Informationen und Teilnahme am Netzwerk: www.gemifo.de
+
+GebäudeGrün 2/2018 29
+
+Infos vom BuGG
+
+Neugründung durch Verschmelzung
+FBB und DDV fusionieren zum Bundesverband GebäudeGrün (BuGG)
+
+Es ist die Meldung der Branche und was vor wenigen Monaten noch undenkbar erschien, ist nun Wirklichkeit ­ die Fachvereinigung Bauwerksbegrünung (FBB) und der Deutsche Dachgärtner Verband e. V. (DDV) haben sich zusammengetan und sind zum Bundesverband GebäudeGrün e. V. (BuGG) fusioniert.
+Die Mitglieder des DDVs und des FBBs haben sich im März 2018 bei ihren jeweiligen Mitgliederversammlungen einstimmig dafür ausgesprochen, die Fusionsgespräche der beiden etablierten Verbände fortzuführen und in Form einer Verschmelzung zu einem neuen, starken Branchenverband für die Dach, Fassaden- und Innenraumbe-
+
+QUEllE BUGG
+
+Aus zwei mach eins ­ DDV und FBB fusionieren zum BuGG.
+
+Schon das Logo des Bundesverbands GebäudeGrün (BuGG) setzt Zeichen.
+
+grünung erfolgreich abzuschließen. Nachdem in den letzten Wochen die umfangreichen Vorarbeiten für den Verschmelzungsbeschluss durch die Vorstände der beiden Verbände unter Einbeziehung der Verbandsmitglieder abgeschlossen wurden, fan-
+
+den am 17. Mai die außerordentlichen Mitgliederversammlungen von DDV und FBB im Beisein des Rechtsanwalts Herr Dr. Dieter Deuschle und der beiden Notare Rolf Pratz und Herr Hans Peter statt. Diese hatten den Prozess der Fusion die letzten
+
+Monate intensiv begleitet. Es gab im Grunde nur einen Tagungspunkt ­ Beschlussfassung zur Verschmelzung und Neugründung des Bundesverbands GebäudeGrün (BuGG). Als Abstimmungsgrundlage diente der Verschmelzungsvertrag mit sei-
+
+QUEllE: BUGG/HERFoRT
+
+Historischer Moment Teil 1: DDV- und FBB-Vorstände bei der Unterzeichnung des Verschmelzungsvertrags. 30 GebäudeGrün 2/2018
+
+QUEllE: BUGG/HERFoRT
+
+Infos vom BuGG
+
+Bundesverband GebäudeGrün e. V. (BuGG)
+
+FBB-Präsident Dr. Gunter Mann (links) und DDV-Präsident Carsten Henselek besiegeln mit Handschlag die Verschmelzung und Neugründung.
+
+nen Anlagen wie Satzung und Beitragsordnung des neuen Verbands. Im Verschmelzungsvertrag wurde unter anderem auch schon das vorgesehene Präsidium aufgeführt. Auch dieses Mal war die Zustimmung der Verbände eindeutig ­ 100 Prozent der an-
+
+wesenden Mitglieder beider Verbände haben für die Fusion gestimmt! Damit war der Weg frei für die Neugründung des Bundesverbands GebäudeGrün e. V. (BuGG). Die Vorstände von FBB und DDV haben vor den Augen der über 40 anwesenden Mit-
+
+glieder den Verschmelzungsvertrag unter großem Applaus unterzeichnet.
+Im Anschluss an die historische Vertragsunterzeichnung fand auch gleich die 1. ordentliche Mitgliederversammlung des neuen Verbands unter der Führung von BuGG-Präsident Dr. Gunter Mann statt. Er stellte das fünf Personen umfassende Präsidium vor, das gleichermaßen für Kontinuität und Aufbruch steht und nun die Aufgabe hat, den neuen Verband engagiert und schlagkräftig zu positionieren: l Dr. Gunter Mann (Präsident) l Carsten Henselek (Vizepräsi-
+dent) l Gerd Vogt (Schatzmeister) l Hans Schmid (Präsidiumsmit-
+glied)
+
+E-Mail: info@bugg.de www.gebaeudegruen.info Sitz: Albrechtstraße 13 10117 Berlin Geschäftsstelle: In den Birken 11 66130 Saarbrücken Telefon: +49 681/98 80 570 Telefax: +49 681/98 80 572
+l Helmut Kern (Präsidiumsmitglied)
+Die Geschäftsstelle mit Sylvia van Meegen bleibt in bewährter Weise in Saarbrücken erhalten und gleichzeitig wird der Verbandssitz des BuGG nach Berlin, und damit nahe an die Politik, gelegt. Beide Verbände bündeln nun im BuGG ihre Kräfte, bringen Stärken, Kontakte und jahrzehn- u
+
+QUEllE: BUGG/HERFoRT
+
+Historischer Moment Teil 2: Die Neugründung des BuGG ist nun besiegelt ­ Notar Rolf Pratz (rechts) gratuliert dem BuGG-Präsidenten Dr. Gunter Mann.
+GebäudeGrün 2/2018 31
+
+Infos vom BuGG
+
+QUEllE: BUGG/HERFoRT
+
+Bei der 1. BuGG-Mitgliederversammlung stellt das Präsidium seine Ziele für 2018/19 vor.
+
+QUEllE: BUGG/HERFoRT
+
+QUEllE: BUGG/HERFoRT
+
+Die Teilnehmer der 1. BuGG-Mitgliederversammlung am 17.05.2018.
+
+Standing Ovations nach der Unterzeichnung des Verschmelzungsvertrags.
+
+telange Erfahrungen ein und von beiden Seiten kommen etablierte Arbeitshilfen, bekannte Symposien und Gründach-Foren, renommierte Fachleute, eine aktuelle Internetseite und mit der ,,GebäudeGrün" eine bekannte Verbandszeitschrift. Die Ziele des neuen Verbands sind die Dach-, Fassaden- und Innenraumbegrünung noch bekannter zu machen
+
+und positiv zu besetzen und den jetzigen Marktanteil an Begrünungen deutlich zu erhöhen.
+Der BuGG möchte positive Rahmenbedingungen für Gebäudebegrünungen schaffen und seinen Mitgliedern als auch den Planern Arbeitshilfen für die tägliche Praxis anhand geben.
+
+Von dem Zusammenschluss der beiden etablierten Verbände DDV und FBB zum BuGG soll eine starke Signalwirkung für die Gebäudebegrünungsbranche und die Entscheidungsträger auf kommunaler und bundespolitischer Ebene ausgehen. Es soll der historische Startschuss sein für die Werbung und Umsetzung von deutlich mehr Grün auf, am
+
+und im Gebäude! Gemeinsam für mehr Stadtgrün, gemeinsam für mehr Gebäudegrün!
+Weitere Informationen zum Bundesverband GebäudeGrün e. V. (BuGG) und zur Mitgliedschaft: www.gebaeudegruen.info
+
+32 GebäudeGrün 2/2018
+
+Infos vom BuGG
+Rückblick Weltkongress 2017 Berlin
+Kommen Sie mit auf die ,,Exkursion 3 und 4 Gebäudebegrünung"
+
+QUEllE: BEHNKE
+
+Dachbegrünung auf dem Bikini Berlin.
+
+Der im letzten Jahr vom 20. bis zum 22. Juni 2017 stattgefundene Weltkongress Gebäudegrün (WGIC 2017) in Berlin war eine sehr vielseitige und interessante Konferenz, über die in den letzten Ausgaben der GebäudeGrün bereits ausführlich berichtet wurde.
+Zwei Exkursionen zum Thema Dach- und Fassadenbegrünung, die am dritten Tag des Weltkongresses stattfanden, wurden bereits vorgestellt. Nun soll über die Exkursion ,,Gebäudebegrü-
+
+nung" (Tour 3 und 4) berichtet werden, die eine Mischung aus Dach-, Fassaden- und Innenraumbegrünung darstellte und aufgrund der starken Nachfrage der Kongressteilnehmer/-innen in zwei Touren aufgeteilt wurde.
+Die leitung der Tour 3 übernahm Michael Zimmermann (Urbanes Grün) und an seiner Seite stand Tim Skoruppa (Bachelorstudent des Albrecht-Thaer-Instituts der HU zu Berlin). Die Tour 4 leitete Susanne Herfort (IASP an der HU zu Berlin) mit Unterstützung
+
+von Dirk Behnke (Mitarbeiter des Albrecht Daniel Thaer-Instituts für Agrar- und Gartenbauwissenschaften der HU zu Berlin).
+Auch auf dieser Tour wurden wie bei den vorherigen Exkursionen fünf verschiedene objekte zur Gebäudebegrünung besichtigt.
+Objekt 1: Bikini Berlin am Zoologischen Garten
+Bei dem ersten objekt, das besichtigt wurde, handelte es sich um das Shoppingcenter am Zoo-
+
+logischen Garten, dem Bikini Berlin, das eine großflächige extensive Dachbegrünung auf einer Dachterrasse von 7.000 Quadratmeter zu bieten hat. Dieser Gebäudekomplex wurde zwischen 1955 und 1957 mit Mitteln aus dem Marshallplan und durch den Investor Jacques Rosenstein gebaut und steht mittlerweile unter Denkmalschutz. Die Pläne wurden damals von den Architekten Paul Schwebes und Hans Schoszberger erstellt. Der Name ,,Bikini-Haus" stammt aus der Entstehungszeit. Zum u
+
+GebäudeGrün 2/2018 33
+
+Infos vom BuGG
+
+QUEllE: HERFoRT
+
+QUEllE: HERFoRT
+
+Gebäudebegrünung des Springer Verlages.
+
+Mittagspause in Berlin-Dahlem.
+
+einen befand sich in diesem Haus die Produktion von Damenoberbekleidung, zum anderen erinnerte das Gebäude damals an die Bikinimode aufgrund der zweigeteilten Trennung der unteren und oberen Etagen durch ein mittleres luftgeschoss. In den Jahren 2010 bis 2013 fand eine komplette Umgestaltung des Gebäudes in einen modernen Hotel-, Büro- und Einkaufskomplex statt. Vom belgischen Architekturbüro SAQ rund um den Künstler Arne Quinze und dem von ihm gegründeten Architekturbüro UAU collectiv (SAQ architects) stammen die Pläne. Die Ausführung sowie Detailplanung übernahm das Münchner Architekturbüro Hild und K sowie Maske + Suhren
+
+Architekten und Designer. Das Büro lützow 7 C. Müller J. Wehberg Garten- und landschaftsarchitekten entwarf die Freianlage ,,Bikini Garden". (Quelle: https://de.wikipedia.org/wiki/Bikini-Haus)
+Das System der Dachbegrünung (Schräg- bzw. Steildachbegrünung sowie Verkehrsflächen) stammt von der Firma optigrün international AG. Der Aufbau der extensiven Begrünung ist von unten nach oben standardmäßig wie folgt: Schutz- und Speichermatte, Festkörperdränage, Filtervlies, Extensivsubstrat, Gräser, Kräuter und Stauden. Das Interessante an der Dachlandschaft ist, dass es einen starken Kontrast zwischen der Be-
+
+grünung und der Architektur gibt und der Zoo in unmittelbarer Nachbarschaft mit einbezogen wird. Viele Bänke und Cafés laden auf dem Zwischendeck des Bikini-Hauses zum Verweilen ein und gestatten einen herrlichen Blick auf die üppigen Grünflächen.
+Objekt 2: Springer Verlagsgebäude am Heidelberger Platz
+Das zweite objekt, das während der Exkursion besucht wurde, war das Wissenschaftsverlagsgebäude Springer in Berlin-Wilmersdorf. Die Geschichte des Verlages geht bis auf das Jahr 1842 zurück, als der Buchhändler Julius Springer in Berlin seinen Verlag gründete und mit dem Fokus auf wissenschaftliche Werke und Fachbücher immer weiter ausbaute, auch auf den Gebieten der Naturwissenschaften und der Medizin. Aufgrund der zahlreichen Zerstörungen der Gebäude im Zweiten Weltkrieg in Berlin wurde im Jahr 1946 ein weiterer Standort in Heidelberg geschaffen. Springer zählt mittlerweile zu den weltweit bedeutendsten Wissenschaftsverlagen und ist der drittgrößte Buchverlag Deutschlands. Das Verlagsgebäude am Heidelberger Platz, 1936 von Emil Rüster geplant, besticht durch den schönen alten Backsteinbau. Seit 1993 befinden sich auf dem Verlagsgelände intensive und extensive Dachbegrünungen sowie bodengebundene Fassadenbegrünungen und Trogbepflanzungen in den Brüstungsvorsprüngen der Fassade.
+
+Die intensive Dachbegrünung auf dem ersten obergeschoss des Verbindungsbaus zwischen dem denkmalgeschützten Altbau und dem Neubau ist insbesondere durch die Pflanzenvielfalt an Stauden, Gräsern, Sträuchern und Bäumen interessant und erstreckt sich auf 800 Quadratmeter. Durch die Integration eines Wasserlaufes wirkt die landschaft besonders attraktiv. Sie lädt zudem dazu ein, auf dem Dach zu verweilen und die Ruhe zu genießen. Die extensiven Dachbegrünungen befinden sich auf dem Geschoss des Neubaus. (Quelle: World Green Roof Congress 15th 16th September 2005 Basel Switzerland)
+Der Einbau der Begrünungen erfolgte durch Michael Zimmermann (Antec GmbH) aufgrund der Architekturpläne von lutz Volkmann. Besonders spannend war, dass lutz Volkmann selbst die Führungen vor ort übernahm und mit den Teilnehmern/innen der Exkursion live darüber diskutieren konnte. Auch Michael Zimmermann war beeindruckt von der Vegetationsentwicklung der letzten 25 Jahre. Er konnte insbesondere durch seine fachlichen Hinweise die Exkursion bereichern.
+Die anschließende Mittagspause fand in Berlin-Dahlem auf dem Campus der Freien Universität im Seminaris CampusHotel Berlin statt. Aufgrund des sonnigen und warmen Wetters konnten die Exkursionsteilnehmer/-innen die Pause im Innenhof des Hotelkomplexes verbringen. Beein-
+
+34 GebäudeGrün 2/2018
+
+Infos vom BuGG
+
+QUEllE: HERFoRT
+
+QUEllE: HERFoRT
+
+Wohnhaus Glogauer Straße in Berlin-Kreuzberg.
+
+Blick vom Kollhoff-Tower in Richtung.
+
+druckend war bei diesem objekt die große lichtdurchflutende Fassade des Gebäudekomplexes (Architekt Helmut Jahn) mit der etwa zehn Meter hohen bodengebundenen Innenhofbegrünung mit etwa acht Jahre alten Wisteria-Arten. (Quelle: https://www.fu-berlin.de/ service/seminaris/index.html)
+Objekt 3: Wohnhaus Glogauer Straße
+Die wandgebundene Fassadenbegrünung in Berlin-Kreuzberg war wie bei der ,,Exkursion 2 Fassadenbegrünung" (GebäudeGrün 1/2018) ein absolutes Highlight. Auch während dieser Exkursion gab Stefan Brandhorst (Firma Vertiko GmbH) den Exkursionsteilnehmern/-innen vor ort viele wichtige Zusatzinformationen zum Aufbau und zur Funktionsweise der großflächigen Fassadenbegrünung.
+Objekt 4: Panorama-Punkt Kollhoff-Tower
+
+(GebäudeGrün 4/2017) einen überwältigenden Blick auf den Potsdamer Platz mit seiner Vielzahl an extensiven Dachbegrünungen.
+Objekt 5: Dussmann das KulturKaufhaus
+Das letzte objekt der Exkursion befand sich in Berlin-Mitte im KulturKaufhaus Dussmann. Hierbei handelte es sich um einen 270 Quadratmeter großen Vertikalen Garten, der im Jahr 2012 von dem französischen Botaniker und Gartenkünstler Patrick Blanc enthüllt wurde. Bianca Krömer, Pressesprecherin der Großbuchhandlung Dussmann in Berlin, leitete die Exkursion im Dussmann Kulturkaufhaus und gab den Teilnehmern/-innen viele Informationen hinsichtlich der Begrünung, aber auch zum Unternehmen selbst. Im Vertikalen Garten wachsen über 6.600 tropische Pflanzen. Er stellt somit die größte Innenraumbegrünung
+
+QUEllE: HERFoRT
+
+Vertikaler Garten im KulturKaufhaus Dussmann.
+
+in Europa dar. Die Wurzelballen der Pflanzen befinden sich in Vliestaschen; die Bewässerung und Düngung erfolgen über Tröpfchenbewässerung. Im Kellergeschoss des Dussmann-Hauses gibt es das Café-Restaurant ,,Ursprung", von wo man ebenfalls einen herrlichen Blick auf den vertikalen Garten hat und in Ruhe die oase genießen kann. Mit dem Vertikalen Garten im Dussmann KulturKaufhaus en-
+
+dete die erlebnisreiche Gebäudebegrünungstour und die Exkursionsteilnehmer/innen fuhren beeindruckt zurück zum Hotel. An dieser Stelle sei herzlichst Michael Zimmermann sowie den Assistenten für die leitung der Exkursionen gedankt. Ein Dankeschön gilt auch den engagierten Mitwirkenden der einzelnen objekte vor ort, die durch ihr spezielles Fachwissen die Exkursionen stark bereichert haben.
+
+Anschließend ging es von Berlin-Kreuzberg zum Potsdamer Platz. Vom Panorama-Punkt mit seinen 101 Meter hohen Gebäude hatten die Exkursionsteilnehmer/-innen wie auch auf der ,,Exkursion 1 Dachbegrünung"
+
+Bundesverband GebäudeGrün e.V.
+
+Albrechtstraße 13 D-10117 Berlin www.gebaeudegruen.info
+
+Fon +49 (0) 6 81/98 80 57-0 Fax +49 (0) 6 81/98 80 57-2 E-Mail: info@bugg.de
+
+GebäudeGrün 2/2018 35
+
+Infos vom VfB
+Bauwerksbegrünung aus nächster Nähe erleben
+Begrünter Schiffscontainer auf Tour
+
+In wenigen Wochen erblickt MUGlI, unser urbanes Kind das licht der Welt und freut sich auf BesucherInnen an seinem ersten Dschungelstandort in Wien. MUGlI ist ein umgebauter, begrünter und mit Mess- und Steuerungstechnik ausgestatteter Schiffscontainer, der in den nächsten Jahren quer durch Österreich touren wird. MUGlI bietet Dach-, Fassaden- und Innenraumbegrünung ,,zum Angreifen". Er wird auch als Innovations- und Experimentierraum und als Kommunikationsplattform für Bauwerksbegrünung, Biodiversität, erneuerbare Energie- und Mobilitätsthemen genutzt.
+
+QUEllE:GRÜNSTATTGRAU
+
+MUGlI ist ein Teilprojekt von GrünStattGrau, dem Innovationslabor für die grüne Stadt. GrünStattGrau ist setzt als großes branchenübergreifendes Netzwerk für Bauwerksbegrünung Impulse für Begrünungen, vernetzt innovative Produkte und Projekte, stellt Know-how für die Bauwerksbegrünungspraxis bereit und begleitet urbane und partizipative Entwicklungsstrategien bis zur Umsetzung. Das Ziel ist Bauwerksbegrünung als klimarelevante Maßnahme auf ganz Österreich auszurollen. GrünStattGrau steht zu 100 Prozent im Eigentum des Verbands für Bauwerksbegrünung Österreich.
+
+Außenansicht MUGLI ­ mobil.urban.grün.lebendig.innovativ.
+
+QUEllE:GRÜNSTATTGRAU
+
+Unterschiedliche Bauwerksbegrünungen live erleben
+
+MUGlI wird mit Sommerbeginn 2018 in Wien starten. Danach Draufsicht MUGLI ­ mobil.urban.grün.lebendig.innovativ.
+
+36 GebäudeGrün 2/2018
+
+Infos vom VfB
+
+QUEllE: GRÜNSTATTGRAU
+
+einen Blick auf die Dachbegrünung werfen zu können, wird
+
+Weitere Informationen
+
+Innenansicht MUGLI ­ mobil.urban.grün.lebendig.innovativ.
+
+MUGlI mit einem Periskop ausgestattet.
+
+zu MUGlI und zu GrünStattGrau:
+
+DI Vera Enzi / Elisabeth
+
+Mitmachen und ausstellen!
+
+Gruchmann-Bernau, BSc.
+
+geht er auf Roadshow in die produktion mit einer Photovol-
+
+T: 0043 (0)650 6349631
+
+Synergiegebiete St. Pölten, linz, Graz, Salzburg und Feldkirch. Dadurch sollen österreich-
+
+taikanlage, sowie einer bedarfsorientierten Bewässerung."
+
+Die Ausstellerflächen werden ab sofort an Systemhersteller vergeben. Es stehen eine begrenzte
+
+office@gruenstattgrau.at www.gruenstattgrau.at
+
+weite Impulse für die Umsetzung Wissensvermittlung und
+
+Anzahl an Flächen für Dach-,
+
+von Bauwerksbegrünungspro- Events
+
+Fassaden und Innenraumbegrü-
+
+jekten gesetzt werden. Auf und
+
+nung zur Verfügung. Die Aus-
+
+im Container werden unter- MUGlI dient nicht nur als In- stellung von einem oder auch cher direkt neben der jeweiligen
+
+schiedliche Systeme von Dach- strument für Bewusstseinsbil- mehreren Systemen ist möglich. Ausstellerfläche platziert ist, In-
+
+und Fassadenbegrünungen so- dung in der Bevölkerung, son-
+
+formationen und Kontaktdaten
+
+wie auch Innenbegrünungen dern steht auch als Eventlocation So einfach geht's:
+
+zu Ihrem System entnehmen.
+
+ausgestellt. So kann man sich für verschiedene Veranstaltungs- Bitte wenden Sie sich per Mail Ihr logo erscheint werbewirksam
+
+ein Bild davon machen wie ver- formate wie Stakeholder-Work- an GrünStattGrau (office@gru- auf MUGlI und auf dem Monitor,
+
+schiedene Begrünungstechno- shops, Fortbildungen, Vorträge, enstattgrau.at). Wir beraten Sie der im Inneren des Containers
+
+logien funktionieren, welche un- Ausstellungen, Meetings oder gerne und senden Ihnen unser angebracht ist.
+
+terschiedlichen Systeme es gibt Ähnliches zur Verfügung und Datenblatt mit allen Informatio-
+
+und welche Technik dahinter- kann dafür auch gebucht wer- nen zu. Anhand des technischen Alle NetzwerkpartnerInnen wer-
+
+steckt. Außerdem werden die den. Je nach Anforderungen Detailplans des auszustellenden den über die GrünStattGrau-
+
+Flächen gemonitort und dadurch wird der Container mit notwen- Systems wird die Eignung und online-Plattform laufend über
+
+Messdaten zu den einzelnen Be- digem Mobiliar und Tools aus- Umsetzbarkeit geprüft, damit die Aktivitäten rund um MUGlI
+
+grünungssystemen generiert. gestattet.
+
+MUGlI die erforderlichen Mon- informiert. So bietet MUGlI den
+
+Vera Enzi, Geschäftsführerin GrünStattGrau ist mit seinem tagevorrichtungen bereitstellen Systemausstellern nicht nur Sicht-
+
+GrünStattGrau: ,,MUGLI vereint Pool von ExpertInnen aus Wirt- kann. Strom- und Wasseran- barkeit, sondern auch einen in-
+
+nicht nur unterschiedlichste Tech- schaft, Verwaltung und Wissen- schlüsse sind am Container vor- terdisziplinären Austausch mit
+
+nologien auf kleinstem Raum, schaft kompetenter Ansprech- handen. In einem gemeinsamen unseren NetzwerkpartnerInnen
+
+sondern ermöglicht auch einen partner bei Fragen rund um das Strategiegespräch mit GrünStatt- und die Möglichkeit, eigene
+
+Live-Blick auf die Leistungen, die Thema Bauwerksbegrünung und Grau werden die technischen Eventideen umzusetzen.
+
+Begrünungen für unsere Stadt bietet auch zielgruppengerechte Details und die Umsetzung der
+
+erbringen. Er ist damit Ausstel- Workshops für Dach- und Fas- Begrünung besprochen.
+
+Werden auch Sie Teil der
+
+lungsraum und Messstation zu- sadenbegrünung an. MUGlI wird
+
+Roadshow und gehen Sie mit
+
+gleich. Die Begrünung ist an ein dabei als Veranstaltungsort und InteressentInnen können aus MUGLI auf Tour durch Öster-
+
+eigenes Messsystem angeschlos- Anschauungsobjekt genutzt. Um dem Produktfolder-Halter, wel- reich!
+
+sen, das beispielsweise Daten
+
+zu Wasserverbrauch, Verduns-
+
+tungsleistung und Umweltauswirkungen erfasst und damit
+
+Verband für Bauwerksbegrünung Österreich
+
+der Bevölkerung Wissen auf sehr anschauliche und greifbare Weise
+
+Wiedner Hauptstraße 63 Fon +43/(0)650/634931
+
+näherbringt. Zentraler Bestandteil
+
+Postfach 351
+
+E-Mail office@gruendach.at
+
+ist die Verbindung von Begrü-
+
+A-1045 Wien
+
+www.gruenstattgrau.at
+
+nung und nachhaltiger Energie-
+
+GebäudeGrün 2/2018 37
+
+Infos von der SFG
+Fassadengrün: Klima, Lebensraum, Schönheit
+Plädoyer für attraktive Wände
+
+,,Die Unwirtlichkeit unserer Städte" hat der deutsche Sozialpsychologe Professor Alexander Mitscherlich bereits in den 1960erJahren beklagt. Pioniere des Stadtgrüns wie Gernot Minke und Gottfried Witter haben in Büchern, Vorträgen und Seminaren das Thema verbreitet. Doch die Breitenwirkung blieb begrenzt. Erst der Klimawandel, der urbane Hitzeinseleffekt, die Dichte der Städte, der rasante Verlust von lebensräumen und der Artenschwund haben die Schleusen geöffnet und Grün am Bau in den Mainstreambereich gehievt. Jetzt geht es darum, die Qualität des Fassadengrüns zu entwickeln und zu sichern: funktional, ökologisch, ästhetisch.
+
+QUEllE: FRITZ WASSMANN-TAKIGAWA
+
+Einige Grundlagen
+
+Begrünte Fassaden: traditionell sind das in erster linie Kletterpflanzen wie Efeu, Jungfernrebe, Blauregen. Aber auch obst- und Weinrebenspaliere, Hänger, gelegentlich schlanke Gehölze. Und natürlich die mit dem Namen Patrick Blanc verbundenen, sehr attraktive Wandgestaltungen mit Pflanzen, welche sich jedoch in einem weit höheren Preissektor bewegen und hier weggelassen sind.
+Das Wissen über die Herkunft der Kletterpflanzen schafft Verständnis für deren Ansprüche: die allermeisten sind Pflanzen der Wälder, Waldlichtungen und Waldränder. Sie wurzeln in eher feuchtem, nährstoffreichem Boden und streben zum licht. Sie
+
+Blühende Kletterrosen im Vorsommer, purpurrote Herbstfärbung der Fünfblätterigen Jungfernrebe im Herbst.
+
+benutzen andere Pflanzen, namentlich Sträucher und Bäume als Stütze, hangeln sich mit unterschiedlichen Strategien an ihnen empor: Schlinger, Ranker, Spreizklimmer, Wurzel- oder Haftscheibenkletterer.
+Die Kenntnis dieser Grundlagen ist das ABC professioneller Fassadenbegrünung, etwa bei der Wahl der optimalen Pflanzen, Standorte und Kletterhilfen. Kletterpflanzen benötigen viel Wasser um kraftvoll zu gedeihen, insbesondere an regenabgewandten ostfassaden. Wurzelund Haftscheibenkletterer benötigen keine Kletterhilfen, sind
+
+aber nicht überall anwendbar. Für Schlinger ­ etwa Blauregen und Geissblätter ­ sind senkrechte Drahtseile optimal. Für viele andere Kletterpflanzen und für die Kombination verschiedener Pflanzenarten haben sich gitterartige Strukturen bewährt, deren Maschenweite je nach Pflanzen und gestalterischen Zielen frei wählbar ist.
+Was bewirken Fassadenbegrünungen?
+Wofür also sollen wir Fassaden begrünen? Ihre Wirkungen sind vielfältig, entsprechen den Bedürfnissen der Zeit und sind po-
+
+sitiv ­ gute Planung vorausgesetzt.
+Im urbanen Raum ist vor allem Kühlung an heißen Sommertagen hochaktuell, und da belegen die langzeitmessungen von Dr. Marco Schmidt am Institut für Physik der Humboldt Universität in Berlin verblüffende Kühleffekte. Dies bedeutet angenehmeres Innenklima und massive Senkung der Kühllasten. Hier kommen sommergrüne Pflanzen zum Zuge, welche von Frühling bis Herbst beschatten und kühlen, im Winterhalbjahr aber kahl sind und die Sonne weitgehend durchlassen.
+
+38 GebäudeGrün 2/2018
+
+Infos von der SFG
+
+QUEllE: FRITZ WASSMANN-TAKIGAWA QUEllE: FRITZ WASSMANN-TAKIGAWA
+
+Originell gestaltete Fassadenlandschaft.
+
+ne, Maurandien, Kletterkapuziner und Duftwicken. Auch einzelne Stauden (mehrjährig) wie Hopfen, Breitblätterige Platterbse und neuerdings das Kletternde Frauenherz (Dicentra scandens) begeistern.
+In bestimmten Situationen können auch Hängepflanzen eine Rolle spielen, ebenso wie als Spalier gezogene Ziersträucher, namentlich solche mit hohen Wärmeansprüchen ­ denn an Fassaden herrscht ein sehr besonderes Mikroklima.
+Fassaden als Weinberge und Fruchthaine
+Ja, ost-, Süd- und Westfassaden speichern Sonnenwärme, halten kalte Winde fern und bieten dadurch lebensraum für obstpflanzen, welche im Freistand kaum u
+
+Fassadengrün schafft neue, sehr spezielle lebensräume ­ von jenen auf Dächern sehr verschieden. Hier finden vielerlei Tiere, namentlich Vögel, Nahrung, Unterschlupf, Nistplatz und Schlafplatz.
+Auch schalldämpfende und luftreinigende Wirkungen sind nachgewiesen, taugen aber wegen ihrer Geringfügigkeit kaum als Argument.
+Das vielleicht stärkste Argument jedoch: Gut begrünte Fassaden bringen Schönheit und Vielfalt in den urbanen Raum, machen Städte nicht nur angenehmer,
+
+sondern auch schöner und erhöhen damit die lebensqualität.
+Und dies alles an bisher kaum benutzten Flächen!
+Die Vielfalt der Fassadenpflanzen
+Unsere einheimische, mitteleuropäische Flora ist ausgesprochen arm an gartenwürdigen Kletterpflanzen. Um eine Fassade wirklich ansprechend zu begrünen, sind auch Exoten und Gartensorten unentbehrlich. ostasien und Nordamerika sind da wichtige Herkunftsgebiete. Diese
+
+Pflanzen aus anderen Regionen bringen Abwechslung und Schönheit in die Gärten und können auch ökologische Aufgaben erfüllen.
+Klettergehölze wie Blauregen, Clematis, Geissblätter, Kletterrosen und viele andere bilden meist den Kern einer Fassadenbegrünung. In der warmen Jahreszeit können ­ namentlich bei frisch gepflanzten Begrünungen ­ einjährige Kletterpflanzen Farbe und Vielfalt steigern. Die Blaue Trichterwinde mit ihren wunderschönen, großen Blüten gehört zu den Favoriten, ebenso wie Cobaea, Schwarzäugige Susan-
+
+Nahtloser Übergang vom Boden zur Fassade.
+
+GebäudeGrün 2/2018 39
+
+Infos von der SFG
+
+QUEllE: FRITZ WASSMANN-TAKIGAWA
+
+Kühlendes Fassadengrün (Humboldt-Universität Berlin, Institut für Physik).
+
+gedeihen würden. Das mildeste Mikroklima herrscht gewöhnlich an Südwestwänden.
+
+Züchterische Entwicklungen und Neueinführungen in den letzten Jahren haben neue Perspektiven geschaffen, welche hier kurz angedeutet werden sollen: l Weinreben in zahlreichen Sor-
+ten von Früh bis Spät, in Weiß, Rosa, Rot, Blau bis nahezu Schwarz und vielfältigen Aromen verlocken zum Naschen, sind gerade an Fassaden krankheitsresistent und benötigen keine Chemieeinsätze. l Die klassischen Kiwis in pelzigem Gewand, mit feinsäuerlichem Aroma und hohem Vitamingehalt sind inzwischen populär geworden. Ideal für
+
+QUEllE: HÄBERlI FRÜCHTEPRoFI
+
+Paw Paw, Indianerbanane ,,Sunflower".
+
+40 GebäudeGrün 2/2018
+
+Südwestfassaden. Sie benötigen viel Platz und in der Regel eine männliche Pflanze als Befruchter. Immer häufiger sieht man auch die glattschaligen Traubenkiwis (Actnidia arguta und A. kolomikta). Sie sind ebenfalls zweihäusig, aber weniger anspruchsvoll, sehr winterhart, reifen früher und schmecken köstlich. l ostfassaden sind der ideale Standort für Aprikosen, welche nicht gerne vom Regen benetzt werden und mit wenig Pflege süße Früchte mit unvergleichlichem Aroma schenken. l Feigen ­ bei ihnen ist die Sortenwahl sehr wichtig ­ wachsen in geeigneten Sorten auch bei uns an warmen Südfassaden und liefern köstliche Früchte. l Kaki ­ die Götterspeise (Diospyros) unter den Früchten ­ lassen sich an warmen Fassaden ziehen. l Maulbeeren warten mit modernen, aromatischen, gut winterharten Sorten auf, mit langer Ertragszeit schon ab Hochsommer. l Süßmandeln sind etwas für liebhaber/innen, benötigen viel Wärme und Befruchtersorte. l Seit Kurzem im Angebot, sensationell und mit tropischem Flair: die Indianerbanane oder Pawpaw (Asimina triloba), mit großen mangoartigen Früchten, wie auch die Chinesische Dattel (Ziziphus jujuba). l Auch die gängigeren obst-
+
+Infos von der SFG
+
+QUEllE: FRITZ WASSMANN-TAKIGAWA QUEllE: FRITZ WASSMANN-TAKIGAWA
+
+Bergwaldrebe, benachbart mit Ampelopsis und Blauregen.
+
+Kletterrosen, mit Blauregen und Baumwürger benachbart.
+
+arten lassen sich gut und gerne als Spaliere an Fassaden ziehen ­ geeignete Standorte und Veredlungsunterlagen vorausgesetzt: Äpfel, Birnen und Nashis; Pfirsiche, Nektarinen und andere Steinfrüchte.
+Hingucker: vielfältig begrünte Fassaden
+Fassadenbegrünungen mit einer einzigen Pflanzenart können durchaus reizvoll sein. Vieles spricht jedoch auch für Pflanzenvielfalt, auch für Rhythmen an Fassaden. Dem Ziel, eine Pflanzung sollte ganzjährig attraktiv sein ­ sei es mit Blüten, Früchten, Blattaustrieb und Herbstfärbung ­ kommen wir mit sorgfältig abgestimmten
+
+Pflanzenkompositionen näher. Dauerhaftes Blütenangebot, zumindest von Spätwinter bis Spätherbst, zieht vielerlei Blütenbesucher an und bietet ihnen eine verlässliche Nahrungsquelle. Früchte und Samen ­ etwa Hagebutten ­ sind bei Vögeln beliebt.
+Pflanzenauswahl und ­zusammenstellung richtet sich nach Standort, Funktionen, gestalterischen Zielen und verlangt intensive Auseinandersetzung und Hingabe an das Thema, wie auch profunde, praxisorientierte Sachkenntnis.
+Ein praktisches Konzeptbeispiel mag die Richtung aufzeigen: Wir planen eine circa vier bis fünf Meter hohe und circa zehn
+
+bis zwölf Meter lange Fassade, mit einem gitterartigen Stahlseilsystem - Maschenweite 40 cm x 60 cm im Abstand von 15 Zentimeter überspannt. Sonnige lage, an wenigen Stellen leicht beschattet. Winterjasmin (Jasminum nudiflorum) sorgt an warmen Tagen von November bis April für Farbe. Sorten der Alpen-Waldrebe (Clematis alpina) übernehmen im April bis Mai. Blauregen (Wisteria) bilden zuoberst ein lilablaues, duftendes Band. Ab Mai bis Juni folgen Geissblätter (Lonicera, Kletterrosen, frühe Clematis), im Hochund Spätsommer späte Clematis, mehrfachblühende Kletterrosen, die Trompetenwinde (Campsis). Die oktober-Waldrebe (Clematis terniflora ,Robusta`), verschiedene Früchte und Samenstände,
+
+sowie buntes Herbstlaub (z. B. von der Jungfernrebe, Parthenocissus quinquefolia) leiten über in die kühlere Jahreszeit. Die begrünte Fassade: Blickfang und Freude über's ganze Jahr!
+www.sfg-gruen.ch
+Der Autor Fritz Wassmann-Takigawa Atelier für oekologie und Gartenkultur 8225 Siblingen/SH fritz.wassmann@gmx.ch
+
+GebäudeGrün 2/2018 41
+
+Infos von der SFG
+Aus der Praxis. Schauplatz Dach ­ mehr Energie mit Grün
+Stromproduktion und Grünfläche im EnergieGrünDach effizient verbinden
+
+QUEllE: SFG
+
+Dachgärten und EnergieGrünDach auf den Betriebsgebäuden der Contec AG Uetendorf.
+
+Forderung Klimaschutz
+In den letzten Jahren hat sich punkto Nachhaltigkeit in der Schweiz einiges getan. Nachhaltiges Bauen, Effizienz und Klimaschutz sind ein Top-Thema. Dies zeigt sich auf verschiedenen Ebenen: in gesetzlichen Vorschriften, in der Einführung von Energiestandards wie MuKEn (Mustervorschriften der Kantonalen Energie-Direktoren), in Fördermaßnahmen von Städten, Gemeinden und dem nationalen Gebäudeprogramm und in der landesweiten Ausrichtung auf die Energiestrategie 2050 des Bundes, die eine zunehmend
+
+unabhängige Energieproduktion auf Basis erneuerbarer Energien vorsieht. Die aktuelle Stoßrichtung der SFG ,,Gebäudegrün in Kombination mit Solartechnik" passt ideal zur Bundesstrategie und zum eingeforderten Klimaschutz. Ein bedeutendes Potenzial birgt hier das sogenannte ,,EnergieGrünDach", das sich ausgezeichnet für urbane Gebiete eignet.
+Lösung EnergieGrünDach
+Beispielhafte lösungen zum EnergieGrünDach entwickelte unter anderem die Contec AG aus Uetendorf. Heinz Sigrist, leiter des
+
+Technischen Büros, hat freundlicherweise einige Fragen zur Sache beantwortet.
+Seit Beginn der Neunzigerjahre werden unsere Dächer landesweit zunehmend begrünt. Urbanes Grün und Gebäudebegrünung erhalten infolge des sich abzeichnenden Klimawandels und daraus resultierender HitzeInsel-Effekte noch stärkere Bedeutung. Wie kam es zur ,,Lösung EnergieGrünDach"? Die Politik unterstützt seit Jahren mit Fördermaßnahmen (z. B. Kostendeckende Einspeisevergütung KEV) die Stromproduktion im
+
+Rahmen erneuerbarer Energien. Auf begrünten Flachdächern wurden nachträglich viele PVAnlagen installiert ­ oft ohne das dazu erforderliche Wissen zur Abdichtungs- und Begrünungstechnik und für den Unterhalt. Es passierten Fehler, und es kam zu Schäden. Daraus haben wir gelernt. Dank Innovation und Entwicklung hält der Markt heute bewährte lösungen zum EnergieGrünDach bereit, die sicher und ausgezeichnet funktionieren. Was sind die Vorteile des EnergieGrünDachs? Ich unterscheide zwischen ,,harten" und ,,weichen" Fakten. Zu
+
+42 GebäudeGrün 2/2018
+
+Infos von der SFG
+
+den weichen zähle ich Biodiversität, Ökologie, Staub- und luftreinigung, Wasserrückhalt und die kühlende Blattmasse des Grüns, zu den harten verschiedene Spareffekte ­ beispielsweise durch geringere Abwassergebühren wegen dem Wasserrückhalt, weniger Stromverbrauch für Gebäudekühlung und gesteigerte Isolierwirkung. Dazu kommt die solare Stromproduktion: es ist erwiesen, dass Stromverbraucher heute durch Eigenstrom-Produktion und ­ Verbrauch langfristig wirksam Kosten einsparen können. Mit den aktuellen Förderprogrammen sind die dazu geeigneten Anreizsysteme vorhanden. Begrünte Flächen auf dem Dach führen zu Kühleffekten, was die
+
+QUEllE: SFG
+
+,,Mehr Energie mit Grün": die Lösung auf einer Messehalle in Basel.
+
+Solarstromproduktion erhöhen kann. Die Bereitschaft zum EnergieGrünDach ist heute sicher gegeben. Die Beteiligten ­ Planer und Ausführende ­ müssen mit beispielhaften lösungen dafür sorgen und den Bauherren zeigen, dass ,,Strom und Grün"
+
+jetzt zusammen auf das Dach kommen und sich das lohnt! Was braucht es, damit ein EnergieGrünDach funktioniert? Es braucht eine klare Trennung zwischen solaren und grünen Flächen, entweder in der Höhe
+
+durch ausreichend hohe Solarpanel-Aufständerung über der begrünten Fläche (Abstand minimal 40 cm ab Substrathöhe, zum Schutz gegen Beschattung durch Pflanzenwuchs) oder durch getrennt angeordnete, solare und grüne Flächen. Es braucht u
+
+Contec AG: Die 1992 gegründete Contec ist seit 1996, dem SFGGründungsjahr, Mitglied der SFG. Das Unternehmen bietet heute sämtliche Dienstleistungen rund um den Dachaufbau an. Zum Angebot gehört auch das EnergieGrünDach, bei dessen Entwicklung die Contec als Pionierin eine führende und innovative Rolle übernahm. Das Unternehmen konnte im vergangenen Jahr sein 25jähriges Bestehen feiern. Zurzeit beschäftigt Contec rund 60 Mitarbeitende. (contec.ch)
+
+pro memoriam:
+Dank über 100 Mitgliedern, einem zielstrebigen Vorstand, effizienter Geschäftsführung und gesunden Finanzen ist es der SFG immer wieder möglich, Ziele zur Gebäudebegrünung zu definieren, zu erreichen und ihre Mitglieder dabei zu unterstützen. Die SFG bietet Dienstleistungen in folgenden Bereichen des Gebäudegrüns: ­ Kommunikation (beispielsweise im Rahmen von Themenschriften, Artikeln, der SFG-Website
+und der Zeitschrift ,,Gebäudegrün", aktuelle Neuerscheinung: Themenschrift zum Thema EnergieGründach und EnergieGrünfassade 2017) ­ Ausbildung (Kursprogramme und Tagungen) ­ Normierung (Mitarbeit) ­ SFG-Richtlinien (Herausgabe, z. B. Richtlinie für extensive Dachbegrünungen, Neuüberarbeitung Ausgabe 2016) ­ Technik und Innovation ­ Zusammenarbeit mit Partnerverbänden auf nationaler und internationaler Ebene (z. B. mit Gebäudehülle Schweiz und Jardin Suisse) ­ Beratung und Expertisen zur Gebäudebegrünung ­ Zertifizierung (Qualitätssicherung im Rahmen der SFG-Richtlinien) Die SFG verwendet den Ausdruck ,,EnergieGrünDach" als eigene Marke und Kombination von Gebäudegrün mit Solartechnik und positioniert sich damit im diesem Bereich als Kompetenzzentrum.
+sfg-gruen.ch
+
+GebäudeGrün 2/2018 43
+
+Infos von der SFG
+
+Systemlösung von Contec (Contec.greenlight).
+
+eine gründliche Planung und hinsichtlich Nutzung, Statik, Dachaufbau, Maßnahmen zur Absturzsicherung, lage und Aus-
+
+richtung der solaren und grünen Flächen). Und es braucht unbedingt eine entsprechende Pflanzen- und Substratwahl, und zwar
+
+unter Berücksichtigung des erforderlichen Unterhalts. Saatgutlieferanten bieten heute dazu entsprechende Mischungen an.
+
+Besonders effizient ist ein EnergieGrünDach, wenn die Solarfläche mit erforderlichem Abstand über der Grünfläche angeordnet wird. Das zeigt unsere mehrjährige Erfahrung. Neue Forschungen zeigen auch, dass eine hell-laubige, niedrig-wachsende Bepflanzung die Solarstromproduktion erhöhen kann. Wie sieht die Lösung von Contec aus? Unser Produkt Contec.greenlight entstand durch Erfahrungen und Beobachtungen, die zeigten dass installierte Dächer oft nicht funktionierten. Unsere lösung umfasst ein langlebiges, rasch einbaubares, in leichtbauweise gehaltenes Ständersystem (20 kg/m2) mit
+
+QUEllE: SFG
+
+QUEllE: SFG QUEllE: SFG
+
+Schwertlilie (Iris spectabilis, Dachgarten Contec, Mai 2018). 44 GebäudeGrün 2/2018
+
+Heinz Sigrist, Leiter des technischen Büros der Contec AG und Vorstandsmitglied der SFG.
+
+Infos von der SFG
+
+Auf ein Wort. EnergieGrünDach und mehr
+
+integriertem Wasserspeicher-Element. Dessen Wind- und lagesicherheit wird durch die Auflast des aufgebrachten Substrates garantiert, und es braucht deshalb keine aufwändige Fixierung in der Unterkonstruktion. Das System erlaubt die Montage gängiger, im Markt erhältlicher Solarpanels. Wenn ein Bauherr ein EnergieGrünDach in Betracht zieht und erstellen will, wie geht er idealerweise vor? Was kostet ein solches Dach? Die Planung und Installation eines EnergieGrünDachs ist anspruchsvoll. Verschiedene Qualifikationen, leistungen und Beteiligte ­ Planer, Abdichter, Spengler, Sicherheitsfachleute, Solarteure, Begrüner und auch Pflegefachleute ­ sind dazu erforderlich. Idealerweise bezieht der Bauherr all diese leistungen aus einer Hand. Das leistungspaket umfasst in diesem Fall eine Beratung, die Planung mit offertstellung, die Ausführung sowie den Unterhalt der Flächen. Es ist wichtig, Gründachfachleute bereits in der Planungsphase beizuziehen. Normen und Richtlinien (Norm SIA 312 Begrünung, 271 Flachdächer, die SFG-Richtlinie für extensive Dachbegrünung, Themenschriften der SFG und Merkblätter) können dabei als Planungsgrundlage dienen. Der Preis für eine Gesamtanlage liegt bei rund 2000 Fr./kWp, wovon der Anteil für die Unterkonstruktion rund 270 Fr./kWp beträgt. Die Kosten für die Dachbegrünung (Drainage, Vlies, Substrat und Ansaat) liegen bei 30 Fr./ m2.
+
+Jürg Messerli, Präsident SFG
+
+QUEllE: SFG
+
+Gründächer und Energiegründächer sind weiterhin im Trend. In verschiedenen Regionen der Schweiz nimmt die Nachfrage sogar zu. Unsere Broschüre (EnergieGrünDach) wurde fertiggestellt und an unsere Mitglieder und Interessierte verteilt. Die französische Version ist im Druck und wird Mitte des Jahres verteilt werden. Unsere Präsenz in der Romandie festigt sich. Geplant ist eine ,,Geschäftsstelle", welche sich um die Anliegen unserer französischsprechenden Mitglieder kümmern kann. Ich werde Mitte des Jahres in Rente gehen und mein Amt einem Nachfolger übergeben. Mein Dank geht an alle, welche uns immer wieder tatkräftig unterstützt und die Fahne für urbanes Grün hochgehalten haben.
+Der SFG wünsche ich auch in den kommenden Jahren viel GRÜN und viel Erfolg!
+Herzlichst Ihr Jürg Messerli Präsident SFG
+
+Wie beurteilen Sie das landesweite Potenzial ,,EnergieGrünDach"? Zahlreiche Gebäude stehen zur Sanierung an, davon rund ein Drittel mit Flachdächern, die sich potenziell eignen. Im Neubausowie im Sanierungsbereich ist das Begrünen der Flachdächer inzwischen die Regel. Schätzungsweise drei Viertel der Flachdachflächen sind schon begrünt. Damit steht unser land im internationalen Vergleich gut da.
+
+Zur Verbreitung der kombinierten lösung braucht es auf allen Ebenen eine direkte Information ­ bei Planern, Unternehmern, der öffentlichen Hand und Branchenverbänden. Und es braucht eine umfassende Kooperation. Die SFG kann diesbezüglich eine nutzbringende Brückenfunktion erfüllen. Herr Sigrist, was wünschen Sie sich persönlich punkto EnergieGrünDach? Ich wünsche mir etwas mehr
+
+Zusammenarbeit, und dass man unter Beteiligten entsprechende Schritte aufeinander zu macht. Ein solches Dach muss als ökologisch wertvoller Bauteil mit sinnvollem Energiegewinn gesehen und geschätzt werden. Wichtig ist mir daneben unser aktives und ein überzeugendes Engagement in der Sache.
+Hans-Ruedi Amrein-Gerber (Redaktion SFG)
+
+Schweizerische Fachvereinigung Gebäudebegrünung
+
+Uttigenstraße 75 CH-3661 Uetendorf Fon +41(0)33/223 37 57 +49
+
+Fax +41(0) 33/335 76 55 E-Mail info@sfg-gruen.ch www.sfg-gruen.ch
+
+GebäudeGrün 2/2018 45
+
+In Kürze
+Regelwerksarbeit zur Gebäudebegrünung Teil 1
+Neue Richtlinie zur Dachbegrünung
+
+QUEllE: GUNTER MANN/BUGG
+
+Die Fll-,,Dachbegrünungsrichtlinien ­ Richtlinien für Planung, Bau und Instandhaltung von Dachbegrünungen" sind aus den 1982 erstmals erschienenen ,,Grundsätzen für Dachbegrünungen" entstanden und wurden seit 1990 mehrfach überarbeitet. Sie sind als Maßstab setzendes Regelwerk der Dachbegrünung in Deutschland anerkannt. Im Ausland werden die Fll-Dachbegrünungsrichtlinien mit großer Akzeptanz zur Kenntnis genommen und dienen in einigen Nachbarländern als Grundlage für die Entwicklung eigener Regelwerke.
+
+Als wesentliche Änderung gegenüber der Ausgabe 2008 wurde das Thema ,Sicherungen gegen Materialverlagerung auf Flach- und Schrägdächern` grundlegend überarbeitet. Erstmalig werden nun die unterschiedlichen Formen der Materialverlagerung, wie oberflächenerosion, Abrutschen und das sich Einstellen eines Schüttwinkels differenziert betrachtet. Diesen drei beschriebenen Arten der Materialverlagerungen werden entsprechende Sicherungsmaßnahmen zugeordnet. Darüber hinaus sind Themen ergänzt worden, die sich durch techni-
+
+sche Entwicklungen und neue Fragestellungen ergeben haben. Rasenbegrünungen wurden als Vegetationsform mit eigenen Anforderungsprofilen für Rasensubstrate neu aufgenommen. Ebenso neu wird das Thema Artenvielfalt begrünter Dächer und Biodiversität behandelt, denn einen besseren Schutz der Tierund Pflanzenwelt als auf Dächern wird man im städtischen Raum kaum erreichen können. Schließlich wurden die Hinweise zu den benachbarten Gewerken der Dach- und Bauwerksabdichtung aufgrund der umfangreichen und grundlegenden Verände-
+
+rungen von DIN 18195, DIN 18531, DIN 18532 und DIN 18533 angepasst.
+Die Fachvereinigung Bauwerksbegrünung e. V. (FBB) und der Deutsche Dachgärtner Verband e. V. (DDV), die nun zum Bundesverband GebäudeGrün e. V. (BuGG) fusioniert sind, waren an der Erstellung mitwirkende Verbände und mit Dr. Gunter Mann und Wolfgang Ansel als Mitglieder im Regelwerksaus schusses vertreten.
+www.fll.de
+
+46 GebäudeGrün 2/2018
+
+Regelwerksarbeit zur Gebäudebegrünung Teil 2
+Neue Richtlinie zur Fassadenbegrünung
+
+In Kürze
+Das größte Dachgullyprogramm Europas
+Neu!
+
+QUEllE: GUNTER MANN/BUGG
+
+Die bisherigen Ausgaben der Fll-,,Richtlinien für die Planung, Ausführung und Pflege von Fassadenbegrünungen" aus den Jahren 1995 und 2000 etablierten sich im Berufsstand und wurden vielfach umgesetzt. Dennoch erschien es den Bearbeitern der nun vorliegenden Richtlinien erforderlich, eine erweiterte Fassung zu veröffentlichen. Im Zuge der dritten Überarbeitung wurden die Inhalte des Regelwerks in der praktischen Anwendung überprüft und teilweise durch neue Erkenntnisse aus Praxis und Wissenschaft ergänzt und aktualisiert.Daher finden sich nicht nur Anpassungen an den Stand von Wissenschaft und Forschung im Bereich der bodengebundenen Fassadenbegrü-
+
+nungen, sondern auch ausführliche Darstellungen der Materialverwendungen sowie fassadengebundenen Begrünungsformen. Darüber hinaus werden die Themen Statik und Befestigung sowie Anforderungen an Baustoffe dargelegt.
+Da die Pflanze eine zentrale Rolle bei allen Formen der Gebäudebegrünungen darstellt, wurden in diesen Richtlinien die vorhandenen Pflanzenlisten aus der Ausgabe 2000 für bodengebundene Begrünungen erweitert und für wandgebundene Begrünungen überarbeitet. Schwerpunkte lagen unter anderem auf folgenden Pflanzenlisten: l Kletterpflanzen und deren
+Auswahlkriterien;
+
+l Stauden für wandgebundene Begrünungen;
+l Stauden für Pflanzgefäße; l Gräser für wandgebundene
+Begrünungen; l Kletterpflanzen für Pflanzge-
+fäße; l freitragende Gehölze für
+Pflanzengefäße.
+Die Fachvereinigung Bauwerksbegrünung e. V. (FBB), die aktuell mit dem Deutschen Dachgärtner Verband e. V. (DDV) zum Bundesverband GebäudeGrün e. V. (BuGG) fusioniert ist, war an der Erstellung mitwirkender Verband. Im Regelwerksausschuss wurde die FBB durch Dr. Gunter Mann vertreten.
+www.fll.de
+
+ExzenterGully aus PUR
+mit Exzenterscheibe, wärmegedämmt, FCKW-frei, mit eingeschäumter Anschlussbahn.
+ optimal für die Entwässerung von übereinanderliegenden Dach ächen durch ein Fallrohr
+ mit Flanschaufkantung für den Einbau direkt an der Gebäudewand
+ exzentrische Verstellbarkeit des ankommenden und des abgehenden Rohres ­ dadurch ist der Wandabstand und ein Versatz der Fallrohre leicht ausgleichbar
+Fordern Sie ausführliche Unterlagen an !
+Karl Grumbach GmbH & Co. KG Breitteilsweg 3 · 35581 Wetzlar Telefon +49 6441 97 72-0 Telefax +49 6441 97 72-20 www.grumbach.net grumbach@grumbach.net
+
+Kompetente Gründach-Firmen empfehlen sich
+
+TOPGREEN Gründachsysteme atka Kunststoffverarbeitung GmbH
+Südring 25, D-49393 lohne Tel. 04442/92680, Fax 04442/926811 E-Mail: info@atka.de Internet: www.topgreen.atka.de
+www.atka.de
+
+dani alu GmbH
+Hauptstraße 230, D-63768 Hösbach Tel. 06021/453 02-0 Fax 06021/453 02-29 Hotline: 0700/11 44 22 55 E-Mail: post@danialu.de Internet: www.danialu.de
+FDT FlachdachTechnologie GmbH & Co. KG Eisenbahnstraße 6­8 D-68199 Mannheim Tel. 0621/85 04-0, Fax -205 E-Mail: info@fdt.de Internet: www.fdt.de
+
+GmbH www.gruendachtechnik.de
+Extensiv + Intensiv Wartung +Pflege Platten +Kies
+
+GDT Gründachtechnik GmbH
+Dammstraße 4 D-72669 Unterensingen Tel. 07022/963 20-0 Fax 07022/963 20-42 E-Mail: gdt@gruendachtechnik.de Internet: www.gruendachtechnik.de
+
+Sven Kramer Der Dachbegrüner und Gärtner
+Quellenhof, D-65606 Villmar Tel. 06482/949 02 16 Fax 06482/948 02 17 anfrage@kramer-dachbegruenung.de www.kramer-dachbegruenung.de
+
+Christian Lang & Waldemar Weiß GmbH Dachbegrünungen
+Hauptstraße 5, D-79238 Ehrenkirchen Tel. 07633/933 31 04 Fax 07633/933 31 06 E-Mail: info@top-gruen.de Internet: www.top-gruen.de
+
+DACHBEGRÜNUNG Garten-Moser GmbH u. Co. KG
+An der Kreuzeiche 16 D-72762 Reutlingen Telefon 07121/9288-0, Fax -/9288-55 E-Mail: dach@garten-moser.de Internet: www.garten-moser.de
+
+Optigrün international AG Am Birkenstock 19 D-72505 Krauchenwies-Göggingen Tel. 07576/7 72-0 Fax 07576/77 22 99 E-Mail: info@optigruen.de Internet: www.optigruen.de
+6 fürs GRÜN GmbH Kanalstraße 2, D-66130 Saarbrücken Tel. 0681/9602146-0 Fax 0681/9602146-26 E-Mail: info@6-f-g.de Internet: www.6-f-g.de
+Sommer-Eisele + Co. GmbH Garten-, landschafts- und Sportstättenbau, Dachbegrünung, Dachsanierung Sägeweg 88, D-71263 Weil der Stadt Tel. 07033/5267-0, Fax 07033/5267-29 E-Mail: info@sommer-eisele.de Internet: www.sommer-eisele.de
+UMV GmbH Vegetationssysteme Uwe Mildenberger Dr.-Georg-Schaeffler-Straße 36 D-77933 lahr/Schwarzwald Telefon 07821/983-191 E-Mail: info@umv-gmbh.de Internet: www.umv-gmbh.de
+Vulkatec Riebensahm GmbH Im Pommerfeld 2 D-56630 Kretz Tel. 02632/95 48-0 Fax 02632/95 48-20 E-Mail: info@vulkatec.de Internet: www.vulkatec.de
+UNIKA GmbH Am opel-Prüffeld 3 63110 Rodgau Tel.: 06106/2809-10 Fax: 06106/2809-90 Email: kontakt@unika-kalksandstein.de Internet: www.unika-kalksandstein.de
+Gebäude Grün DACH · FASSADE
+RAUM · GRÜN
+Die nächste Ausgabe erscheint im August 2018
+
+48 GebäudeGrün 2/2018
+
+In Kürze
+
+Grün statt Grau ­ Pflanzensysteme für den urbanen Raum
+
+Weltweit zieht es die Menschen in die Städte. Prognosen zufolge wird der Bevölkerungsanteil in den Ballungsräumen bis zum Jahr 2050 auf über 70 Prozent ansteigen. Das führt auch in Deutschland dazu, dass die Nachfrage nach Wohnraum vor allem in den Groß- und Universitätsstädten zunimmt. Durch Nachverdichtung werden unsere Citys kompakter, private Bauherren und auch Stadtplaner sehen sich häufig gezwungen, für neue Gebäude bestehende Grünflächen aufzugeben. Dabei herrscht längst allgemeiner Konsens darüber, dass in Zeiten des Klimawandels, immer extremerer Wetterlagen und zunehmender luftverschmutzung die Innenstädte eigentlich deutlich mehr Grün brauchen. Denn Pflanzen sorgen für ein verbessertes Mikroklima, eine Verringerung der Kohlendioxid- und Feinstaubbelastung, dämmen den lärm, sind Windschutz und sorgen an heißen Sommertagen für Beschattung. Eine immer größere Rolle spielt deshalb schon jetzt lebendiges Grün auf, an und in der Bebauung. Hier sind innovative, attraktive Konzepte und Techniken gefragt, die die Umsetzung auch an schwierigen Standorten erleichtern.
+Grüne Sofortlösungen für die Architektur
+Ein Unternehmen, das sich seit langem mit der Wohlfahrtswirkung von Grün und dessen gebäudenahen Verwendungsweisen befasst, ist die Helix Pflanzensysteme GmbH aus Kornwestheim. Es investiert viel Zeit und Energie in die Entwicklung neuer Produkte und Technologien mit denen man Bauwerke nachhaltig begrünen kann. Dabei arbeitet Helix eng mit For-
+
+schungseinrichtungen an Hochschulen und Instituten zusammen ­ nicht nur, um die Zuverlässigkeit der Systeme zu überprüfen, sondern auch, um deren Effizienz mit wissenschaftlichen Methoden nachzuweisen. ,,Architekten und Stadtplaner brauchen Gärtner, die ihre Vision verstehen und entsprechende lösungen anbieten können", sagt Inhaber Hans Müller. ,,Wichtig dabei ist, dass die angebotenen Systeme ein breites Anwendungsspektrum haben, qualitativ und gestalterisch hochwertig sind und natürlich dauerhaft funktionieren."
+Fassadengestaltung
+Helix bietet beispielsweise verschiedene Möglichkeiten zur Fassadenbegrünung an, bei denen keine Bodenanbindung notwendig ist. Mit ihnen lassen sich vertikale Flächen an Gebäuden auf unterschiedliche Arten gestalten und in lebendige grüne Wände verwandeln. Die ,Helix Systemfassade' wurde speziell für die Begrünung von vorgehängten, hinterlüfteten Fassaden entwickelt. Kassetten aus Aluminium werden dafür ­ je nach Standort und Wunsch des Bauherrn ­ mit lavendel, Rosen, Bodendeckern oder Kräutern bestückt. Eine vollautomatische Versorgungsanlage macht die Pflege der bepflanzten Module einfach. In der kalten Jahreszeit können die Kassetten abgehängt werden und an einem frostsicheren ort überwintern. Verschiedene, individuell gestalte Bleche nehmen dann ihren Platz ein. Das System ,Helix Elata' kann mit eigenem Ständerwerk sowohl der Fassade vorangestellt montiert, als auch tragend an der Wand verankert werden. Besonders geeignet sind massive
+
+QUEllE: HElIX PFlANZENSYSTEME/RAlF GRÖMMINGERT
+
+Wände aus Beton und Mauerwerk sowie Metallkonstruktionen, wie es sie oft bei Parkhäusern gibt. Für die Begrünung werden Behälter aus Aluminium
+
+von nur 45 Zentimetern eine Bauhöhe von zwei bis vier Metern zulässt und dank vorkultivierter Pflanzmatten bei der Montage bereits zu 50 Prozent be-
+
+Grüne Lärmschutzwand ,Helix® Compacta'.
+
+verwendet, die mit vorkultivierten immergrünen Kletterpflanzen oder Sträuchern mittlerer Wuchshöhe bepflanzt sind. Die Elemente bieten zum Montagezeitpunkt bereits einen dichten laubschirm über die gesamte Fläche. Die Wasser- und Düngemittelversorgung erfolgt computergesteuert und bedarfsgerecht.
+Wohlfahrtswirkung in der Stadt
+Das Unternehmen beschäftigt sich aber nicht nur mit der Begrünung von Gebäuden ­ das Unternehmen aus Baden-Württemberg arbeitet mit verschiedenen Partnern auch immer wieder an neuen Ideen, wie man den aktuellen Problemen der Städte mit Pflanzen begegnen kann. So wurde beispielsweise die lärmschutzwand ,Compacta' entwickelt, die bei einer Breite
+
+grünt ist. Und mit den Wänden im Baukastenprinzip ,Helix Elementa' lassen sich im Handumdrehen grüne oasen auch auf kleinstem Raum schaffen. Pflanzkörbe in drei verschiedenen Größen sind bei diesem System variabel kombinierbar, so dass bei der Gestaltung der Fantasie fast keine Grenzen gesetzt werden. Kein Zufall, dass Hans Müller im oktober 2017 mit dem TASPo Gold Award als ,,Unternehmer des Jahres" ausgezeichnet wurde.
+www.helix-pflanzen.de
+
+GebäudeGrün 2/2018 49
+
+In Kürze
+
+Innovation und Tradition
+Familienunternehmen Bauder wechselt in die 4. Generation
+
+QUEllE: BAUDER
+
+Familienunternehmen Bauder wechselt in die 4. Generation ­ Stabübergabe von Paul-Hermann Bauder und Gerhard Bauder an Mark Bauder, Gerhard Einsele, Jan Bauder und Tim Bauder (v. l. n. r.)
+2017 war mit einem Umsatz von 572 Millionen Euro für die Paul Bauder GmbH & Co. KG wieder ein erfolgreiches Jahr. Und das Jahr, um den für 2018 vorgesehenen, seit zehn Jahren geplanten und gut vorbereiteten Generationswechsel einzuleiten. Die Brüder Gerhard und PaulHermann Bauder wechseln nach 36 Jahren in den Beirat und bedanken sich bei allen Mitarbeitern und Geschäftspartnern für die jahrelange, gute Zusammenarbeit. Mit Jan, Mark und Tim Bauder übernimmt die vierte Generation Bauder zusammen mit Gerhard Einsele die Geschäftsführung. Auch sie wollen weiterhin mit hochwertigen Produkten und umfangreichen Serviceleistungen Dächer dauerhaft sicher machen.
+
+QUEllE: BAUDER
+
+,,Die erste Generation erstellt es, die zweite Generation erhält es, unter der dritten Generation zerfällt es" ­ diese Redensart haben Gerhard und Paul-Hermann Bauder eindrucksvoll widerlegt. In der dritten Generation haben sie das Unternehmen in Deutschland zum Marktführer für Flachdachabdichtungen sowie Aufsparren-Wärmedämmungen mit einem Umsatz von 572 Millionen Euro (2017) und über 1.000 Mitarbeitern weiterentwickelt. ,,Sicher hatten wir viel Glück und trafen richtige Entscheidungen zum passenden Zeitpunkt", sieht Gerhard Bauder rückblickend. ,,Dazu gehörte die konsequente Einführung einer Unternehmensstrategie und die Entwicklung des Bauder-leitbilds und der Marke Bauder."
+Der Erfolg war aber nur möglich, weil Kunden und Geschäftspartner dem Unternehmen dauerhaft ihr Vertrauen geschenkt haben, und weil Mitarbeiterinnen und Mitarbeiter am gleichen Strang in die gleiche Richtung gezogen haben. ,,Dafür möchten wir uns ganz herzlich bedanken", so Paul-Hermann Bauder. ,,Und auch ein großes Dankeschön an
+t
+Familienunternehmen Bauder wechselt in die 4. Generation ­ Die 4. Generation ist stolz darauf, das Lebenswerk der vorangegangenen Generationen weiterentwickeln zu dürfen. Die glückliche Verbindung von Tradition und Innovation hat Bauder zu dem gemacht, was es heute ist ­ ein Familienunternehmen zum Anfassen. (v. l. n. r.: Jan Bauder, Mark Bauder, Tim Bauder).
+
+50 GebäudeGrün 2/2018
+
+In Kürze
+
+die vierte Generation und Gerhard Einsele, die gemeinsam die Verantwortung für die Weiterentwicklung des Unternehmens übernehmen."
+Bauder die Vierte ­ Innovation und Tradition
+Der Firmengründer Paul Bauder übernahm die 1857 gegründete Firma Burck und baute 1911 in Stuttgart-Weilimdorf ein neues Werk, das heute noch Hauptsitz des Unternehmens ist. Sein Sohn Hermann baute nach dem 2. Weltkrieg das Unternehmen zum süddeutschen Marktführer aus. Am 1. April 1982 übernahm die dritte Generation, die Brüder Gerhard und Paul-Hermann Bau-
+
+der in schwierigem Fahrwasser die Geschäftsführung von ihrem Vater. Der damalige Umsatz betrug 60 Millionen Euro. Hermann Bauder übernahm den Vorsitz des neu gegründeten Beirats. Nach 36 Jahren als Geschäftsführer zogen sich beide am 1. Januar 2018 aus der operativen Unternehmensführung zurück, um ihrerseits in den Beirat zu gehen.
+,,Für uns besteht die Verantwortung für ein Familienunternehmen nicht nur in der erfolgreichen Weiterentwicklung des Unternehmens, sondern auch in der gelungenen Übertragung der Unternehmensführung auf die nächste Generation" erläu-
+
+tern die beiden Brüder. Schon vor einem Jahrzehnt beschäftigten sie sich intensiv mit dem Generationswechsel. 2011 wurde eine Familienverfassung erarbeitet. Damit stand fest: Der Dachspezialist bleibt ein eigentümergeführtes Familienunternehmen. Jan, Mark und Tim Bauder werden 2012 und 2013 an der Basis in die Firma eingearbeitet. Am 1. Januar 2018 übernahmen die drei Brüder der vierte Generation zusammen mit Gerhard Einsele die Geschäftsführung. Jan Bauder ist zuständig für den Bereich Export und Finanzen, Mark übernimmt die Verantwortung für den Bereich Technik, Tim für das Marketing. Alle unterstützt und begleitet
+
+durch Gerhard Einsele, verantwortlich für den Vertrieb.
+Bitte für die Zukunft
+Die vierte Generation ist stolz darauf, das lebenswerk der vorangegangenen Generationen weiterentwickeln zu dürfen. Die glückliche Verbindung von Tradition und Innovation hat Bauder zu dem gemacht was es heute ist ­ ein Familienunternehmen zum Anfassen. ,,Das wollen wir weiterhin auch bleiben", so die drei Brüder. ,,Wir bitten deshalb um das Vertrauen aller Mitarbeiter, Kunden und Geschäfts partner."
+www.bauder.de
+
+Nürnberg, Germany 12. ­ 15. September 2018
+galabau-messe.com
+
+IDEELLER TRÄGER Bundesverband Garten-, Landschafts- und Sportplatzbau e. V. www.galabau.de
+
+VERANSTALTER NürnbergMesse GmbH T +49 9 11 86 06-49 90 besucherservice@nuernbergmesse.de
+
+GebäudeGrün 2/2018 51
+
+In Kürze
+
+Das RIB-ROOF Komplettdach mit Begrünungssystem
+
+In Kooperation mit Knauf Insulation urbanscape Dachbegrünungen entwickelte Zambelli eine praktikable Systemlösung inklusive der optionalen durchdringungsfreien Absturzsicherungseinrichtung für die spätere Wartung und Instandhaltung, welche komplett vom Hersteller geplant, werkseitig konfektioniert und montagefertig auf die Baustelle geliefert wird. Das Komplettdach mit Grünaufbau punktet mit vielen ökonomischen und ökologischen Vorteilen:
+
+l Das System wurde fertigungstechnisch auf die Stehfalzhöhe und die Profilbreiten der RIB-RooF-Profile angepasst und verfügt damit über eine vergleichsweise niedrige Aufbauhöhe von 100 mm und ein geringes Gewicht.
+l Im Gegensatz zu den klassischen Marktbegleitern basiert der Aufbau nicht auf Schüttstoffen, Substraten aus zum Beispiel lavagestein, Ziegel, Blähton etc., sondern auf einer Rollenware aus binde-
+
+QUEllE: KNAUF INSUlATIoN
+Das Gründach ist ein innovatives System mit einer sehr hohen Wasserspeicherkapazität.
+
+mittelfreier Steinwolle, die als Wachstumsmatte dient. l Die Verlegung ist denkbar einfach und schnell erledigt. Damit ist von vornherein eine
+
+sehr effiziente Verlegungsleistung ,,aus einer Hand".
+www.zambelli.de
+
+Neue Kunden-App dokumentiert Montage und Wartung von Absturzsicherungssystemen
+
+ABS-lock Book heißt eine neue App, mit der Kunden des Entwicklers und Herstellers ABS Safety zukünftig digital die Montage und Wartung Ihrer Absturzsicherungen dokumentieren können. Der Vorteil: Die Dokumentation kann von jedem ort ein-
+
+gesehen und gepflegt werden; und weil die Web-App den Anwender durch einen lückenlosen Fragenkatalog führt, ist die Dokumentation vollständig und rechtssicher. Die Dokumentationspflicht ist ein entscheidender Faktor beim
+
+Mit der neuen App wird die Montage vor Ort digital dokumentiert und gespeichert.
+
+QUEllE: ABS SAFETY
+
+Betrieb von Anschlageinrichtungen, die Beschäftigte bei Tätigkeiten in der Höhe vor Abstürzen schützen. Daher ist bei der Montage und der jährlich vorgeschriebenen Überprüfung durch einen Sachkundigen für Persönliche Schutzausrüstung gegen Absturz (PSAgA) nicht nur Fachkenntnis, sondern auch Sorgfalt gefragt. Mit der neuen Web-App ABSlock Bock gibt ABS Safety Kunden nun eine hilfreiche Arbeitserleichterung an die Hand.
+Mit der Internetanwendung dokumentieren Nutzer Ihre gesicherten Gebäude und objekte und können detailliert jede Position verbauter Anschlagpunkte oder Seilsicherungssysteme verzeichnen. Dabei wählen sie einfach aus einem Menü die jeweiligen Produkte von ABS Safety aus, alle relevanten Basisdaten sind bereits hinterlegt. Zur Vervollständigung der verbindlichen Fotodokumentation lädt der Anwender beliebig viel Bildmaterial
+
+hoch, etwa Detailfotos vom Einbau und der Befestigung einzelner Komponenten, notwendige Zertifikate und Zulassungen, Skizzen und Baupläne.
+Die Informationen und Bilder können am PC eingegeben und hochgeladen werden oder alternativ mit einem internetfähigen Tablet direkt bei der Montage. Ebenso besteht die Möglichkeit, die einmal eingepflegten Datensätze von überall einzusehen und weiterzubearbeiten. Dadurch werden nachfolgenden Wartungen und Überprüfungen deutlich transparenter und unkomplizierter. Und bei Bedarf drucken Nutzer der App einfach per Mausklick eine Dokumentation in Papierform aus ­ lückenlos und rechtssicher.
+www.lock-book.com/dokumentation-montage-undwartung
+
+52 GebäudeGrün 2/2018
+
+Eine runde Sache in Design und Funktionalität
+
+Wenn die Vernunft für die Fertiggarage spricht und das Herz für den Garten, kann bei kleinen Grundstücken die Wahl zur Qual werden ­ muss sie aber nicht. Denn mit ZAPF-Fertiggaragen lässt sich das ,,zu opfernde" Stück Garten einfach ein Stück höher legen: Auf das Garagendach. Dachbegrünung heißt das Zauberwort, das aus dem Flachdach einer Fertiggarage im Handumdrehen eine kleine Grünoase werden lässt. Für einen richtig kleinen Garten mit Blumen, Pflanzen und Sträuchern kann die Belastbarkeit des Garagendaches je nach Bedarf erhöht werden. Mit dem Extra eines höheren Attika-Aufbaus, einer wurzelfesten Abdichtung und
+
+QUEllE: ZAPF
+
+Clou 2.0: Mit und ohne Begrünung ein Blickfang.
+
+In Kürze
+Dränageschicht eröffnet diese Flachdach-Variante neue Gartenperspektiven.
+Die Clou 2.0 überzeugt sowohl durch ihr außergewöhnliches Design als auch durch ihre ausgezeichnete Statik. Somit eignet sie sich perfekt für eine teilweise Erdanschüttung oder (mit Verstärkung) sogar für eine komplette Erdüberfüllung. So haben Sie nicht nur ein Schmuckstück in Ihrer Einfahrt, sondern auch die Möglichkeit zu einer ansprechenden Modellierung Ihres Gartens oder zu einem organischen Übergang vom Gebäude zur Natur.
+www.garagen-welt.de
+
+DER REGEN SPEICHER
+www.optigruen.de
+
+OPTIGRÜN SYSTEMLÖSUNG RETENTIONSDACH TYP DROSSEL
+
+Ablauf wird über die Drossel . ,,Smart
+
+Flow Control" und der damit verbundenen
+
+Wetter-App elektronisch gesteuert.
+Jetzt Infos anfordern unter: info@optigruen.de
+
+NDüErboUes:rsDWeylesnttateemurie-sArcuphnpeg! .
+
+Wasserretentionsbox WRB F
+
+GebäudeGrün 2/2018 53
+
+In Kürze
+
+Vertikales Begrünungssystem aus flexiblen Pflanzsteinen
+
+luftqualität, Schallschutz, Temperaturregulierung ­ all das sind Faktoren, die einen Beitrag zu unserer hohen Wohn- und lebensqualität leisten. Sie gilt es nicht nur zu erhalten, sondern zu optimieren, um die immer weiter wachsenden Städte lebenswert zu gestalten. Ein Baustein dazu ist die vertikale Begrünung mit dem neuen Begrünungssystem Biolit Vertical Green. Diesem liegt ein Patent des Fraunhofer-Instituts für Umwelt-, Sicherheits- und Energietechnik Umsicht und Dipl.-Ing. Berthold Adler zugrunde und das System wurde in Kooperation mit dem Unternehmen Unika bis zur Marktreife entwickelt. Die Vorteile dieser grünen Wände sind überzeugend: l Schall wird absorbiert. l Die luftqualität und das Mi-
+kroklima werden positiv beeinflusst.
+
+l Der konstruktive Aufbau und die schnelle Begrünung schützen vor Schäden durch Vandalismus (z. B. Graffiti).
+l Die Pflege der Anlage ist einfach und wirtschaftlich.
+l Mit einem voll integrierten Bewässerungssystem gehören vertrocknete gründe Wände der Vergangenheit an.
+Das System basiert auf Pflanzsteinen, mit denen flexibel und skalierbar geplant und gebaut werden kann. Der Pflanzstein wurde bezüglich der Materialstruktur, auf Basis von Kalksandstein, speziell auf seine Wasserspeicher- und Wassertransporteigenschaften hin entwickelt. Das System bietet hervorragenden Schallschutz und erfüllt zudem baurechtlichen Anforderungen, zum Beispiel im Brandschutz.Nach dem Aufbau der Wand werden die Rinnen der
+
+QUEllE: RUHRBAUSToFFE
+
+Kräuteranbau in der Vertikalen mit dem System Biolit Vertical Green.
+
+Pflanzsteine mit Substrat gefüllt und anschließend direkt bepflanzt oder eingesät. Das Substrat und die Pflanzen können dabei in vielfältiger Weise variieren und auf den gewünschten Begrünungstyp angepasst werden. Die Einsatzmöglichkeiten sind vielfältig. So kann das System als Vorsatzschale vermauert und über Verankerungen mit einer bestehenden Fassade verbunden werden. Freistehende
+
+Wände können als Gestaltungselement eingesetzt werden, als Schall- oder Sichtschutz dienen oder zum Gärtnern in der Vertikalen einladen. Das letztgenannte Anwendungsbeispiel kann in Form einer Kräuterwand besichtigt werden: landesgartenschau Würzburg, in den Wissensgärten, vom 12. April bis 7. oktober 2017.
+info@unika-westfalen.de
+
+Balkone und Terrassen mit Kies oder Granit aufwerten
+
+Natürliche oberflächen für Balkone und Terrassen lassen sich mit Triflex Stone Design in vielen verschiedenen Farben und oberflächenstrukturen herstellen. Mit der Produktinnovation Triflex Stone Design R 1K funktioniert das ab sofort noch schneller: Das farblose, 1-komponentige Harz auf Basis von silanterminiertem Polyurethan (PU) kommt in Verbindung mit Triflex Stone Design S, einer Marmorkiesoder neuerdings auch Granitsplitt-Körnung, zum Einsatz. Im Zusammenspiel entsteht eine mechanisch hoch belastbare oberfläche in naturnaher optik. Dank integrierter, vliesarmierter Abdichtung schützt sie die Bau-
+
+QUEllE: TRIFlEX
+
+Zeitloses Design entsteht mit der Granitsplitt-Körnung im Farbton ,,Island". Die Sieblinie ,,Granitsplitt" ist in Körnungen von ein bis vier Millimeter erhältlich. Somit können auch feinere Strukturen hergestellt werden.
+
+substanz zugleich vor eindringender Feuchtigkeit. Im Vergleich zu herkömmlichen Steinbelägen, die mit der Zeit verblassen oder vergilben, ist das oberflächengestaltungssystem Triflex Stone Design eine hochwertige Alternative. Dafür sorgt ein innovatives Polyure-than-Harz, das die Fläche UV-stabil, strapazierfähig und frostsicher macht. Um die Verarbeitung zu vereinfachen sowie die Gestaltungspalette zu erweitern, hat Triflex die Systemkomponenten Triflex Stone Design R und Triflex Stone Design S technisch weiterentwickelt.
+www.triflex.de
+
+54 GebäudeGrün 2/2018
+
+In Kürze
+
+Sicherer Brückenschlag auf dem Dach
+
+Flughafen-Terminals, opernhäuser oder Industriehallen ­ in ganz Europa ermöglicht das laufstegSystem Kee Walk von Kee Safety auf flachen und leicht geneigten Dächern die sichere Begehung. Statt akrobatisch auf rutschigen Blech- oder PVC-Dächern entlang balancieren zu müssen, können sich Servicetechniker und Handwerker von Kee Walk auf rutschhemmenden und wetterfesten Wartungswegen sicher über das Dach führen lassen. Denn das laufsteg-System des renommierten und international tätigen Herstellers ist allen Neigungen, Steigungen und Winkelzügen von Stehfalz-, Beton-, Bitumen-
+
+QUEllE: KEE SAFETY
+
+Mit wetterfesten Wartungswegen sicher über das Dach
+
+oder Verbunddächern gewachsen. Seine 1,5 Meter und drei Meter langen Trittstufen-Module
+
+aus Glasfaser verstärktem Nylon oder Aluminium lassen sich auf den Trägerprofilen des Systems
+
+im Winkel variabel justieren, sodass laufstege für Dachneigungen von null bis 35 Grad montiert werden können. Selbst auf stark bebauten und architektonisch anspruchsvollen Dächern lassen sich auf diese Weise sichere Pfade zu allen wichtigen Ein- und Aufbauten anlegen. Damit aber auch große Rohrleitungen, mächtige Klimakanäle sowie hohe Aggregate und Mauerabsätze keine unüberwindbaren Hindernisse darstellen, hat Kee Safety sein laufsteg-System nun um die neuen Kee Walk Überstiege ergänzt.
+www.keesafety.de
+
+Modulare Pflanztonne: Urban Farming in Ballungsräumen
+
+ziale Effekte und Ästhetik gleichzeitig und stadtnah miteinander zu kombinieren. Eine Vielzahl von Ideen und Innovationen, die das Thema Nachhaltigkeit spielen, kommen dabei derzeit auf den Markt. Die Pflanztonne von aponix kommt als kreatives Bauteil für solche urbanen Projekte in Frage, da sie robust, modular und flexibel ist. Man kann damit einen dreidimensionalen Raum effizient mit Pflanzplätzen aus-
+
+statten. Das System kann einmal für die Kultivierung mit den erdlosen Verfahren verwendet werden ­ Hydroponik oder Aquaponik. Es kann aber auch mit Substrat gefüllt und betrieben werden oder als Biofilter gleichzeitig bepflanzbar in einen Wasserkreislauf zur Reinigung eines Teichs oder einer Wasserfläche eingesetzt werden.
+www.aponix.eu
+
+QUEllE: APoNIX TIDoNA
+
+Gemüseanbau auf engstem Raum.
+
+Im Zeitalter des Internets können diese Funktionen entlang der Wertschöpfungskette wieder in sinnvoller Weise zusammenwachsen. Hierzu wird professionelle Ausrüstung benötigt, die
+
+es auch auf kleinerem Raum als beim Erwerbsgartenbau außerhalb der Ballungsräume üblich, ermöglicht effizient zu wirtschaften. Ziel ist es hier die Dimensionen Ökonomie, Ökologie, so-
+
+GebäudeGrün 2/2018 55
+
+In Kürze
+
+Hängende Gärten für große Innenräume
+
+Plantwires ist der neueste Coup von Green Fortune, den Experten für vertikales Grün. Konzipiert als Garten-Ranke, ist ihr Aufbau mit dem hochflexiblen System der vertikalen Pflanzenwände Plantwalls vergleichbar, die das Unternehmen seit 2006 in zahlreichen Projekten realisiert hat.
+Eingesetzt werden die an der Decke befestigten, frei hängenden und natürlich begrünten Plantwires in großvolumigen Räumen. Individuell gefertigt, erreichen die bepflanzten lianen eine Gesamtlänge von bis zu 25 Meter. Als Einzelobjekte oder in größeren Gruppen schaffen Plantwires grüne oasen in Atrien, Eingangsbereichen oder auf überdachten Plätzen. Installation und Pflege Jede Pflanzen-Ranke besteht aus einem wasserundurchlässigen Textilband mit in-
+
+tegrierten Pflanztaschen, das von der Decke abgehängt wird (Traglast ca. 10 kg/m).
+Die automatische Bewässerung und Düngung der Pflanzen erfolgt über einen Zulauf am oberen Ende der Plantwires. Das Wasser wird von dort durch die Pflanztaschen bis nach unten geleitet. Ein geringer Teil tropft ab, wird in einem Ablauf aufgefangen und über die Gebäudeentwässerung abgeführt. Spotlights im Deckenbereich beleuchten die Pflanzen mehrere Stunden pro Tag, um einen optimalen Pflanzenwuchs zu gewährleisten.
+Durch eine regelmäßige Pflege behält die Installation dauerhaft ihre gesunde Ausstrahlung. Als urbane Garten-oase verbessern sie zudem nachweislich die
+
+QUEllE: GREEN FoRTUNE
+
+Hängende Gärten für frische Innenräume.
+
+Raumakustik, optimieren die luftfeuchtigkeit, reichern die luft mit Sauerstoff an und ab-
+
+sorbieren Schadsubstanzen und Feinstaub aus der luft.
+www.greenfortune.com
+
+Spezail-Rollrasen macht Dächer zu Erholungsoasen
+
+Mithilfe der ,,Sommerwiese", einer speziell für die Dachbegrünung entwickelten Rollrasenart, werden Gartenträume jetzt
+
+auch auf Dachflächen wahr. Die fertig kultivierte Blumenwiese ,,von der Rolle" benötigt keinen chemischen Dünger, produziert
+
+Blühende Sommerwiese durch Rollrasen.
+
+nur sehr geringe Mengen Schnittgut und kommt nach der Anwachsphase ohne Beregnung aus. Die Sommerwiese eignet sich sowohl für Flachdächer und Terrassen als auch für geneigte Dachflächen (bis etwa 5°) und für Umkehrdächer. Dank individueller Zuschnitt-Möglichkeiten sind der Ausgestaltung von Dachterrasse oder größerem Balkon gestalterisch keine Grenzen gesetzt.
+Im Gegensatz zu herkömmlichen Dachbegrünungen genügt der Sommerwiese aufgrund ihrer Pflanzenzusammensetzung und der ausgeklügelten Wasserspeicher-Systemtechnik eine Erdsubstrat-Schichtdicke von nur circa
+
+acht Zentimeter. Dazu kommen nochmals zwei Zentimeter Rollrasen-Auflage. Die Statik schlägt nur mit 165 Kilogramm pro Quadratmeter zu Buche. Das Grundprinzip dieses Systemaufbaus ist die Verteilung und Bevorratung von Wasser in den Mulden von sogenannten ,,Aquatec-Elementen". Die Wasserbevorratung wird über Niederschläge, beziehungsweise, falls ausbleibend, über die in den Elementen verlegten Tropfschläuche geregelt. Über ein Dochtvlies wird das Wasser nach oben gesogen und so den Pflanzen zur Verfügung gestellt.
+www.schwab-shop.de/29/zinco-sommerwiese
+
+QUEllE: SCHWAB/ZINCo
+
+56 GebäudeGrün 2/2018
+
+In Kürze
+
+Mineralsubstrat für extensive oder intensive Bepflanzungen
+
+Bepflanzte Dächer liegen im privaten wie öffentlichen Bereich im Trend, nicht nur weil sie optisch ansprechend, sondern auch ökologisch wertvoll sind. Die Dachgartensubstrate von frux GalaBau für extensive beziehungsweise intensive Begrünung sind für Mehrschichtbauweise von null bis fünf Grad Dachneigung und für einschichtige Bauweise im Schrägdachbereich (> 5° Dachneigung) mit mittlerer bis hoher Pflanzenvielfalt ausgelegt.
+Beide Substrate bestehen vorwiegend aus mineralischen Bestandteilen wie lava, Blähton und Bimssand (Schüttdichte lose nach DIN EN 1097-3: 700­800 bzw. 600­700 kg/m3, Einbauverdichtung 20­30 %). Sie sorgen für eine hohe Struktursta-
+
+QUEllE: PATZER
+
+Mineralsubstrat für Dachbegrünungen.
+
+bilität gegen Wind- und Wassererosion, verringern die Sackung und beugen durch ihr
+
+hohes Porenvolumen Wurzelschäden vor. Die Mineralsubstrate sind frei von keimfähigen Samen
+
+und austriebsfähigen Pflanzenteilen und trocknen schnell ab. Das verhindert das Anwachsen zufliegender Unkräuter und reduziert den Pflegeaufwand. Anders als das Extensivsubstrat ist das Intensivsubstrat stärker aufgedüngt und enthält frischen Naturton als Wasser- und Nährstoffpuffer. Erhältlich sind die Dachgartensubstrate von frux GalaBau im 40-liter-Sack auf Palette (54 Stk.) oder im Big Bag (2 m3).
+Das frux GalaBau-Sortiment umfasst 35 Produkte und deckt damit alle wichtigen Bodenarbeiten im Garten- und landschaftsbau, im kommunalen Bereich und in der Grünpflege ab.
+www.frux-galabau.de
+
+Eyecatcher fürs Outdoor-Wohnzimmer
+
+Canto Color, der Gewinner des Red Dot Design Award 2017 bringt mit der außergewöhnlichen Naturstein-optik ein tolles Flair in den heimischen FreiluftWohnraum. Er vereint die Vorteile von robustem und pflegeleichtem Kunststoff mit einer strukturierten oberfläche in natürlicher Steinoptik.
+Canto gibt es als Würfel und als Säule in je zwei verschiedenen Größen und drei unterschiedlichen Farben für einen einheitlichen look. Die Naturstein-optik harmoniert mit jedem Gartenoder Terrassenstil, kann aber auch als Eyecatcher besonders inszeniert werden. Selbst ein schnelles Umgestalten gelingt spielend einfach, dank herausnehmbarer Pflanzeinsätze in der jeweiligen Gefäßfarbe, die prak-
+
+tisch zwischen Würfel und Säule ausgetauscht werden können. Nicht nur das intelligente Bewässerungssystem mit bis zu sieben litern Wasserspeicher und die innovative optik machen Canto zu einem perfekten Partner für den outdoor-Bereich. Charakteristisch für die smarten Würfel und Säulen ist die Fertigung aus hochwertigem, leichtem und robustem Kunststoff. Die Gefäße sind witterungsbeständig gegen Frost und UV-Strahlung. lechuza Canto Color ist als ,,All-in-one Set" mit Pflanzgefäß, Pflanzeinsatz, Wasserstandsanzeiger sowie Pflanzsubstrat lechuza-Pon in zwei Größen in den NatursteinFarbtönen sandbeige, graphitschwarz und steingrau im Handel erhältlich.
+www.lechuza.com
+
+QUEllE: lECHUZA
+
+Einfach Gestalten mit Pflanzgefäßen.
+
+GebäudeGrün 2/2018 57
+
+In Kürze
+
+Anschluss leicht gemacht. Revisionierbare Stichkanäle
+
+Stichkanäle bilden einen zielgerichteten Entwässerungskanal, der Niederschlag zum Beispiel von Dränagerinnen zu Dachabläufen leitet. Allerdings erweist sich ihre Integration in vorhandene Entwässerungssysteme aufgrund fehlender fester Verbindungen als nicht optimal.
+Die Richard Brink GmbH & Co. KG löst dieses Problem mit seinem Stichkanal-System Subterra aus Aluminium. Dieses System gehrt zu den ersten revisionierbaren Stichkanälen auf dem Markt. Über einen Adapter lässt es sich problemlos an die jeweiligen Rinnen des Metallwaren-
+
+herstellers üb erden kompletten Querschnitt des Stichkanals anschließen. Das durchdachte ClipSystem gewährleistet darüber hinaus eine schnelle und leichte Montage. Über Clip-Verbinder können Verarbeiter die Stichkanäle beliebig verlängern und unkompliziert Elemente wie Kontrollschächte in die Installation einfügen.
+Werden Stichkanäle im Gründachbereich verbaut, lenken diese überschüssiges Wasser unterhalt der Pflanzerden und Dränageschichten zu den nächsten Abläufen. Auch auf Dachterrassen und Balkonen wird Nieder-
+
+QUEllE: RICHARD BRINK GMBH & Co KG
+
+Mit dem neuen StichkanalSystem Subterra ergeben sich erweiterte Möglichkeiten der Dränage.
+
+schlagswasser mit Hilfe von Stichkanälen aus dem Schüttgut unterhalb der Belagsfläche in Richtung Ablauf geführt. In der Regel werden Stichkanäle an die Dränschlitze der Entwässerungsrinnen innerhalb der Dränageschicht gelegt.
+Eine feste Verbindung zwischen Rinnenkörper und Stichkanal besteht jedoch nicht, sodass Regenwasser nicht zwangsläufig in die angelegte Rinne einfließt. Abhilfe schafft nun das innovative Stichkanal-System Subterra.
+www.richard-brink.de
+
+Grüne Wände contra Feinstaub und Kohlendioxid
+
+Das patentierte AerogationTMSystem von AgroSci, einem Hersteller von grünen Wänden aus den USA, verbindet das Sauerstoff produzierende Grün von Pflanzen mit dem Vorteil wirksamer luftreinigung. Die Technologie für Wandbegrünungen multipliziert die luftreinigende Fähigkeit jeder Pflanze nachweislich um den Faktor 200.
+,,Gründe Wände haben gerade im urbanen Raum das Potential, die lücke zu schließen, die durch immer mehr versiegelte Flächen entstehen", sagt Peter Kramer, Geschäftsführer von KramerGartenbau aus München. Der Experte für Grüne Wände hat jetzt den Europavertrieb des patentierten AerogationTM-Systems des US-Herstellers AgroSci aus Colchester übernommen. Der Clou der Technologie: Kleinstlebewesen im Substrat wandeln die zugeführte Außenoder Raumluft in Dünger um. Giftstoffe wie Kohlendioxid oder
+
+QUEllE: AGRoSCI
+
+Das AerogationTM-System erhöht die luftreinigende Wirkung ­ jetzt ist die Technologie auch in Deutschland erhältlich.
+
+Feinstaub werden abgebaut, abgestandene Raumluft frisch ausgetauscht. ,,Der Effekt ist in der Tat verblüffend: Bei mir zuhause steht eine Vorführanlage des System im Schlafzimmer. Schalte ich diese morgens nach dem Aufstehen ein, hat sich das Raumklima bereits nach etwa
+
+einer halben Stunde wieder komplett erfrischt ­ ohne Öffnen des Fensters", schildert Kramer begeistert. Mit Hilfe einer speziellen Substratmischung und einem optimal abgestimmten Bewässerungs- und luftzufuhrsystem ist es möglich, die luftreinigende Wirkung jeder Pflanze ei-
+
+ner grünen Wand um den Faktor 200 zu erhöhen. Der Effekt wurde 2016 in einer wissenschaftlichen Untersuchung der US-Universität Stattfordshire nachgewiesen. AgroScis größtes AerogationTM-System ist in einem Gebäude in Arlington in Virginia installiert: Eine 120 Quadratmeter große grüne Wand filtert dort täglich etwa 36.000 Kubikmeter luft. In Baltimore wandelt es die Abluft der Küche eines Restaurants in frische Raumluft für den Gästebereich um.
+Kramer-Gartenbau installiert das System sowohl im Innen- als auch im Außenraum. ,,Alle Größen sind möglich", sagt Kramer und bietet die komplette lieferung und Montage aus einer Hand an. Die luftreinigende Wirkung lässt sich schon mit handelsüblichen, preiswerten Pflanzen wie Efeu, Grünlilie oder Einblatt erzielen.
+kontakt@kramer-gartenbau.de
+
+58 GebäudeGrün 2/2018
+
+QUEllE: SITA
+
+In Kürze
+
+Flachdachentwässerung einfach erklärt: Die neuen Sitaleicht Broschüren
+
+Sita hat nachgedacht und für seine Kunden vorausgedacht. Das Resultat sind neue Produktinformationsbroschüren, die die professionelle Flachdachentwässerung so einfach wie nie zuvor erläutern.
+Die neuen Sitaleicht Produktbroschüren sind alle nach dem gleichen logischen Raster aufgebaut. Sie lassen keine Fragen offen. Was ist Thema? Warum ist diese Technik die richtige Produkt- oder Systemlösung? Wie, wo und womit wird die Montage durchgeführt? Wer ist für mich da, wenn ich einen Rat benötige? Mit dieser Themengliederung heben sich
+
+die neuen Broschüren von gewöhnlichen Produktprospekten ab. Sie liefern wichtiges Hintergrundwissen in kompakter Form, was auch Profis zu schätzen wissen. Sie geben Entscheidungshilfen und damit Entscheidungssicherheit und letztendlich erklären sie bis ins Detail, wie es geht und mit welchem Produkt. Ein Farb- und Buchstaben-leitsystem erleichtert die orientierung innerhalb der BroschürenVielfalt. Von A wie Attikaentwässerung bis S wie Sanierung wird jedes Thema rund um die Entwässerung und lüftung flacher Dächer vorgestellt. Freispiegel- Druckströmungs- und Not-
+
+Neun neue Sitaleicht Prospekte mit hilfreicher Farbkennung.
+
+entwässerung, aber auch Sonderthemen wie Brandschutz, Drainage, lüftung und Rohrdurchführung, Balkon- und Terrassenentwässerung bekommen jeweils einen eigenen Prospekt ­ oder besser gesagt leitfaden ­ zum einfach guten Ergebnis.
+
+In der Produktübersicht erleichtert die Farbkennung orientierung und schnellen Themenzugriff, wozu auch die hilfreiche Registerstanzung beiträgt.
+www.sita-bauelemente.de
+
+Auch auf diesem Weg wünschen wir dem Bundesverband GebäudeGrün e.V. einen guten Start. Zudem ein hohes Maß an Durchschlagskraft was die Erreichung der gesteckten Ziele zum Wohle der Dach-, Fassaden- und Innenraumbegrünung betrifft.
+GebäudeGrün 2/2018 59
+
+In Kürze
+
+7. Auflage des ,,Ratgebers Regenwasser"
+
+Die Mall GmbH stellte auf der IFAT die mittlerweile 7. und erneut aktualisierte Ausgabe des vom Fachbuchautor und Regenwasserexperten Klaus W. König herausgegebenen ,,Ratgebers Regenwasser" vor. Zwölf gegenwärtig diskutierte Fachthemen aus der Siedlungswasserwirtschaft werden von Experten aus Deutschland, Österreich und der Schweiz vorgestellt und mit Grafiken und Abbildungen ergänzt.
+
+Die 36-seitige Broschüre richtet sich in erster linie an Kommunen und Planungsbüros, die den Ratgeber als Planungshilfe und Impuls für neue Ansätze nutzen. In zwölf Beiträgen von ebenso vielen Expertinnen und Experten werden die einzelnen Fragestellungen kurz und prägnant vorgestellt; weiterführende Hinweise sowie die Kontaktdaten der jeweiligen Autoren ermöglichen eine weitere Vertiefung. Ganz
+
+QUEllE: MAll
+
+Auch in seiner 7. Auflage wurde der Ratgeber Regenwasser mit aktuell diskutierten Fachthemen ergänzt.
+
+aktuell beschäftigt sich ein Beitrag mit den erwarteten neuen Normen für den Umgang mit Regenabflüssen in Siedlungsgebieten. Ebenfalls neu aufgenommen wurde die Frage, wie Retentionsräume mit Hilfe von Wettervorhersagen bewirtschaftet werden können. Die in der Fachbuchreihe ,,Ökologie aktuell" erscheinende Broschüre im DIN A4Format kann per E-Mail zum Preis von 15 Euro inkl. MwSt. und zzgl. Versandkosten bestellt werden (ISBN 978-3-9803502-2-8).
+info@mall.info
+
+Stellenangebot
+Wir suchen aktuell Referent für PR-Arbeit (m/w) Praktikant (m/w) Neu gegründet und schon am Wachsen. Seien Sie Teil unseres Teams!
+Kurzbewerbung bitte per E-Mail an Dr. Gunter Mann, gunter.mann@bugg.de Weitere Infos auf unserer Internetseite www.gebaeudegruen.info
+60 GebäudeGrün 2/2018
+
+Stufenlos höhenverstellbare Stelzlager für Terrassenbeläge
+
+Bei Dachterrassen ist die Unterkonstruktion fast ebenso wichtig wie der Belag selbst und bei Flachdächern kann es gerade in der finalen Bauphase immer wieder zu Engpässen in der Statik kommen. Hier bieten die neuen Terrassenplattenlager von optigrün die optimale lösung. Mit der Verlegung der Stelzlager aus stabilem Polypropylen wird das Gewicht von Tragschicht und Bettung eingespart.
+
+und eine optimale Anpassung an die Gegebenheiten kann der Plattenbelag dank der stufenlosen Höhenverstellung während des Verlegens und auch nachträglich noch verstellt und ausgerichtet
+
+Beim fertigen Plattenbelag lassen die offenen Fugen das Wasser schnell im Hohlraum unter dem Belag versickern und abfließen. Außerdem ist ein einfacher Zugang zu Abflüssen, Kabeln oder Bewässerungsrohren, die unter dem Terrassenbelag verlegt sind, möglich. Das erleichtert auch die Wartung und Pflege der Installationen. Zudem vermindert die dauerhafte Hinterlüftung des Plattenbelages unschöne Ausblühungen, unerwünschten Bewuchs und Verschmutzung. Für einen perfekten Übergang von Terrassentür zu Terrassenbelag
+
+oPTIGRÜN
+
+Verlagerung der wasserführenden Schicht unter den Plattenbelag ermöglicht barrierefreien Übergang.
+werden. Die Terrassenplattenlager TPl sind in sechs verschiedenen Ausführungen mit stufenloser Höhenverstellung erhältlich.
+www.optigruen.de
+
+Der Patzer Verlag gratuliert
+zur erfolgreichen Fusion von Fachvereinigung Bauwerksbegrünung e.V. und
+Deutscher Dachgärtner Verband e.V. zum Bundesverband GebäudeGrün e. V. (BuGG).
+
+BESTELLUNG
+
+Aus diesem Anlass schenken wir Ihnen die Versandkosten!
+
+BESUC de
+
+EREN pa
+
+Dieses Angebot gilt bei Bestellungen aus unserem Buchprogramm bis 30.6.2018!
+
+Stichwort: ,,GebäudeGrün" Buchbestellungen:
+
+HEN SIE UNS ..........
+Shop
+
+shop@patzerverlag.de
+
+tz e r v e r l ag.
+
+Ich möchte ein kostenloses Probeexemplar Ich bestelle ein Abo (4 Ausgaben) für 32,00 Euro (2018) und bekomme als Begrüßung 1 Ausgabe kostenlos Ich bestelle ein Abo für Studenten und Auszubildende (4 Ausgaben) für 21,33 Euro (2018) und bekomme als Begrüßung 1 Ausgabe kostenlos. Meine Ausbildungsbescheinigung liegt anbei.
+Lieferanschrift
+
+Hinweise zum Datenschutz: Soweit Sie gegenüber der Patzer Verlag GmbH & Co. KG keine anderslautende Erklärung abgegeben haben, nutzen und speichern wir Ihre persönlichen Daten elektronisch, um Ihre Bestellung abzuwickeln und Sie per Post oder E-Mail über durch die Patzer Verlag GmbH & Co. KG zu beziehenden Fachmedien und -dienste zu informieren. Der Verwendung Ihrer Daten zu Informationszwecken können Sie jederzeit postalisch an Patzer Verlag GmbH & Co. KG, Abteilung Datenschutz, Koenigsallee 65, 14193 Berlin oder per E-Mail an datenschutz@patzerverlag.de mit Wirkung für die Zukunft widersprechen.
+
+Name/Vorname Straße
+
+PLZ/Ort
+
+An den
+Patzer Verlag GmbH & Co. KG Postfach 33 04 55 14174 Berlin
+PATZER VERLAG · Berlin ­ Hannover ·Koenigsallee 65 ·14193 Berlin Telefon (0 30) 89 59 03-0 · Telefax (0 30) 89 59 03-17 · www.patzerverlag.de Abo/Buchservice: Telefon (0 30) 89 59 03-53 · abo@patzerverlag.de · shop@patzerverlag.de
+
+E-Mail
+Branche
+Datum/Unterschrift
+Vertrauensgarantie Falls Sie Ihre Bestellung nicht aufrecht erhalten möchten, können Sie diese schriftlich innerhalb von 10 Tagen beim Patzer Verlag widerrufen (rechtzeitiges Absenden genügt). Abbestellungen sind möglich bis 3 Monate vor Ende eines Kalenderjahres. Danach verlängert sich die Lieferung um ein Jahr.
+
+Fachzeitschriften
+aus dem PATZER VERLAG
+
+ISSN 0548-2836
+
+5163
+
+NEUE
+
+5 2018
+
+LANDSCHAFT
+
+Fachzeitschrift für Garten-, Landschafts-, Spiel- und Sportplatzbau
+
+A 3135 ISSN 0948-9770
+Stadt+Grün
+
+CityTrees
+Eine Pilotstudie aus Stuttgart sät Zweifel an der reinigenden Wirkung der Mooswände.
+
+Grüne Gleise
+Eine nachhaltige Gleisbegrünung erfordert gleis- und vegetationstechnische Kenntnisse.
+
+Assistierte Ausbildung
+Das Förderkonzept wird von den Jugendlichen gut angenommen, doch es hat auch Haken.
+
+PATZER VERLAG Berlin-Hannover
+
+Neue Landschaft
+ist die älteste deutschsprachige Spezial-Publikation und zugleich praxisorientierte Fach- und Standesinformation für Unternehmer im Garten-, Landschafts- und Sportplatzbau.
+
+52018
+
+Wasser in der Stadt Das Element kann Katastrophen auslösen, ist aber auch eine Chance in der Freiraumplanung Spreepark Ein ehemaliger DDR-Vergnügungspark wird in einen Kunst- und Kulturpark transformiert Substrate Pflanzenkohle kann den Boden erheblich verbessern. Dies zeigen Erfahrungen der vergangenen Jahrzehnte
+
+PATZER VERLAG
+Berlin-Hannover
+Stadt und Grün
+Fachpublikation für die gesamte öffentliche Grüngestaltung und Grünpflege mit den Schwerpunkten Umwelt- und Freiraumplanung.
+
+3944
+
+ISSN 0342-4650
+
+5/6 2018
+
+GARTEN&
+
+FREIZEITMARKT
+
+Fachzeitschrift für den gesamten Gartenfachhandel
+
+Interzoo: Aussteller aus
+
+Der Trend zum Grillen
+
+über 60 Ländern vertreten ist ungebrochen
+
+Teiche locken viele Tiere in den Garten
+
+PATZER VERLAG
+Berlin-Hannover
+
+Garten- und Freizeitmarkt
+ist die Spezialzeitschrift für den Handel mit Garten- und Freizeitbedarf, Gartengeräten, Rasenpflegemaschinen und -geräten, Lebendem Grün, Gartenausstattungen, Terrassen- und Balkonbedarf, Heimtieren und Aquaristikbedarf.
+
+Landschaftsarchitekten
+
+BIM in der Landschaftsarchitektur
+
+2 2018
+
+Architektur + Fassadenplanung + Tragwerksplanung + Techn. Gebäudeausrüstung + Landschaftsarchitektur =
+
+Landschaftsarchitekten
+Fachzeitschrift, Diskussionsforum und Ideenschau für alle Beteiligten der Stadt- und Landschaftsgestaltung.
+
+BAUM
+
+ZEITSCHRIFT FÜR PFLANZUNG, PFLEGE UND ERHALTUNG
+
+2018
+2
+
+PATZER VERLAG Berlin-Hannover
+
+S U P P L E M E N T der Fachzeitschriften: NEUE LANDSCHAFT und Stadt+Grün
+
+Pro Baum
+Fachzeitschrift für Pflanzung, Pflege und Erhaltung.
+
+ISSN 2568-9177
+Gebäude 2|2018
+
+Grün + DACH · FASSADE RAUM · GRÜN
+
+vormals Dach
+
+Grün
+
+Normen zur Entwässerung
+PATZER VERLAG
+Berlin-Hannover
+
+Sumpflanzen zur Dachbegrünung
+
+Aus FBB und DDV wird BuGG
+
+GebäudeGrün
+Fachzeitschrift mit Schwerpunktthemen zu Dach-, Fassaden- und Innenraumbegrünung.
+
+PATZER VERLAG
+Berlin-Hannover
+
+14193 BERLIN Koenigsallee 65 Tel. 0 30/89 59 03-0 Fax 0 30/89 59 03-17
+
+30179 HANNOVER Alter Flughafen 15 Tel. 05 11/6 74 08-0 Fax 05 11/6 74 08-53
+
+www.patzerverlag.de shop@patzerverlag.de
+
+HEN SIE UNS ..........
+Shop
+tz e r v e r l ag.
+
+BESUC de
+
+EREN pa
+
+

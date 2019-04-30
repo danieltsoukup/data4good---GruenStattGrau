@@ -1,0 +1,1360 @@
+Kommunale gründach-strategien
+Inventarisierung, PotenZialanalyse, PRAXISBEISPIELE
+HCU HafenCity Universität Hamburg
+
+Impressum
+Kommunale Gründach-Strategien Inventarisierung, Potenzialanalyse, Praxisbeispiele
+Herausgeber Wolfgang Ansel, Deutscher Dachgärtner Verband e.V. (DDV)
+Redaktionelle Beiträge Wolfgang Ansel (Deutscher Dachgärtner Verband e.V. - DDV), Julian Zeidler (Deutsches Zentrum für Luft- und Raumfahrt - DLR), Dr. Thomas Esch (Deutsches Zentrum für Luft- und Raumfahrt - DLR), Dr. Hanna Bornholdt (Behörde für Umwelt und Energie ­ BUE, Hamburg), Alexander Schmid (Amt für Stadtplanung und Stadterneuerung, Stuttgart), Helmut Wahle (Fachbereich Umwelt und Stadtgrün, Hannover), Brigitte Reichmann (Senatsverwaltung für Stadtentwicklung und Umwelt, Berlin), Hans Müller (Helix Pflanzensysteme GmbH, Kornwestheim), Dr. Bernd Eisenberg (Universität Stuttgart), Dr.-Ing. Ferdinand Ludwig (ludwig.schoenle), Dipl.-Ing. Daniel Schönle (ludwig.schoenle)
+Verlag Deutscher Dachgärtner Verband e. V. (DDV) Postfach 2025 72610 Nürtingen Tel.: 07022 301378 E-Mail: contact@dachgaertnerverband.de Internet: www.dachgaertnerverband.de
+1. Auflage ­ Nürtingen: Deutscher Dachgärtner Verband e. V. (DDV) 2016
+ISBN: 978-3-9814184-2-2
+Copyright und Auflage Alle Rechte vorbehalten. Das Werk ist urheberrechtlich geschützt. Ohne ausdrückliche Genehmigung der Herausgeber ist jede Verwertung, die über die engen Grenzen des Urheberrechtes hinausgeht, unzulässig und strafbar. Dies gilt insbesondere für Vervielfältigungen, Übersetzungen, Mikroverfilmungen sowie die Speicherung in elektronischen Systemen.
+Gefördert durch die Deutsche Bundesstiftung Umwelt (DBU): Aktenzeichen 30299
+© Deutscher Dachgärtner Verband e. V. (DDV), Nürtingen 2016
+Foto Titel: © Stadt Karlsruhe / DLR
+Layout Team D Lise-Meitner-Str. 13/1 72622 Nürtingen Tel.: 07022 - 30 39 930 E-Mail: tina@teamd.de Internet: www.teamd.de
+2 Impressum
+
+Kommunale Gründach-Strategien
+Inventarisierung, Potenzialanalyse, Praxisbeispiele
+Teil I: Inventarisierung und Potenzialanalyse von Dachbegrünung Teil II: Praxisbeispiele kommunaler Gründach-Strategien
+Hinweis: Die Verbreitung begrünter Dächer in Deutschland ist eng mit dem Einsatz kommunaler Fördermaßnahmen verbunden. Die vorliegende Publikation knüpft inhaltlich an den ,,Leitfaden Dachbegrünung für Kommunen - Nutzen, Fördermöglichkeiten, Praxisbeispiele" an, den der Deutsche Dachgärtner Verband (DDV), die HafenCity Universität Hamburg (HCU) und die Deutsche Gartenamtsleiterkonferenz (GALK) 2011 im Rahmen des Förderprojektes 28269 der Deutschen Bundesstiftung Umwelt (DBU) veröffentlicht haben. Der dort beschriebene Katalog unterschiedlicher Instrumente zur Förderung begrünter Dächer bildet die Grundlage für die Einführung und Etablierung kommunaler Gründach-Strategien. Der Leitfaden ist gegen eine Schutzgebühr von 15,00 Euro zzgl. Versandkosten bei der Geschäftsstelle des Deutschen Dachgärtner Verbandes erhältlich. Kommunale Fachbehörden erhalten den Leitfaden kostenfrei.
+3
+
+Vorwort
+
+Vor dem Hintergrund der aktuellen Klimaentwicklung stehen begrünte Dächer weiter im Fokus der Aufmerksamkeit. Egal, ob es sich dabei um Regenwasserrückhalt, sommerliche Hitzeabwehr oder den Schutz der Dachabdichtung vor Temperaturextremen und Hagelschäden handelt ­ mit ihren vielfältigen Vorteilen liefert die Umwelttechnik Dachbegrünung ein perfektes Werkzeug, um diese Herausforderungen zu meistern. Viele Städte räumen begrünten Dächern deshalb im Rahmen ihrer Anpassungspläne an den Klimawandel eine besonders hohe Priorität ein. Auf nationaler Ebene findet dieser Ansatz Unterstützung durch das Grünbuch ,,Stadtgrün" des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB) und die branchenübergreifende Charta ,,Zukunft Stadt und Grün", die vom Bundesverband Garten-, Landschafts- und Sportplatzbau e. V. (BGL) und der Stiftung DIE GRÜNE STADT ins Leben gerufen wurde.
+
+Jedes Jahr werden in Deutschland mehrere Millionen Quadratmeter Dachbegrünung neu installiert. Gleichzeitig wird aber nach wie vor der größte Teil der Dachflächen ohne Begrünung ausgeführt und leistet dadurch keinen Beitrag zur Verbesserung der Umweltund Lebensqualität in den Städten. Eine Flächenverschwendung, die wir uns in Zeiten des Klimawandels und der zunehmenden Urbanisierung nicht leisten können.
+Im Namen unseres Verbandes wünsche ich Ihnen eine anregende Lektüre!
+Deutscher Dachgärtner Verband e.V. (DDV) Reimer Meier, Präsident
+
+Mit der vorliegenden Broschüre ,,Kommunale Gründach-Strategien ­ Inventarisierung, Potenzialanalyse, Praxisbeispiele" möchten wir Ihnen zeigen, wie vielfältig die Einsatz- und Fördermöglichkeiten begrünter Dächer auf kommunaler Ebene sein können. Neben aktuellen Gründach-Initiativen aus Berlin, Hamburg, Hannover, Ludwigsburg und Stuttgart stellen wir Ihnen dabei auch das spannende Forschungsprojekt ,,Inventarisierung und Potenzialanalyse von Dachbegrünung" vor. Unter der Projektleitung des Deutschen Dachgärtner Verbandes hat das Deutsche Zentrum für Luft- und Raumfahrt (DLR) ein fernerkundliches Verfahren entwickelt, das auf Grundlage von Luftbildaufnahmen und Gebäudebasisdaten bereits vorhandene Dachbegrünungen identifizieren kann und mögliche Potenzialflächen in der Dachlandschaft ausweist.
+
+4 Vorwort
+
+Inhaltsverzeichnis
+
+Einleitung
+
+6
+
+TEIL I
+
+INVENTARISIERUNG UND POTENZIALANALYSE VON DACHBEGRÜNUNG 7
+
+1.Hintergrund und Ziele des Forschungsprojektes
+
+9
+
+2.Stadtökologische Wirkungen begrünter Dächer
+
+10
+
+3.Beschreibung der Methode
+
+12
+
+3.1Eingangsdaten
+
+12
+
+3.2Gründach-Inventarisierung
+
+13
+
+3.3 Potenzialanalyse
+
+15
+
+4. Ergebnisse
+
+16
+
+4.1 Analyse Einzelgebäude
+
+16
+
+4.2 Analyse Stadtgebiet
+
+19
+
+5. Einsatzgebiete des Verfahrens
+
+20
+
+6. Zusammenfassung
+
+21
+
+GESTALTUNGS- UND NUTZUNGSBEISPIELE
+
+23
+
+TEIL II
+
+PRAXISBEISPIELE KOMMUNALE GRÜNDACH-STRATEGIEN
+
+24
+
+Hamburg: Auf die Dächer - Fertig - Grün!
+
+25
+
+Hannover: Gebäudebegrünung als Bestandteil der Klimaanpassungsstrategie
+
+28
+
+Stuttgart: Netzwerk Urbanes Gärtnern / Kommunales Grünprogramm
+
+32
+
+Berlin: Ökologische Gebäudekonzepte und Modellvorhaben
+
+36
+
+Ludwigsburg: Das Grüne Zimmer
+
+40
+
+ANHANG
+
+44
+
+Fachliteratur und Internetressourcen
+
+44
+
+Kontaktadressen
+
+46
+
+Inhaltsverzeichnis 5
+
+Einleitung
+
+Der Klimawandel stellt die Städte vor enorme Herausforderungen. Die Zunahme extremer Wetterereignisse (ausgedehnte Hitzeperioden, starke Unwetter, Hochwasser) wird sich auf die urbanen Ballungsgebiete aufgrund ihrer Bevölkerungs- und Bebauungsdichte und der hohen Wertekonzentration besonders stark auswirken. Um die bereits vorhandenen negativen Auswirkungen abzumildern und Pufferkapazitäten für die prognostizierte Verstärkung des Klimawandels zu schaffen, müssen die kommunalen Entscheidungsträger deshalb in einer Doppelstrategie Maßnahmen des Klimaschutzes und der Klimafolgenanpassung miteinander kombinieren. Als Modul einer klimawandelangepassten Stadt- und Raumentwicklung kommt der Dachbegrünung dabei besondere Bedeutung zu. Die positiven Wirkungen begrünter Dächer umfassen unter anderem die Bindung von Treibhausgasen und Luftschadstoffen, die Verringerung des urbanen Hitzeinsel-Effektes (,,urban heat island" - effect) und die Entlastung der Kanalisation. Gleichzeitig erhöhen Gründächer die Lebensqualität der Stadtbewohner und unterstützen Aspekte des Artenschutzes. Ein gezielter Ausbau der grünen Infrastruktur auf den städtischen Dachflächen wird deshalb von vielen Kommunen als wichtiger Baustein einer zukunftsorientierten Städteplanung angesehen. Bei der konkreten Umsetzung kommunaler GründachStrategien können unterschiedliche Wege beschritten werden. Dabei spielen neben den lokalen stadtökologischen Problemstellungen auch die finanziellen und personellen Ressourcen der Kommunen eine wichtige Rolle. Die in dieser Broschüre vorgestellten praktischen Beispiele aus Berlin, Hamburg, Hannover, Ludwigsburg und Stuttgart zeigen, wie vielfältig das Instrumentarium der Handlungsfelder "Fordern, Fördern, Informieren" ist, aus dem sich die Kommunen bedienen können.
+Eine wichtige Grundlage für die Entwicklung kommunaler Gründach-Strategien stellen fundierte qualitative und quantitative Datensätze dar, die neben dem Flächenumfang und der Lage der bereits existierenden Gründächer zusätzlich auch geeignete Dachflächen für eine nachträgliche Begrünung ausweisen. Bisher konnten diese Informationen nur durch die aufwändige visuelle Auswertung von Luftbildern erhoben werden.
+
+können Maßnahmen der Gründach-Förderung spezifiziert werden, um die Umsetzung begrünter Dächer in städtischen Bereichen mit mangelhafter Grünausstattung gezielt zu unterstützen. Die Stadtplanung steht derzeit vor einer wichtigen Weichenstellung. Selbst wenn das Ziel, die globale Erwärmung durch umfangreiche Klimaschutzmaßnahmen auf 2°C zu begrenzen, erreicht werden sollte, werden die mit dieser Temperaturerhöhung verbundenen Effekte die Wohn- und Lebensqualität in den Städten massiv beeinflussen. In Zukunft werden deshalb lokale Maßnahmen zur Anpassung an den Klimawandel stark an Bedeutung gewinnen. Die Technik der Dachbegrünung ermöglicht es dabei, eine bisher noch zu wenig beachtete Dimension der grünen Infrastruktur zu erschließen - die Dächer der Stadt.
+Dachbegrünungen tragen zu Klimaschutz und Klimawandelanpassung bei. © DDV
+
+Auf den folgenden Seiten präsentieren wir Ihnen eine neue fernerkundliche Methode, um diese Flächen automatisiert zu erfassen. Auf Grundlage der Analyse lassen sich die Ökosystemleistungen begrünter Dächer erstmals realitätsnah quantifizieren. Des Weiteren
+
+6 Einleitung
+
+Teil I
+INVENTARISIERUNG UND POTENZIALANALYSE VON DACHBEGRÜNUNG
+1. Hintergrund und Ziele des Forschungsprojektes 2. Stadtökologische Wirkungen begrünter Dächer 3. Beschreibung der Methode
+3.1 Eingangsdaten 3.2 Gründach-Inventarisierung 3.3 Potenzialanalyse 4. Ergebnisse 4.1 Analyse Einzelgebäude 4.2 Analyse Stadtgebiet 5. Einsatzgebiete des Verfahrens 6. Zusammenfassung
+
+© Stadt Nürtingen
+
+Teil I Inventarsierung und Potenzialanalyse 7
+
+www.zinco.de/ Tel: 07022 9060- 600
+
+Anzeige
+Regenwasserbremse
+für die Kanalisationsnetze in unseren Städten!
+Wasserrückhalt via Retentions-Gründach
+als wirkungsvolle Maßnahme gegen zunehmende Starkregenereignisse. Überflutungen und die Reduzierung des Grundwasserspiegels verdeutlichen, dass die Ökologie des Wasserkreislaufes empfindlich gestört ist ­ als Folge des Klimawandels und der anhaltend hohen Flächenversiegelung. Mit diesem Systemaufbau bieten wir Ihnen ein wirkungsvolles Instrument, das Wasser trotzdem in den Griff zu bekommen. www.zinco.de
+8
+
+Hintergrund und Ziele
+
+1. Hintergrund und Ziele des Forschungsprojektes
+
+Die Installation von Grünflächen auf den Dächern der Stadt ist in der Lage, neue Handlungsspielräume für den Klimaschutz und die Klimawandelanpassung zu eröffnen, da Gründächer in vielen stadtökologischen Bereichen positive Wirkungen entfalten (z. B. Stadtklima, Energieeinsparung, Entwässerung und Artenvielfalt) und gleichzeitig auf ein enormes brachliegendes Freiraumpotenzial zurückgreifen können. Eine wichtige Grundvoraussetzung für die Integration der Dachbegrünung in die kommunalen Klimawandelanpassungsstrategien stellen fundierte qualitative und quantitative Datensätze dar, die neben dem Umfang und der Lage der bereits existierenden Gründächer zusätzlich auch geeignete Dachflächen für eine nachträgliche Begrünung ausweisen. Trotz der langen Tradition der Dachbegrünung in Deutschland besitzen aber nur eine Handvoll Kommunen detaillierte Angaben in diesem Bereich. Um diese Wissenslücken zu schließen, hat der Deutsche Dachgärtner Verband (DDV) gemeinsam mit dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) das Forschungsprojekt ,,Fernerkundliche Identifizierung von Vegetationsflächen auf Dächern zur Entwicklung des für die Bereiche des Stadtklimas, der Stadtentwässerung und des Artenschutzes aktivierbaren Flächenpotenzials in den Städten" bei der Deutschen Bundesstiftung Umwelt (DBU) beantragt (Förderprojekt 30299). Zu den weiteren Kooperationspartnern des Pilotprojektes gehören die Städte Hamburg (Behörde für Umwelt und Energie - BUE), Karlsruhe (Gartenbauamt), Stuttgart (Amt für Umweltschutz), München (Referat für Gesundheit und Umwelt) und Nürtingen (Dezernat III) sowie die HafenCity Universität Hamburg (HCU), die Firma ZinCo GmbH und die Deutsche Gartenamtsleiterkonferenz (GALK). Ziel des Projektes war die Entwicklung eines automatisierten Verfahrens, das eine schnelle und effiziente Analyse der städtischen Dachoberflächen erlaubt. Erstmalig wurden hierzu hochauflösende Satelliten- und Luftbildaufnahmen mit verschiedenen Gebäudebasisdaten verknüpft. Die Kombination dieser Datensätze ermöglicht einen sehr hohen Differenzierungsgrad, der Analysen für das gesamte Stadtgebiet bis hinunter auf die Ebene einzelner Gebäude erlaubt. Basierend auf der genauen Lokalisierung und Quantifizierung der vorhandenen Gründachflächen und der Ermittlung potenziell begrünbarer Dachflächen im Bestand lassen sich für die kommunalen Fachbehörden praktische Anwendungsmöglichkeiten im Bereich der Stadtklimaanalyse (Wärmeinsel-Effekte, Kaltluftschneisen und Luftschadstoffbelastungen), der Entwässerungsplanung und der Biotopvernetzung ableiten. Die ,,Sichtbarmachung" der bereits vorhandenen Dachbegrünungen und der noch erschließbaren Poten-
+
+zialflächen erleichtert es den kommunalen Entscheidungsträgern außerdem, die ihnen zur Verfügung stehenden Werkzeuge zur Förderung begrünter Dächer effizient einzusetzen. Hier unterstützt und ergänzt die neue Methode das im Jahr 2011 abgeschlossene DBUFörderprojekt ,,Leitfaden Dachbegrünung für Kommunen - Nutzen, Fördermöglichkeiten, Praxisbeispiele" (s. Anhang: Fachliteratur). Als Werkzeug der nachhaltigen Stadtentwicklung richtet sich die neuartige Methodik vor allem an die kommunalen Fachbehörden (Bauämter, Stadtplanungsämter, Umweltämter, Grünflächenämter, Naturschutzbehörden, Entwässerungsbetriebe etc.). Eine besonders wichtige Rolle kommt auch den Stadtmessungs-, Geoinformationsund Liegenschaftsämtern zu, die die Eingangsdatensätze zur Verfügung stellen und die Analysen durchführen.
+
+Teil I Inventarsierung und Potenzialanalyse 9
+
+Stadtökologische Wirkungen
+
+2. Stadtökologische Wirkungen begrünter Dächer
+
+Im Unterschied zu verschiedenen technischen Maßnahmen (Reduzierung des urban heat island - Effektes durch Dächer mit reflektierender weißer Färbung, Pufferung von Starkregenereignissen durch Regenrückhaltebecken oder Zisternen) wirken Dachbegrünungen nicht nur in stadtökologischen Einzelbereichen. Durch ihre Multifunktionalität werden gleichzeitig Aspekte des Stadtklimas, des Niederschlagswassermanagements und der Biodiversität angesprochen (s. Anhang, Fachliteratur).
+Stadtklima: Globale Klimaerwärmung, zunehmende Versiegelung und die Abwärme durch Wohnraumheizungen, Industrie und Verkehr sorgen dafür, dass sich das Stadtklima immer stärker aufheizt. Die Temperaturunterschiede zwischen den innerstädtischen Hitzeinseln und den Stadtrandgebieten können im Sommer dabei leicht 10°C erreichen. Natürliche ,,Klimaanlagen" wie Grünflächen und Parks könnten bis zu 80% der eingestrahlten Energie durch Bodenfeuchtigkeit und Vegetation abbauen. In den dicht besiedelten Ballungszentren sind freie Vegetationsflächen aber häufig Mangelware. Als Ersatzmaßnahme können begrünte Dächer die Situation lokal entschärfen. Durch Abkühlung und Anfeuchtung der trockenen, heißen Luft sorgen sie für ein angenehmeres Klima in den angren-
+
+zenden Gebäuden und Wohnungen. Bei entsprechender Umsetzung und Verteilung können Dachbegrünungen neben dem Gebäudenahbereich aber auch das Klima der Gesamtstadt beeinflussen. Der Deutsche Wetterdienst hat 2015 die maximale Reduktion der Lufttemperatur für verschiedene Szenarien berechnet. Je nach Bebauungsstruktur und Flächenanteil der Dachbegrünung werden dabei Reduktionen bis zu 2°C erreicht. Generell ist der Umfang der Kühlleistung sehr stark von dem Wasservorrat abhängig, der den Pflanzen zur Verfügung steht. Eine Bewässerung mit Trinkwasser zur Verbesserung der Kühlwirkung scheidet in der Regel aus ökologischen und ökonomischen Gründen aus. In einem aktuellen DBUForschungsprojekt (,,Optimierung der Evapotranspirations- und Kühlleistung extensiver Dachbegrünungen durch gezielte Nutzung von Grauwasser", Aktenzeichen 25877/01-23) wird untersucht, inwieweit die Verwendung von Grauwasser eine mögliche Alternative darstellen könnte.
+
+In Neubaugebieten ist die Dachbegrünung ein bewährtes Instrument der nachhaltigen Stadtentwicklung. © DDV 10 Teil I Inventarsierung und Potenzialanalyse
+
+Niederschlagswassermanagement: Dachbegrünungen leisten einen wichtigen Beitrag zum Hochwasserschutz. Je nach Bauart und Substratmaterial können 50-90% der Niederschläge auf den Dachflächen zurückgehalten werden. Ein Großteil dieses Wassers wird durch die Transpiration der Pflanzen und die Evaporation der Substratschicht auf kurzem Weg in den natürlichen Wasserkreislauf zurückgeführt. Hier besteht eine direkte Beziehung zu den Abkühlungseffekten für das Stadtklima. Gleichzeitig werden die Abflussspitzen bei Starkregenereignissen deutlich reduziert. Bei neuen Baugebieten oder großflächigen Einzelobjekten lassen sich so Rohrleitungen, Kanäle und Überlaufbecken kleiner dimensionieren. In Kombination mit anderen modernen Systemen der Regenwasserbewirtschaftung (z. B. Zisternen, Versickerungsanlagen) kann dadurch der vollständige Rückhalt des Niederschlagswassers auf dem Grundstück effizient und kostengünstig erreicht werden. Angaben zum Regenwasserrückhalt von Dachbegrünungen finden sich in der Dachbegrünungsrichtlinie der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau FLL, aufgegliedert nach der Substrathöhe und Dachneigung. Im Rahmen der Hamburger Gründach-Strategie untersucht die HafenCity Universität Hamburg die wasserwirtschaftliche Wirksamkeit begrünter Dächer an realen Gebäuden. Der Regenwasserrückhalt begrünter Dächer wird neben der Substrathöhe und der Dachform auch sehr stark von den verwendeten Gründach-Systemen und der Bepflanzung beeinflusst. So kann mit speziellen Retentions-Gründächern die Abflussverzögerung bei Starkregenereignissen weiter verbessert werden. Bei der Bewertung und Optimierung der Ökosystemleistungen begrünter Dächer sollten diese Aspekte entsprechend berücksichtigt werden.
+
+ein reduzierter Artenmix verwendet, der sehr stark auf Sukkulenten fokussiert ist. Ursache hierfür ist u.a. die Tatsache, dass sich Aspekte der Artenvielfalt nur sehr schwer monetarisieren lassen. Einen vielversprechenden Ansatz, diese Lücke zu schließen, stellt die Initiative ,,Naturkapital Deutschland ­ TEEB DE" des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit und des Bundesamtes für Naturschutz dar. In vier thematischen Berichten sollen die Zusammenhänge zwischen den Ökosystemleistungen der Natur, der Wertschöpfung der Wirtschaft und dem menschlichen Wohlergehen erfasst und bewertet werden. Der erste Bericht mit dem Titel ,,Naturkapital und Klimapolitik" ist 2015 erschienen.
+Bei entsprechender Gestaltung bieten Dachbegrünungen wertvolle Lebens- und Rückzugsräume für Tiere und Pflanzen. © ZinCo GmbH
+
+Biodiversität: Dort, wo die Natur durch Baumaßnahmen zerstört und der Boden versiegelt wurde, können Dachbegrünungen verloren gegangene Grünflächen zum Teil kompensieren und Ersatzlebensräume für Flora und Fauna schaffen. Als ,,Trittsteinbiotope" bilden sie lebendige und erlebnisreiche Standorte in den sterilen Innenstädten. Vor allem naturbelassene, pflegearme Extensivbegrünungen sind wichtige Rückzugsräume für Tier- und Pflanzenarten. Wildbienen, Schmetterlinge und Laufkäfer finden hier Nahrung und Unterschlupf. Auch gefährdete ,,Rote Liste"- Arten können sich auf begrünten Dächern ansiedeln. Aktuelle Untersuchungen bestätigen, dass die Biodiversität auch Einfluss auf die weiteren Wohlfahrtswirkungen begrünter Dächer (Luftverschmutzung, Regenwasserrückhalt, Stadtklima) nehmen kann. Bei der Umsetzung begrünter Dächer in Deutschland wurde in den letzten Jahren aus Kostengründen allerdings häufig nur
+
+Wissenslücken zu den bereits vorhandenen Dachbegrünungen und den potenziell begrünbaren Dachflächen haben bisher eine detaillierte Analyse der positiven Effekte begrünter Dächer auf Stadtklima, Niederschlagswassermanagement und Biodiversität erschwert. Die fernerkundliche Analyse der Dachflächen liefert jetzt zum ersten Mal die Basisdaten, um realistische Annahmen für die stadtökologischen Wirkungen begrünter Dächer auf Gebäude-, Quartiers- oder Stadtebene machen zu können und sie gleichzeitig einer ökonomischen Bewertung zugänglich zu machen. Neben den stadtökologischen Aspekten schlagen sich auch der Schutz der Dachabdichtung, Einsparungen bei den Energiekosten und eine mögliche Nutzung als Freizeit- und Erholungsfläche als Vorteile in der Gründach-Bilanz nieder. Kein anderes Baukonzept schafft eine vergleichbare Vielfalt an positiven Effekten für Gebäude, Mensch und Umwelt.
+
+Teil I Inventarsierung und Potenzialanalyse 11
+
+Beschreibung der Methode
+3. Beschreibung der Methode
+
+Abb. 1: Echtfarben- und Falschfarben-Luftbildaufnahmen: Vergleich RGB-Echtfarbenbild links (Rotkanal = rot, Grünkanal = grün, Blaukanal = blau) und IRG Falschfarbenbild rechts (Rotkanal = nahes Infrarot, Grünkanal = rot, Blaukanal = grün) © Stadt München
+
+Die Entwicklung des Verfahrens für die automatisierte fernerkundliche Inventarisierung und Potenzialanalyse von Dachbegrünung wurde am Deutschen Zentrum für Luft- und Raumfahrt (DLR) im Deutschen Fernerkundungsdatenzentrum in Oberpfaffenhofen durchgeführt. Von den am Projekt beteiligten Städtepartnern wurden hierfür sehr unterschiedliche Datensätze zur Verfügung gestellt. Dies betraf nicht nur die einzelnen Dateiformate, sondern auch deren Qualität, Aktualität und Vollständigkeit. Beim Vergleich unterschiedlicher Datenkombinationen zeigte sich, dass durch die Verknüpfung von hochaufgelösten Luftbild- oder Satellitenaufnahmen (Falschfarbeninfrarot- und Echtfarben-Luftbildaufnahmen) mit den Gebäudekatasterdaten (Hausumringe) bzw. digitalen Gebäudemodellen die besten Ergebnisse für die fernerkundliche Inventarisierung und Potenzialanalyse von Dachbegrünung erzielt werden konnten.
+3.1 Eingangsdaten
+Vegetationserfassung Für die fernerkundliche Erfassung von Vegetation im Allgemeinen und von begrünten Dächern im Speziellen werden so genannte Falschfarbeninfrarot-Luftbildaufnahmen benötigt, welche neben dem sichtbaren Spektralbereich (rot, grün, blau) auch den Bereich des nahen Infrarots (NIR) abdecken. Der zusätzliche NIR-Bildkanal bietet nicht nur die Möglichkeit, Vegetationsflächen im Luftbild aufgrund ihrer Reflektion im nahen Infrarot zu identifizieren, sondern
+12 Teil I Inventarsierung und Potenzialanalyse
+
+auch ihre Qualität über die Berechnung eines speziellen Vegetationsindizes, des so genannten ,,Normalized Difference Vegetation Index" (NDVI, normalisierter differenzierter Vegetationsindex), zu bestimmen. Der mögliche Wertebereich des NDVI liegt zwischen -1 und 1, wobei der Wert 1 eine sehr dichte und vitale Vegetation mit hoher photosynthetischer Aktivität widerspiegelt, während Werte gegen 0 nahezu vegetationsfreie Flächen oder Flächen mit toter Vegetation und negative Werte vegetationslose Oberflächen wie etwa Wasser repräsentieren.
+Das menschliche Auge kann aus dem elektromagnetischen Spektrum nur einen sehr geringen Ausschnitt wahrnehmen, zu dem das nahe Infrarot nicht zählt. Daher werden Befliegungsdaten, die zusätzlich zum sichtbaren Wellenlängenbereich auch die Reflexion im nahen Infrarot aufnehmen, traditionell in der so genannten ,,Falschfarbendarstellung" wiedergegeben. Die drei Farbkanäle rot, grün und blau eines normalen Echtfarbenbildes werden hierzu neu belegt. In der Regel wird das nahe Infrarot auf den roten Kanal gelegt, der rote Aufnahmebereich hingegen auf den grünen Kanal und die Reflektion in Grün auf den blauen Kanal. Ein entsprechendes Beispiel für eine solche Visualisierung liefert Abbildung 1. Man sieht an dieser Stelle bereits, dass die vorhandenen Gründächer (Abb. 1, Bild rechts, Gebäude unterhalb der Straße) ein sehr viel schwächeres Vegetationssignal aufweisen als die im Bild deutlich zu erkennenden Bäume am Boden.
+Für die Genauigkeit der Vegetationserkennung spielt die Qualität der Eingangsdaten und ihre Auflösung eine sehr wichtige Rolle.
+
+Gebäudedaten Als zweiter Datensatz für die Inventarisierung und Potenzialanalyse von Dachbegrünung werden die Hausumringe (Gebäudeumrisse, Gebäude-Polygone) der betrachteten Städte oder Kommunen benötigt (z. B. aus dem amtlichen Liegenschaftskatasterinformationssystem ALKIS). Die Hausumringe werden zur Abgrenzung der Dachflächen in den Luftbildaufnahmen verwendet. Für die Analyse spielen außerdem die Gebäudehöhen und die Dachformen eine wichtige Rolle. Sofern in den Datensätzen der Hausumringe bereits Angaben zum Dachtyp (Flachdach, Mischdach, Satteldach etc.), der Geschosszahl und der Dachhöhe als Attribute (Eigenschaften) vorliegen, werden diese Informationen für die weitere Auswertung priorisiert verwendet (s. Abb. 2).
+
+Abb. 3: Verschneidung Luftbilddaten und Hausumringe: Überlagerung der Informationen des Falschfarbeninfrarot-Luftbildes (Rotkanal = nahes Infrarot, Grünkanal = rot, Blaukanal = grün) mit den Hausumringen (rot) aus dem Katasterdatensatz © Stadt München/DLR
+
+Schritt 2: Berechnung des NDVI zur Identifizierung von Vegetation Im nächsten Schritt wird aus den Reflexionswerten im nahen Infrarot und im sichtbaren roten Spektralbereich für alle Bildpunkte (Pixel) die innerhalb der Hausumringe liegen der NDVI berechnet (s. Kapitel 3.1).
+
+Abb. 2: Hausumringe mit Attributtabelle aus dem Liegenschaftskataster © Stadt München/DLR
+Liegt eine Attributierung im Datensatz der Hausumringe nicht vor, können diese Werte als sekundäre Option auch aus digitalen Gebäudemodellen oder digitalen Oberflächenmodellen abgeleitet werden.
+3.2 Gründach-Inventarisierung
+Die Inventarisierung der Dachbegrünungsflächen erfolgt in einem mehrstufigen Prozess.
+Schritt 1: Verschneidung der Luftbilddaten und Hausumringe In einem ersten Schritt werden die digitalen Befliegungsdaten (Falschfarbeninfrarot-Luftbilder) mit den amtlichen Hausumringen aus dem Katasterdatensatz verschnitten, um die Dachflächen innerhalb der Luftbilder identifizieren zu können. Die äußeren Grenzen der Dachflächen werden dabei aus den Gebäudeumrissen abgeleitet. Abbildung 3 veranschaulicht dies graphisch.
+
+Schritt 3: Qualitative Schwellenwerte zur Klassifizierung der Vegetationssignale Über die Fixierung eines Mindestschwellenwertes für den NDVI wird festgelegt, ob die Bildpunkte innerhalb der Dachfläche durch das Programm als Vegetation oder als vegetationsfrei eingestuft werden. Eine weitere Unterteilung der Schwellenwerte in niedrige, mittlere oder starke Vegetationssignale ermöglicht zusätzlich differenzierte Aussagen zur Qualität bzw. Dichte der Vegetation (s. Tab. 1). Ein niedriger NDVI-Wert kann als Hinweis auf eine Spontan- oder Extensivbegrünung angesehen werden, mittlere Vegetationssignale decken den Übergangsbereich von Extensiv- und Intensivbegrünung ab, während sehr hohe NDVI-Werte häufig mit einer Baumoder Strauchvegetation bzw. Intensivbegrünung verknüpft sind.
+
+Teil I Inventarsierung und Potenzialanalyse 13
+
+Beschreibung der Methode
+
+Abb. 4: Gründach-Identifizierung auf Gebäudeebene: Als Gründach bestätigte Dächer sind im linken Bild graphisch durch eine ganzheitliche grüne Färbung dargestellt. © Stadt München/DLR
+
+Schritt 4: Quantitative Schwellenwerte zur Eingrenzung der erkannten Vegetationsflächen auf Dächern Nachdem die qualitative Klassifizierung der Vegetationssignale auf Grundlage der NDVI-Schwellenwerte erfolgt ist, können anschließend weitere quantitative Schwellenwerte verwendet werden, um die Aussagekraft der Ergebnisse zu verbessern bzw. auf spezifische Fragestellungen anzupassen, z. B. der Schwellenwert der minimalen Dachfläche, die vegetationsbedeckt sein muss und der Schwellenwert des Mindestanteils der Dachfläche, der vegetationsbedeckt sein muss.
+Dachflächen, die alle vorgegebenen Schwellenwerte überschreiten, werden vom Programm als Gründächer klassifiziert (s. Abb. 4).
+
+NDVI-Schwellenwerte (Standardeinstellung der Software)
+
+Klassifizierung
+
+< 0,08 0,08 - 0,20 0,20 ­ 0,30
+
+Vegetationsfrei
+Niedriges Vegetationssignal (Spontan- oder
+Extensivbegrünung)
+Mittleres Vegetationssignal (Übergangsbereich Extensivbegrünung ­ Intensivbegrünung)
+
+Die Schwellenwerte für die qualitative und quantitative Klassifizierung der Dachvegetation sind veränderbar und können an die jeweilige Qualität der Eingangsdaten und an spezifische Fragestellungen angepasst werden.
+
+> 0,30
+
+Starkes Vegetationssignal (Bäume, Sträucher, Intensiv-
+begrünungen)
+
+Tab. 1: Klassifizierung der Bildpunkte anhand von NDVI-Schwellenwerten
+
+14 Teil I Inventarsierung und Potenzialanalyse
+
+3.3 Potenzialanalyse
+Die Potenzialanalyse befasst sich mit der nachträglichen Begrünbarkeit bereits existierender Gebäude (s. Abb. 5). Um die Anzahl der in Frage kommenden Gebäude mit Hilfe fernerkundlicher Auswertungen im Vorfeld einzuschränken, können zum Beispiel die Parameter ,,Dachneigung" und ,,Kiesdächer/Gebäudestatik" herangezogen werden.
+
+Kiesdächer/Gebäudestatik: Neben der Dachneigung gehören die statischen Lastreserven zu den konstruktiven Anforderungen, die einen besonders starken Einfluss auf die potenzielle Begrünbarkeit von Dachflächen besitzen. Eine Standard-Extensivbegrünung wiegt ca. 90-100 kg/m². Kiesdächer, deren Auflast häufig bei ca. 100 kg/m² liegt, lassen sich also nach Entfernung der Kiesschicht ohne Änderung der Gebäudestatik in Gründächer umwandeln. Flache oder leicht geneigte Dächer mit Kiesbelag stellen in diesem Zusammenhang Präferenzdächer für eine nachträgliche Begrünung dar. Eine Methode zur Identifizierung von Kiesdächern in Luftbildern auf Grundlage spektraler Oberflächensignaturen ist im Methodenhandbuch der Software beschrieben.
+
+Abb. 5: Beispiele für bestehende Gebäude mit unterschiedlichen Dachbedeckungen. © Stadt Stuttgart
+
+Dachneigung und Gebäudestatik liefern erste Anhaltspunkte für eine potenzielle Begrünbarkeit. Allerdings dürfen diese beiden Kriterien auch nicht überschätzt werden. Weitere bautechnische Erfordernisse, die sich nicht mit der vorliegenden fernerkundlichen Methode ermitteln lassen, betreffen zum Beispiel den Zustand der Dachabdichtung, die Wärmedämmung, die Dachrandhöhen und die Zugänglichkeit der Dachfläche. Die tatsächliche Begrünbarkeit eines Gebäudes und deren voraussichtliche Kosten müssen deshalb zusätzlich auch im Rahmen von Vor-Ort-Besichtigungen überprüft werden, wobei eine Potenzialanalyse im Vorfeld die Anzahl der zu überprüfenden Gebäude deutlich reduzieren kann.
+
+Dachneigung: Im Vergleich zu Flachdächern ist der technische und finanzielle Aufwand für die Begrünung von Schräg- und Steildächern deutlich höher. Satteldächer mit Ziegeleindeckung stellen deshalb in der Praxis keine Potenzialflächen für eine nachträgliche Begrünung dar. Für die Potenzialanalyse werden deshalb nur Gebäude mit flachen oder leicht geneigten Dächern (bis ca. 10 °) berücksichtigt. Je nach Eingangsdatensätzen sind die Dachneigungen bereits in den Gebäudedaten hinterlegt oder müssen über das Programm neu berechnet werden.
+
+Teil I Inventarsierung und Potenzialanalyse 15
+
+Ergebnisse
+4. Ergebnisse
+
+Als Resultat des Programmdurchlaufs wird für jedes Gebäude eine Wertetabelle mit Attributen (Eigenschaften) generiert, die Aussagen zur bereits vorhandenen Begrünung bzw. der potenziellen Begrünbarkeit liefert. Nachfolgend werden exemplarisch einige Ergebnisse präsentiert, die die Anwendungsmöglichkeiten der Methode auf unterschiedlichen Ebenen zeigen.
+4.1 Analyse Einzelgebäude
+Beispiel 1: Gründach-Inventarisierung - Dachfläche mit niedrigem Vegetationssignal
+
+In Tabelle 2 sind die Ergebnisse der fernerkundlichen GründachInventarisierung eines größeren Flachdachgebäudes (s. Abb. 6) dargestellt. Die ermittelte Gesamtfläche der Luftbildpixel innerhalb des Hausumrisses beträgt 10.368 m². Auf 50,4% der Fläche (5.223 m²) überschreiten die berechneten NDVI-Werte den Schwellenwert des niedrigen Vegetationssignals. Die restliche Dachfläche beinhaltet technische Aufbauten, Lichtkuppeln und Innenhöfe sowie offene Substratflächen mit sehr schwachem Bewuchs, deren Vegetationssignale den Schwellenwert nicht überschreiten. 18% der Bildpunkte weisen zudem einen NDVI > 0,20 auf. Allerdings ist dieser Anteil zu niedrig, um das Gründach insgesamt als Dachfläche mit mittlerem Vegetationssignal (Übergangsbereich von Extensiv- zu Intensivbegrünung) zu klassifizieren. Die Dachform des Gebäudes ist flach bzw. leicht geneigt (Wert = 1).
+
+Attribut
+
+Ermittelter Wert
+
+Gesamt Dachfläche
+
+10.368 m²
+
+Abb. 6: Falschfarbeninfrarot-Luftbild einer Dachfläche mit überwiegend niedrigem Vegetationssignal © Stadt Nürtingen
+16 Teil I Inventarsierung und Potenzialanalyse
+
+Dachfläche mit Vegetationssignal > 0,08
+
+5.223 m²
+
+Prozentualer Anteil Dachfläche mit Vegetationssignal > 0,08
+
+50,4%
+
+Prozentualer Anteil Dachfläche mit 18%
+Vegetationssignal > 0,20
+
+Dachform: 1
+flaches oder leicht geneigtes Dach Tab. 2: Beispiel 1 Dachfläche mit überwiegend niedrigem Vegetationssignal
+
+Beispiel 2: Gründach-Inventarisierung - Dachfläche mit mittlerem Vegetationssignal
+Tabelle 3 und Abbildung 7 zeigen ein weiteres Beispiel für eine fernerkundliche Gründach-Inventarisierung. Für das Gebäude wurde eine Dachfläche von 437 m² ermittelt. Der NDVI-Schwellenwert des niedrigen Vegetationssignals wird auf 75% der Fläche überschritten. Die daraus resultierende begrünte Dachfläche beträgt 328 m². Die Mehrzahl der Bildpunkte (67%) weist zusätzlich einen NDVI > 0,20 auf. Der Anteil ist damit groß genug, um das Gründach als Übergangsbereich von Extensiv- zu Intensivbegrünung zu klassifizieren. Auch in diesem Fall ist die Dachform des Gebäudes flach bzw. leicht geneigt (Wert = 1).
+
+Attribut Gesamt Dachfläche
+
+Ermittelter Wert 437 m²
+
+Dachfläche mit Vegetationssignal > 0,08
+
+328 m²
+
+Prozentualer Anteil Dachfläche 75%
+mit Vegetationssignal > 0,08
+
+Prozentualer Anteil Dachfläche 67%
+mit Vegetationssignal > 0,20
+
+Dachform: 1
+flaches oder leicht geneigtes Dach
+
+Abb. 7: Falschfarbeninfrarot-Luftbild einer Dachfläche (grüner Rahmen mit überwiegend mittlerem Vegetationssignal © Stadt München
+
+Tab. 3: Beispiel 2 Dachfläche mit überwiegend mittlerem Vegetationssignal
+
+Teil I Inventarsierung und Potenzialanalyse 17
+
+TEergileIbnisse
+
+Beispiel 3: Potenzialanalyse - Dachfläche mit Kiesbelag
+Für die Potenzialanalyse liefert Tabelle 4 die Kennzahlen eines identifizierten Kiesdaches. Das Flachdach (Wert Dachform = 1) des untersuchten Gebäudes hat eine Größe von 226 m². Bei der Analyse der Oberflächenstruktur wurden 80% der Dachfläche als Kiesbelag erkannt (s. Abb. 8). Die damit verbundene Klassifizierung als Kiesdach führt dazu, dass das Gebäude bei der potenziellen Begrünbarkeit den Wert 2 erhält.
+
+Attribut
+
+Ermittelter Wert
+
+Gesamt Dachfläche
+
+226 m²
+
+Prozentualer Anteil Dachfläche 80%
+mit Kiesbelag Dachform: 1
+flaches oder leicht geneigtes Dach
+
+Potenzielle Begrünbarkeit
+
+2
+
+Tab. 4: Beispiel 3 Dachfläche mit Kiesbelag
+
+Abb. 8: Luftbild eines detektierten Kiesdaches © Stadt Nürtingen
+
+18 Teil I Inventarsierung und Potenzialanalyse
+
+4.2 Analyse Stadtgebiet
+Auf Basis der berechneten Attribute für die einzelnen Gebäude können außerdem folgende quantitativen Werte für das gesamte Stadtgebiet abgeleitet werden:
+· Anzahl aller Dächer mit Dachbegrünung im Stadtgebiet · Prozentualer Anteil der Gründächer an der
+Gesamtzahl aller Dachflächen · Vegetationsfläche aller begrünten Dachflächen · Anzahl aller potenziell begrünbaren Gebäude im Stadtgebiet · Prozentualer Anteil der potenziell begrünbaren
+Dachflächen an der Gesamtzahl aller Dachflächen · Gesamtfläche der potenziell begrünbaren Dächer
+
+Kenngröße
+Anzahl aller Dächer mit Dachbegrünung im Stadtgebiet
+Prozentualer Anteil der Gründächer an der Gesamtzahl aller Dachflächen
+Vegetationsfläche aller begrünten Dachflächen
+
+Ergebnis 59.082 19,5% 3.148.043 m²
+
+Tabelle 5 liefert eine Übersicht verschiedener Kennzahlen, die auf Stadtgebietsebene ermittelt werden können (Beispiel München). Sofern die Gebäudebasisdaten eine Aufteilung in oberirdische Gebäude und Tiefgaragen ermöglichen oder Angaben zum Gebäudealter oder den Nutzungsklassen enthalten, können die Kenngrößen weiter differenziert werden. So wurden in München zusätzlich zu den Werten in Tabelle 5 noch knapp 1,4 Millionen m² Dachbegrünungen auf Tiefgaragen identifiziert. Durch Veränderungen der Schwellenwerte kann die Auswertung außerdem an spezifische Fragestellungen angepasst werden. Tabelle 6 zeigt, wie sich die Ergebnisse der Gründach-Inventarisierung in München verändern, wenn der Schwellenwert für den Mindestanteil der vegetationsbedeckten Dachfläche schrittweise erhöht wird.
+
+Anzahl aller potenziell begrünbaren Gebäude im Stadtgebiet mit einer Dachfläche von mindestens 100 m2
+
+31.740
+
+Prozentualer Anteil der potenziell begrünbaren Dachflächen (> 100 m²) an der Gesamtzahl aller Dachflächen
+
+10,5%
+
+Gesamtfläche der potenziell begrünbaren
+Dächer (>100 m²)
+
+13.233.965 m²
+
+Tab. 5: Kenngrößen der Gründach-Inventarisierung (Mindestanteil Gründachfläche > 10%) und Potenzialanalyse auf Stadtgebietsebene (Beispiel Stadt München)
+
+Kenngröße
+Anzahl aller Dächer mit Dachbegrünung
+im Stadtgebiet
+
+Mindestanteil Gründachfläche
+> 10%
+59.082
+
+Mindestanteil Gründachfläche
+> 20%
+51.147
+
+Mindestanteil Gründachfläche
+> 30%
+43.456
+
+Mindestanteil Gründachfläche
+> 50%
+26.901
+
+Vegetationsfläche aller begrünten Dachflächen
+
+3.148.043 m²
+
+2.822.047 m²
+
+2.445.760 m²
+
+Tab. 6: Ergebnisse der Gründach-Inventarisierung in Abhängigkeit vom Schwellenwert des Mindestanteils der Dachfläche, der vegetationsbedeckt sein muss. (Beispiel Stadt München)
+
+1.566.436 m²
+
+Teil I Inventarsierung und Potenzialanalyse 19
+
+Einsatzgebiete des Verfahrens
+5. Einsatzgebiete des Verfahrens
+
+Bei den Gesprächen mit den kommunalen Partnern des Projektes konnten verschiedene Themenfelder identifiziert werden, in die die ermittelten Werte zur Inventarisierung und Potenzialanalyse eingespielt werden können. Diese Recherche wurde in einem erweiterten Kreis beim ,,2. Fachseminar Dachbegrünung für Kommunen" in Osnabrück im Februar 2015 fortgeführt. Zu den Einsatzgebieten, die von den befragten Personen als ,,sehr wichtig" und ,,wichtig" genannt wurden, gehören folgende Punkte:
+
+Öffentlichkeitsarbeit. Der Einsatz dieser Instrumente kann sich nach der Dringlichkeit der Verbesserung der lokalen Grünflächenausstattung, den vorhandenen stadtökologischen Problemstellungen und den Rahmenbedingungen (Neubaumaßnahmen oder Maßnahmen auf bereits vorhandenen Dachflächen im Bestand) richten.
+Im Rahmen der Expertenbefragung wurden aber auch zahlreiche interessante Einzelaspekte genannt, für die sich das Verfahren einsetzen lässt.
+
+· Einbindung der Daten in Modellierungen für das Stadtklima
+· Einbindung der Daten in Modellierungen für die Entwässerungsplanung
+· Einbindung der Daten in Modellierungen für die Biotopvernetzung
+· Fixierung spezieller Gründach-Typen, je nach Stadtgebiet und Umweltschwerpunkt
+
+· Kontrollwerkzeug für die Ausführung begrünter Dächer
+· Ökologische Aufwertung vorhandener Gründächer
+· Einspeisung der Daten in die Immobilienbewertung (Kostenersparnis bei Energie und Niederschlagswasser)
+· Grundlagen zur Aktivierung von sozialen, öffentlichen Flächen auf Dächern (Nachbarschaftstreffs, Urban Gardening)
+
+· Gezielte kommunale Förderung begrünter Dächer in Gebieten mit mangelhafter Grünausstattung
+· Nutzung der Daten für die allgemeine Öffentlichkeitsarbeit, um bei Bürgern und Investoren die Akzeptanz für begrünte Dächer zu erhöhen
+Den höchsten Wert erzielte bei der Umfrage die Einbindung der Daten in Modellierungen für die Entwässerungsplanung. Ein weiteres, wichtiges Anwendungsgebiet stellt die kommunale Förderung begrünter Dächer in Gebieten mit mangelhafter Grünausstattung dar. Hier unterstützt und ergänzt die neue Methode die Anwendung des ,,Leitfadens Dachbegrünung für Kommunen", den der Deutsche Dachgärtner Verband gemeinsam mit der HafenCity Universität Hamburg und der Deutschen Gartenamtsleiterkonferenz 2011 ebenfalls im Rahmen eines Förderprojektes der Deutschen Bundesstiftung Umwelt erstellt hat. Zu den stadtplanerischen Instrumenten, die zur Förderung begrünter Dächer eingesetzt werden können, gehören zum Beispiel Festsetzungen in Bebauungsplänen, GründachSatzungen, finanzielle Förderprogramme, indirekte Zuschüsse im Rahmen der gesplitteten Abwassergebühren oder Maßnahmen der
+
+Insgesamt zeigt sich, dass die Methode eine große Palette an Anwendungsmöglichkeiten besitzt, die dem Thema Dachbegrünung in vielen Bereichen eine neue Wertigkeit verleihen kann. So liefert die fernerkundliche Analyse der Dachflächen jetzt zum ersten Mal die Basisdaten, um realistische Annahmen für die stadtökologischen Wirkungen begrünter Dächer auf Gebäude-, Quartiers- oder Stadtebene machen zu können und sie gleichzeitig einer ökonomischen Bewertung zugänglich zu machen.
+
+20 Teil I Inventarsierung und Potenzialanalyse
+
+Zusammenfassung
+6. Zusammenfassung
+
+Die entwickelte Softwarelösung macht mit ihren Analysemöglichkeiten zur Inventarisierung und Potenzialanalyse von Dachbegrünungen eine Flächenressource mit einem riesigen Entwicklungspotenzial für stadtökologische Analysen zugänglich ­ die Dächer der Städte.
+Bei den ersten Auswertungen konnte in den teilnehmenden Partnerstädten bereits eine erstaunlich hohe Anzahl an begrünten Dächern ermittelt werden, die unter anderem auf den langjährigen Einsatz verschiedener kommunaler Fördermaßnahmen zurückgeführt werden kann. Der überwiegende Teil der Dachflächen ist aber nach wie vor unbegrünt.
+Die Sichtbarmachung und Entwicklung dieses ungenutzten Flächenpotenzials und der bereits vorhandenen Gründach-Flächen ermöglicht eine sehr breite Palette unterschiedlicher Anwendungsmöglichkeiten, die von der Nutzung in Stadtklimamodellen über die Entwässerungsplanung bis hin zu Aspekten der Biodiversität und der Umsetzung lokaler Gründach-Strategien reicht.
+
+Nach Ablauf des Förderprojektes wird die Methode jetzt als neuer fernerkundlicher Dienstleistungsstandard durch die Firma EFTAS Fernerkundung Technologietransfer GmbH und den Deutschen Dachgärtner Verband angeboten. Weitere Informationen zu den Projektergebnissen und der praktischen Anwendung der Methode sind bei der Geschäftsstelle des Deutschen Dachgärtner Verbandes in Nürtingen erhältlich (Tel.: 07022 301378, E-Mail: contact@dachgaertnerverband.de).
+Wolfgang Ansel (Deutscher Dachgärtner Verband e.V. - DDV)
+Julian Zeidler (Deutsches Zentrum für Luft- und Raumfahrt - DLR)
+Dr. Thomas Esch (Deutsches Zentrum für Luft- und Raumfahrt - DLR)
+
+Ergänzend zum Leitfaden Dachbegrünung für Kommunen steht mit der Methode zur fernerkundlichen Inventarisierung und Potenzialanalyse nun ein weiteres Werkzeug zur Verfügung, um die Neuanlage begrünter Dächer zu fördern. Aber auch bei der Bewertung des aktuellen Zustandes bereits vorhandener Dachbegrünungen kann die fernerkundliche Methode helfen. Bei den Dachanalysen im Rahmen der vorliegenden Untersuchung wurde offenbar, dass hier Verbesserungen im Bereich der Artenvielfalt und der Pflege nicht nur möglich, sondern auch nötig sind. So zeigten viele Extensivbegrünungen nur sehr schwache Vegetationssignale, was auf eine geringe Vitalität der Bepflanzung bzw. auf einen spärlichen Pflanzenwuchs zurückgeführt werden kann. Im Bereich der Ökosystemleistungen können diese Begrünungen ihr Potenzial nicht ausschöpfen.
+
+Das Ziel sollte es sein, nicht nur mehr, sondern auch bessere, d.h. stadtökologisch optimierte Dachbegrünungen zu installieren und damit die Wertigkeit begrünter Dächer als Bestandteil der kommunalen grünen Infrastruktur weiter zu verbessern. Die damit einhergehende Quantifizierung der gesamten Ökosystemleistungen begrünter Dächer und die engere Verzahnung mit den Grünflächen am Boden gehören zu den wichtigen zukünftigen Aufgaben.
+
+Teil I Inventarsierung und Potenzialanalyse 21
+
+Anzeige
+
+Ihr Partner für Geoinformation
+· Fernerkundungsdaten · GIS & WebmApps · Entwicklung · Beratung
+Quelle: Luftbild Karlsruhe / DLR
+Unser Wissen für grüne Dächer:
+· Erfassung von Potenzialflächen · Inventarisierung von Gründächern
+EFTAS. Partner des Deutschen Dachgärtner Verbands e.V.
+
+Als GeoIT-Projekthaus erschließen wir maßgeschneidert die Mehrwerte von GeoIT für Auftraggeber aus Wirtschaft, Wissenschaft und Verwaltung ­ weltweit. Individuell, aus einer Hand, auf höchstem Niveau! EFTAS aus Münster. Seit 1988. Inhabergeführt. ISO 9001-qualitätszertifiziert. ÖKOPROFIT-ausgezeichnet.
+
+EFTAS Fernerkundung Technologietransfer GmbH Oststr. 2-18 | D-48145 Münster Tel: 0251 13307-0 info@eftas.com www.eftas.com
+
+Gestaltungs- und Nutzungsbeispiele
+
+Mieter-Dachgarten © DDV
+
+Firmen-Dachgarten © DDV
+
+Industrie-Gründach © ZinCo GmbH
+
+Biotop-Dach © DDV
+
+Dachpark © Insel Mainau
+
+Photovoltaik-Gründach © ZinCo GmbH Gestaltungs- und Nutzungsbeispiele 23
+
+Teil II
+KOMMUNALE GRÜNDACH-STRATEGIEN
+Hamburg: Auf die Dächer - Fertig - Grün! Hannover: Gebäudebegrünung als Bestandteil der Klimaanpassungsstrategie Stuttgart: Netzwerk Urbanes Gärtnern / Kommunales Grünprogramm Berlin: Ökologische Gebäudekonzepte und Modellvorhaben Ludwigsburg: Das Grüne Zimmer
+© Visualisierung: TH Treibhaus Landschaftsarchitekten, Luftbild: Mattias Friedel 24 Teil II Kommunale Gründach-Strategien
+
+Hamburg
+Hamburg: Auf die Dächer - Fertig - Grün!
+
+Auf die Dächer ­ Fertig ­ Grün! © BUE/mount. Design und Kommunikation für soziales Wachstum, Hintergrundfoto Hamburg: Michaela Stalter
+
+Hamburg soll noch grüner werden ­ und zwar ganz oben: Als erste deutsche Großstadt hat die Hansestadt eine umfassende Gründachstrategie entwickelt. Ziel ist es, insgesamt 100 Hektar Dachfläche im Stadtgebiet zu bepflanzen. Das entspricht rund der doppelten Fläche vom City Park Planten un Blomen. Allein im Wohnungsneubau ergibt sich auf fünf Jahre gerechnet ein Gründachpotenzial von 44 Hektar, im Gewerbeneubau sind es 66 Hektar. 20 Prozent der neu begrünten Flächen sollen Bewohnern oder Beschäftigten als neue Nutz- und Erholungsflächen in Form von Sportplätzen, Parks oder Gemeinschaftsgärten zur Verfügung stehen. Bis Ende 2019 unterstützt die Stadt Hamburg den Bau von Gründächern mit drei Millionen Euro. Das Projekt ist initiiert von der Hamburger Behörde für Umwelt und Energie, in Kooperation mit der HafenCity Universität.
+Gründachförderung Die Hamburger Gründachförderung bietet Bauherren bis zum 31. Dezember 2019 besondere Anreize, sich für ein Gründach zu entscheiden. Die Stadt finanziert 25 bis 60 Prozent der Herstellungskosten. Da das begrünte Dach große Mengen an Regenwasser zurückhält, können Eigentümer eines Gründachs außerdem 50 Prozent der Niederschlagswassergebühr bei der Hamburg Wasser einsparen. Wenn die begrünten Dachflächen gar nicht an das öf-
+
+fentliche Entwässerungssystem angeschlossen werden müssen, kann die Gebühr sogar komplett entfallen. Die begrünte Dachfläche muss mindestens 20 Quadratmeter groß sein, auf einem oberirdischen Geschoss liegen und maximal bis zu 30 Grad geneigt sein. Die Förderung erhalten ausschließlich Eigentümer, die ihr Dach freiwillig mit einem Substrataufbau von mindestens acht Zentimetern begrünen. Die genauen Bedingungen erklärt die ,,Förderrichtlinie für die Herstellung von Dachbegrünung auf Gebäuden" unter www.ifbhh. de/gruendachfoerderung. Die Fördergelder sind zu beantragen bei der Hamburgischen Investitions- und Förderbank (IFB).
+Energie und Kosten sparen Gründächer sind eine Investition in die Zukunft, die sich in mehrfacher Hinsicht auszahlt. Ein Gründach schafft ein angenehmeres Gebäudeklima. Gründächer erhöhen außerdem die Effektivität von Photovoltaikanlagen, denn die Begrünung senkt die Umgebungstemperatur der Solarzellen und vergrößert dadurch deren Wirkungsgrad. Der Schichtenaufbau schützt zudem die Dachabdichtung, die auf diese Weise bis zu doppelt so lange hält wie bei einem nichtbegrünten Dach.
+
+Teil II Kommunale Gründach-Strategien 25
+
+Hamburg
+
+Vision Dachnutzung eines Bürogebäudes in der City Süd. © Visualisierung: TH Treibhaus Landschaftsarchitekten
+
+Neue Freiräume Unternehmen und Vermieter in der Hansestadt verschaffen sich mit einem Gründach einen klaren Wettbewerbsvorteil. Die neuen Freiräume mitten in der verdichteten Großstadt sind für Anwohner und Mitarbeiter besonders attraktiv. Auf dem intensiv begrünten Dach können sie sich erholen, Sport treiben, Gemüse anbauen oder Blumen pflanzen. Auf nicht begehbaren, naturnahen Extensivdächern erobern Bienen, Vögel oder Schmetterlinge neue Rückzugsorte in der Stadt. Auch Pflanzen finden hier einen naturnahen, weitgehend ungestörten Lebensraum. Für die Vielfalt auf den Hamburger Dächern wurde eine Pflanzenliste für die extensive Begrünung mit niedrigwüchsigen Arten aus Nordwestdeutschland zusammengestellt, die die schwindenden natürlichen Standorte für Trocken- und Magerrasenvegetation ergänzen kann. Die Gründachstrategie ist Teil der nachhaltigen Stadtentwicklung Hamburgs, die sich unter anderem in der ,,Qualitätsoffensive Freiraum" widerspiegelt: Jedes neue Bauprojekt soll mit einer Aufwertung von Freiräumen im Quartier kombiniert werden und zu einem ,,grünen" Mehrwert für alle führen. Dachflächen spielen dabei eine besondere Rolle, da sie ein bisher kaum genutztes Potenzial haben und eine optimale Lösung für den drohenden Verlust an Freiräumen in der inneren Stadt bieten.
+Verbessertes Stadtklima Die neuen Grünflächen verbessern das Klima vor Ort. Sie kühlen die umgebende Luft ab und feuchten sie an. Dadurch reduzieren sich städtische Wärmeinseln. Die Pflanzen reinigen zudem die Luft von Staub und Schadstoffen und binden CO2.
+
+Regenwassermanagement Die begrünten Dächer verbessern auch das Wassermanagement im Quartier, indem sie Regenwasser zurückhalten und es von den Dächern natürlich verdunstet. Insofern ergänzt die Gründachstrategie das Projekt RISA (RegenInfraStrukturAnpassung) der Behörde für Umwelt und Energie zusammen mit Hamburg Wasser, welches eine Strategie zum nachhaltigen Umgang mit Regenwasser entwickelt. Denn zum einen kann in der immer stärker verdichteten Stadt immer weniger Wasser versickern, zum anderen nehmen starke Niederschläge aufgrund des Klimawandels zu. Die Kanalisation wird überlastet, Gewässer treten über ihre Ufer. Um das zu vermeiden, sollen die Hamburger Gründächer durchschnittlich 60 Prozent des Regenwassers zurückhalten. Niederschläge gelangen dadurch verzögert in die Entwässerungssysteme.
+Werkzeuge Darüber hinaus werden die planerischen und gesetzgebenden Instrumente, wie das Baugesetzbuch, Hamburger Bauordnung, Hamburgisches Abwassergesetz und Naturschutzgesetz genutzt, um Dachbegrünung in der Stadt stärker zu steuern. Geprüft wird beispielsweise eine Gründachverordnung bei Neubauten und geeigneten Sanierungen für dicht bebaute Innenstadtbereiche mit den besonders gefährdeten Gebieten der Überflutung, den Hitzeinseln in sommerlichen Hitzeperioden oder in den mit Freiräumen unterversorgten Gebieten.
+
+26 Teil II Kommunale Gründach-Strategien
+
+Wissenschaftliche Begleitung Die Gründachstrategie wird wissenschaftlich von der HafenCity Universität (HCU) begleitet unter der Leitung von Prof. Dr. Wolfgang Dickhaut. Unter anderem werten die Wissenschaftler internationale Erkenntnisse zu Gründächern aus, entwickeln eigene Empfehlungen für den Hamburger Gründachaufbau mit dem Schwerpunkt der Übertragbarkeit der Strategie und erheben Messdaten zum Wasserrückhalt und damit zur wasserwirtschaftlichen Wirksamkeit von Gründächern. Das Messprogramm der HCU wird unter realen, örtlichen klimatischen Bedingungen auf verschiedenen Dächern in Hamburg durchgeführt und untersucht das Regenwasserrückhaltepotenzial von Gründächern bei Starkregenereignissen. Weiterhin fördert das Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit die Hamburger Gründachstrategie als Pilotprojekt im Rahmen des Programms ,,Maßnahmen zur Anpassung an den Klimawandel" im Förderschwerpunkt 3 ,,Kommunale Leuchtturmvorhaben sowie Aufbau von lokalen und regionalen Kooperationen" durch finanzielle Mittel, Vernetzung und Wissenstransfer (Infos unter www.ptj.de/folgen-klimawandel). Mit der Hamburger Gründachstrategie soll im Verbund mit der HafenCity Universität ein Instrumentarium zur Förderung von Gründächern entwickelt werden, das andere Städte später für eigene Maßnahmen der Klimafolgenanpassung nutzen können.
+
+Die Gründachstrategie verbindet so das Konzept der wachsenden kompakten Stadt mit klimaschonendem Bauen, der Anpassung an den Klimawandel und dem Klimaschutz. Weitere Informationen sind zu finden unter www.hamburg.de/gruendach. Dr. Hanna Bornholdt Behörde für Umwelt und Energie (BUE) Freie und Hansestadt Hamburg
+Intensive Dachbegrünung der BUE. © Horst Sönksen
+
+Die Außenanlagen der BUE. © schaper+steffen+runtsch Garten- und Landschaftsarchitekten mit Landschaftsarchitektur+ Felix Holzapfel Herziger
+Teil II Kommunale Gründach-Strategien 27
+
+Hannover
+
+Hannover: Gebäudebegrünung als Bestandteil der Klimaanpassungsstrategie
+
+Anlass der Anpassungsstrategie Das Klima ändert sich weltweit, es wird im Durchschnitt wärmer. Der überwiegende Anteil an der Erderwärmung wird durch die Aktivitäten des Menschen verursacht. Diese spätestens seit dem vierten Bericht des Intergovernmental Panel on Climate Change (IPCC, 2007) in Expertenkreisen anerkannte Tatsache wird ­ auch in Deutschland ­ weitreichende Folgen für die Lebensbedingungen der Menschen haben.
+Unter Wissenschaftlerinnen und Wissenschaftlern als auch unter Klimaexpertinnen und -experten gelten die Folgen einer globalen Erderwärmung bis 2 Grad Celsius über dem vorindustriellen Niveau als gerade noch beherrschbar, eine Erwärmung darüber hinaus hätte erhebliche Schäden für Mensch und Natur und extrem hohe wirtschaftliche Kosten zur Folge.
+Die Reduzierung von Treibhausgasen in allen Ländern ist daher das zentrale Ziel aller Klimaschutzmaßnahmen. Da das Klima auf äußere Einflüsse mit Verzögerungen von einigen Jahrzehnten reagiert, wird jedoch eine globale Erwärmung um 2 Grad bis Mitte oder spätestens Ende dieses Jahrhunderts trotz der bereits eingeleiteten Klimaschutzmaßnahmen voraussichtlich nicht mehr zu verhindern sein. Daher müssen neben den Maßnahmen zum Klimaschutz zugleich Maßnahmen zur Anpassung an den Klimawandel (Adaptation) erfolgen.
+
+ver). Das führt in innerstädtischen Verdichtungsräumen zu einer Erhöhung von Wärmebelastung und Hitzestress für die Bevölkerung.
+Nach der von der Landeshauptstadt in 2010 beauftragten Modellierung von meteorologischen Kenngrößen zum Klimawandel für das Stadtgebiet von Hannover ist in Hannover bis zum Ende dieses Jahrhunderts mit einem erheblichen Anstieg der Zahl der heißen Tage mit einer Höchsttemperatur von mehr als 30 Grad und der Tropennächte mit Lufttemperaturen nicht unter 20 Grad zu rechnen. In der dicht bebauten und stark versiegelten Innenstadt wird sich die durchschnittliche Zahl der Hitzetage von 9,6 (Zeitraum 20012010) auf 21,9 im Zeitraum 2090 bis 2099 mehr als verdoppeln. Die durchschnittliche Anzahl der Tropennächte wird sich versiebenfachen (Steigerung von 1,4 auf 9,8 Nächte). Auch in Stadtteilen mit Block- und Blockrandbebauung wird die Anzahl der Hitzetage und Tropennächte deutlich zunehmen. Beispielsweise wurde für den Stadtteil Vahrenwald eine Steigerung der Hitzetage von durchschnittlich 8,7 auf 19,1 und der Tropennächte von durchschnittlich 1,2 auf 9,2 für die o. g. Zeiträume berechnet. Die Klimaprojektionen zeigen zudem, dass die Hitzeperioden länger andauern werden und ihr Beginn in das Frühjahr verschoben wird, in eine Jahreszeit, in der der menschliche Organismus noch nicht an die Hitze angepasst ist und deshalb sensibler auf Hitzebelastungen reagiert.
+
+Mögliche Folgen des Klimawandels für Hannover In dicht bebauten Siedlungsgebieten wird der Klimawandel überlagert von den Effekten des Stadtklimas. Je nach Versiegelungsgrad und Größe der verdichteten Bebauung ist das Klima in den Städten im Vergleich zum Umland u. a. geprägt durch höhere Temperaturen (,,Wärmeinsel"), geringere relative Luftfeuchte, geringere mittlere Windgeschwindigkeiten, aber auch höhere Böigkeit des Windes. Die Stadtklimaeffekte mit Auswirkung auf die Gesundheit des Menschen werden durch den Klimawandel zusätzlich verstärkt werden.
+
+Ausgehend vom internationalen Modell (ECHAM) und einer mittleren globalen Erwärmung von 2 Grad können die Folgen des Klimawandels mit den nationalen Klimafolgen-Rechenmodelle (CLM, REMO) auf die Region Hannover übertragen werden. Danach ist für die Region Hannover von 3 Grad mittlerer Temperaturerhöhung bis zum Ende dieses Jahrhunderts auszugehen (Prof. Dr. G. Groß, Institut für Meteorologie und Klimatologie, Leibniz Universität Hanno-
+
+Die Ökosiedlung am Kronsberg wurde im Zusammenhang mit der EXPO 2000 realisiert. © Stadt Hannover
+
+28 Teil II Kommunale Gründach-Strategien
+
+Eine weitere Folge des Klimawandels wird die Verschiebung der jährlichen Niederschlagsverteilung sein. Im Sommer werden die Niederschlagsmengen abnehmen, länger anhaltende Trockenphasen mit negativen Auswirkungen für die Stadtwälder, andere städtische Grünflächen und die Gewässer werden häufiger auftreten. Durch Austrocknung des Oberbodens und höhere Erosionsgefahr sind auch vermehrt Probleme durch Staub möglich. Im Winter werden höhere Niederschläge erwartet, was die Gefahr von Hochwasserereignissen steigen lässt. Vor allem aber werden lokale Starkregenereignisse zunehmen. Für eine dicht bebaute und versiegelte Stadtfläche bedeutet das eine erhöhte Vulnerabilität (Verwundbarkeit) gegenüber diesen Klimaänderungen, z. B. durch Sturzfluten und Überflutungen mit entsprechender Gefahr für die Gebäude und die dazugehörige Infrastruktur (z. B. Straßen, Kanalisation). Die Ableitung des Niederschlagswassers über die Kanalisation in die Flüsse führt dort zu erhöhter Hochwassergefahr. Bei Mischwasserkanalisation (Gemisch aus häuslichem oder industriellem Abwasser mit Niederschlagswasser) besteht zudem die Gefahr der Beeinträchtigung der Wasserqualität.
+
+Im Folgenden soll näher auf die Aktionen eingegangen werden, in denen die Maßnahmen Dach- und Fassadenbegrünung behandelt werden.
+Begrünte Dächer stellen oft die kleinsten Grünflächen im Stadtgebiet dar. Gerade in dicht besiedelten und stark versiegelten Stadtteilen, mit Straßenzügen, in denen kein Platz mehr für Straßenbäume vorhanden ist, bleibt häufig nur die Möglichkeit, Dächer als Vegetationsfläche zu erschließen.
+Dachbegrünungen verbessern in erster Linie die mikroklimatischen Verhältnisse am Gebäude selbst, ohne eine große Fernwirkung zu erzielen. Die thermischen Effekte liegen hauptsächlich in der Abmilderung von Temperaturextremen im Jahresverlauf. Die Vegetationsschicht und deren Verdunstung vermindern das Aufheizen der Dachflächen bei intensiver Sonneneinstrahlung im Sommer und den Wärmeverlust des Hauses im Winter. Dies führt zu einer ausgeglichenen Klimatisierung der Räume und senkt den Heizenergiebedarf.
+
+Des Weiteren sind stärkere Schwankungen des Grundwasserspiegels aufgrund der Verschiebung der jährlichen Niederschlagsverteilung zu erwarten. Auch werden die Sturmstärken zunehmen und ­ besonders in der Stadt mit Häufung von wertvollen Immobilien ­ entsprechende volkswirtschaftliche Schäden verursachen. Die Anpassungsstrategien beziehen sich im Wesentlichen auf die künftigen Probleme durch
+· Überwärmung der Stadt (Hitzewellen, Tropennächte), · verändertes Niederschlagsverhalten (Starkniederschläge,
+Hochwassergefährdung), · sommerliche Trockenperioden.
+Maßnahmen / Aktionen Die im Jahr 2012 von der Stadtverwaltung erarbeitete Anpassungsstrategie setzt den Schwerpunkt auf acht Aktionen, die aus ihrer Sicht für die Stadt Hannover von besonderer Wichtigkeit sind. Bei der Auswahl von Maßnahmen sind die Vernetzungen und Wechselwirkungen der (Teil-) Systeme in der Stadt zu betrachten und mehrere positive Effekte zu koppeln. Ein besonders gutes Beispiel ist die Maßnahme ,,Dachbegrünung", die zahlreiche positive Effekte vereint.
+
+Neben diesen klimatischen Effekten können Dachbegrünungen auch die Luftqualität im Stadtgebiet verbessern, da sie Luftverunreinigungen (vor allem Feinstaub) binden und herausfiltern.
+Ein weiterer positiver Effekt von Dachbegrünungen ist der Regenwasserrückhalt, indem 70 (extensive Begrünung) bis 90 Prozent (intensive Begrünung) der Niederschläge in der Vegetationsschicht aufgefangen und durch Verdunstung wieder an die Stadtluft abgegeben werden (Sieker F. et al., 2002, siehe Fachliteratur). Dies trägt zur Abkühlung der Luft in versiegelten Stadtteilen bei. Verbleibende Abflüsse werden in der Substratschicht zwischengespeichert und zeitverzögert an die Kanalisation abgegeben. Spitzenabflüsse (bei Starkregenereignissen) werden durch begrünte Dächer gegenüber unbegrünten Dachflächen um etwa 50 % reduziert.
+Zudem bieten Dachbegrünungen Lebensraum für zahlreiche Pflanzen und Tiere und erhöhen somit die biologische Vielfalt gerade in stark besiedelten städtischen Quartieren. Für den Menschen erzielen sie durch die Verbesserung des Arbeits- und Wohnumfeldes eine nicht zu unterschätzende Wohlfahrtswirkung.
+
+Teil II Kommunale Gründach-Strategien 29
+
+Hannover
+
+Gründächer schließen die Installation von Photovoltaik nicht aus. Ganz im Gegenteil: Durch eine Dachbegrünung wird der Wirkungsgrad der Anlage erhöht, denn die Leistung der Module verringert sich um ca. 0,5 % pro Grad Celsius Aufheizung. Da auf begrünten Dachflächen in der Regel 35° Celsius nicht überschritten werden, bleiben die Module auf dem Dach kühler und damit ein hoher Leistungsgrad erhalten. Die Verwaltung strebt daher im eigenen Bestand an und berät gegenüber Dritten entsprechend, auf Flachdächern parallel Gründächer und Photovoltaikanlagen zu verwirklichen. Einschränkungen bestehen durch die erforderliche Akzeptanz der erhöhten Kosten und aufgrund statischer Verhältnisse, wenn diese eine Doppelnutzung gewichtsmäßig nicht zulassen.
+Im Stadtgebiet werden seit Einführung der ,,Leitlinien für den Umgang mit Dachbegrünung in Bebauungsplänen" im Juni 1994 (Aktualisierung in 2012) bei Neubauvorhaben im Rahmen der Bauleitplanung Dachbegrünungen in Bebauungsplänen festgeschrieben und im Rahmen der Eingriffs- und Ausgleichsregelung als Maßnahme zur Eingriffsminderung angerechnet. Die Leitlinien gelten für Tiefgaragen in allen Baugebieten, sowie für alle Flachdächer mit einer Neigung von weniger als 20 Grad in Gewerbe-, Industrie- und Sondergebieten und Blockinnenbereichen, die von der umliegenden Bebauung einsehbar sind. Im Einzelfall zu prüfen sind Vorgaben für die Begrünung von Garagen und Garagenanlagen sowie von Flachdächern in Kerngebieten. Zudem sind in Neubaugebieten aufgrund der ökologischen Standards beim Bauen im kommunalen Einflussbereich (Drucksache 1440/2007) vermehrt Gründächer zu finden, einige beruhen auch auf freiwilligen Leistungen.
+
+ser pro Jahr in die städtische Kanalisation ab. Diese auf den Gründächern zurückgehaltene Wassermenge verdunstet und trägt so zur Verbesserung des Bioklimas in der Stadt bei. Auch die Begrünung von Hausfassaden wirkt ­ ähnlich wie die Dachbegrünung ­ positiv auf das thermische, lufthygienische und energetische Potential eines Gebäudes. Fassadenbegrünungen verbessern die mikroklimatischen Verhältnisse am Gebäude, indem sie die Temperaturextreme im Jahresverlauf abmildern. Neben diesen klimatischen Effekten können Fassadenbegrünungen auch die Luftqualität verbessern, da sie Stäube und Luftschadstoffe binden. Zudem stellen sie Lebensräume für die urbane Fauna bereit und mindern die Lärmbelastung, da eine begrünte Wand den Schall weniger reflektiert als eine glatte Wand.
+
+Gemäß diesen Standards sind beim Neubau städtischer Gebäude alle flach geneigten Dächer bis zu einer Neigung von 20 Grad mit einer Dachbegrünung auszuführen. Bei Sanierungen wird im Einzelfall entschieden, ob eine Begrünung ausgeführt werden kann.
+
+Die Nord/LB in Hannover verfügt über eine knapp 5.000 m² große Dachbegrünung. © Stadt Hannover
+
+Eine Kartierung der begrünten Dächer im Jahr 2013 hat ergeben, dass über 2.250 Dächer mit einer Gesamtfläche von ca. 640.000 m² begrünt wurden. Die Gründächer sind vor allem in Gewerbegebieten zu finden, in Wohngebieten sind bisher überwiegend die Tiefgaragen und Einzelgaragen begrünt. Dabei nehmen Anzahl und Größe der Gründächer von der Innenstadt in die Außenbereiche zu. Von diesen Gründachflächen fließen (bezogen auf den jährlichen Gesamtniederschlag in Hannover) gegenüber herkömmlichen (versiegelten) Flachdächern ca. 250.000 m³ weniger Niederschlagswas-
+
+30 Teil II Kommunale Gründach-Strategien
+
+Förderung von Dach- und Fassadenbegrünung Über die Gebührensatzung der Stadtentwässerung Hannover besteht eine indirekte Förderung in Form der gesplitteten Abwassergebühr: Für Haus- und Grundstückseigentümerinnen und -eigentümer, die - z. B. durch die Begrünung von Dachflächen - das auf ihrem Grundstück anfallende Regenwasser zurückhalten und bewirtschaften, kann die Niederschlagswassergebühr für die begrünte Fläche um 50 % reduziert werden, was zurzeit 0,34 /m²/Jahr entspricht. Dieser Anreiz reicht aber offensichtlich nicht aus, um Haus- und Grundstückseigentümerinnen und -eigentümer zu einer Begrünung von Dächern privater Häuser im Bestand zu animieren. Ein Beispiel für Fördermöglichkeiten bietet das vom BUND und der Stadt Hannover seit 2012 durchgeführte Modellprojekt ,,Mehr Natur in der Stadt ­ Dach- und Fassadenbegrünung in Hannover". Es beinhaltet eine Kampagne zur Fassaden- und Dachbegrünung, die anfangs im Stadtteil Linden, der durch einen hohen Versiegelungsgrad bei gleichzeitig hoher Bevölkerungsdichte geprägt ist, umgesetzt wurde. Die im Modellgebiet Linden gemachten Erfahrungen wurden später auf andere Stadtteile übertragen. Durch Aktionen und Aufklärungsmaßnahmen sowie Vortragsreihen sollen in erster Linie private Hauseigentümerinnen und -eigentümer zu Begrünungsmaßnahmen animiert und finanziell unterstützt werden.
+
+Bei Begrünungen von Dächern werden auch bis zu einem Drittel der förderwürdigen Kosten einer Maßnahme gefördert. Hier ist die Deckelung auf die Größe der Dachflächen abgestimmt. Bei Dächern bis zu einer Größe von 250 m² werden maximal 3.000 Euro, bei einer Größe über 250 m² maximal 10.000 Euro ausgezahlt.
+Bei der diesjährigen Auswertung aktueller Luftbilder wurde die Marke von 800.000 m² Dachbegrünung bereits überschritten. Die getroffenen Maßnahmen lassen erwarten, dass sich dieser positive Trend fortsetzen wird.
+Helmut Wahle / Dirk Schmidt Landeshauptstadt Hannover Bereich Umweltschutz Umweltplanung und ­management
+
+Gefördert werden bei Fassadenbegrünungen bis zu einem Drittel der förderwürdigen Kosten einer Maßnahme. Es besteht aber eine Deckelung der Fördersummen. Bei Begrünungen an mehrschichtigen Außenwandkonstruktionen (Wärmedämmverbundsystem, vorgehängte Fassaden) werden bis zu 3.500 Euro, bei allen anderen Begrünungen bis maximal 350 Euro gezahlt.
+
+Teil II Kommunale Gründach-Strategien 31
+
+Stuttgart
+
+Stuttgart: Netzwerk Urbanes Gärtnern / Kommunales Grünprogramm
+
+2014 wurden in der baden-württembergischen Landeshauptstadt Stuttgart zwei neue Förderprogramme für innerstädtisches Grün in Kraft gesetzt. Neben bürgerlichen Initiativen für urbane Gärten wird auch die Hof-, Dach- und Fassadenbegrünung wieder finanziell unterstützt. Für den Bereich der Beratung und Vernetzung wurde außerdem eine neue Koordinationsstelle ,,Urbanes Gärtnern" beim Amt für Stadtplanung und Stadterneuerung eingerichtet.
+Urbanes Gärtnern in Stuttgart ­ Gärten für eine lebendige Stadt
+Gartenbau in der Großstadt? Das klingt zunächst ungewöhnlich. Doch Nutzgärten haben in vielen Städten eine lange Tradition auch in Stuttgart. Das erste Stuttgarter Wohnquartier, das Bohnenviertel, verdankt dem Gemüseanbau sogar seinen Namen: Handwerker und Weinbauern, die sich hier angesiedelt hatten, pflanzten zwischen den Häusern Kletterbohnen an, um ihre Versorgung zu sichern und lange Transportwege zu vermeiden.
+
+bane Gärten entstanden. Die Ausprägungen der urbanen Gärten sind sehr unterschiedlich. So befindet sich der urbane Garten der Ebene 0 e.V. auf dem Züblin Parkhaus, der Nachbarschaftsgarten am Stöckach wurde auf einem ehemaligen Spielplatz gestaltet. Der Stadtacker an den Wagenhallen ist auf einer Industriebrache entstanden und wurde bereits 2012 mit dem 1. Stuttgarter Umweltpreis als beispielhaftes Projekt der Landesinitiative ,,Mittendrin ist Leben. Grün in Städten und Gemeinden in Baden-Württemberg" vom Ministerium für Verkehr Infrastruktur Baden-Württemberg ausgezeichnet. Weitere Gärten in Stuttgart sind geplant. Bereits an sechs Flüchtlingsunterkünften wurde die Möglichkeit zum Gärtnern geschaffen. Der Aufbau und die Grundregeln für einen urbanen Garten werden von der jeweiligen Initiativgruppe selbst bestimmt. Die urbanen Gärten werden durch die Motivation und den Tatendrang der Akteure getragen, sie stehen im Mittelpunkt der Projekte. Die meisten Gärten in der Stadt sind frei zugänglich und stellen häufig eine temporäre Nutzung dar.
+
+Die Nutzung von Brachflächen und Flachdächern als urbane Gärten hat sich in vielen Städten weltweit zu einem Trend entwickelt. Beim Gärtnern in der Stadt (,,Urban Gardening") spielen heute immer mehr gesellschaftliche und ökologische Themen eine Rolle. Denn bei der gemeinsamen Gartenarbeit gedeihen nicht nur Gemüse und Obst, sondern auch Gemeinschaftssinn, Kultur und Bildung - und zusammen mit anderen lassen sich die Früchte der Arbeit noch viel besser genießen. Durch das Urbane Gärtnern können zudem Brachund Dachflächen in der Stadt sinnvoll genutzt werden. Das verschönert nicht nur das Stadtbild, sondern sorgt auch für besseres Klima und bietet einen ökologischen Mehrwert.
+
+Um bestehende und kommende Projekte zu unterstützen, hat die Landeshauptstadt Stuttgart im Juni 2014 die neue Koordinationsstelle Urbanes Gärtnern beim Amt für Stadtplanung und Stadterneuerung eingerichtet. Hier werden Aktive und Interessengruppen miteinander vernetzt, beraten und gefördert. Die Veranstaltungsreihe ,,Gartenwerkstatt" vom Amt für Stadtplanung und Stadterneuerung bietet Akteuren eine Plattform, um sich kennenzulernen, Fragestellungen zu klären und Ideen auszutauschen.
+
+Urbaner Garten auf dem obersten Deck des Züblin-Parkhauses © Stadt Stuttgart
+
+In den letzten Jahren sind in Stuttgart bereits über ein Dutzend ur-
+
+32 Teil II Kommunale Gründach-Strategien
+
+Im Oktober 2014 wurde die Richtlinie zur Förderung von urbanen Gärten in Stuttgart vom Gemeinderat beschlossen. Für die Initiativgruppen gibt es die Möglichkeit, zweckgebundene Zuschüsse von der Landeshauptstadt Stuttgart für die Erstanlage, die Erstausstattung sowie dem Erhalt und Betrieb eines urbanen Gartens zu erhalten. Förderfähig sind alle kleinräumigen gärtnerischen Nutzungen im besiedelten Stadtgebiet, welche von bürgerlichem Engagement ausgehen und gemeinnützig veranlagt sind. Die Fläche muss durch das Anlegen und den Betrieb des urbanen Gartens einen ökologischen und gesellschaftlichen Mehrwert erhalten. In erster Linie ist es das Ziel, Brachflächen und Flachdächer im besiedelten Stadtge-
+
+biet durch urbane Gärten zu gestalten. Alle Initiativgruppen können unterstützt werden. Urbane Gärten sind schon heute Oasen im Stadtbild, sie dienen als Begegnungsorte und bieten den Bürgerinnen und Bürgern die Gelegenheit ihre Stadt selbst zu gestalten. Alle Altersgruppen werden angesprochen mitzumachen, Herkunft und Sprachkenntnisse spielen hierbei keine Rolle. Durch urbane Gärten soll das interkulturelle und generationenübergreifende Miteinander gefördert werden. Bereits im April 2015 sowie im April 2016 haben Urban Gardening Workshops der Anstiftung Ertomis in Zusammenarbeit mit der Landeshauptstadt Stuttgart stattgefunden. Die Förderung für urbane Gärten ist vorerst bis Ende 2017 vorgesehen.
+
+Stadtacker an den Wagenhallen: Das Förderprogramm berücksichtigt die jeweilige Eigenart der Fläche, Umgebung und Ausstattung. © Stadt Stuttgart
+Teil II Kommunale Gründach-Strategien 33
+
+Stuttgart
+
+Hof-, Dach- und Fassadenbegrünung ­ Programm für mehr Grün in der Stadt
+
+Begrünte Fassaden und Hinterhöfe mit blühenden Pflanzen sorgen für eine hohe Lebensqualität in der Stadt. Vor allem die älteren, dicht bebauten Stadtteile zeigen sich an manchen Stellen von ihrer grauen Seite. Asphaltierte Hinterhöfe dienen häufig als Abstellfläche. Dabei kann sich so ein trister Hinterhof mit kreativen Ideen und etwas Aufwand in einen beliebten Aufenthaltsort, eine Spielfläche für Kinder oder einen bunten Ziergarten verwandeln.
+Mit dem städtischen Grünprogramm hat das Amt für Stadtplanung und Stadterneuerung der Landeshauptstadt Stuttgart die Bürgerinnen und Bürger schon in der Vergangenheit mit zweckgebundenen Zuschüssen und bei Fragen rund um die Begrünung von Höfen, Dächern und Fassaden unterstützt. Die Gemeinderäte haben der neuen Richtlinie für das kommunale Grünprogramm der Landes-
+
+hauptstadt Stuttgart zur Förderung der Hof-, Dach- und Fassadenbegrünung im Oktober 2014 zugestimmt. Die neue Koordinierungsstelle für das kommunale Grünprogramm bietet kostenlose Beratungen, wenn es um die Entsiegelung und Begrünung innerhalb von innerstädtisch verdichteten Räumen geht.
+Durch das kommunale Grünprogramm unterstützt die Landeshauptstadt Stuttgart die Bemühungen der Eigentümerinnen und Eigentümer, die Umgebung von innerstädtisch verdichteten Räumen ökologisch aufzuwerten und somit die Wohn- und Aufenthaltsqualität im Gebiet zu verbessern. Die Förderung ist auf die Entsiegelung und Begrünung im Bereich von Bestandsgebäuden ausgerichtet. Förderfähig sind grundsätzlich Flurstücke die 51% oder mehr versiegelt sind.
+
+Das Förderprogramm zur Dachbegrünung umfasst die baulichen Vorbereitungen, Substratarbeiten, Aussaaten und Bepflanzungen. © Stadt Stuttgart
+34 Teil II Kommunale Gründach-Strategien
+
+Die Vorhaben müssen von der Stadt in gestalterischer, gärtnerischer und denkmalpflegerischer Hinsicht befürwortet werden. © Stadt Stuttgart
+
+Durch die Entsiegelung von Flächen und die Begrünung von Höfen, Dächern und Fassaden sollen neue Lebensräume für Tiere und Pflanzen geschaffen werden. Die Begrünungen werden zur Wärmereduzierung in den Sommermonaten beitragen, außerdem werden Staub und Schadstoffe gebunden. Ein großer Teil des Niederschlagswassers wird durch die Versickerung und Verdunstung dem natürlichen Wasserkreislauf zugeführt und trägt so zur Grundwasserneubildung bei.
+
+Verfügung stehenden Haushaltsmittel werden Entsiegelungs- und Begrünungsvorhaben gefördert. Die Förderung der Hof-, Dach- und Fassadenbegrünung ist vorerst bis Ende 2017 verfügbar.
+Alexander Schmid Landeshauptstadt Stuttgart Amt für Stadtplanung und Stadterneuerung
+
+Maximal die Hälfte der Fertigstellungskosten zur Entsiegelung von Höfen sowie zur Gestaltung und zur Begrünung von Höfen, Dächern und Fassaden bis zu 10.000 Euro kann gefördert werden. Die ersten Maßnahmen wurden bereits umgesetzt. Im Rahmen der zur
+
+Teil II Kommunale Gründach-Strategien 35
+
+Berlin
+
+Berlin: Ökologische Gebäudekonzepte und Modellvorhaben
+
+Ökologische Gesamtkonzepte für stadttypische Bauprojekte zu entwickeln, war ein Thema im Rahmen des Forschungsprogramms Experimenteller Wohnungs- und Städtebau (ExWoSt) im Forschungsfeld ,,Stadtökologie und umweltgerechtes Bauen" des Bundesministeriums für Raumordnung, Bauwesen und Städtebau. Dieser entwickelte und erprobte Ansatz hat sich als wichtig und richtig erwiesen. Ein ökologisches Gesamtkonzept für Gebäude zu erarbeiten und in einem entsprechenden Stufenkonzept umzusetzen, sollte Grundlage aller zukünftigen Planungen sein. Grundvoraussetzungen für das nachhaltig innovative Bauen, Wohnen und Arbeiten sind nicht nur die Planung und der Bau der Gebäude und Anlagen nach dem Stand der Technik, der fachgerechte Betrieb und die Instandhaltung der Anlagen und Bauteile, sondern auch die Information der Nutzerinnen und Nutzer und ein entsprechendes Nutzer-
+
+verhalten. Die unterschiedlichen Themenbereiche des ökologischen Bauens sind vernetzt und in ihrer Wechselwirkung zueinander zu betrachten. Auswirkungen z.B. auf die Energie- und Wassereffizienz, die Umwelt, die Nutzerinnen und Nutzer, die Biodiversität und die Betriebskosten von Gebäuden sind darzustellen und für das weitere Handeln zu bewerten.
+Ausstellung Ökologische Gebäudekonzepte Auf den 18 Tafeln der Ausstellung werden ausgewählte Projekte und Forschungsvorhaben vorgestellt, bei denen die Senatsverwaltung für Stadtentwicklung als Projektpartnerin verschiedener Institutionen mitarbeitet. Unter ihnen sind zum Beispiel die TU Berlin, die Hochschule Neubrandenburg, die Fachvereinigung Bauwerksbegrünung e.V., der Deutsche Dachgärtner Verband e.V., das Kompetenz-
+
+trinkwassereffiziente Installation
+
+Baustein Wasser gewässerschonende Anlagen
+(Grundwasser, Oberflächenwasser)
+
+Regenwasserbewirt-
+
+schaftung
+
+Heizung/ Raumwärme
+
+Wärmeschutz/ Wärmedämmung
+
+Baustein Energie
+
+Ausrichtung Gesamtenergieeffizienz
+
+Warm-
+
+Baukörper
+
+wasser
+
+Lüftung
+
+Klimatisierung
+
+Belichtung
+
+Betriebswassernutzung
+
+Wärmerückgewinnung aus Abwasser
+
+Nährstoffrecycling aus Abwasser
+
+Beleuchtung
+
+Monitoring nach Inbetriebnahme
+
+Einsatz innovativer Technologien
+
+vorhandene Vegetation schützen / erhalten
+
+Entwicklung/Umsetzung als Stufenkonzept
+
+Ökologisches Gesamtkonzept für Gebäude
+
+Bauwerksund Gebäudebegrünung
+
+Begrünung Baustein (Freiflächen, Grün
+Bäume)
+
+Abwärmenutzung
+
+Planen-Bauen-BetreibenInstandhalten
+
+urbane Landwirtschaft
+
+biologische Vielfalt
+
+Einsatz erneuerbarer Energien
+
+ökologische Ansprüche an Bauteile und Baustoffe
+
+örtliche Gegebenheiten beachten
+
+Gebäudeautomation
+
+Trennung Artenschutz, im Gebäude Biodiversität
+
+Maschinen, Anlagen und Antriebe
+
+Baustein Baustoffe
+
+Finanzierung
+
+getrennte Sammlung, Recycling
+
+Baustein Abfall
+Vermeidung, Recycling, Beseitigung
+
+Verwendungsverbote
+
+Gebäuderecycling
+
+Übergreifende
+
+Modellvorhaben
+
+Themen
+
+Querschnittsthemen
+
+Umnutzung/Weiternutzung vorhandener Gebäude, Anlagen, ...
+
+umwelt- Bauteil- und gerechte BaustoffBeschaffung recycling
+
+Bauabfälle, Sonderabfälle
+
+Ökologisches
+
+Gesamtkonzept
+
+­
+
+Vernetzt
+
+Handel
+
+©
+
+Senatsverwaltung
+
+für
+
+Öffentlich-
+Stadtenktewitsiacrbkeliut ng
+
+und
+
+Umwelt,
+
+Voraus-
+BerlinsGertuznudnsgteünck
+
+© großes Foto: Lichtschwärmer; kleine Fotos von links nach rechts: Michael Danner; SenStadtUm; M.Schmidt; ullstein bild - Meißner; FBB
+
+36 Teil II Kommunale Gründach-Strategien
+
+zentrum Wasser Berlin, das Leibniz-Zentrum für Agrarlandschaftsforschung (ZALF) e.V. Müncheberg, aber auch private Betreiber von ökologischen Gebäudeanlagen. Eins ist ihnen gemeinsam, ihre Projekte sollen inspirierend und beispielgebend für die zukünftige Entwicklung der Stadt sein. Dabei wird deutlich, dass die sinnvolle Verknüpfung unterschiedlicher Themenfelder wie Energie, Wasser, Grün, Baustoffe und Abfall wichtige und unabdingbare Voraussetzung für die Weiterentwicklung des ökologischen Planens und Bauens ist. Ein ökologisches Gesamtkonzept zu erarbeiten, bedeutet im Bauprozess, teils konkurrierende Aspekte zu beachten und zu bewerten. Grundlage sind auch die nichtmonetären Projektziele, die Ansprüche der Eigentümer/innen und Nutzer/innen an das Gebäude sowie die örtlichen Gegebenheiten.
+Die Projekte der Ausstellung sind sehr praxisnah, wie das Gärtnern in und an Gebäuden (ZFarming). Der Praxisleitfaden ,,Es wächst etwas auf dem Dach" zeigt Ideen und Planungsgrundlagen für die Umsetzung von Dachgewächshäusern. In die gleiche Kategorie fällt der Leitfaden des Deutschen Dachgärtner Verbandes ,,Dachbegrünung für Kommunen". Wissenschaftlich einzuordnen, sind die Forschungsvorhaben KURAS (Konzepte für urbane Regenwasserbewirtschaftung und Abwassersysteme) und ROOF WATER FARM, die vom Bundesministerium für Bildung und Forschung im Rahmen des Förderprogramms ,,Forschung für nachhaltige Entwicklungen" gefördert werden. Es werden auch Einzelprojekte, wie die Regenwasserbewirtschaftung am Potsdamer Platz, die WeiberWirtschaft eG, ein ökologisches Gründerinnenzentrum oder die IGG Malzfabrik mbH als nachhaltiger Event- und Gewerbestandort vorgestellt.
+Die Wanderausstellung kann ausgeliehen werden. Auf der Internetseite der Senatsverwaltung für Stadtentwicklung und Umwelt Berlin stehen die Tafeln in der Rubrik ,,Ökologisches Bauen / Ökologische Gebäudekonzepte" zum Download zur Verfügung (http://www. stadtentwicklung.berlin.de/bauen/oekologisches_bauen/index. shtml). Das Internet-Portal präsentiert außerdem aktuelle Termine, Fallstudien von Modellvorhaben und Projekten sowie eine umfangreiche Sammlung von Berichten, Dokumentationen, Begriffsdefinitionen und Arbeitshilfen.
+Brigitte Reichmann Senatsverwaltung für Stadtentwicklung und Umwelt, Land Berlin
+
+Die Ausstellungstafeln auf einen Blick
+
+0
+
+Ökologische Gebäudekonzepte -
+
+Klimaanpassungsstrategien
+
+1 Vernetzt Handeln
+
+2.1 Stadtökologisches Modellvorhaben
+
+,,Monitoring Institut für Physik in Berlin
+
+Adlershof"
+
+2.2 Monitoring: Projektergebnisse
+
+3.1 Living Walls ­ Ein Forschungsvorhaben
+
+der Hochschule Neubrandenburg
+
+3.2 Natur und Bauwerk ­ Ziel der
+
+Fachvereinigung Bauwerksbegrünung
+
+3.3 Dachbegrünung ­ ein Erfolgsprojekt
+
+4.1 Block 6 in Berlin Kreuzberg ­ ein stadt-
+
+ökologisches Modellvorhaben
+
+4.2 ROOF WATER-FARM: Sektorübergreifende 
+
+Wasserressourcennutzung durch gebäude-
+
+integrierte Farmwirtschaft
+
+5.1 KURAS ­ Konzepte für urbane Regenwasser-
+
+bewirtschaftung und Abwassersysteme
+
+5.2 Regenwasserbewirtschaftung ­ ein
+
+Projektschwerpunkt von KURAS
+
+5.3 Potsdamer Platz ­ ein Areal mit beispielhaftem
+
+Regenwasserkonzept
+
+5.4 WeiberWirtschaft eG ­ ein Gründerinnenzent-
+
+rum im ökologisch sanierten Gewerbehof
+
+5.5 Oberstufenzentrum (OSZ) in Berlin Weißensee -
+
+Planung der Regenwasserbewirtschaftung als
+
+stadtökologisches Modellvorhaben
+
+6.1 Leitfaden Dachgewächshäuser
+
+6.2 Dachflächenpotenziale für
+
+gebäudegebundene Landwirtschaft ­
+
+eine Chance für Berlin
+
+6.3 IGG Malzfabrik mbH ­ ein Industriedenkmal
+
+wird ,,Grün"
+
+6.4 Watergy ­ ein System zur Vernetzung von
+
+Wasser und Energietechnologien
+
+Teil II Kommunale Gründach-Strategien 37
+
+Berlin
+
+KURAS ­ Konzepte für urbane Regenwasserbewirtschaftung und Abwassersysteme
+
+projektziele
+übergeordnetes ziel
+
+strategi e
+regenwasserbewirtschaftung
+
+Im Juni 2013 startete das Verbundforschungs- niert, die eine verstärkte Unter- oder Überlast der
+
+projekt KURAS, um Konzepte für urbane Regen- Abwassersysteme mit negativen Auswirkungen
+
+wasserbewirtschaftung und Abwassersysteme am wie Geruchsbelästigung oder Korrosion mit sich
+
+Fallbeispiel Berlins zu entwickeln. Die TU Berlin bringen. Konstruktive und betriebliche Maßnah-
+
+und das Kompetenzzentrum Wasser Berlin koor- men werden daraus experimentell als Lösungsan-
+
+dinieren die unterschiedlichen Partner und For- sätze für die Zukunft ermittelt. Im Schwerpunkt
+
+schungsinhalte. Das Bundesministerium für Bil- Regenwasser werden Effekte von Maßnahmen
+
+dung und Forschung (BMFB) fördert das Projekt, der Regenwasserbewirtschaftung analysiert und
+
+in dessen Fokus sowohl die Infrastruktur als auch daraus praxisorientierte Empfehlungen für Planer
+
+die Lebensqualität in der Stadt stehen.
+
+und Städte entwickelt. Wichtiges Projektziel: Die
+
+Lösungsansätze beider Schwerpunkte werden mit-
+
+Was wird erforscht?
+
+einander gekoppelt.
+
+IrgmeepnSräcinhsewnDeterapmtuiovnegknrtaABpbehwrielai,nsesVreerrSshtyaasltdtetemgneebKbowidoeeeetwnrrdVzeKeienrrliätmpinnsatdceeehidnruefeafnümif--truunrgbaunnedRAebgwenawssaesrsseyrs-teme
+
+Erarbeitung und modellhafte Demonstration von integrierten Konzepten eines nachhaltigen Umgangs mit Abwasser und Regenwasser für urbane Standorte.
+
+teilziele
+
+Erarbeitung von Handlungsempfehlungen für Betrieb, Ausbau und Anpassung der technischen Abwasserinfrastruktur hinsichtlich Extrembelastungen aus Über- und Unterlast, die sich durch zukünftigen demografischen und klimatischen Wandel verstärken
+Demonstration einer Methodik zur Optimierung von Kombinationen zentraler und dezentraler Maßnahmen der Regenwasserbewirtschaftung bezüglich ihrer Effekte auf Bewohner, Umwelt und Kosten(struktur)
+Entwurf übergeordneter Planungs- und Managementinstrumente für den Betrieb von Abwassersystemen
+Entwicklung von Werkzeugen und Empfehlungen für Planer/Architekten
+
+bewohner
+
+Effekte
+1 Bauphysik/Gebäudetechnik 2 Landschaft und Freiraumqualität 3 Stadtklima/Bioklima
+
+Maßnahmen M1 M2 Mi
+... ... ... ... ... ... ... ... ...
+
+4 Biodiversität
+
+... ... ...
+
+5 Grundwasser/Bodenpassage
+
+... ... ...
+
+6 Emission in Oberflächengewässer ... ... ...
+
+7 Immission Oberflächengewässer ... ... ...
+
+8 Maßnahmenkosten 9 Ressourcennutzung 10 Ökonomische Analyse
+
+... ... ... ... ... ... ... ... ...
+
+Anwendung für 2 Beispielquartiere
+
+E Mi
+
+E Mj
+
+1 ... 2 ... 3 ...
+
+1 ... 2 ... 3 ...
+
+4 ... 5 ... 6 ... 7 ...
+
+4 ... 5 ... 6 ... 7 ...
+
+8 ... 9 ... 10 ...
+
+8 ... 9 ... 10 ...
+
+Empfehlungen
+· Finanzierungsmodelle · Anreize · übergeordnete
+Planungsinstrumente · Werkzeuge für Planer
+und Architekten
+
+umwelt
+
+ökonomie
+
+Forschungseinrichtungen:  TU Berlin, Fachgebiet Fluidsys-
+temdynamik  TU Berlin, Institut für Architek-
+tur, Fachgebiet Gebäudetechnik und Entwerfen  TU Berlin, Institut für Ökologie  Kompetenzzentrum Wasser Berlin gGmbH  IWW Rheinisch-Westfälisches Institut für Wasserforschung gGmbH  FU Berlin, Arbeitsbereich Hydrogeologie  Hochschule Neubrandenburg, Fachbereich Landschaftswissenschaften und Geomatik  Leibniz Universität Hannover, Institut für Meteorologie und Klimatologie  TU Kaiserslautern, Fachgebiet Siedlungswasserwirtschaft  Institut für Automation und KommunikationMagdeburg e.V.  Senatsverwaltung für Stadtentwicklung und Umwelt  Deutsches Institut für Urbanistik  Umweltbundesamt
+Praxispartner  Atelier Dreiseitl GmbH  Berliner Wasserbetriebe  GEO-NET Umweltconsulting
+GmbH  Ingenieurgesellschaft
+Prof. Dr. Sieker mbH
+
+strategi e
+abwassersysteme
+
+Verbundpartner
+
+effekte
+
+veränderungs-
+
+(über-/unterlast)
+
+druck
+
+status quo
+
+- Abwassereigenschaften - Funktion Pumpwerke - Funktion Kanalnetz - Funktion Abwasserbehandlung
+- Demografischer Wandel - Klimatischer Wandel - Wassersensitives Verhalten - Veränderte Flächennutzung
+- (Kanal-)Ablagerungen - Korrosion - Geruch - Entlastung / First Flush Effekte - Verstopfung - Überstau/Überflutung
+© kuras
+
+Handlungsoptionen
+M1 M2 Mi
+... ... ... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ... ... ...
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+
+Anwendung für Beispielgebiet
+· Modellierung: GesamtsystemWirkungsanalyse
+· Risiko- und SWOT-Analyse
+· Neuartige mechatronische Elemente
+
+Empfehlungen
+· Planungswerkzeuge
+· GIS-basierte Managementinstrumente
+· Sanierungsempfehlungen
+
+IWW Zentrum Wasser gefördert durch
+
+Intelligente und multifunktionelle Infrastruktursysteme für eine zukunftsfähige Wasserversorgung und Abwasserentsorgung
+
+projektziele
+übergeordnetes ziel
+
+schnittstelle fläche - kanal
+
+· Austausch der Ergebnisse an der Schnittstelle Fläche-Kanal
+· Abgleich der methodischen Ansätze (Kostenrechnung, Kanalsimulation, ...)
+· Enger Austausch über gemeinsame Workshops, Partner an der Schnittstelle und Delegierte zu Fachthemen
+· Abschließendes ,,Synergie-Kolloquium", gemeinsame Empfehlungen
+kontakt
+abwassersysteme TU Berlin, Sekr. K2, Fachgebiet Fluidsystemdynamik Prof. Dr.-Ing. Paul-Uwe Thamsen Tel.: +49 30 314-25262 e-mail: paul-uwe.thamsen@tu-berlin.de
+regenwasserbewirtschaftung Kompetenzzentrum Wasser Berlin Dr. Andreas Matzinger Tel.: +49 30 53653 824 e-mail: andreas.matzinger@kompetenz-wasser.de
+
+Forschung für Nachhaltige Entwicklungen
+Weitere Informationen: www.kuras-projekt.de
+Kontakt: TU Berlin Prof. Dr.-Ing. Paul Uwe Thamsen · MoMdellaieriuln:gp: aul-uwe.thamsen@ Gestaum-tsbyseterml-in.de
+Wirkungsanalyse
+· RSWisiKOkoTo--Aumnnadlypseetenzzentrum Wasser Berlin Dr. Andreas Matzinger
+KonMkzoeamipl:ptaeentedfnrüze-arws.uamsrsabetrza.idnnegeer@Regenwasserbewirtschaftung und Abwassersysteme
+
+Erarbeitung von Handlungsempfehlungen für Betrieb, Ausbau und Anpassung der techni-
+
+Erarbeitung und modellhafte
+
+schen Abwasserinfrastruktur hinsichtlich Extrembelastungen aus Über- und Unterlast, die sich durch zukünftigen demografischen und klimatischen Wandel verstärken
+
+teilziele
+
+Demonstration von integrierten
+
+Demonstration einer Methodik zur Optimierung von Kombinationen zentraler und dezent-
+
+5.1 Konzepten eines nachhaltigen
+Umgangs mit Abwasser und Regenwawssewr fwür.kuurbraanse-Sptraondjeorktte..de
+
+raler Maßnahmen der Regenwasserbewirtschaftung bezüglich ihrer Effekte auf Bewohner, Umwelt und Kosten(struktur)
+Entwurf übergeordneter Planungs- und Managementinstrumente für den Betrieb von Abwassersystemen
+
+Entwicklung von Werkzeugen und Empfehlungen für Planer/Architekten
+
+strategi e
+regenwasserbewirtschaftung
+
+,,Forschung
+
+Effekte
+
+Maßnahmen
+
+M1 M2 Mi
+
+bewohner
+
+1 Bauphysik/Gebäudetechnik
+
+... ... ...
+
+2 Landschaft und Freiraumqualität ... ... ...
+
+umwelt
+
+für3 Stadtklima/Bioklima 4 Biodiversität 5 Grundwasser/Bodenpassage 6 Emission in Oberflächengewässer
+
+...
+... ... ...
+
+...
+... ... ...
+
+...
+... ... ...
+
+7 Immission Oberflächengewässer ... ... ...
+
+ökonomie
+
+nachhaltige
+
+8 Maßnahmenkosten 9 Ressourcennutzung 10 Ökonomische Analyse
+
+... ... ... ... ... ... ... ... ...
+
+Anwendung für 2 Beispielquartiere
+
+E Mi
+
+E Mj
+
+1 ... 2 ... 3 ...
+
+1 ... 2 ... 3 ...
+
+4 ... 5 ... 6 ... 7 ...
+
+4 ... 5 ... 6 ... 7 ...
+
+8 ... 9 ... 10 ...
+
+8 ... 9 ... 10 ...
+
+Empfehlungen
+· Finanzierungsmodelle · Anreize · übergeordnete
+Planungsinstrumente · Werkzeuge für Planer
+und Architekten
+
+Entwicklungen"
+
+schnittstelle fläche - kanal
+
+· Austausch der Ergebnisse an der Schnittstelle Fläche-Kanal
+· Abgleich der methodischen Ansätze (Kostenrechnung, Kanalsimulation, ...)
+· Enger Austausch über gemeinsame Workshops, Partner an der Schnittstelle und Delegierte zu Fachthemen
+· Abschließendes ,,Synergie-Kolloquium", gemeinsame Empfehlungen
+
+Handlungsoptionen M1 M2 Mi
+
+Anwendung für Beispielgebiet
+
+Empfehlungen
+
+status quo
+
+Tafel
+
+5.1:
+
+KURAS
+
+­
+
+Konzepte
+
+für
+
+urbane
+
+Regenwasserbewirtschaftung - Abwassereigenschaften - Funktion Pumpwerke
+
+... ... ... ...
+
+und ...
+...
+
+Abwassersysteme
+
+- Funktion Kanalnetz
+
+... ... ...
+
+strategi e
+abwassersysteme
+
+© Senatsverwaltung für Stadtentwicklung und Umwelt, Berlin - Funktion Abwasserbehandlung - Demografischer Wandel - Klimatischer Wandel - Wassersensitives Verhalten - Veränderte Flächennutzung
+
+druck
+
+... ... ...
+... ... ... ... ... ... ... ... ... ... ... ...
+
+veränderungs-
+
+· Modellierung: GesamtsystemWirkungsanalyse
+· Risiko- und SWOT-Analyse
+
+· Planungswerkzeuge
+· GIS-basierte Managementinstrumente
+
+38 Teil II Kommunale Gründach-Strategien
+
+effekte
+
+(über-/unterlast)
+
+- (Kanal-)Ablagerungen - Korrosion - Geruch - Entlastung / First Flush Effekte - Verstopfung - Überstau/Überflutung
+
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+
+· Neuartige mechatronische Elemente
+
+· Sanierungsempfehlungen
+
+Verbundpartner
+
+kontakt
+abwassersysteme TU Berlin, Sekr. K2, Fachgebiet Fluidsystemdynamik Prof. Dr.-Ing. Paul-Uwe Thamsen Tel.: +49 30 314-25262 e-mail: paul-uwe.thamsen@tu-berlin.de
+regenwasserbewirtschaftung Kompetenzzentrum Wasser Berlin Dr. Andreas Matzinger Tel.: +49 30 53653 824 e-mail: andreas.matzinger@kompetenz-wasser.de
+
+· Modellierung: GesamtsystemWirkungsanalyse
+· Risiko- und SWOT-Analyse
+
+Anzeige
+UND GENAU DARUM IST RHEPANOL® HG KEINE DACHBAHN WIE JEDE ANDERE.
+Das Original macht den Unterschied. Die langzeitdichte Kunststoff-Gründachbahn Rhepanol® hg. Ein Gründach muss halten, selbst wenn die Natur höchst aggressive Wurzeln schlägt. Die Abdichtungsbahn Rhepanol hg aus Polyisobutylen ist wurzel- und rhizomfest im Sinne der FLL-Richtlinie. Außerdem ist sie robust, UV-beständig, kälteflexibel bis minus 60 °C und obendrein Hagelschlag-getestet. Abdichten mit dem Original.
+FDT FlachdachTechnologie GmbH & Co. KG I Eisenbahnstraße 6-8 I 68199 Mannheim I Tel 06 21-85 04-0 I www.fdt.de
+
+Ludwigsburg
+Das Grüne Zimmer
+
+Das Grüne Zimmer am Ludwigsburger Rathausplatz ist ein neuartiger, multifunktionaler grüner Freiraum, der als beispielhafte Anpassungsmaßnahme an den globalen Klimawandel entstanden ist. Im Grünen Zimmer sind mit Stauden bewachsene Wände und speziell entwickelte Baumwände so angeordnet, dass mikroklimatisch sehr unterschiedliche Aufenthaltsbereiche entstehen, die für Abkühlung an Hitzetagen sorgen. Das Grüne Zimmer ist eingebettet in das Konzept der ,,städtischen Klimakomfortzonen", das sind Bereiche des öffentlichen Raums, die trotz eines hohen bioklimatischen Belastungspotenzials aufgrund ihrer Ausstattung einen erträglichen, wenn nicht sogar angenehmen Aufenthalt im öffentlichen Raum
+
+auch an Hitzetagen ermöglichen. Das Institut für Landschaftsplanung und Ökologie der Universität Stuttgart führt die Begleitforschung durch. Es misst die mikroklimatische Wirkung, die Aufenthaltsqualität und die Entwicklung der Vegetation im Grünen Zimmer und seinem unmittelbaren Umfeld. Der Bau des Grünen Zimmers inklusive Bepflanzung erfolgte durch die Firma Helix Pflanzen GmbH, die seit der Fertigstellung auch für die Pflege der Anlage verantwortlich ist. Die Erfahrungen mit dem Grünen Zimmer werden anschließend in die übergeordnete integrierte Anpassungsstrategie des TURASProjektes, wie auch in die Strategie des Verbandes Region Stuttgart zur Anpassung an den Klimawandel für die Region einfließen.
+
+Das Grüne Zimmer: städtische Klimakomfortzone im öffentlichen Raum © Helix Pflanzensysteme GmbH 40 Teil II Kommunale Gründach-Strategien
+
+Entwurf und Baubotanik: Der Entwurf des Grünen Zimmers von den Architekten ludwig.schönle erzeugt durch die Anordnung und Geometrie der Wände und Baumdächer unterschiedliche Aufenthaltsqualitäten. Alle Vegetationselemente sind auf einem barrierefrei erschlossenen Podest angeordnet, durch das die räumliche Wirkung des Grünen Zimmers als Rückzugsort in der Stadt unterstrichen wird. Zur Bildung der Baumdächer wurden baubotanische Techniken benutzt. Die Baubotanik ist eine Bauweise, bei der Pflanzen ­ insbesondere Bäume ­ untereinander und mit nicht-lebenden Konstruktionselementen so verbunden werden, dass sie zu einer pflanzlich-technischen Verbundstruktur verwachsen. Einzelne Pflanzen verschmelzen zu einem neuen größeren Gesamtorganismus und technische Elemente wachsen in die pflanzliche Struktur ein.
+
+Entwicklung und Stadtklima: Auf diese Art ist es möglich, die schnelle Verfügbarkeit von Bauwerksbegrünungen mit der Dauerhaftigkeit und langfristigen Robustheit von Bäumen zu verbinden. Bereits unmittelbar nach der Fertigstellung ist eine relativ hohe Blattmasse vorhanden und langfristig erzeugen sie die Robustheit natürlich gewachsener Bäume. Durch die Verbindung der Pflanzen untereinander und mit technischen Bauteilen wird es möglich, Bäume in ihrer Geometrie an bauliche Gegebenheiten anzupassen. Bauwerke und Bäume fusionieren zu einer vegetationstechnischen und gestalterischen Einheit, die es ermöglicht, bauliche Nutzungen mit den Qualitäten und stadtklimatischen Wirkungen von Bäumen auf vergleichsweiser kleiner Grundfläche zu verbinden.
+Pflanzenvielfalt ­ Mehrwert für Mensch und Natur: Insgesamt 7.000 Stauden und 40 Platanen sorgen für 140 m² vertikale Grünfläche im Grünen Zimmer. Das Dach des Platanenspaliers schafft zusätzlich 40 m² beschattete Aufenthaltsbereiche. Die Auswahl der Pflanzen erfolgt vorrangig nach folgenden Kriterien:
+
+Durch Pflanzenaddition entstehen in kurzer Zeit dauerhafte und robuste Bauwerksbegrünungen. © Ferdinand Ludwig
+Pflanzenaddition: Eines der wichtigsten vegetationstechnischen Verfahren, das dabei zum Einsatz kam, ist die Pflanzenaddition. Dabei werden junge, in speziellen Behältern wurzelnde Pflanzen derart im Raum angeordnet und so miteinander verbunden, dass sie zu einer netzwerkartigen Pflanzenstruktur verwachsen. Die einzelnen Pflanzen werden anfangs kontinuierlich und lokal mit Wasser und Nährstoffen versorgt und in Form gehalten. Im Verlauf der weiteren Entwicklung entsteht durch sekundäres Dickenwachstum eine selbsttragende und belastbare Struktur. Vor allem aber wird erreicht, dass der Transport von Wasser, Nährstoffen und Assimilaten von der untersten Wurzel bis zum obersten Blatt erfolgen kann und die untersten, in den Erdboden gesetzten Pflanzen ein sehr leistungsfähiges Wurzelsystem entwickeln.
+
+· Ästhetischer und sensorischer Wert: Die jahreszeitlich wechselnden Blühaspekte sowie der Einsatz von Duftpflanzen wie Lavendel, Nelken, Thymian und Minze lassen den Aufenthalt zu einem sinnlichen Erlebnis werden.
+· Ökologischer Mehrwert: Neben dem ästhetischen Wert wurde außerdem auf die Pollen-/Nektarqualität (für Wildbienen und andere Insekten) der ausgewählten Pflanzen und ein ganzjähriges Blütenangebot geachtet.
+· Eignung für den Einsatz in vertikalen Begrünungssystemen: Um unter anderem die Eignung verschiedener Pflanzen in vertikalen Begrünungssystemen zu testen, wurde im Oktober 2012 ein Prototyp auf dem Firmengelände der Helix Pflanzen GmbH errichtet. Bei der Bepflanzungsplanung des Grünen Zimmers wurden bevorzugt Arten verwendet, welche sich bereits am Prototyp bewährt hatten.
+
+Teil II Kommunale Gründach-Strategien 41
+
+Ludwigsburg
+
+Stauden und Platanen bilden die Vegetation des Grünen Zimmers. © Helix Pflanzensysteme GmbH
+
+Grüne Wände im Baukastenprinzip: Im Baukastenprinzip lassen sich mit den bereits bepflanzten Körben schnell und einfach grüne Oasen schaffen, welche Lärm und Sichtschutzfunktionen übernehmen und/oder aktiv zur Verbesserung der Luftqualität (z.B. Feinstaubreduzierung) und zum Erhalt der lokalen Vielfalt von Flora und Fauna beitragen. Die Körbe sind aus Stahlgitter gefertigt, wurden mit Kokos und Geotextil ausgekleidet und anschließend mit Substrat befüllt und bepflanzt. Mit drei verschiedenen Korbgrößen ist die Bauform sehr variabel und passt sich den örtlichen Gegebenheiten perfekt an. Trotz der schwierigen planerischen Ausgangssituation (Parkhaus unter dem Rathausplatz) konnte mit diesem System eine umsetzbare Lösung gefunden werden, welche zur Verbesserung der Aufenthaltsqualität und Maximierung der Grünfläche auf dem Rathausplatz beiträgt.
+
+Regenwassernutzung: Um die nachhaltige Unterhaltung des Grünen Zimmers zu sichern, wurde bereits in der Planung die Nutzung von Regenwasser mit berücksichtigt. Insgesamt drei Zisternen mit einem Gesamtfassungsvolumen von 6 m³ stehen zur Speicherung von Regenwasser zur Verfügung, welches mittels einer Pumpe vom Grünflächenamt zum Grünen Zimmer und über Steigrohre in die einzelnen Korbebenen transportiert wird. Die Bewässerung erfolgt automatisch über integrierte Tropfschläuche, die sich auf jeder Ebene befinden. Über einen Steuerungscomputer kann der Wasser- und Düngemittelbedarf jahreszeitlich angepasst werden. In extremen Trockenperioden und bei Regenwasserknappheit besteht zusätzlich die Möglichkeit, Trinkwasser in das Bewässerungssystem einzuspeisen.
+
+42 Teil II Kommunale Gründach-Strategien
+
+Grüne Wände im Baukastenprinzip © Helix Pflanzensysteme GmbH
+
+Die Regenwasserspeicherung erfolgt in 3 Zisternen. © Helix Pflanzensysteme GmbH
+
+Das TURAS-Projekt: Die zentrale Fragestellung des Projektes TURAS ist, wie sich Städte und Regionen so entwickeln können, dass sie weniger Ressourcen und Flächen verbrauchen und gleichzeitig gegen die Folgen des Klimawandels gewappnet sind. Dabei ist der Blick sowohl auf technische und bauliche Anforderungen als auch auf menschliche Bedürfnisse gerichtet. TURAS steht für Transitioning towards Urban Resilience and Sustainability, also sinngemäß für die Entwicklung der Städte hin zu mehr Widerstands- und Regenerationsfähigkeit, und ist ein Projekt aus dem 7. europäischen Forschungsrahmenprogramm, dem größten länderübergreifenden Forschungsprogramm weltweit. Bis 2016 testen und entwickeln insgesamt 28 Institutionen aus 12 städtisch-geprägten Regionen unterschiedlichste Maßnahmen und führen sie zu einer gemeinsamen Anpassungsstrategie zusammen.
+
+Kontakte Hans Müller Helix Pflanzen GmbH
+Dr. Bernd Eisenberg Universität Stuttgart
+Dr.-Ing. Ferdinand Ludwig ludwig.schoenle
+Dipl.-Ing. Daniel Schönle ludwig.schoenle
+
+Teil II Kommunale Gründach-Strategien 43
+
+Anhang
+
+Fachliteratur und Internetressourcen
+
+Ansel, W., Baumgarten, H., Dickhaut, W., Kruse, E. und Meier, R. (2012): Leitfaden Dachbegrünung für Kommunen. Projektbericht Deutsche Bundesstiftung Umwelt (DBU) Aktenzeichen 28269. 2 Auflage, DDV Verlag, Nürtingen
+
+FLL ­ Forschungsgesellschaft Landschaftsentwicklung, Landschaftsbau e. V. (2014): Leitfaden ,,Gebäude Begrünung Energie: Potenziale und Wechselwirkungen" (Forschungsbericht TU Darmstadt in Kooperation mit der TU Braunschweig)
+
+Ansel, W. und Meier, R. (2016): DDV-Praxisratgeber: Das 1x1 der Freie und Hansestadt Hamburg (2015): Mehr Gründächer für Ham-
+
+Dachbegrünung. DDV-Verlag Nürtingen, 5. Auflage
+
+burg. Abrufbar unter: www.hamburg.de/gruendach/
+
+Ansel, W. und Reidel P. (2012): Moderne Dachgärten Kreativ und Individuell ­ Das Praxisbuch zur Dachbegrünung. Deutsche VerlagsAnstalt, München
+Appl, R., Ansel, W. und Meier. R. (2009): Dachbegrünung in der modernen Städtearchitektur ­ Tagungsband Internationaler Gründach Kongress 2009. IGRA Verlag, Berlin
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit ­BMUB (2015): Grün in der Stadt - Für eine lebenswerte Zukunft; Grünbuch Stadtgrün. Abrufbar unter: www.bmub.bund. de/fileadmin/Daten_BMU/Pools/Broschueren/gruenbuch_stadtgruen_broschuere_bf.pdf
+Bundesverband Garten-, Landschafts- und Sportplatzbau e. V. (BGL) und Stiftung DIE GRÜNE STADT (2014): Charta Zukunft Stadt und Grün. Abrufbar unter: www.die-gruene-stadt.de/charta-zukunftstadt-und-gruen.aspx
+DDV ­ Deutscher Dachgärtner Verband e. V. (2007): Leitfaden Dachbegrünung ­ Sicherer Gewerkeübergang. 2 Auflage, DDV Verlag Nürtingen
+Dürr, A. (1994): Dachbegrünung. Ein ökologischer Ausgleich. Bauverlag, Gütersloh
+DWD Deutscher Wetterdienst (2015): Urbane Räume nachhaltig gestalten - Entscheidungshilfe für eine klimagerechte Stadtentwicklung. Abrufbar unter: www.dwd.de/SharedDocs/broschueren/DE/klima/urbane_raeume_nachhaltig_gestalten. pdf?__blob=publicationFile&v=1
+FLL ­ Forschungsgesellschaft Landschaftsentwicklung, Landschaftsbau e. V. (2008): Richtlinie für die Planung, Ausführung und Pflege von Dachbegrünungen. Bonn
+
+Köhler, M. (2012): Handbuch Bauwerksbegrünung Planung, Konstruktion, Ausführung. Rudolf Müller Verlag, Köln
+Kolb, W. und Schwarz, T. (1999): Dachbegrünung intensiv und extensiv. Ulmer Verlag, Stuttgart
+Landeshauptstadt Hannover (2015): Mehr Natur in der Stadt ­ Dach- und Fassadengrün in Hannover. Abrufbar unter: www.hannover.de/Leben-in-der-Region-Hannover/Umwelt/Naturschutz/ Mehr-Natur-in-der-Stadt/Aktuelle-Projekte/Begr%C3%BCntesHannover
+Landeshauptstadt Stuttgart (2014): Förderprogramm für Hof-, Dach- und Fassadenbegrünung. Abrufbar unter: www.stuttgart.de/ gruenprogramm
+Ministerium für Bauen und Wohnen des Landes NRW (1998): Extensive Dachbegrünungen. Schriftenreihe des Landesinstitutes für Bauwesen des Landes NRW
+Naturkapital Deutschland ­ TEEB DE (2015): Naturkapital und Klimapolitik ­ Synergien und Konflikte. Hrsg. von Volkmar Hartje, Henry Wüstemann und Aletta Bonn, Technische Universität Berlin, Helmholtz-Zentrum für Umweltforschung ­ UFZ, Leipzig
+Senatsverwaltung für Stadtentwicklung und Umwelt Berlin (2015): Berlin baut Zukunft, eine Ausstellung zu ökologischen Gebäudekonzepten. Abrufbar unter: www.stadtentwicklung.berlin.de/bauen/oekologisches_bauen/de/ausstellung/index.shtml
+Sieker F. et al. (2002): Naturnahe Regenwasserbewirtschaftung in Siedlungsgebieten. 2., neu bearb. Auflage ­ Renningen-Malmsheim
+
+44 Anhang
+
+Stadt Heidelberg (2011): Heidelberger Dachgarten ­ Handlungsleitfaden zur extensiven Dachbegrünung. Abrufbar unter: http:// heidelberg-bahnstadt.de/sites/heidelberg-bahnstadt.de/files/ documents/handlungsleitfaden-zur-extensiven-dachbegruenung_2011_09_15.pdf
+TURAS (2012): Transitioning Towards Urban Resilience And Sustainability. Abrufbar unter: www.turas-cities.org/
+ZinCo GmbH (2015): Planungshilfen für extensive und intensive Dachbegrünungen, begrünte Schrägdächer, durchdringungsfreie Absturzsicherung, Retentionsgründächer und Kombinationslösungen von Dachbegrünungen und Photovoltaik. Abrufbar unter: www. zinco.de
+
+GrüNDAch AKTUELL
+Der Deutsche Dachgärtner Verband informiert
+
+Ausgabe 1 I 2016
+
+Spotlight
+Dachbegrünung aus der Vogelperspektive
+Aus der Praxis
+Interview mit Dachgärtner Jürgen Quindeau
+Projekte
+Facebook entdeckt Dachbegrünung
+Forschung
+Gründächer steigern Konzentration
+DDV-Nachrichten
+Veranstaltungen, Netzwerke, Lesetipps
+Gründach-Initiativen
+Leipzig plant Gründach-Strategie
+Gründach Aktuell - das neue Verbandsmagazin des DDV. Kostenfreier Download unter: www.dachgaertnerverband.de
+Anzeige
+
+KÜHLE RUHERÄUME IN DER STADT
+GRÜNE WÄNDE IM BAUKASTENPRINZIP HELIX® ELEMENTA
+www.helix-pflanzensysteme.de
+Anhang 45
+
+Anhang
+Kontaktadressen
+
+Deutscher Dachgärtner Verband e. V. (DDV) Geschäftsstelle Postfach 2025 72610 Nürtingen Tel.: 07022 301378 E-Mail: contact@dachgaertnerverband.de Homepage: www.dachgaertnerverband.de
+Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR) Deutsches Fernerkundungsdatenzentrum - Landoberfläche Oberpfaffenhofen 82234 Weßling Tel.: 08153 28-1229 / 08153 28-3721 E-Mail: julian.zeidler@dlr.de / thomas.esch@dlr.de Homepage: www.dlr.de/eoc
+HafenCity Universität Hamburg (HCU) Umweltgerechte Stadt- und Infrastrukturplanung Überseeallee 16 20457 Hamburg Tel.: 040 42827-5095 E-Mail: wolfgang.dickhaut@hcu-hamburg.de Homepage: www.reap.hcu-hamburg.de
+Deutsche Gartenamtsleiterkonferenz e. V. (GALK) Geschäftsstelle der GALK Adam-Riese-Straße 25 60327 Frankfurt am Main Tel.: 069 21238968 E-Mail: geschaeftsstelle@galk.de Homepage: www.galk.de
+Forschungsgesellschaft Landschaftsentwicklung, Landschaftsbau e. V. (FLL) Friedensplatz 4 53111 Bonn Tel.: 0228 965010-0 E-Mail: info@fll.de Homepage: www.fll.de
+
+Bundesverband Garten-, Landschafts- und Sportplatzbau e. V. (BGL) Alexander-von-Humboldtstr. 4 53604 Bad Honnef Tel.: 02224 7707-0 Homepage: www.galabau.de (Links auf die Internetseiten der Landesverbände)
+Zentralverband des Deutschen Dachdeckerhandwerks e.V. (ZVDH) Fachverband Dach-, Wand- und Abdichtungstechnik Fritz-Reuter-Str. 1 50968 Köln Tel.: 0221 398038-0 E-Mail: zvdh@dachdecker.de Homepage: www.dachdecker.de (Links auf die Internetseiten der Landesverbände)
+Fachvereinigung Betriebs- und Regenwassernutzung e. V. (fbr) Havelstr. 7a 64295 Darmstadt Tel.: 06151 339257 E-Mail: info@fbr.de Homepage: www.fbr.de
+Fachfirmen für die Ausführung von Dachbegrünungen sowie Bezugsquellen für Gründachmaterialien im Internet:
+www.dachgaertnerverband.de Rubrik ,,Fachbetriebe und Mitglieder"
+
+46 Anhang
+
+30 Jahre aktiv ,,pro gründach"!
+Deutscher Dachgärtner VerbanD
+Folgende Publikationen sind bei der DDV-geschäftsstelle erhältlich:
+
+,,Das 1x1 der Dachbegrünung"
+
+Leitfaden Dachbegrünung für Kommunen
+
+Leitfaden Sicherer Gewerkeübergang
+
+Fachbuch Moderne Dachgärten
+
+unsere aktivitäten im Überblick
+Fachberatung: Für Behörden, Bauherren und Architekten liefern wir Informationsmaterial und Beratung zu allen wichtigen Fragen rund um das Thema Dachbegrünung. Auf unserer Internetseite finden Sie außerdem erfahrene Dachbegrünungsbetriebe aus dem gesamten Bundesgebiet.
+netzwerk Kommune: Der DDV fördert den Informationsaustausch zwischen kommunalen Fachbehörden. Durch ,,Best-Pratice"-Beispiele wird die Entwicklung einer kommunalen Gründach-Strategie erleichtert.
+seminare und Fachvorträge: Mit der Informationsreihe ,,Gründach-Forum" informieren wir Architekten, Baubeteiligte und Fachbehörden. Das DDV-Referenten-Team ist außerdem mit Fachvorträgen bei Umweltmessen, Bürgerinfo-Abenden und kommunalen Indoor-Seminaren präsent.
+richtlinienarbeit: Wir beteiligen uns an der Erstellung neuer Richtlinien und Regelwerke, z. B. an den neuen FLL-Dachbegrünungsrichtlinien.
+Hinweise zu unseren aktuellen Aktivitäten finden Sie auch im Internet unter:
+www.dachgaertnerverband.de
+
+47
+
+Wie viele Gründächer existieren bereits in Deutschlands Städten? Und welche Dächer bieten Potenzialflächen für den Ausbau der grünen Infrastruktur. Gemeinsam mit dem Deutschen Zentrum für Luftund Raumfahrt (DLR) und verschiedenen Partnerstädten hat der Deutsche Dachgärtner Verband (DDV) ein fernerkundliches Verfahren entwickelt, um diese Fragen schnell und effizient beantworten zu können. In der vorliegenden Publikation ,,Kommunale GründachStrategien ­ Inventarisierung, Potenzialanalyse, Praxisbeispiele" wird die neue Methode erstmals präsentiert.
+
+Die ,,Sichtbarmachung" der bereits vorhandenen Dachbegrünungen und der noch erschließbaren Potenzialflächen ermöglicht eine sehr breite Palette unterschiedlicher Anwendungsmöglichkeiten, die von der Nutzung in Stadtklimamodellen über die Entwässerungsplanung bis hin zu Aspekten der Biodiversität und der Umsetzung lokaler Gründach-Strategien reicht. Die in der Broschüre präsentierten Praxisbeispiele kommunaler Gründach-Initiativen aus Berlin, Hamburg, Hannover, Stuttgart und Ludwigsburg zeigen dabei, wie vielfältig die Einsatz- und Fördermöglichkeiten begrünter Dächer sein können.
+
+Deutscher Dachgärtner Verband e. V. · Geschäftsstelle Postfach 2025 · 72610 Nürtingen · Telefon 07022 301378 · Telefax 07022 301379 Internet: www.dachgaertnerverband.de · E-Mail: contact@dachgaertnerverband.de
+
+ISBN: 978-3-9814184-2-2
+
+

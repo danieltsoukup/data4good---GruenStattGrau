@@ -1,0 +1,1203 @@
+D D V - Z eit w e r te D a c h b eg r ü n u ng
+M u s te r k a l k u l a ti o n
+Extens ivbeg rü n u ng
+Deutscher Dachgärtner Verband e.V.
+
+IMPRESSUM
+Herausgeber: Deutscher Dachgärtner Verband e.V. (DDV) Postfach 2025 72610 Nürtingen Telefon: 07022 / 301378 Telefax: 07022 / 301379 Internet: www.dachgaertnerverband.de E-Mail: contact@dachgaertnerverband.de Copyright und Auflage: Alle Rechte vorbehalten. Reproduktion und Nachdruck der Broschüre nur mit ausdrücklicher Genehmigung des Herausgebers. © 2012, Deutscher Dachgärtner Verband e.V. (DDV) Bildmaterial: Deutscher Dachgärtner Verband e.V. (DDV), Nürtingen Firma ZinCo GmbH, Unterensingen Redaktion: Wolfgang Ansel, Deutscher Dachgärtner Verband e.V. (DDV), Nürtingen Jürgen Quindeau, Grün + Dach, Garten- und Landschaftsbau, Dachabdichtung und Begrünung, Heiligenhaus
+2 Impressum
+
+FACHLITERATUR
+
+,,Zeitwerte für Dach-, Wand- und Abdichtungstechnik - Empfehlungen nach Gebäudetypen" Herausgegeben vom Zentralverband des Deutschen Dachdeckerhandwerks - Fachverband Dach-, Wandund Abdichtungstechnik - e.V.
+Der Planungsordner ,,Zeitwerte für Dach-, Wand- und Abdichtungstechnik - Empfehlungen nach Gebäudetypen" enthält neben den Zeitwerten für die Ausführung von Extensivbegrünungen auch Musterkalkulationen für die folgenden Arbeitsgänge: Flachdach & Abdichtungen, Dachziegel & Dachsteine, Schiefer, Außenwandbekleidungen, Blitzschutz, Dachgeschossausbau, Metallarbeiten & Entwässerung, Gerüstbauarbeiten & Sicherheitsmaßnahmen, Solarthermie und Photovoltaik. Der Ordner ist bei der Verlagsgesellschaft Rudolf Müller zu beziehen.
+Hinweise zur Technik und praktischen Ausführung begrünter Dächer finden sich unter anderem in den ,,Regeln für Dächer mit Abdichtungen" des Zentralverbandes des Deutschen Dachdeckerhandwerks e.V. (ZVDH), der ,,Dachbegrünungsrichtlinie" der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e.V. (FLL), den Planungshilfen und Verlegehinweisen der Systemhersteller sowie den Unterlagen des Deutschen Dachgärtner Verbandes e.V. (DDV).
+DDV-Praxisratgeber ,,Das 1x1 der Dachbegrünung"
+Auf 52 Seiten sind alle wichtigen Informationen rund ums grüne Dach auf kompakte und qualifizierte Weise zusammengestellt. Dazu gehören die ökologischen und ökonomischen Vorteile des Multi-Talents Dachbegrünung ebenso wie die technischen Grundlagen (Material, Planungshilfen etc.). Aber auch die Aspekte ,,kommunale Fördergelder" und ,,Praxistipps für die Ausführung" kommen in der Broschüre nicht zu kurz. Der DDV möchte mit dem neuen Praxisratgeber Dachbegrünung vor allem private Bauherren dazu anregen, grüne Oasen auf ihren ungenutzten Dächern zu schaffen. Planern, Architekten, Ausführungsbetrieben und Umweltverbänden kann die Broschüre ebenfalls als erster Einstieg in die Dachbegrünungsthematik dienen. Die Schutzgebühr für den DDV-Praxisratgeber beträgt 5,00 Euro (zzgl. Porto).
+
+DDV-Leitfaden ,,Sicherer Gewerkeübergang"
+Der DDV-Leitfaden ,,Sicherer Gewerkeübergang" füllt eine wichtige Lücke in der täglichen Dachbegrünungspraxis und wendet sich neben den ausführenden Fachbetrieben auch an Architekten und Planer, die im Rahmen der Bauleitung die verschiedenen Gewerkeleistungen aufeinander abstimmen und kontrollieren müssen. Der Inhalt setzt sich im Wesentlichen aus zwei Modulen zusammen: · In der Checkliste sind die aktuellen Prüfkriterien der Schnittstelle Dach-/ Vegetationstechnik auf kompakte und übersichtliche Weise zusammengestellt. · Der begleitende Kommentarband enthält Erläuterungen und Bildmaterial zu allen wichtigen Fachbegriffen und Fragestellungen der Checkliste. Zusammen mit den integrierten Kurzverweisen auf die wichtigsten Richtlinien, Fachregeln und Normen bietet der Leitfaden eine echte Arbeitsersparnis für alle an der Planung und Ausführung begrünter Dächer beteiligten Partner. Die Schutzgebühr für den DDV-Leitfaden beträgt 15,00 Euro (zzgl. Porto).
+
+Die DDV-Broschüren können telefonisch (07022/301378) oder über die Internetseiten des Deutschen Dachgärtner Verbandes e.V. (www.dachgaertnerverband.de) bestellt werden.
+
+Fachliteratur 15
+
+DDV-Zeitwertetabellen
+14 ©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Musterkalkulation Kombination mit Photovoltaik
+
+Bauherr / Auftraggeber:
+
+Objekt:
+
+Extensivbegrünung ­ Kombination mit Photovoltaik
+
+Nr.
+
+Position
+
+Arbeitsschritt
+
+1
+
+Unterkonstruktion / Solaranlage
+
+1.1
+
+Befestigungselemente
+
+1.2
+
+Rahmen
+
+1.3
+
+Solarpanels
+
+Solar-Grundplatten auf Schutz- / Speichermatte oder Dränschicht verlegen
+Befestigungsrahmen für Solarpanels auf der Grundplatte befestigen
+Solarpanels von Fachfirma aufsetzen, befestigen und anschließen lassen
+
+Einheit
+
+Zeitwerte Musterkalkulation (in Minuten)
+Dachgröße in m²
+< 50 50-100 100-500 500-5000 > 5000
+
+Objektkalkulation
+
+Stück
+
+6,00
+
+6,00
+
+6,00
+
+4,00
+
+Stück
+
+12,00
+
+12,00
+
+12,00
+
+10,00
+
+Stück
+
+auf Anfrage
+
+4,00 10,00
+
+Gesamtzeit
+
+Deutscher Dachgärtner Verband e.V.
+D D V - Z eitwerte D achbegr ü nung
+Musterkalkulation Extensivbegrünung
+- Anwendungshinweise zum Gebrauch der Zeitwertetabellen Seite 5-7 - Zeitwerte Extensivbegrünung Neuanlage Flachdach < 5° Seite 8-10 - Zeitwerte Extensivbegrünung Neuanlage Schrägdach 5° - 20° Seite 11-13 - Zeitwerte Extensivbegrünung und Photovoltaik Seite 14
+Benutzerhinweise: Die vorliegenden ,,Zeitwerte Dachbegrünung" des Deutschen Dachgärtner Verbandes e.V. bieten eine Orientierungshilfe für die Angebotserstellung bei Extensivbegrünungen. Die Tabellen wurden mit größter Sorgfalt erstellt und basieren auf den langjährigen Erfahrungswerten der DDV-Mitgliedsbetriebe. Die Musterkalkulationen stellen eine unverbindliche Empfehlung dar und stehen jedermann zur Anwendung frei. Für die inhaltliche Fehlerfreiheit, Aktualität und Vollständigkeit kann keine Haftung übernommen werden. Anregungen zur weiteren Verbesserung und laufenden Aktualisierung der Zeitwertetabellen werden vom Herausgeber gerne entgegengenommen.
+3
+
+VORWORT
+
+Zeitwertetabellen für Standard-Arbeitsschritte erleichtern die schnelle und zuverlässige Ermittlung der Lohnkosten bei der Angebotserstellung. Externe Richtwerte für das Gewerk Dachbegrünung suchte man bisher aber vergeblich. Der Deutsche Dachgärtner Verband e.V. (DDV) hat deshalb in Kooperation mit dem Zentralverband des Deutschen Dachdeckerhandwerks e.V. (ZVDH) dieses wichtige Thema aufgegriffen und die aktuelle Ausgabe der ,,Zeitwerte für Dach-, Wand- und Abdichtungstechnik" um das Thema Dachbegrünung ergänzt.
+Die neuen Zeitwertetabellen basieren auf den gemittelten Erfahrungswerten der DDV-Mitgliedsbetriebe. Der Schwerpunkt wurde dabei auf die Ausführung von Extensivbegrünungen bis zu einer maximalen Dachneigung von 20° gelegt, wobei auch die innovative Kombination von Gründächern und Photovoltaikanlagen berücksichtigt wurde. Ergänzend zu den reinen Zeitangaben in den Tabellen wird die Abfolge der einzelnen Arbeitsschritte auch kurz erläutert.
+
+Die Zeitwerte für Extensivbegrünungen des Deutschen Dachgärtner Verbandes e.V. stellen eine unverbindliche Empfehlung und Orientierungshilfe dar. Betriebsindividuelle Gegebenheiten und bauliche Besonderheiten müssen natürlich bei jeder Projektkalkulation individuell erfasst werden.
+Allen DDV-Mitgliedsbetrieben, die mit ihrer langjährigen Erfahrung und Fachkenntnis an der Erstellung der Mustertabellen mitgewirkt haben, sowie dem Redaktionsteam um Wolfgang Ansel (DDV) und Jürgen Quindeau (Fa. Grün + Dach) sei an dieser Stelle nochmals herzlich gedankt.
+Reimer Meier Präsident, Deutscher Dachgärtner Verband e.V.
+
+Intensivbegrünungen und Dachgärten wurden nicht in den Zeitwertekatalog aufgenommen, da sich für die vielfältigen Bepflanzungs- und Gestaltungsvarianten kaum pauschalierte Werte angeben lassen. Gleiches gilt für die Begrünung von Dächern mit Neigungen über 20°, die neben der Notwendigkeit objektspezifischer Unterkonstruktionen zur Aufnahme der Schubkräfte auch einen deutlich erhöhten Arbeitsaufwand mit sich bringen.
+
+4 Vorwort
+
+Extensivbegrünung ­ Neuanlage Schrägdach 5° bis 20°
+
+Nr.
+
+Position
+
+6
+
+Bepflanzung
+
+6.1
+
+Stauden
+
+6.2
+
+Stauden
+
+6.3
+
+Sprossteile (Sedum)
+
+6.4
+
+Saatgut (Kräuter/Gräser)
+
+6.5
+
+Vegetationsmatten
+
+6.6
+
+Anspritzbegrünung
+
+6.7
+
+Wässern
+
+Arbeitsschritt
+Flachballenpflanzen ca. 20 Stück/m² Kleinballenpflanzen ca. 25 Stück/m² ca. 100 g/m² ausstreuen, einharken und walzen ca. 6.000­10.000 Korn/m² vermischt mit Zuschlagsstoffen und Kleber ausstreuen, einharken und walzen ausrollen, verlegen und andrücken Sprossen und/oder Saatgut mit Zuschlagstoffen und Wasser maschinell aufspritzen Anwässern der Pflanzebene, bauseitige Wasserversorgung 10 l/min
+
+7
+
+Pflege und Wartung
+
+7.1
+
+Fertigstellungspflege
+
+Pflegemaßnahmen bis zum abnahmefähigen Zustand
+
+7.2
+
+Wartung und Unterhaltung Ein bis zwei Wartungsgänge pro Jahr, pro Kontrollgang
+
+Einheit
+
+Zeitwerte Musterkalkulation (in Minuten)
+
+Dachgröße in m²
+
+< 50
+
+50-100
+
+100-500
+
+500-5000
+
+Objektkalkulation
+
+m²
+
+12,00
+
+10,00
+
+10,00
+
+m²
+
+15,00
+
+12,50
+
+12,50
+
+m²
+
+2,50
+
+1,75
+
+1,25
+
+m²
+
+2,50
+
+1,75
+
+1,25
+
+m²
+
+12,00
+
+12,00
+
+9,50
+
+m²
+
+auf Anfrage
+
+10,00 12,50 1,25 1,25 9,50
+
+m²
+
+3,00
+
+2,25
+
+2,25
+
+2,25
+
+Zwischensumme 6
+
+m²
+
+10,00
+
+5,00
+
+m²
+
+5,00
+
+2,50
+
+2,50
+
+2,50
+
+1,25
+
+1,25
+
+Zwischensumme 7
+
+©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Gesamtzeit
+
+13
+
+DDV-Zeitwertetabellen
+12 ©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Extensivbegrünung ­ Neuanlage Schrägdach 5° bis 20°
+
+Nr.
+
+Position
+
+3
+
+Sonstiges
+
+3.1
+
+Kontrollschächte
+
+3.2
+
+Kiesstreifen
+
+Arbeitsschritt
+über den Dachabläufen anbringen an Dachrändern und um Dachdurchdringungen / Abläufe ca. 50 cm breit einbauen
+
+4
+
+Substrate
+
+4.1
+
+Substrat/Sackware
+
+4.2
+
+Substrat/Big Bag
+
+4.3
+
+Substrat/Kipper
+
+4.4
+
+Substrat /Silo
+
+Aufbringung und Verteilung Aufbringung und Verteilung Aufbringung und Verteilung Aufbringung und Verteilung
+
+5
+
+Erosionsschutz
+
+5.1
+
+Erosionsschutzgewebe
+
+Erosionsschutzgewebe (z.B. aus Jute) verlegen
+
+Einheit
+
+Zeitwerte Musterkalkulation (in Minuten)
+Dachgröße in m²
+
+< 50
+
+50-100
+
+100-500
+
+500-5000
+
+Objektkalkulation
+
+Stck
+
+6,00
+
+6,00
+
+cm/m
+
+1,75
+
+1,25
+
+6,00
+
+6,00
+
+1,00
+
+0,75
+
+Zwischensumme 3
+
+cm/m²
+
+2,50
+
+1,75
+
+cm/m²
+
+1,75
+
+1,50
+
+cm/m²
+
+1,75
+
+1,25
+
+cm/m²
+
+X
+
+1,25
+
+X
+
+X
+
+1,50
+
+1,50
+
+1,25
+
+1,25
+
+1,00
+
+0,75
+
+Zwischensumme 4
+
+m²
+
+2,50
+
+1,50
+
+1,50
+
+1,50
+
+Zwischensumme 5
+
+AnwendungsHINWEISE
+
+Ergänzende Kommentare zur Musterkalkulation
+
+Zeitwerte Extensivbegrünung ­ Neuanlage Flachdach < 5°
+
+Begrünte Dächer bieten für den Bauherrn zahlreiche Vorteile. Neben dem Schutz der Dachabdichtung schlagen sich auch Regenwasserrückhalt, Wärmedämmung und das verbesserte Raumklima positiv in der Bilanz nieder. Zusätzlich profitiert die Umwelt vom neu geschaffenen Lebensraum für Pflanzen und Tiere. Extensivbegrünungen bieten deshalb eine kostengünstige und ökologische Alternative zu herkömmlichen nackten oder bekiesten Flachdächern.
+Bereits bei der Planung begrünter Dächer ist darauf zu achten, dass Dachunterkonstruktion und Dachabdichtung qualitativ und funktional auf den geplanten GründachSystemaufbau abgestimmt werden. Lastreserven, Dachentwässerung, Windsogsicherung, An- und Abschlusshöhen sowie die Auswahl einer hochwertigen Dachabdichtung gehören dabei zu den entscheidenden Punkten. Als Nachweis für die Durchwurzelungsfestigkeit der Abdichtung gelten die Prüfzertifikate der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e.V. (FLL). Eine kompakte Übersicht über die relevanten Prüfkriterien an der Schnittstelle Dach-/Vegetationstechnik bietet der Leitfaden ,,Sicherer Gewerkeübergang" des Deutschen Dachgärtner Verbandes e.V.
+Die Musterkalkulationen ,,Neuanlage Flachdach < 5°", ,,Neuanlage Schrägdach 5° bis 20°" und ,,Kombination mit Photovoltaik" enthalten die Zeitwerte für die Verlegung eines Mehrschichten-Systemaufbaus bei Extensivbegrünungen. Dabei wurden nur die Arbeiten auf der Dachoberfläche bei normalen baulichen Gegebenheiten berücksichtigt. Dies gilt auch für die Pflege- und Wartungsmaßnahmen in den Folgejahren. Der zeitliche Aufwand für Arbeits- und Baustellenvorbereitung inklusive Sicherungsmaßnahmen, Materialtransport auf das Dach und An-/Abfahrt kann je nach Gebäudelage/-höhe stark variieren und muss deshalb objektspezifisch kalkuliert werden.
+
+Extensivbegrünungen sind durch niedrige Aufbauhöhen, eine geringe Gewichtsbelastung und pflegearme, naturnahe Pflanzengemeinschaften gekennzeichnet. Sie eignen sich deshalb besonders für Dächer mit geringen Lastreserven, auf denen keine Nutzung vorgesehen ist.
+Erläuterungen zu den Arbeitsschritten:
+1. Wurzelschutz / Trennlagen zu 1.1) Trenn- und Gleitfolie: Der Einbau von Trenn- und Gleitfolien ist erforderlich, wenn chemisch unverträgliche Materialien im Schichtenaufbau vorliegen (z. B. einfache Weich-PVC Bahnen auf Bitumen) oder ein unerwünschtes Klebeverhalten verhindert werden soll.
+zu 1.2­1.6) Wurzelschutz: Eine zusätzliche Wurzelschutzschicht muss aufgebracht werden, wenn die Dachabdichtung nicht bereits wurzelfest ist. Hierzu kommen lose verlegbare Wurzelschutzfolien oder zu verschweißende Wurzelschutzbahnen in Frage.
+2. Schutz- und Speichermatten zu 2.1-2.2) Schutz- und Speichermatten: Perforationsfeste Schutzmatten verhindern die mechanische Beschädigung von Durchwurzelungsschutz/Dachabdichtung während und nach den Begrünungsarbeiten. Bei entsprechender Materialwahl kann die Schutzlage zusätzlich auch Wasser und Nährstoffe speichern.
+zu 2.3-2.4) Dachdurchdringungen: Je nach Größe und Menge kann die Berechnung der Zeitwerte für das Hochführen und Verwahren der verwendeten Folien und Schutzlagen alternativ zu den laufenden Metern der Anschlussbereiche auch über die Anzahl der Durchdringungen erfolgen.
+
+Anwendungshinweise 5
+
+AnwendungsHINWEISE
+
+3. Entwässerung/Dränage- und Filterschicht zu 3.1-3.2) Dachabläufe: Lose verlegte Folien und Matten werden über den Dachabläufen ausgeschnitten. Bei Wurzelschutzbahnen muss die Bahn am Aufschweißkragen fixiert werden.
+zu 3.3) Dränage-Elemente: Hauptaufgabe der Dränageschicht ist die zuverlässige Ableitung des Überschusswassers in die Dachabläufe. Je nach Ausbildung und Materialbeschaffenheit kann sie zusätzlich Wasser speichern, den Wurzelraum vergrößern, für eine ausreichende Belüftung sorgen und den darunter liegenden Aufbau schützen.
+
+der Streifen orientiert sich am Gründachaufbau, der gesamten Dachfläche und gegebenenfalls auch an den Brandschutzbestimmungen.
+5. Substrate Als Qualitätskriterium für die eingesetzten Vegetationssubstrate dient das Prüfverfahren der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e.V. (FLL). Logistik und Aufbringungsart/Gebindeform (Sackware, Big Bag, Kipper, Silo) sind individuell auf die jeweilige Baustelle abzustimmen. Je nach Lastreserven und Auswahl der Bepflanzung liegen die Aufbaudicken in der Regel zwischen 6-20 cm.
+
+zu 3.4) Filtervlies: Die Filterschicht trennt die Vegetationstragschicht von der darunter liegenden Dränageschicht. Wertvolle Bodenteile werden dadurch zurückgehalten. Gleichzeitig verhindert der Filter ein Verschlämmen der Dränschicht und der Abflussleitungen.
+4. Sonstiges zu 4.1) Kontrollschächte: Dachabläufe sind von einer Überschüttung durch Substrat oder Kies freizuhalten. Zum Schutz vor Verunreinigungen, einwachsenden Pflanzen und zur Vereinfachung der Pflege- und Wartungsgänge sind über den Abläufen jederzeit zugängliche Kontrollschächte einzubauen.
+zu 4.2) Absturzsicherungen: Auch extensiv begrünte Dachflächen, auf denen keine Nutzung vorgesehen ist, müssen für die jährlichen Pflege- und Wartungsarbeiten über Absturzsicherungen verfügen. Zur Schonung der Abdichtung empfiehlt sich der Einbau von durchdringungsfreien Sicherungssystemen, bei denen der Systemaufbau der Begrünung als Auflast dient.
+zu 4.3) Schrittplatten: Zur festen Anlage von Pflege- und Wartungswegen können Schrittplatten verlegt werden.
+zu 4.4) Kiesstreifen: Vegetationsfreie Sicherheitsstreifen (z. B. aus Kies oder Plattenbelägen) sorgen an Dachrändern, aufgehenden Gebäudeteilen, Dachkuppeln, Dachabläufen und sonstigen Dachdurchdringungen für den nötigen Abstand zwischen den An- und Abschlussbereichen und der Vegetationsfläche. Die Schichthöhe und Breite
+
+6. Bepflanzung Die Ausbringung der Pflanzen durch den Dachbegrüner kann als Saatgut, Sprossenmaterial (-> SedumArten), Flach- oder Kleinballenpflanzen oder durch vorkultivierte Vegetationsmatten erfolgen. So genannte ,,Anspritzbegrünungen" sollten nur durch einen autorisierten Fachbetrieb durchgeführt werden. Regelmengen für die einzelnen Begrünungsverfahren sind in der ,,FLLDachbegrünungsrichtlinie" fixiert. Nach Abschluss der Pflanzarbeiten muss die Vegetationsfläche angewässert werden. Die angegeben Werte gelten bei bauseitiger Wasserversorgung mit einem Mindestdurchlauf von 10 l/min.
+7. Pflege und Wartung zu 7.1) Fertigstellungspflege: Zur Fertigstellungspflege gehören alle Maßnahmen, die für das erfolgreiche Anwachsen der Bepflanzung in den ersten 12-15 Monaten nach der Ausbringung notwendig sind. Dazu gehören z. B. die Bewässerung in niederschlagsarmen Monaten und die Nachpflanzung von Fehlstellen. Pflegeziel, Einzelleistungen und die gewünschte Vegetationsform müssen in den Vertragsbedingungen genau spezifiziert werden.
+zu 7.2) Wartung und Unterhaltung: Bei Extensivbegrünungen sind in der Regel 1-2 Kontrollgänge pro Jahr ausreichend, die zusammen mit der normalen Dachwartung durchgeführt werden können. Dabei wird unerwünschter Fremdaufwuchs entfernt und die An- und Abschlüsse des Daches inklusive der Entwässerungseinrichtungen kontrolliert.
+
+6
+
+Anwendungshinweise
+
+Musterkalkulation NEUANLAGE Schrägdach 5° bis 20°
+
+Bauherr / Auftraggeber:
+
+Objekt:
+
+Extensivbegrünung ­ Neuanlage Schrägdach 5° bis 20°
+
+Nr.
+
+Position
+
+Arbeitsschritt
+
+1
+
+Schutz- und Speichermatten
+
+1.1
+
+Schutz- und Speichermatten lose verlegen
+
+am Dachrand/an aufgehenden Bauteilen hochführen und
+
+1.2
+
+Schutz- und Speichermatten
+
+ggf. fixieren
+
+1.3
+
+Dachdurchdringungen
+
+lose verlegte Matten an Dachdurchdringungen hochführen und ggf. verwahren
+
+2
+
+Entwässerung/Dränage- und Filterschicht
+
+2.1
+
+Dachabläufe
+
+lose verlegte Matten über den Abläufen ausschneiden
+
+2.2
+
+Dränelemente/Dränplatten vollflächig verlegen
+
+2.3
+
+Filtervliesstreifen
+
+an der Traufe und über den Schnittstellen verlegen
+
+Einheit
+
+Zeitwerte Musterkalkulation (in Minuten)
+
+Dachgröße in m²
+
+< 50
+
+50-100
+
+100-500
+
+500-5000
+
+m²
+
+4,00
+
+3,00
+
+m
+
+4,00
+
+3,00
+
+m
+
+4,75
+
+3,50
+
+2,50
+
+2,00
+
+2,50
+
+2,00
+
+3,50
+
+3,50
+
+Zwischensumme 1
+
+Stck
+
+3,50
+
+2,50
+
+m²
+
+4,00
+
+3,00
+
+m²
+
+3,00
+
+2,00
+
+2,50
+
+2,50
+
+2,50
+
+2,00
+
+1,00
+
+1,00
+
+Zwischensumme 2
+
+Objektkalkulation
+
+©2012, Deutscher Dachgärtner Verband e.V. (DDV) 11
+
+DDV-Zeitwertetabellen
+
+10
+
+©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Nr.
+
+Position
+
+Extensivbegrünung ­ Neuanlage Flachdach < 5°
+Arbeitsschritt
+
+Zeitwerte Musterkalkulation (in Minuten)
+
+Einheit < 50
+
+Dachgröße in m² 50-100 100-500 500-5000
+
+> 5000
+
+Objektkalkulation
+
+6
+
+Bepflanzung
+
+6.1
+
+Stauden
+
+Flachballenpflanzen ca. 12 Stück/m²
+
+m²
+
+6,00
+
+5,00
+
+5,00
+
+5,00
+
+5,00
+
+6.2
+
+Stauden
+
+Kleinballenpflanzen ca. 16 Stück/m²
+
+m²
+
+8,00
+
+6,00
+
+6,00
+
+6,00
+
+6,00
+
+6.3
+
+Sprossteile (Sedum)
+
+ca. 60 g/m² ausstreuen, einharken und walzen
+
+m²
+
+2,00
+
+1,50
+
+1,50
+
+1,00
+
+1,00
+
+ca. 3.000­5.000 Korn/m², vermischt mit Zuschlagsstoffen
+
+6.4
+
+Saatgut (Kräuter/Gräser)
+
+m²
+
+2,00
+
+1,50
+
+1,50
+
+1,00
+
+1,00
+
+und Kleber ausstreuen, einharken und walzen
+
+6.5
+
+Vegetationsmatten
+
+ausrollen, verlegen und andrücken
+
+m²
+
+6,00
+
+5,00
+
+5,00
+
+5,00
+
+5,00
+
+6.6
+
+Anspritzbegrünung
+
+6.7
+
+Wässern
+
+Sprossen und/oder Saatgut mit Zuschlagstoffen und Wasser m²
+maschinell aufspritzen Anwässern der Pflanzebene, bauseitige Wasserversorgung
+m² 10 l/min
+
+auf Anfrage
+
+2,00
+
+1,50
+
+1,50
+
+1,50
+
+1,50
+
+Zwischensumme 6
+
+7
+
+Pflege und Wartung
+
+7.1
+
+Fertigstellungspflege
+
+Pflegemaßnahmen bis zum abnahmefähigen Zustand
+
+m²
+
+8,00
+
+4,00
+
+3,00
+
+2,00
+
+2,00
+
+7.2
+
+Wartung und Unterhaltung Ein bis zwei Wartungsgänge pro Jahr, pro Kontrollgang
+
+m²
+
+4,00
+
+2,00
+
+1,50
+
+1,00
+
+1,00
+
+Zwischensumme 7
+
+Gesamtzeit
+
+Zeitwerte Extensivbegrünung ­ Neuanlage Schrägdach 5° bis 20°
+
+Zeitwerte Extensivbegrünung ­ Kombination mit Photovoltaik
+
+Begrünte Schrägdächer werden in der Regel ebenfalls als pflegearme Extensivbegrünungen ausgeführt. Mit zunehmender Dachneigung müssen dabei besondere technische Sicherungsmaßnahmen zur Aufnahme der verstärkt auftretenden Schub- und Erosionskräfte getroffen werden (stabile Traufe, Erosionsschutzgewebe etc.). Gleichzeitig steigt auch der Arbeitsaufwand für die Verlegung und Installation der Systemaufbauten. Die angegebenen Zeiten in der Musterkalkulation beziehen sich auf Gebäude mit einer Dachneigung von 20°. Für Dachneigungen zwischen 5° und 20° können etwas niedrigere Zeitwerte angesetzt werden.
+Ergänzend zu den Hinweisen für die Arbeitsschritte bei Flachdächern sind bei der Begrünung von Schrägdächern folgende Punkte gesondert zu berücksichtigen:
+
+Auf Flachdächern oder auf leicht geneigten Dächern bis 15° harmonieren Begrünung und Solaranlage am besten. Während die Photovoltaik-Gestelle bei herkömmlichen Verfahren mit Betonplatten oder Verschraubungen (-> Durchdringung der Dachabdichtung!) fixiert werden, ist die Montage auf begrünten Dächern einfacher und ,,dachschonender". An speziellen Solar-Grundplatten werden die Befestigungsrahmen für die Solaranlage fixiert. So vormontiert, werden die Einheiten ausgerichtet, mit Querschienen verbunden und anschließend die Systemerde aufgebracht. Dies sichert die nötige Auflast und lässt die Pflanzen dauerhaft wachsen. Für Montage und Anschluss der Solarmodule sind Fachfirmen zu beauftragen. Die Ausbringung der Bepflanzung und das Anwässern bilden den letzten Arbeitsschritt.
+
+- Da sich ein nachträglicher Wurzelschutz nur mit großem Aufwand verlegen lässt, sollte die vorhandene Abdichtung bereits wurzelfest ausgebildet sein. Gleiches gilt für den Einsatz von Trenn- und Gleitfolien. Die Zeitwerte in der Tabelle beginnen deshalb erst mit der Verlegung der Schutz- und Speichermatten.
+
+- Um eine möglichst enge Verzahnung der Dränageelemente mit dem Substrat zu gewährleisten, wird das Filtervlies nur entlang der Traufe und im Bereich angeschnittener Dränageelemente (z. B. First oder Ortgang) als Streifen verlegt.
+
+- Ab einer Dachneigung von 15° empfiehlt sich der Einbau eines Erosionsschutzgewebes, um die Lagesicherung des Substrates zu gewährleisten.
+
+- Die Regelmengen für die Ausbringung der Pflanzen sind zu erhöhen, um eine möglichst schnelle Deckung der Vegetation zu erreichen (Erosionsgefahr!). Bepflanzungen mit Sprossteilen sollten nur bis zu einer Dachneigung von 15° ausgeführt werden.
+
+Anwendungshinweise 7
+
+DDV-Zeitwertetabellen
+8 ©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Musterkalkulation NEUANLAGE Flachdach < 5°
+
+Bauherr / Auftraggeber:
+
+Objekt:
+
+Nr.
+
+Position
+
+Extensivbegrünung ­ Neuanlage Flachdach < 5°
+Arbeitsschritt
+
+Zeitwerte Musterkalkulation (in Minuten)
+
+Einheit < 50
+
+Dachgröße in m² 50-100 100-500 500-5000
+
+> 5000
+
+Objektkalkulation
+
+1
+
+Wurzelschutz/Trennlagen
+
+1.1
+
+Trenn- und Gleitfolie
+
+lose verlegen
+
+m²
+
+3,00
+
+2,00
+
+1,50
+
+1,00
+
+0,75
+
+1.2
+
+Wurzelschutzfolie
+
+1.3
+
+Wurzelschutzfolie
+
+1.4
+
+Wurzelschutzbahn
+
+1.5
+
+Wurzelschutzbahn
+
+1.6
+
+Wurzelschutzbahn
+
+lose verlegen
+am Dachrand/an aufgehenden Bauteilen hochführen und ggf. fixieren
+ausrollen, verschweißen, bei Bedarf versiegeln am Dachrand/an aufgehenden Bauteilen hochführen und fixieren Nadelprobe
+
+m²
+
+3,00
+
+2,00
+
+1,50
+
+1,00
+
+0,75
+
+m
+
+3,00
+
+1,50
+
+1,50
+
+1,00
+
+1,00
+
+m²
+
+5,00
+
+5,00
+
+5,00
+
+4,00
+
+4,00
+
+m
+
+4,00
+
+4,00
+
+4,00
+
+4,00
+
+4,00
+
+m
+
+0,50
+
+0,50
+
+0,50
+
+0,50
+
+0,50
+
+Zwischensumme 1
+
+2
+
+Schutz- und Speichermatten
+
+Schutz- und 2.1
+Speichermatten Schutz- und 2.2 Speichermatten
+
+2.3
+
+Dachdurchdringungen
+
+lose verlegen
+am Dachrand/an aufgehenden Bauteilen hochführen und ggf. fixieren lose verlegte Folien und Matten an Dachdurchdringungen hochführen und ggf. verwahren
+
+2.4
+
+Dachdurchdringungen
+
+Wurzelschutzbahnen an Dachdurchdringungen hochführen, verschweißen und mechanisch fixieren/Matten hochführen
+
+m²
+
+3,00
+
+2,00
+
+1,00
+
+m
+
+3,00
+
+2,00
+
+1,00
+
+m
+
+4,00
+
+3,00
+
+3,00
+
+m
+
+20,00 15,00
+
+15,00
+
+1,00 1,00 3,00 15,00
+
+0,75 0,75 3,00 15,00
+
+Zwischensumme 2
+
+9
+
+©2012, Deutscher Dachgärtner Verband e.V. (DDV)
+
+Extensivbegrünung ­ Neuanlage Flachdach < 5°
+
+Nr.
+
+Position
+
+Arbeitsschritt
+
+3
+
+Entwässerung/Dränage- und Filterschicht
+
+3.1
+
+Dachabläufe
+
+lose verlegte Folien und Matten über den Abläufen ausschneiden
+
+3.2
+
+Dachabläufe
+
+Wurzelschutzbahnen über den Abläufen ausschneiden, Kragen schweißen, Matten ausschneiden
+
+3.3
+
+Dränelemente/Dränplatten vollflächig verlegen
+
+3.4
+
+Filtervlies
+
+lose auf der Dränage verlegen inkl. hochführen bis zur Oberkante des Gründachaufbaus
+
+4
+
+Sonstiges
+
+4.1
+
+Kontrollschächte
+
+4.2
+
+Absturzsicherungen
+
+4.3
+
+Schrittplatten
+
+4.4
+
+Kiesstreifen
+
+über den Dachabläufen anbringen dachdurchdringungsfreie Sicherungssysteme verlegen Schrittplatten verlegen an Dachrändern und um Dachdurchdringungen / Abläufe ca. 50 cm breit einbauen
+
+5
+
+Substrate
+
+5.1
+
+Substrat/Sackware
+
+5.2
+
+Substrat/Big Bag
+
+5.3
+
+Substrat/Kipper
+
+5.4
+
+Substrat /Silo
+
+Aufbringung und Verteilung Aufbringung und Verteilung Aufbringung und Verteilung Aufbringung und Verteilung
+
+Zeitwerte Musterkalkulation (in Minuten)
+
+Einheit < 50
+
+Dachgröße in m² 50-100 100-500 500-5000
+
+> 5000
+
+Objektkalkulation
+
+Stck
+
+3,00
+
+2,00
+
+2,00
+
+2,00
+
+2,00
+
+Stck 10,00 8,00
+
+m²
+
+3,00
+
+2,00
+
+m²
+
+2,00
+
+2,00
+
+8,00
+
+8,00
+
+8,00
+
+1,50
+
+1,00
+
+0,75
+
+1,00
+
+1,00
+
+0,75
+
+Zwischensumme 3
+
+Stck
+
+5,00
+
+5,00
+
+Stck 60,00 60,00
+
+Stck 10,00 10,00
+
+cm/m 1,50
+
+1,00
+
+5,00 60,00 10,00
+
+5,00 60,00 8,00
+
+5,00 60,00 6,00
+
+0,75
+
+0,50
+
+0,50
+
+Zwischensumme 4
+
+cm/m² 2,00
+
+cm/m² 1,50
+
+cm/m² 1,50
+
+cm/m²
+
+X
+
+1,50 1,25 1,00 1,00
+
+1,50
+
+X
+
+X
+
+1,25
+
+1,25
+
+1,25
+
+1,00
+
+1,00
+
+1,00
+
+0,50
+
+0,50
+
+0,50
+
+Zwischensumme 5
+
+Deutscher Dachgärtner Verband e.V. · Geschäftsstelle Postfach 2025 · 72610 Nürtingen · Telefon 07022 / 301378 · Telefax 07022 / 301379 Internet: www.dachgaertnerverband.de · E-Mail: contact@dachgaertnerverband.de
+
+

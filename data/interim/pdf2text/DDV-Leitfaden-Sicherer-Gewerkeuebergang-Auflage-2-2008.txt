@@ -1,0 +1,752 @@
+D D V - l eit f a den D a c h b eg r ü n u ng
+Sic h e r e r G e w e r k e ü b e r g a ng
+Checkliste und ergänzende Kommentare
+Deutscher Dachgärtner Verband e.V.
+
+Arbeitskreis Sicherer Gewerkeübergang
+
+Leitung: Deutscher Dachgärtner Verband e.V. Hans-Joachim Seeger, Präsident, Karlsruhe
+Teilnehmer: Ansel, W.; Nürtingen Appl, R.; Unterensingen Büschkes, A.; Euskirchen Hövekamp, T.; Unterensingen Hundertmark, O.; Mannheim Kowarsch, G.; Korb Ludewig, T.; Saarlouis Mögle, T.; Reutlingen
+
+Müller, S.; Weingarten Neumann, K. Prof. Dr.; Berlin Neumann, M.; Stuttgart Quindeau, J.; Heiligenhaus Riebensahm, D.; Aken Schenk, D.; Unterensingen Scherff, R.; Herten Zöller, M.; Neustadt/Wstr.
+
+
+
+Deutscher Dachgärtner Verband e.V.
+DDV-L eit faden D a chbegr ü nung
+Sicherer Gewerkeübergang
+Teil I: Einführung - Sicherer Gewerkeübergang bei begrünten Dächern Teil II: Checkliste / Protokoll ,,Sicherer Gewerkeübergang" (Kopiervorlagen) Teil III: Ergänzende Kommentare zur Checkliste
+Benutzerhinweise: Der vorliegende Leitfaden des Deutschen Dachgärtner Verbandes e.V. ist als praxisorientiertes Hilfsmittel für die besondere Situation des Gewerkeübergangs bei begrünten Dächern konzipiert. Der Leitfaden stellt in diesem Zusammenhang kein neues Regelwerk dar, sondern bietet eine Handreichung zu bereits existierenden Richtlinien, Normen oder Gesetzen. Sofern in diesem Leitfaden Bezug auf externe Quellen genommen wird, übernimmt der Herausgeber keine Gewähr für deren Richtigkeit, Vollständigkeit oder Aktualität. Durch die Anwendung des Leitfadens entzieht sich niemand der Verantwortung für eigenes Handeln. Jeder handelt insoweit auf eigene Gefahr. Anregungen zur weiteren Verbesserung und laufenden Aktualisierung des Leitfadens werden vom Herausgeber gerne entgegengenommen.
+
+
+IMpressum
+
+Herausgeber: Deutscher Dachgärtner Verband e.V. (DDV) Postfach 2025 72610 Nürtingen Telefon: 07022 / 6003 590 Telefax: 07022 / 6003 591 E-Mail: contact@dachgaertnerverband.de Internet: www.dachgaertnerverband.de
+Copyright und Auflage Alle Rechte vorbehalten. Kein Teil dieses Leitfadens darf ohne schriftliche Genehmigung des Herausgebers reproduziert oder nachgedruckt werden. © 2008, Deutscher Dachgärtner Verband e.V.
+Bildmaterial: Deutscher Dachgärtner Verband e.V. (DDV), Nürtingen Epple Luther und Kollegen, Rechtsanwälte, Reutlingen Fa. Kebulin Gesellschaft Kettler GmbH & Co. KG, Herten-Westerholt Fa. FDT FlachdachTechnologie GmbH & Co. KG, Mannheim Grün + Dach, Garten- und Landschaftsbau, Dachabdichtung und Begrünung, Heiligenhaus PROGEO Monitoring GmbH, Großbeeren Fa. ZinCo GmbH, Unterensingen
+Redaktion: Wolfgang Ansel, DDV, Nürtingen
+Layout: Sarah Doll Grafik + Design Schlichtener Str. 80 73614 Schorndorf Telefon: 07181 / 25 61 18 Telefax: 07181 / 99 33 93 E-Mail: mail@sd-grafikdesign.de Internet: www.sd-grafikdesign.de
+Druck: Fischbach Druck GmbH Erwin-Seiz-Str. 17 72764 Reutlingen Telefon: 07121 / 16 61-0 E-Mail: post@fischbach-druck.de Internet: www.fischbach-druck.de
+
+
+
+Impressum
+
+Vorwort
+
+Gewerkeübergreifende Baumaßnahmen erfordern eine enge Kooperation aller beteiligten Partner. Dies trifft auch auf die Erstellung begrünter Dächer zu, wenn aufbauend auf den dachtechnischen Vorleistungen die anschließenden Dachbegrünungsarbeiten erfolgen.
+Fehlender Informationsfluss und Unsicherheiten bei Prüfungskriterien, Hinweispflichten und Schutzmaßnahmen können dazu führen, dass Mängel im Vorgewerk nicht rechtzeitig erkannt bzw. bereits im Rahmen der Planung vorbeugend verhindert werden. Mit dem Leitfaden ,,Sicher er Gewerkeübergang" greift der Deutsche Dachgärtner Verband e.V. dieses aktuelle Thema auf und stellt allen Baubeteiligten ein praxisorientiertes Informationswerkzeug zur Verfügung.
+Fachliche Grundlage des neuen DDV-Leitfadens sind die langjährigen praktischen Erfahrungen der DDVFachbetriebe aus dem Bereich des Garten- und Landschaftsbaus und des Dachdecker-Handwerks. Diese werden ergänzt durch die Empfehlungen einer interdisziplinär besetzten Expertengruppe, zu der Fachleute aus dem Abdichtungsbereich, der Bauleitplanung, dem Sachverständigenwesen und dem Baurecht gehören.
+
+Der Inhalt des DDV-Leitfadens ,,Sicherer Gewerkeübergang" setzt sich im Wesentlichen aus zwei Modulen zusammen:
+-In der Checkliste sind die aktuellen Prüfkriterien der Schnittstelle Dach-/ Vegetationstechnik auf kompakte und übersichtliche Weise zusammengestellt.
+- Der begleitende Kommentarband enthält zusätzliche Erläuterungen und Bildmaterial zu allen wichtigen Fachbegriffen und Fragestellungen der Checkliste.
+Der neue DDV-Leitfaden wendet sich neben den ausführenden Fachbetrieben an Architekten, Planer und Bauherren, die im Rahmen der Bauleitung die verschiedenen Gewerkeleistungen aufeinander abstimmen und kontrollieren müssen. Aber auch Landschaftsarchitekten und Bausachverständige können aus den praktischen und rechtlichen Hinweisen Gewinn ziehen.
+Ein ganz besonderer Dank gilt den Mitgliedern der Arbeitsgruppe ,,Sicherer Gewerkeübergang", die mit ihren fachlichen Beiträgen den Blick über den ,,Tellerrand" der einzelnen Gewerke ermöglicht haben.
+
+Hans-Joachim Seeger Präsident, Deutscher Dachgärtner Verband e.V.
+
+Vowort 
+
+Inhaltsverzeichnis
+
+TEIL I: Einführung ­ Sicherer GEWERKEÜBERGANG bei begrünten Dächern 7
+
+1 Praktischer Nutzen für den Anwender
+
+8
+
+2 Prüfungspflichten beim Gewerkeübergang
+
+9
+
+3 Regelwerke
+
+10
+
+TEIL II: CHECKLISTE UND PROTOKOLL ,,Sicherer Gewerkeübergang"
+
+11
+
+Checkliste ,,Sicherer Gewerkeübergang"
+
+12
+
+Protokoll ,,Sicherer Gewerkeübergang"
+
+16
+
+TEIL III: ERGÄNZENDE KOMMENTARE ZUR CHECKLISTE
+
+17
+
+1 Unterlagen
+
+18
+
+2 Angaben zur Dachkonstruktion
+
+18
+
+2.1 Lastreserven
+
+18
+
+2.2 Dachneigung
+
+18
+
+2.3 Dachentwässerung
+
+19
+
+2.4 Anschluss- und Abschlusshöhen
+
+20
+
+2.5 Dachschichtenaufbau
+
+21
+
+2.6 Lagesicherung gegen Windsog
+
+22
+
+2.7 Dachabdichtung
+
+23
+
+2.8 Dachnutzung und Absturzsicherung
+
+24
+
+3 Prüfung der Dachabdichtung
+
+25
+
+3.1 Normen und Richtlinien
+
+25
+
+3.2 Dachoberfläche
+
+25
+
+3.3 Nahtverschweißung
+
+26
+
+3.4 Ausbildung der Dachdetails
+
+26
+
+3.5 Dachunterseite
+
+28
+
+3.6 Dokumentation
+
+28
+
+4 Gewerkeübergang
+
+28
+
+4.1 Gefährdung der Dachabdichtung
+
+28
+
+4.2 Schutzmaßnahmen im Übergangszeitraum
+
+29
+
+4.3 Absturzsicherung während der Ausführung
+
+30
+
+4.4 Zugänglichkeit zur Dachfläche
+
+30
+
+5 Bedenkenanmeldung
+
+31
+
+Schlusswort
+
+32
+
+
+
+Inhaltsverzeichnis
+
+Teil I
+Einführung ­ Sicherer Gewerkeübergang bei begrünten Dächern
+- Praktischer Nutzen für den Anwender - Prüfungspflichten beim Gewerkeübergang - Regelwerke
+Teil I: Einführung ­ Sicherer Gewerkeübergang bei begrünten Dächern 
+
+Teil I
+
+1 Praktischer Nutzen für den Anwender
+
+Vergabe getrennter Fachlose: Vor Beginn der Vegetationsarbeiten muss der ausführende DachbegrünungsBetrieb das Vorgewerk des Dachdeckers auf Mängel und Schäden überprüfen. Dies kann im Rahmen einer technischen Begehung erfolgen, an der auch der Bauherr, der Architekt/Planer und die mit den Dachabdichtungsarbeiten betraute Dachdeckerfirma teilnehmen sollten. Durch den direkten Informationsaustausch lässt sich die fach- und vertragsgerechte Ausführung der Vorleistungen schnell überprüfen und eventuell vorhandene Mängel können zeitnah behoben werden. Nach der ordnungsgemäßen Abnahme der Dachabdichtung durch Dachdecker und Auftraggeber bietet diese zweite Kontrolle unmittelbar vor Ausführung der Dachbegrünungsarbeiten für alle Beteiligten ein zusätzliches Plus an Sicherheit.
+Ein besonderes Augenmerk ist dabei auf folgende Punkte zu richten:
+- Dachunterkonstruktion und Dachabdichtung müs sen qualitativ und funktional auf den geplanten Systemaufbau der Dachbegrünung abgestimmt sein.
+- Abdichtungsarbeiten und Dachdetails müssen fachgerecht und mängelfrei ausgeführt sein.
+- Bis zum Beginn der Dachbegrünungsarbeiten sind besondere Sicherheitsvorkehrungen zu treffen, um die Dachfläche vor Beschädigungen zu schützen.
+
+Vergabe zusammengefasster Fachlose: Auch wenn Dachabdichtungs- und Dachbegrünungsarbeiten in einem Fachlos zusammengefasst sind, steht ein Dachbegrüner als Nachunternehmer in der Pflicht, die dachtechnischen Vorleistungen zu prüfen, wenn er nach Vorgabe des Hauptunternehmers mit der Erstellung des Gewerks Dachbegrünung betraut wird. Die Gefahren für die Dachabdichtung durch andere Gewerke oder extreme Witterungseinflüsse bestehen hier gleichermaßen (s. Teil III, 4.1 Gefährdung der Dachabdichtung).
+Fazit: Der vorliegende Leitfaden bietet durch die kompakte Zusammenfassung der wichtigsten Prüfkriterien und Abstimmungspunkte eine echte Arbeitsersparnis für alle Beteiligten. Der Anwendungsbereich erstreckt sich dabei aber nicht nur auf die praktische Situation des Gewerkeübergangs. Bereits in der Planungsphase des Bauvorhabens kann der Leitfaden als Grundlage für die zeitliche Koordination der Gewerke dienen. Arbeiten beide Gewerke Hand in Hand, so führt dies nicht nur zu einem reibungslosen Bauablauf und der Einhaltung von Fristen; in der Regel erhöht die getrennte Vergabe auch die Qualität der Ausführung. Deshalb befürwortet der DDV die Auftragsvergabe der Dachabdichtungs- und Dachbegrünungsarbeiten nach Fachlosen (s. a. VOB Teil A - Allgemeine Bestimmungen für die Vergabe von Bauleistungen, § 4 Nr. 3).
+
+Ausführung der Dachabdichtungsarbeiten
+Dachdecker
+
+Abnahme
+
+Gefahr für die Dachabdichtung
+
+Rechtsverhältnis
+
+durch fremde
+
+Dachdecker und Bauherr Gewerke und
+
+Witterungseinflüsse
+
+Ausführung der Dachbegrünungsarbeiten
+Dachbegrüner (Galabauer oder Dachdecker)
+Überprüfung der Dachabdichtung durch den Dachbegrüner
+
+
+
+Teil I: Einführung ­ Sicherer Gewerkeübergang bei begrünten Dächern
+
+2 Prüfungspflichten beim Gewerkeübergang
+
+Haftungsrisiken: Bei der Erstellung begrünter Dächer bilden die Leistungen des Dachabdichters die sachlich technische Grundlage für die darauf aufbauenden Leistungspflichten des Dachbegrünungsunternehmens. Um Haftungsrisiken auszuschließen, müssen Dachbe grünungsbetriebe deshalb die Vorleistungen des Dach deckerhandwerks prüfen und bei Mängeln Bedenken beim Auftraggeber anmelden. Bei VOB Verträgen findet § 4 Nr. 3 VOB Teil B (Allgemeine Vertragsbedingungen für die Ausführung von Bauleistungen) Anwendung. Kommt der Dachbegrüner seiner Prüfungspflicht nicht nach und erfolgen die vegetationstechnischen Arbeiten auf einem mangelhaften Vorgewerk, so ist auch sein eigenes Gewerk mangelhaft. In der Folge ist er nicht nur zur Nachbesserung verpflichtet ­ er haftet außerdem gegenüber dem Auf traggeber für Schäden, die sich aus der Verletzung der Prüfungspflicht ergeben (z. B. das Abräumen der Be grünung zur Mängelbeseitigung an der Dachabdichtung). Die Prüfungspflicht ergibt sich automatisch, auch ohne dass hierzu eine Anweisung durch den Auftraggeber oder Architekten erfolgen muss und gilt auch für so genannte BGB-Verträge.
+Prüfungsumfang: Die bei der Prüfung anzulegende Sorgfalt orientiert sich an den Kenntnissen eines Fach handwerkers, der über die anerkannten Regeln und den Stand der Technik informiert ist und sämtliche Normwerke seines Gewerkes beherrscht (s. 3 Regelwerke). Hierzu gehören neben den Dachbegrünungsrichtlinien der FLL auch die entsprechenden Passagen zur Dachbegrünung in den Regelwerken von ZVDH, DIN, VOB etc. Allerdings begrenzt das zumutbare Fachwissen, das ein Handwerker für die Vorarbeiten eines fremden Gewerks besitzen kann, den Umfang der Prüfung. In der Regel ist im Rahmen des Gewerkeübergangs eine Prüfung der dachtechnischen Arbeiten durch den Dachbegrünungsbetrieb mittels Inaugenscheinnahme, Nachmessen und normalen Belas tungsproben ausreichend. Ausnahmen bestehen, wenn eine technische Norm oder geläufige Ausführungshinweise eine tiefer gehende Prüfung vorschreiben, oder ein begründeter Verdacht auf Mängel besteht. In diesen Fällen
+
+reicht eine reine Sichtprüfung nicht aus. Bei strittigen Punkten oder aufwändigen technischen Prüfmethoden sollten gegebenenfalls externe Sachverständige hinzu gezogen werden, um Sicherheit für alle Beteiligten zu schaffen.
+Anmeldung von Bedenken: Hat der Dachbegrüner Vorbehalte gegen die geplante Ausführung der Begrünung oder die Leistungen anderer Gewerke, die in Verbindung mit der Installation des Gründachs stehen, muss er seine Bedenken mit den entsprechenden Angaben (Begründ ung, mögliche Folgen bei Nichtbeseitigung) unverzüglich, schriftlich beim Auftraggeber anmelden (s. Teil III, 5 Bedenkenanmeldung). Gegebenenfalls ist in diesem Zu sammenhang auch auf die Behinderung der beauftragten Werkleistungen und die mögliche Verlängerung der Aus führungsfristen hinzuweisen (g Behinderungsanzeige). Selbst wenn sich die Bedenkenanmeldung im Nachhinein als unbegründet herausstellen sollte, führt dies nur in Ausnahmefällen zur Haftung und gibt dem Auftraggeber kein Kündigungsrecht.
+Neben den allgemeinen Vorgaben gemäß VOB/B und BGB finden sich Hinweise zur Prüfungsverpflichtung unter an derem in folgenden Gerichtsurteilen:
+OLG Hamm (Urteil 17 U 164/98): Vor dem Aufbau einer Dachbegrünung muss der Unternehmer die Abdichtung sorgfältig auf etwaige Beschädigungen hin untersuchen.
+OLG Bremen (Urteil 5 U 69/00): Die Anforderungen an die Erfüllung der Prüfungspflicht sind umso höher, je wichtiger die Überprüfung für den Erfolg der Baumaßnahme ist.
+OLG Dresden (Urteil 14 U 1198/03): In die Prüfungspflicht können auch anzubauende Bauteile einbezogen sein (in diesem Fall war das Vorgewerk einer Fassadenbaufirma im Anschlussbereich nicht fachgerecht abgedichtet).
+
+Teil I: Einführung ­ Sicherer Gewerkeübergang bei begrünten Dächern 
+
+Teil I
+
+3 Regelwerke
+
+Für die fachliche Prüfung des Vorgewerks im Rahmen der technischen Begehung sind insbesondere folgende Normen und Richtlinien in ihrer jeweils neusten Fassung relevant:
+
+Allgemeine Grundlagen
+
+ZVDH: Zentralverband des Deutschen Dachdeckerhandwerks e.V. Regeln für Dächer mit Abdichtungen (,,Flachdachrichtlinien") FLL: Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau e.V. Dachbegrünungsrichtlinie: Richtlinie für die Planung, Ausführung und Pflege von Dachbegrünungen
+
+LBO: Landesbauordnung
+
+DIN 1055: Lastannahmen für Bauten
+
+DIN EN 12 056-3 und DIN 1986-100: ,,Schwerkraftentwässerungsanlagen innerhalb von Gebäuden ­ Dachentwässerung" und ,,Entwässerungsanlagen für Gebäude und Grundstücke ­ zusätzl. Bestimmungen zu DIN EN 12 056"
+
+Bautechnik Bauphysik
+
+DIN 4095: Dränung zum Schutz baulicher Anlagen DIN 4102: Brandverhalten von Baustoffen und Bauteilen
+
+DIN EN 13948: Abdichtungsbahnen ­ Bestimmung des Widerstandes gegen Durchwurzelung
+
+DIN 18195: Bauwerksabdichtungen
+
+DIN 18531: Dachabdichtungen
+
+DIN V 20000-201: Anwendung von Bauprodukten in Bauwerken
+
+UVV: Bauarbeiten, Dacharbeiten, gärtnerische Arbeiten auf Bauwerken
+
+Unfallverhütung DIN 4420: Arbeits- und Schutzgerüste
+
+DIN 4426: Einrichtungen zur Instandhaltung baulicher Anlagen
+
+VOB/A: Allgemeine Bestimmungen für die Vergabe von Bauleistungen
+
+VOB Vergabe- und
+
+VOB/B: Allgemeine Vertragsbedingungen für die Ausführung von Bauleistungen
+
+Vertragsordnung VOB/C: Allgemeine technische Vertragsbedingungen für Bauleistungen, insbesondere:
+
+für Bauleistungen ATV DIN 18 336: Abdichtungsarbeiten
+
+ATV DIN 18 338: Dachdeckungs- und Dachabdichtungsarbeiten
+
+Des Weiteren sind die Merkblätter und Verlegehinweise der Abdichtungshersteller und Industrieverbände zu berücksichtigen ( z. B.: abc der Bitumenbahnen; WdK-Flachdach-Leitfaden Kautschuk-Dachbahnen und -planen; Werkstoffblätter Dach- und Dichtungsbahnen; WU-Richtlinie Wasserundurchlässige Bauwerke aus Beton etc.) .
+
+Die Kenntnis der existierenden Regelwerke entbindet aber nicht von der Pflicht, sich über aktuelle Entwicklungen innerhalb der Branche durch Studium der Fachliteratur und Fachvorträge auf dem Laufenden zu halten (-> Fortbildungspflicht). Denn Gebäude werden für die Zukunft gebaut.
+
+10 Teil I: Einführung ­ Sicherer Gewerkeübergang bei begrünten Dächern
+
+Teil II
+CHECKLISTE UND PROTOKOLL ,,Sicherer Gewerkeübergang"
+Kopiervorlagen zur technischen Begehung der Dachfläche vor Beginn der Begrünungsarbeiten - Checkliste ,,Sicherer Gewerkeübergang" - Protokoll ,,Sicherer Gewerkeübergang"
+Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang" 11
+
+Teil II Kopiervorlage - Deutscher Dachgärtner Verband e.V.
+
+Checkliste ,,Sicherer Gewerkeübergang"
+Bauvorhaben / Bauherr: Gewerk: Dachunterkonstruktion / Dachabdichtung Datum / Uhrzeit:
+Teilnehmer:
+
+1 Unterlagen
+
+Für die technische Begehung der Dachfläche werden folgende Unterlagen benötigt:
+
+Unterlagen Objektinformationen Dachabmessungen, Gebäudehöhe, Dachneigung, Art der Tragkonstruktion, Schichtenfolge des Dachaufbaus. Planungsunterlagen Angaben zum Planungsteam, Kopien der Ausschreibungs-/Leistungsverzeichnisse, Skizzen der Dachdetails, Dachaufsicht, DIN-Vorschriften und Richtlinien, Herstellerrichtlinien zur Verarbeitung der Dachabdichtung.
+Baugenehmigung Intensivbegrünungen, die dem Aufenthalt von Personen dienen, sind in der Regel genehmigungspflichtig. Alle anderen Formen der Dachbegrünung sind im Normalfall genehmigungsfrei. Abnahmeprotokoll Sofern vorhanden, das Abnahmeprotokoll von Auftraggeber/Bauleitung und Dachdecker über die einwandfrei ausgeführten Vorarbeiten und den vertragsgemäßen Zustand der Dachabdichtung.
+
+vorliegend
+
+Hinweis: Die vorliegende Checkliste enthält eine Übersicht der Prüfkriterien und Abstimmungspunkte für den sicheren Gewerkeübergang bei begrünten Dächern. Teil III des DDV-Leitfadens ,,Sicherer Gewerkeübergang" liefert weitere Erläuterungen und Illustrationen.
+12 Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang"
+
+Kopiervorlage - Deutscher Dachgärtner Verband e.V.
+
+2 Angaben zur Dachkonstruktion
+
+Für die Prüfung der dachtechnischen Vorleistungen muss der Dachbegrüner keine eigenen Planungen oder Berechnungen anstellen, es sei denn, er wurde im Rahmen der Auftragsvergabe damit betraut.
+
+Vorleistungen
+2.1 Lastreserven Klären Sie, ob Begrünungsaufbau (in wassergesättigtem Zustand) und geplante Nutzung auf die vorhandenen Lastreserven abgestimmt sind. Verkehrs- und Schneelasten sind zusätzlich zu berücksichtigen.
+2.2 Dachneigung Flachdächer: Prüfen Sie, ob ein Mindestgefälle von 2 % vom Hoch- bis zum Tiefpunkt der Entwässerung eingehalten wird. Dächer mit geringerem Gefälle stellen erhöhte Anforderungen an die Dachabdichtung und Dachbegrünung. Schrägdächer: Kontrollieren Sie, ob bei Tonnen-, Sattel- oder Pultdächern besondere technische Vorkehrungen zur Aufnahme der Schubkräfte des Begrünungsaufbaus vorhanden sind.
+2.3 Dachentwässerung Klären Sie, ob die Parameter Niederschlagsmenge, Dachneigung, Entwässerungslängen und Be grünungsaufbau bei Planung und Realisierung der Dachentwässerung hinreichend berücksichtigt wurden. Pfützen bzw. darauf hindeutende Ablagerungen sind ein Hinweis auf eine möglicherweise mangelhafte Entwässerung.
+2.4 Anschluss- und Abschlusshöhen Überprüfen sie, ob die Anschluss- und Abschlusshöhen unter Berücksichtigung des Gründachaufbaus an allen Dachrändern, aufgehenden Bauteilen und Durchdringungen eingehalten wurden.
+2.5 Dachschichtenaufbau Besprechen Sie mit dem Bauleiter oder Dachdecker, ob der Dachschichtenaufbau auf die geplante Begrünung abgestimmt wurde. Wichtige Kriterien sind z. B. die Druckfestigkeit der verwendeten Dämmstoffe und die Verträglichkeit der Abdichtungsmaterialien mit dem Gründach-Systemaufbau.
+2.6 Lagesicherung gegen Windsog Klären Sie, ob der Dachbegrünungsaufbau als Auflast die Dachabdichtung und die dazugehörigen Schichten gegen Abheben durch Windkräfte sichern soll. In diesem Fall muss die Aufbringung der Dachbegrünung unmittelbar im Anschluss an die Fertigstellung der Dachabdichtung erfolgen.
+2.7 Dachabdichtung Wurde die Qualitätsklasse der verwendeten Dachabdichtung auf die zu erwartende thermische und mechanische Belastung abgestimmt? Wenn die Dachabdichtung auch gleichzeitig die Wurzelschutzfunktion übernehmen soll, muss sie das Prüfzertifikat ,,wurzelfest" besitzen.
+2.8 Dachnutzung und Absturzsicherung Prüfen Sie, ob Dachflächen, die später als Wohn-/Lebensraum dienen sollen, die hierzu erforderlichen technischen Vorkehrungen (Zugang, Bewässerungsmöglichkeiten, Sicherheitsvorkehrungen etc.) besitzen. Auch Dachflächen, die nicht genutzt werden sollen, müssen für Wartungs- und Pflegemaßnahmen zugänglich sein und über geeignete Absturzsicherungseinrichtungen verfügen.
+
+geprüft
+
+Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang" 13
+
+Teil II Kopiervorlage - Deutscher Dachgärtner Verband e.V.
+
+3 Prüfung der Dachabdichtung
+
+Die Prüfung der Dachabdichtung durch Inaugenscheinnahme, Nachmessen und normale Belastungsproben ist obli gatorisch. Ergeben sich dabei Hinweise auf eine mangelhafte Ausführung, hat eine tiefer gehende Prüfung zu erfolgen. Hierzu sind gegebenenfalls Sachverständige hinzuzuziehen.
+
+Vorleistungen 3.1 Normen und Richtlinien Kontrollieren Sie die fachgerechte Verarbeitung der Dachabdichtung nach gebräuchlichen Normen und Herstellerrichtlinien, soweit dies im Rahmen der Sichtprüfung möglich ist. 3.2 Dachoberfläche Prüfen Sie die Abdichtungsoberfläche auf sichtbare Schäden/Mängel (z. B. Perforation und Risse) und Gefahrenquellen (z. B. herumliegende Blechteile und Nägel). Achten Sie dabei besonders auf die Arbeitsbereiche fremder Gewerke (z. B. Verputzarbeiten, Gerüste etc. bei aufgehenden Bauteilen). 3.3 Nahtverschweißung Prüfen Sie die Verschweißung in der Fläche und insbesondere an T-Stößen, Ecken und Kanten. 3.4 Ausbildung der Dachdetails Die An- und Abschlussbereiche an Einbauteilen, Türen, Durchdringungen, Dachrändern, aufgehenden Bauteilen und Entwässerungseinrichtungen sind besonders sensibel und müssen daher sehr sorgfältig ausgeführt sein. Wichtige Prüfkriterien sind Nahtverschweißung, Verwahrung und spannungsfreie Fixierung. 3.5 Dachunterseite Liegt die Fertigstellung der Dachabdichtung schon einige Zeit zurück, bietet sich außerdem eine Prüfung der Dachunterseite auf feuchte Stellen an. 3.6 Dokumentation Neben der schriftlichen Dokumentation der technischen Begehung in Checkliste und Protokoll ist es ratsam, den Ist-Zustand von Dachabdichtung und Dachdetails auch fotografisch festzuhalten.
+
+geprüft
+
+Notizen zur Prüfung der dachtechnischen Vorleistungen:
+
+14 Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang"
+
+Kopiervorlage - Deutscher Dachgärtner Verband e.V.
+
+4 Gewerkeübergang
+
+Ein begrüntes Dach bietet erst nach der Fertigstellung einen hervorragenden Schutz der Dachabdichtung vor mechanischen Beschädigungen und Witterungseinflüssen. Bis zum Beginn der Begrünungsarbeiten sind deshalb geeignete Schutzmaßnahmen zu treffen. Außerdem sollte die Baustellenkoordination während des Gewerkeübergangs bereits in der Planungsphase zwischen allen Baubeteiligten abgestimmt werden.
+
+Abstimmungspunkte
+4.1 Gefährdung der Dachabdichtung Durch fremde Gewerke, Anwohner, Vandalismus, unsachgemäße Lagerung von Baumaterialien und extreme Witterungseinflüsse kann es zu nachträglichen Beschädigungen der Dachabdichtung kommen. Besprechen Sie mit der Bauleitung und dem Dachdeckerbetrieb das lokale Gefährdungspotential der Dachfläche.
+4.2 Schutzmaßnahmen im Übergangszeitraum Legen Sie anhand der Gefährdungsanalyse geeignete Schutzmaßnahmen für die Dachabdichtung fest. · Sperrung / Regulierung des Zugangs für fremde Gewerke · Abdeckung der Dachfläche mit Schutzlagen · evtl. Ausweisung definierter Dachbereiche als Lagerfläche für Baumaterial
+4.3 Absturzsicherung während der Ausführung Sicherungsmaßnahmen wie Gerüste, Netze oder Geländer sind ab einer Absturzhöhe von 3 m zwingend erforderlich. Prüfen Sie, ob die Unfallverhütungsvorschriften auf der Dachfläche eingehalten werden.
+4.4 Zugänglichkeit zur Dachfläche Für die Installation der Dachbegrünung müssen einfache und sichere Zugangsmöglichkeiten zur Dachfläche geschaffen werden.
+
+geklärt
+
+5 Bedenkenanmeldung
+
+Bestehen aufgrund der technischen Begehung Vorbehalte gegen die geplante Art der Begrünungsausführung oder die Leistungen anderer Unternehmer, so sind diese Bedenken dem Auftraggeber unverzüglich schriftlich mit Zugangsnachweis mitzuteilen. Als Grundlage für die Bedenkenanmeldung dient das nachfolgende Protokoll
+
+(Auflistung der Bedenken, Begründung, Folgen bei Nichtbeachtung). Als weitere Anlagen sind die ausgefüllte Checkliste und Bildmaterial, welches den vorgefundenen Zustand der Dachabdichtung und die Ausführung der Dachdetails dokumentiert, beizulegen.
+
+Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang" 15
+
+Teil II Kopiervorlage - Deutscher Dachgärtner Verband e.V.
+
+Protokoll ,,Sicherer Gewerkeübergang"
+Bauvorhaben / Bauherr: Gewerk: Dachunterkonstruktion / Dachabdichtung Datum / Uhrzeit:
+Teilnehmer:
+
+Bei der technischen Begehung der Dachfläche wurden folgende Sachverhalte/Mängel festgestellt, die Bedenken gegen die vorgesehene Art der Begrünungsausführung oder die Leistungen anderer Unternehmer bewirken:
+
+Lfd. Nr.
+
+Sachverhalt, Mangel / Begründung / Folgen
+
+Unterschriften der Teilnehmer Anlagen: Bildmaterial, Checkliste Hinweis: Die technische Begehung dient der Überprüfung von Werkleistungen, die nach Beginn der Begrünungsarbeiten nicht mehr sichtbar sind. Gewährleistungs- und Zahlungsverpflichtungen lassen sich hieraus nicht ableiten.
+16 Teil II: Checkliste und Protokoll ,,Sicherer Gewerkeübergang"
+
+Teil III
+Ergänzende Kommentare zur Checkliste
+- Unterlagen - Angaben zur Dachkonstruktion - Prüfung der Dachabdichtung - Gewerkeübergang - Bedenkenanmeldung
+Teil III: Ergänzende Kommentare zur Checkliste 17
+
+TEIL III
+
+An der technischen Begehung und Prüfung der Dachfläche vor Beginn der Begrünungsarbeiten sollten aus Gründen des direkten Informationsaustausches und der weiteren Abstimmung folgende Personen teilnehmen: Dachbegrünungsbetrieb, Architekt bzw. Bauleiter (Baukoordination), Dachdeckerbetrieb (Vorgewerk), Bauherr (Auftraggeber).
+
+1 Unterlagen
+
+Für die technische Begehung des Vorgewerks werden neben den Gebäudedaten und den allgemeinen Fach regeln (ZVDH, FLL, DIN etc., s. Teil I, 3 Regelwerke) insbesondere die Kopien der Ausschreibungs-/ und Leistungsverzeichnisse mit ergänzenden Planunterlagen, Detailzeichnungen und Dachaufsichten benötigt. Die Verarbeitungsrichtlinien der Dachabdichtungs-Hersteller, deren Einhaltung die Grundlage für die Produktgarantie der Abdichtung darstellt, sollten ebenfalls vorliegen. Hilfreich ist auch das Abnahmeprotokoll der Dachabdichtungsarbeiten von Auftraggeber und Dachdecker.
+
+zusätzlich zum Systemaufbau Bäume, Sträucher und konstruktive Bauelemente wie Pergolen und Gehbeläge für erhöhte Punktlasten sorgen, die entsprechend ein berechnet werden müssen. Dies gilt auch für das zusätzliche Wassergewicht, wenn eine Anstaubewässerung ausgeführt werden soll. Die nicht ständig wirksamen Verkehrslasten (Nutzlasten durch Personen, Maschinen, Lagerstoffe etc.) sind ebenso wie die Schneelasten gesondert zu berück sichtigen.
+
+Die spätere Nutzung der Dachfläche entscheidet sehr häufig darüber, ob von Seiten der Kommune eine Bau genehmigung für das Gründach eingeholt werden muss. Intensivbegrünungen, die später als Wohn- und Freizeitraum dienen, sind in der Regel genehmigungspflichtig. Alle anderen Formen der Dachbegrünung sind im Normalfall genehmigungsfrei.
+
+2 Angaben zur Dachkonstruktion
+
+Extensivbegrünung: Attraktiver ökologischer Schutzbelag
+
+Die Prüfung der Dachkonstruktion muss unbedingt im Hinblick auf den geplanten Gründach-Systemaufbau und die damit verbundenen dachtechnischen Anforderungen erfolgen. Wichtig sind in diesem Zusammenhang deshalb auch die Daten zur Art der geplanten Dachbegrünung (Extensivbegrünung, einfache Intensivbegrünung, Inten sivbegrünung), der vorgesehenen Dachnutzung und den damit verbundenen Flächenlasten.
+
+2.1 Lastreserven Die maximale Belastbarkeit der Dachfläche muss bei jeder Dachbegrünung beachtet werden. Für die Berechnung findet DIN 1055 (,,Lastannahmen für Bauten") Anwendung. Demnach ist bei begrünten Dächern der wassergesättigte Zustand des gesamten Begrünungsaufbaus inklusive Vegetation als ständige Flächenlast anzusetzen. Einfache Extensivbegrünungen belasten den Dach aufbau je nach Aufbaudicke mit 60-150 kg/m2. Bei Intensivbegrünungen und genutzten Dachflächen können
+
+Intensivbegrünung: Genutzte Dachflächen benötigen höhere Lastreserven
+2.2 Dachneigung Flachdächer: Um überschüssiges Niederschlagswasser schnell ableiten zu können, müssen Flachdächer gemäß DIN 18531 bzw. den ,,Flachdachrichtlinien" ein ausreichendes Gefälle besitzen. Die Dachneigung steht
+
+18 Teil III: Ergänzende Kommentare zur Checkliste
+
+dabei auch in enger Beziehung zur Ausgestaltung der Entwässerungseinrichtungen (vgl. 2.3 Dachentwässerung) und bestimmt außerdem die An- und Abschlusshöhen an Dachrändern, Dachdurchdringungen und aufgehenden Gebäudeteilen (vgl. 2.4 Anschluss- und Abschlusshöhen). Dächer mit einem Dachgefälle unter 2 % gelten laut ,,Flachdachrichtlinien" als Sonderkonstruktionen, auf denen es häufig zu Behinderungen des Wasserablaufs kommt. Hier müssen, je nach Art der Abdichtung, zusätzliche Maßnahmen getroffen werden, um die erhöhte Belastung in Verbindung mit stehendem Wasser zu vermindern. Aber auch bei Dachflächen mit einer Dachneigung bis ca. 5 % kann es zur Pfützenbildung kommen. Dies ist bei der Planung der Dachentwässerung zu berücksichtigen, damit eine später aufgebrachte Extensivbegrünung durch Staunässe keinen Schaden nimmt. Gegebenenfalls ist beim Gründach-Systemaufbau der Einsatz entsprechend hoher Dränageelemente vorzusehen, die eine kapillare Nachführung des Pfützenwassers in die Substratschicht verhindern. Dagegen kann es bei Intensivbegrünungen zweckmäßig sein, zur Anstaubewässerung die Dachkonstruktion ohne Gefälle auszubilden. Die Qualitätsanforderungen an die Dachabdichtung bei Anstaubewässerungen sind in DIN 18195-5 (bis 100 mm Wasseranstau) und DIN 18195-6 (über 100 mm Wasseranstau) beschrieben.
+Fassadenspiegelung durch stehendes Wasser
+
+Schrägdächer: Mit den modernen technischen Möglichkeiten lassen sich neben herkömmlichen Flachdächern auch viele Sattel-, Pult- und Tonnendächer zuverlässig begrünen. Je nach Dachneigung sind dabei besondere technische Vorkehrungen zur Aufnahme verstärkt auftretender Schub- und Erosionskräfte nötig. Vorhandene Schubschwellen müssen sicher in der Dachunterkon struktion verankert und separat eingedichtet sein. Dächer mit einer Dachneigung über 35° eignen sich aus bau- und vegetationstechnischen Gründen nur in Ausnahmefällen für eine Begrünung.
+Lagesicherung durch Schubschwellen
+2.3 Dachentwässerung Wasseransammlungen auf der Dachfläche oder darauf hindeutende Ablagerungen können Indiz für eine mangel hafte Dachentwässerung sein. Als Ursache kommen eine zu geringe Anzahl der Dachabläufe, Verstopfungen der Entwässerungseinrichtungen, Durchbiegungen in der Dachfläche, ein zu geringes Dachgefälle oder Dachab läufe, die sich nicht an den Tiefpunkten befinden, in Frage. Dachbegrünungen können in ihrem Systemaufbau einen großen Teil des Niederschlagswassers speichern. Da extensive Dachbegrünungen aber sehr empfindlich auf Staunässe reagieren, muss verbleibendes Über schusswasser auf kurzem Wege abgeleitet werden.
+
+Teil III: Ergänzende Kommentare zur Checkliste 19
+
+TEIL III
+
+Angaben zur Planung der Entwässerung finden sich in DIN EN 12 056-3, DIN 1986-100, DIN 4095 und DIN 18531. Auch die ,,Flachdachrichtlinien" und die ,,FLL-Dachbegrünungsrichtlinie" (Stichwort: Abflussbeiwert) befassen sich mit dem Thema Entwässerung. Die Bemessung der Dachabläufe und Entwässerungskonstruktionen orientiert sich dabei an der Wasserdurchlässigkeit bzw. dem Wasserspeicher vermögen des Begrünungsaufbaus, der Dachneigung und den durchschnittlichen lokalen Niederschlagsmengen. An Türaustritten oder Fassadenaufgängen mit erhöhtem Anfall von Niederschlagswasser können Kiesstreifen, Rinnen und Roste eine schnelle Ableitung in die Dränageschicht gewährleisten.
+Generell empfiehlt es sich, begrünte Dächer so zu planen und auszuführen, dass im Falle von Undichtigkeiten keine Wasserwanderung möglich ist, die die Leckortung erschwert. Dies kann z. B. durch Abschottung in Felder erreicht werden.
+
+2.4 Anschluss- und Abschlusshöhen Bei begrünten Dächern sind, gemäß den Regeln für Dächer mit Abdichtungen (,,Flachdachrichtlinien") DIN 18195-9 und DIN 18531, folgende An- und Abschlusshöhen zum Schutz vor Niederschlagswasser einzuhalten.
+- Mindestanschlusshöhe bei aufgehenden Gebäudetei len und Dachdurchdringungen: Dachneigung bis 5°: 15 cm, Dachneigung über 5°: 10 cm
+- Mindestabschlusshöhe bei Dachrändern: Dachneigung bis 5°: 10 cm, Dachneigung über 5°: 5 cm
+- Mindestanschlusshöhe bei Türen: 15 cm, mit zusätzlichen Entwässerungsmöglichkeiten (z. B. Rinnen): 5 cm
+In Sonderfällen (,,Barrierefreie Wohnungen") sind reduzierte Anschlusshöhen möglich, dazu sind Sonderkonstruktionen (z. B. Rinnen mit Gitterrostabdeckung) notwendig.
+
+Entwässerungseinrichtungen sollten jederzeit kontrollierbar sein. Dazu sind über den Dachabläufen so genannte ,,Kontrollschächte" einzuplanen.
+
+Wandanschlüsse
+mind. 15 cm mind. 15 cm
+
+Dachränder mind. 10 cm
+
+Dachentwässerung
+Entwässerungseinrichtungen bei begrünten Dächern können bestehen aus:
+
+Türaustritte
+
+mind. 5 cm
+
+Fassaden- und Terassenrost
+
+innenliegenden Dachabläufen vorgehängten Dachrinnen gemäß DIN EN 1253
+Notüberläufen Wasserspeiern
+
+Die Höhen werden immer ab Oberkante des Schutz-/ Nutzbelages bzw. der Entwässerungsrinnen gemessen! In schneereichen Gebieten und bei besonderen Anforder ungen können größere Anschlusshöhen erforderlich sein.
+
+20 Teil III: Ergänzende Kommentare zur Checkliste
+
+2.5 Dachschichtenaufbau Folgende Dachkonstruktionsarten lassen sich unter scheiden:
+
+Lastannahmen zu. Der Kühleffekt der Begrünung kann Einfluss auf die Durchlüftung des Dachaufbaus nehmen.
+
+Dächer ohne Wärmedämmung: Auf Dächern ohne Wärmedämmung über unbeheizten Räumen (z. B. Gara gendächer, Vordächer etc.) sind bei ausreichender Last reserve alle Begrünungsarten möglich.
+
+Dächer mit Wärmedämmung: Bei Dächern mit Wärme dämmung sind, in Abhängigkeit von der Bauweise, besondere Kriterien bei der Planung und Ausführung der Dachbegrünung zu beachten. Generell muss der verwen dete Wärmedämmstoff eine ausreichende Druckfestigkeit für die Last der Begrünung und die vorgesehene Nutzungsart aufweisen.
+Einschalige, nicht durchlüftete Dächer (,,Warmdach") Unter den Flachdachkonstruktionen ist dieser Dachtyp in Deutschland am verbreitetsten. Auf der Rohdecke befindet sich die Dampfsperre, darauf die Wärmedämmung und als oberste Lage die Dachabdichtung. Grundsätzlich lassen sich auf einschaligen Dächern alle Begrünungsarten aus führen, wenn die entsprechenden Lastreserven vorhanden sind.
+
+Umkehrdächer Bei Umkehrdächern liegt die Wärmedämmung oberhalb der Dachabdichtung im wechselfeuchten Bereich. Da die Wärmedämmung nach oben nicht diffusionsdicht abgeschlossen werden darf, müssen in diesem Fall die im Begrünungsaufbau verwendeten Folien und Schichten diffusionsoffen sein. Ein Wasseranstau auf der Umkehrdämmung ist im Allgemeinen nicht möglich, außer es werden spezielle Dränage- und Wasserspeicherelemente verwendet.
+
+Vegetationsschicht Dränschicht Schutzlage Abdichtung
+Wärmedämmung
+Dampfsperre
+
+Dachkonstruktion
+Zweischalige, belüftete Dächer (,,Kaltdach") Bei dieser Konstruktionsart befindet sich über der Wärmedämmung ein durchlüfteter Hohlraum. Dieser wird nach oben durch eine Tragschale begrenzt, die die Abdichtung trägt. Die Tragfähigkeit der oberen Schale lässt in der Regel nur Begrünungsarten mit niedrigen
+
+Die Dachbegrünung dient beim Umkehrdach in der Regel als Windsogsicherung für eine lose verlegte Wärme dämmung, sie muss deshalb den entsprechenden Anforderungen genügen. Grundlage hierfür sind Berechnungen des Statikers bzw. des Herstellers der Wärmedämmung. Wird bei der Sanierung von einschaligen, nicht durchlüfteten Dächern der Wärmeschutz durch das Aufbringen eines wärmedämmenden
+
+Teil III: Ergänzende Kommentare zur Checkliste 21
+
+TEIL III
+
+Begrünungsaufbaus verbessert, entsteht eine Sonderform des Umkehrdaches. Die Abdichtung liegt bei dieser Konstruktionsart zwischen zwei Wärmedämmschichten und ist dadurch besonders geschützt. Dieser Aufbau vereint die Vorteile des ,,Warmdachs" mit denen des Umkehrdachs.
+
+der Dachabdichtungsarbeiten aufzubringen. Ist dies nicht möglich, muss bereits vor Ausführung der Dachabdichtung geklärt werden, wie die Sicherung gegen Windsog bis zum Beginn der Begrünungsarbeiten sichergestellt werden kann.
+Die Windbeanspruchung der Dachfläche hängt neben der lokalen Windzone von Gebäudehöhe, Dachform/neigung, Dachbereich (Eck-, Mitten-, Randbereich) und der Deckenunterlage ab. Detaillierte Angaben über Wind druck/-sog und notwendige Auflasten zur Sicherung der Dachabdichtung finden sich in DIN 1055-4, ,,Lastannahmen für Bauten ­ Verkehrslasten, Windlasten" und in den ,,Flachdachrichtlinien" (Anhang 1).
+
+Dächer aus wasserundurchlässigem Beton Dachdecken aus wasserundurchlässigem Beton können mit oberseitiger, unterseitiger oder ohne Wärmedämmung ausgeführt sein. Die Hinweise für die Auswahl der Dämm stoffe und die Anforderungen an den Dachbegrünungsauf bau gelten entsprechend.
+
+Achtung: Lassen Sie sich die erforderlichen Auflasten zur Windsogsicherung durch den Begrünungsaufbau schriftlich vorgeben.
+Einteilung Eck- / Rand- / Mittenbereiche
+
+Verträglichkeit der Schichten Chemisch unverträgliche Materialien sind durch Trenn schichten voneinander abzuschirmen. In ähnlicher Weise verhindern Gleitschichten ein unerwünschtes Kle beverhalten und/oder verringern die Scherbelastung zwischen zwei Schichten. Die Verträglichkeit der eingesetzten Materialien muss bereits in den Planungsund Ausschreibungsunterlagen berücksichtigt werden. Im Zweifelsfall ist mit den Produktherstellern Rücksprache zu halten.
+
+Flächenaufteilung für Flachdächer mit rechteckigem Grundriss
+
+Flächenaufteilung für Flachdächer mit quadratischem Grundriss
+
+2.6 Lagesicherung gegen Windsog Der Dachaufbau kann durch Verklebung oder mechanische Befestigung gegen Windsog gesichert werden. Wenn die Begrünung die Auflast für eine lose verlegte Dachab dichtung/Wurzelschutzfolie oder Dämmung bildet, ist ein entsprechend schwerer Dachbegrünungsaufbau (Hier ist das Trockengewicht anzusetzen!) unverzüglich nach Ende
+
+22 Teil III: Ergänzende Kommentare zur Checkliste
+
+2.7 Dachabdichtung Dachabdichtungen müssen für den jeweiligen Anwen dungsfall geeignet sein. Zu den relevanten Parametern bei der Auswahl der Dachabdichtung gehören: thermische und mechanische Beanspruchung, Nutzung der Dach fläche, Anwendungskategorie und Dachneigung. Nähere Hinweise zur Auswahl und Ausführung finden sich in DIN 18531 (extensive Dachbegrünung), DIN 18195 (intensive Dachbegrünung und Verkehrsflächen) sowie ggf. in den ,,Flachdachrichtlinien". Die Anforderungen an Bauwerksabdichtungen bei Intensivbegrünungen mit Wasseranstau werden in DIN 18195-5 und DIN 18195-6 ausgeführt (s. 2.2 Dachneigung).
+
+Prüfung der Wurzelfestigkeit nach FLL
+Versuchspflanzen: Feuerdorn und Quecke
+
+Seit November 2005 ist die komplett überarbeitete DIN 18531 für Dachabdichtungen bei nicht genutzten Dächern in Kraft. Eine der wichtigsten Neuerungen ist die Einteilung der Ausführung in Qualitätsstufen.
+
+Standardausführung: für Dachabdichtungen, an die üb liche Anforderungen gestellt werden.
+Höherwertige Ausführung: für Dachabdichtungen an die durch Planer / Bauherr erhöhte Anforderungen gestellt werden (z. B. bei Hochhäusern, höherwertiger Gebäude nutzung oder Dächern mit erschwertem Zugang).
+
+Optimale Bedingungen für das Pflanzen- / Wurzelwachstum in der 2- bzw. 4- Jahresprüfung
+
+Als Nachweis für die Durchwurzelungsfestigkeit der Abdichtung gilt das ,,Verfahren zur Untersuchung der Wurzelfestigkeit von Bahnen und Beschichtungen für Dachbegrünungen" der Forschungsgesellschaft Landschaftsentwicklung Landschaftsbaubau e.V. (FLL) bzw. die DIN EN 13948 (s. Teil I, 3 Regelwerke) bzw. die DIN EN 13948 (s. Teil l, 3 Regelwerke). Mehr als 70 verschiedene Dachabdichtungsfabrikate besitzen das FLL-Testat ,,wurzelfest". Falls die Dachabdichtung nicht wurzelfest ausgebildet ist, muss eine zusätzliche Wurzel schutz-schicht aufgebracht werden. Neben der Dachfläche müssen auch An- und Abschlussbereiche, Fugen und Dachdurchdringungen wurzelfest ausgebildet werden.
+
+Testat ,,wurzelfest": keine Wurzeleindringung/durchdringung bei der Versuchsbahn
+
+Teil III: Ergänzende Kommentare zur Checkliste 23
+
+TEIL III
+
+2.8 Dachnutzung und Absturzsicherung Auf Dachflächen, die später als Wohn-/ Lebensraum dienen sollen, sind besondere technische Vorkehrungen zu treffen, um eine bequeme Nutzung zu ermöglichen. Hierzu gehören z. B. Bewässerungsanschlüsse, konstruktive Vorrüstungen für Ausstattungselemente, einfache Zugangsmöglichkeiten und Geländerkonstruktionen zur Absturzsicherung.
+Wartungs- und Pflegezugänge bei Extensivbegrünungen
+
+Intensivbegrünungen: Sicherer Zugang, komfortable Nutzung
+
+Aber auch Dachflächen, auf denen keine Nutzung vorgesehen ist, müssen für die jährlichen Wartungsund Pflegemaßnahmen zugänglich sein und über entsprechende Anschlagpunkte für Absturzsicherungen verfügen. Wer Dachflächen ohne Zugang für Pflege und Wartung plant, begeht Planungsfehler. Prüfen Sie deshalb, ob die vorhandenen Zugänge und Absturzvorrichtungen den Sicherheits- und Unfallverhütungsvorschriften ent sprechen.
+
+Bewährt: Absturzsicherungssysteme ohne Dachdurchdringung
+
+Gegebenenfalls können Sie den Einbau geeigneter Ab sturzsicherungsmaßnahmen zur Nachrüstung anbieten. Zu empfehlen sind in jedem Fall Absturzsicherungs-Systeme, bei denen die Dachbegrünung als Auflast dient und die deshalb ohne Durchdringung der Dachhaut auskommen.
+
+24 Teil III: Ergänzende Kommentare zur Checkliste
+
+3 Prüfung der Dachabdichtung
+
+Damit die Dachabdichtung ihre Gebäude-Schutzfunktion dauerhaft erfüllen kann, muss sie sowohl in der Fläche als auch in den An- und Abschlussbereichen fachgerecht ausgeführt sein. Die Kontrolle der Abdichtung ist deshalb besonders sorgfältig durchzuführen und kann im Rahmen eines zweistufigen Verfahrens erfolgen. Die äußerliche Prüfung durch Inaugenscheinnahme als erster Schritt ist obligatorisch. Wenn im Übergangszeitraum zwischen der Abnahme der Dachabdichtung und der technischen Begehung vor Beginn der Begrünungsarbeiten fremde Ge werke auf dem Dach tätig waren oder aus anderen Grün den ein erhöhtes Gefährdungspotential bestand (s. 4.1 Gefährdung der Dachabdichtung), ist besondere Vorsicht geboten. In diesen Fällen sollten nach Rücksprache mit dem Dachabdichter und Auftraggeber auch bereits vorhandene Schutzlagen wieder entfernt werden, um eine sorgfältige Prüfung zu ermöglichen. Die Prüfung auf Augenschein ist nicht ausreichend, wenn sich bei der Inspektion der Dachabdichtung und der Dachdetails offensichtliche Hinweise auf eine mangelhafte Ausführung ergeben oder eine technische Norm eine tiefer gehende Prüfung vorschreibt (vgl. Teil I, 2 Prüfungspflichten beim Gewerkeübergang). Gegebenen falls müssen in diesen Fällen Sachverständige hinzu gezogen werden. Außerdem existieren verschiedene technische Prüfverfahren, die eine Ortung von Leckstellen/ Beschädigungen der Dachbahn ermöglichen.
+Die in der Folge beschriebenen Prüfpunkte 3.1 - 3.4 legen den Fall eines bahnförmig abgedichteten Dachaufbaus zugrunde. Die fachliche Prüfung von Flüssigabdichtungen, Metalldächern und Dächern aus wasserundurchlässigem Beton übersteigt in der Regel die Fachkenntnis, die ein Dachbegrünungsunternehmen für ein fremdes Gewerk besitzen muss. In diesem Fall sollte die fachgerechte Ausführung und Dichtigkeit der Dachfläche durch den ausführenden Dachabdichtungsbetrieb oder einen extern en Gutachter bestätigt werden.
+3.1 Normen und Richtlinien Für die Prüfung der fachgerechten Verarbeitung der
+
+Dachabdichtung sind neben den Hinweisen in den ,,Flachdachrichtlinien" die Vorgaben und Regeldatenblätter der Abdichtungshersteller maßgeblich (vgl. Teil I, 3 Regelwerke). So sind z. B. je nach Abdichtungsmaterial unterschiedliche Mindestüberlappungsbereiche der Bahnen vorgegeben. Bei Zweifeln an der fachgerechten Ausführung sollten Vertreter der Abdichtungshersteller zu Rate gezogen werden.
+3.2 Dachoberfläche Bei der optischen Prüfung der Abdichtungsoberfläche sind folgende Punkte zu beachten:
+- Sind Risse oder mechanische Beschädigungen auf der Dachbahn-Oberfläche zu erkennen?
+- Treten Blasenbildungen aufgrund von Feuchtigkeitsoder Lufteinschlüssen auf?
+- Befinden sich Fremdkörper auf der Dachabdichtung (z. B. Blechteile, Nägel), die potentielle Gefahrenquellen darstellen?
+Achtung: Häufig sind andere Gewerke für nachträgliche Beschädigungen der Dachoberfläche verantwortlich. Kontrollieren Sie deshalb die Flächen vor aufgehenden Gebäudeteilen (g Verputzarbeiten, Gerüstinstallation) besonders genau.
+Elektronische Leckmeldeanlagen ermöglichen permanente Dichtheitsüberwachung und präzise Schadensortung
+
+Teil III: Ergänzende Kommentare zur Checkliste 25
+
+TEIL III
+
+3.3 Nahtverschweißung Mangelhafte Nahtverbindungen bieten Niederschlags wasser und Pflanzenwurzeln Eintrittsstellen in die darunter liegenden Dachschichten. Die Nahtverbindungen sind deshalb an den Überlappungsbereichen und insbesondere bei T-Stößen, Durchdringungen und Anschlüssen auf fachgerechte Ausführung zu überprüfen. Hinweise zur Verarbeitung und Prüfmethoden finden sich in den jeweiligen Herstellervorschriften.
+
+gehenden Bauteilen und Bauwerksfugen sind neben den gängigen Regelwerken und Normen (,,Flachdachrichtlinien", DIN 18195-9 und DIN 18531) die Ausführungsvorgaben und Skizzen der Planungsunterlagen zu Rate zu ziehen. Auch in den Unterlagen der Abdichtungshersteller finden sich häufig hilfreiche Hinweise. Dabei können bauaufsichtliche Zulassungen bzw. Prüfzeugnisse als Beurteilungsgrundlage herangezogen werden. Weichen die Planunterlagen von den DIN-Normen ab, sind ggf. Bedenken anzumelden.
+
+Sind bei der optischen Kontrolle offene Nahtbereiche, Falten oder Verfärbungen zu erkennen, oder zeichnet sich die Gewebestruktur auf der überlappenden Bahn im Bereich der Nahtverschweißung deutlich ab, muss tiefer gehend geprüft werden. Hierzu kommen Schältests oder mechanische Nahtkontrollen (g Reißnadelprüfung) durch den Dachdeckerbetrieb in Frage. Sind die Nähte bereits versiegelt worden, so dass eine Prüfung der Nahtverschweißung nicht mehr möglich ist, muss dies im Protokoll der technischen Begehung ver merkt werden.
+
+Auf folgende Punkte ist besonders zu achten: Sind die An- und Abschlussbereiche...
+- jederzeit kontrollierbar und zugänglich? - an den oberen Enden hinterlaufsicher ausgeführt? - auf die mechanische und thermische Belastung sowie
+die Witterung abgestimmt? - bei bituminösen Abdichtungen an Ecken und Kanten
+mit einem Keil (z. B. aus Dämmstoff) ausgebildet, damit die Abdichtungsbahn dort nicht abknickt? - an Attika und aufgehenden Gebäudeteilen mit einer gesonderten Anschlussbahn versehen? - und die Dachabdichtung aus dem gleichen Material? Bei unterschiedlichen Werkstoffen muss eine dauer hafte Verträglichkeit gewährleistet sein. - entsprechend den Vorgaben (s. 2.4 Anschluss- und Abschlusshöhen) hoch genug um den Mindestabstand zur späteren Oberfläche zu gewährleisten?
+
+Schweißnaht Bitumenbahnen / Verschweißung Kunststoff-Dachbahnen
+3.4 Ausbildung der Dachdetails Jede Kette ist nur so stark wie ihr schwächstes Glied. Deshalb kommt der fachgerechten Planung und hand werklichen Ausführung der Dachdetails besondere Be deutung zu. Bei der Prüfung der An- und Abschlüsse an Einbauteilen, Türen, Durchdringungen, Dachrändern, auf
+
+Wurden bei der Fixierung der Dachabdichtung... - im Innen-, Rand- und Eckbereich der Dachfläche die erforderliche Anzahl an Befestigungselementen (vgl. 2.6 Lagesicherung gegen Windsog) fachgerecht montiert? - Maßnahmen zur Aufnahme horizontaler Kräfte entlang sämtlicher An- und Abschlüsse ausgeführt? - an den senkrechten Bereichen der An- und Abschlüsse auf eine ausreichende Aufklebung, Verschweißung oder mechanische Befestigung geachtet? - mehrteilige Profile verwendet, die ein Abrutschen und Hinterlaufen der Dachabdichtung verhindern? - bei Verwahrungen darauf geachtet, dass sich ther mische Längenänderungen nicht nachteilig auf die
+
+26 Teil III: Ergänzende Kommentare zur Checkliste
+
+Abdichtung auswirken und Ecken und Kanten der Abdeckungen nicht auf der Abdichtung aufliegen? - an beweglichen Bauteilen besondere konstruktive Maßnahmen (z. B. Trennstreifen) eingebaut?
+
+Dachrand/Attika: An Dachrandabschlüssen sollte die Abdichtung mit einer gesonderten Anschlussbahn über die Dachrandaufkantung bis zur Außenkante geführt, befestigt und anschließend mit geeigneten Abdeckungen oder Abschlussprofilen versehen werden. Die Verwahrungen müssen windsicher ausgeführt sein und außerdem ein Gefälle zur Dachfläche aufweisen.
+
+Aufgehende Bauteile: Flächen, an denen die Dachbahn hochgeführt wird, müssen glatt und eben sein. Liegt ein unebenes Mauerwerk vor, so muss der Anschlussbereich mit einer fest haftenden Putzschicht versehen sein. Generell ist die Hinterläufigkeit der Anschlussbereiche bei Vorsatzmauerwerk, Wärmedämmverbundsystemen oder Putzschichten zu vermeiden (z. B. durch Z-Profile). Bei nicht regensicherer vorgesetzter Außenwandbekleidung muss der Anschluss hinter der Bekleidung an der Wand hochgeführt werden.
+
+Dachrand Kunststoffabdichtung
+
+Dachabläufe: Dachabläufe und Notüberläufe müssen fest in der Unterkonstruktion verankert sein. Um Überhöhungen der Entwässerungseinrichtungen zu vermeiden, die den Wasserablauf behindern könnten, sollten die Flansche in der Abdichtungsebene in die Unterlage eingelassen werden.
+
+Wandanschluss Bitumenabdichtung
+
+Dachrand Bitumenabdichtung
+
+Wandanschluss Kunststoffabdichtung Teil III: Ergänzende Kommentare zur Checkliste 27
+
+TEIL III
+
+3.5 Dachunterseite Liegt die Fertigstellung der Dachabdichtung schon längere Zeit zurück, kann auch eine Untersuchung der Dachunterseite auf feuchte Stellen erste Hinweise auf die Mangelhaftigkeit der Dachabdichtung liefern.
+3.6 Dokumentation Die Zustandserfassung der Dachfläche im Rahmen der technischen Begehung ist umfassend schriftlich und fotografisch zu dokumentieren. Dies gilt im besonderen Maße für die vorgefundenen Mängel, die im Rahmen der Bedenkenanmeldung hinreichend belegt werden müssen. Die detaillierte Dokumentation bildet außerdem die Grundlage für eine schnelle Nachbesserung, so dass der weitere Bauablauf nicht unnötig verzögert wird. Notieren Sie außerdem unbedingt, welche Dachbereiche aufgrund baulicher Maßnahmen (z. B. Abdeckung durch Schutzlagen) oder unvollständiger Vorleistungen nicht auf die vertragsgemäße Ausführung geprüft werden konnten und wie in diesen Fällen weiter zu verfahren ist. Die Beweislast für die Prüfung der Vorgewerksleistungen liegt beim Dachbegrüner. Die technische Begehung muss deshalb so dokumentiert und archiviert werden, dass Zeit, Ort, beteiligte Personen und durchgeführte Prüfmaßnahmen auch später nachvollziehbar sind.
+
+- Mechanische Beschädigung der Dachhaut durch fremde Gewerke
+- (Unsachgemäße) Lagerung von Baumaterialien auf dem Dach
+- Vandalismus - Extreme Witterungseinflüsse
+Vorsicht ist außerdem bei angrenzenden Gebäuden ge boten. Hier kann es zu mutwilligen oder unbeabsichtigten Beschädigungen durch Zigarettenkippen, Glassplitter etc. kommen. Die Begrünungsarbeiten sollten deshalb möglichst unmittelbar im Anschluss an die technische Begehung erfolgen. Ist dies nicht möglich, müssen Schutz maßnahmen getroffen werden, um eine Beschädigung der Dachabdichtung durch fremde Gewerke oder Um welteinflüsse zu verhindern.
+
+4 Gewerkeübergang
+
+Nachdem bei der technischen Begehung der Ist-Zustand der dachtechnischen Arbeiten überprüft wurde, sind im Rahmen des Gewerkeübergangs Vorkehrungen zu treffen, damit die Abdichtung bis zum Beginn der Begrünungs arbeiten vor möglichen Beschädigungen geschützt wird. Durch gewerkeübergreifende Absprachen bei der Nutzung von Kränen, Gerüsten und anderen Baustelleneinrichtungen können außerdem erhebliche Kosten eingespart werden.
+
+4.1 Gefährdung der Dachabdichtung Klären Sie mit der Bauleitung und dem Dachdeckerbetrieb das lokale Gefährdungspotential der Dachfläche. Folgende Punkte sollten auf jeden Fall angesprochen werden:
+
+Erhöhtes Gefährdungspotential durch fremde Gewerke und unsachgemäße Lagerung von Baumaterialien
+
+28 Teil III: Ergänzende Kommentare zur Checkliste
+
+4.2 Schutzmaßnahmen im Übergangszeitraum Die Auswahl der Schutzmaßnahmen orientiert sich an der Einschätzung des Gefährdungspotentials der Baustelle (4.1) und der weiteren Zeitplanung für die Aus führung der Dachbegrünungsarbeiten. Natürlich sollte die Dachabdichtung auch bereits in der Übergangszeit zwischen der Fertigstellung der Abdichtung und der technischen Begehung geschützt sein. Alle Beteiligten sollten sich deshalb bereits im Vorfeld abstimmen, mit welchen Maßnahmen die Schutzwirkung am effizientesten zu erzielen ist.
+Als Schutz gegen mechanische Einwirkungen in der Übergangszeit können auch die Schutzlagen mit hoher Per
+
+forationsfestigkeit laut "Flachdachrichtlinien" verwendet werden. Hierzu gehören beispielsweise:
+- Kunststoffvliese, mindestens 300g/m2 (eingeschränkte Belastbarkeit)
+- Bautenschutzmatten und -platten aus Gummigranulat, mindestens 6 mm dick
+- Dränagematten und -platten - Platten aus PS-Extruderschaum
+Zusätzlich empfiehlt es sich, Verkehrswege und Lagerfläch en separat auszuweisen und mit entsprechenden Belägen (z. B. Holzplatten, Kautschukmatten etc.) zu versehen.
+
+Zu den möglichen Maßnahmen gehören:
+
+- Sperrung der Dachfläche für fremde Gewerke / bzw. kontrollierter Zugang Sorgen Sie dafür, dass Fremdgewerke das Dach nur mit Ihrer Kenntnis betreten dürfen. Die entsprechenden Regelungen sollten bereits Bestandteil der Verträge des Auftraggebers mit den anderen Gewerken sein.
+
+Dacharbeiten, Unbefugten ist der Zutritt verboten
+
+- Abdeckung der Fläche mit Schutzlagen Die Auswahl der Schutzlagen sollte sich an der zu erwartenden Beanspruchung während und nach der Bauzeit orientieren und auf die Abdichtungsbahn abgestimmt sein. Zu harte Schutzschichten können zu einer mechanischen Beschädigung der Abdichtung führen.
+
+Dränagematten bieten mechanischen Schutz und speichern gleichzeitig Feuchtigkeit
+
+- Ausweisung von Lagermöglichkeiten Wenn Teile des Daches als Lagerfläche genutzt werden sollen, müssen die jeweiligen Bereiche besonders geschützt werden und gekennzeichnet sein.
+
+Lagerung nur in ausgewiesenen ,,Schutzzonen"
+
+Teil III: Ergänzende Kommentare zur Checkliste 29
+
+TEIL III
+
+4.3 Absturzsicherung während der Ausführung Das Bauteil Dach besitzt aufgrund seiner ,,Fallhöhe" ein sehr hohes Gefährdungspotential. Für die am Dach vorzunehmenden Arbeiten müssen deshalb ab einer Absturz höhe von 3 m zwingend Einrichtungen vorhanden sein, die ein Abstürzen von Personen verhindern. Nähere Angaben hierzu finden sich in DIN 4420, DIN 4426, den Unfallverhütungsvorschriften der Berufsgenossen schaften und den jeweiligen Landesbauordnungen. Als Ab sturzsicherung kommen insbesondere Geländer, Gerüste und Fangnetze und gegebenenfalls auch Anseilmethoden in Frage.
+Im Rahmen der Bauüberwachungspflicht ist der Auf traggeber/Architekt oder ein Sicherheits- und Gesund heitsschutz-Koordinator (SiGeKo) für die Umsetzung der Arbeitsschutzbestimmungen auf der Baustelle verant wortlich. Beim Gewerkeübergang ist unbedingt zu prüfen, ob sich durch die Beendigung der Dachdeckerarbeiten eine Änderung der Sicherungseinrichtungen ergibt (z. B. durch den Abbau von Gerüsten).
+
+4.4 Zugänglichkeit zur Dachfläche Für die Installation der Dachbegrünung müssen einfache und sichere Zugangsmöglichkeiten zur Dachfläche vor handen sein, die den Sicherheits- und Unfallverhütungs vorschriften entsprechen. Außerdem kann es sich an bieten, die für die Dachdecker-Arbeiten aufgebauten Kräne, Gerüste und andere Baustelleneinrichtungen weiter zu nutzen. Die Koordinierung der Gewerke gehört zu den Planungsaufgaben des Architekten. Durch frühzeitige Absprachen aller Beteiligten lassen sich hier erhebliche Kosten einsparen.
+Gewerkeübergreifende Nutzung von Baustellenein richtungen
+
+!
+<3m
+
+...bei Dachabdichtungsarbeiten...
+
+Bei Attikahöhen von mindestens 1 m oder festen Absper rungen in 2 m Abstand von der Absturzkante (bei Dächern mit weniger als 20° Neigung) sind keine zusätzlichen Ab sturzsicherungsmaßnahmen notwendig.
+
+...und Installation der Dachbegrünung.
+
+30 Teil III: Ergänzende Kommentare zur Checkliste
+
+5 Bedenkenanmeldung
+
+Bestehen aufgrund der technischen Begehung Bedenken gegen die Leistungen anderer Unternehmer oder die vor gesehene Art der Dachbegrünungs-Ausführung (hierzu ge hören z. B. fehlende Sicherungen gegen Unfallgefahren, s. 4.3 Absturzsicherung während der Ausführung) so ist der Bauherr/Auftraggeber hiervon unverzüglich in Kenntnis zu setzen. Wird die Bedenkenanmeldung nur dem Architekten bzw. einem Bauherrenvertreter gegenüber geäußert, kann dies im Streitfall zu erheblichen Problemen führen. Für die Bedenkenanmeldung gegenüber dem Auftragge ber ist aus Gründen der Nachweissicherung unbedingt die Schriftform mit Zugangsnachweis zu wählen. Bei VOB-Verträgen ist im Anschreiben Bezug auf § 4 Nr. 3 der VOB Teil B (Allgemeine Vertragsbedingungen für die Ausführung von Bauleistungen) zu nehmen. Neben Checkliste und Bilddokumentation ist das Protokoll zur technischen Begehung der Dachfläche vor Beginn der Begrünungsarbeiten beizulegen. Dieses Dokument enthält die vollständige, fachgerecht formulierte Auflistung der vorgefundenen Mängel und Sachverhalte inklusive einer Begründung der Bedenken. Insbesondere sind auch die konkreten Folgen bei Nichtbeachtung der Bedenken darzulegen, so dass dem Auftraggeber die Tragweite seiner Entscheidung klar wird.
+
+Des Weiteren sollte die Bedenkenanmeldung folgende Punkte beinhalten:
+- Einräumung einer angemessenen Frist für den Auftraggeber zur Prüfung der geäußerten Bedenken und Klärung der weiteren Ausführung.
+- Mitteilung, dass die beauftragten Werkleistungen bis zur Klärung des Sachverhaltes nur in sofern weitergeführt werden, wie dies für die mängelfreie Herstellung des Gewerks Dachbegrünung möglich ist.
+- Vorsorgliche Anzeige der Behinderung der weiteren Ausführung der beauftragten Werkleistungen, wenn die Stellungnahme des Auftraggebers nicht bis zum Ablauf der eingeräumten Frist erfolgt.
+Der Dachbegrünungsunternehmer kommt durch die Bedenkenanmeldung einer Verpflichtung aufgrund des Bauvertrages nach. Die geforderten Überprüfungen dienen dem Interesse aller Vertragspartner an einer mangelfreien Bauleistung.
+
+Teil III: Ergänzende Kommentare zur Checkliste 31
+
+Schlusswort
+
+Der Bauherr erwartet von allen beteiligten Partnern, dass sie ihre Erfahrung und ihre Qualifikation einsetzen, um die Erstellung einer dauerhaft funktionssicheren Dachbegrünung zu gewährleisten. Hierin inbegriffen ist die fachkundige Beurteilung der jeweiligen VorgewerksLeistungen durch die nachfolgenden Unternehmen. Wenn es um die Prüfung von Dachunterkonstruktion und Dach abdichtung im Bezug auf die geplante Art der Dach begrünung geht, kommt dem Urteil erfahrener GründachBetriebe besondere Bedeutung zu. Planen Sie deshalb für die Begutachtung der Dachabdichtung genügend Zeit ein, vermeiden Sie Abendstunden mit schwierigen Sichtverhältnissen und lassen Sie sich nicht unter Druck setzen. Spätere Reklamationen sind aufwändig und verzögern den weiteren Bauablauf unnötig. Und hören Sie im Zweifel auf Ihr Bauchgefühl und prüfen Sie unklare Sachverhalte nach.
+
+Naturoasen in der städtischen Dachlandschaft
+
+Die technische Begehung der Dachfläche vor Beginn der Begrünungsarbeiten ist ein wichtiger Baustein, damit die Begrünung später die gesamte Palette der ökologischen und ökonomischen Vorteile entfalten kann. Denn neben dem Schutz der Dachabdichtung und der ansprechenden Optik schlagen sich auch Regenwasserrückhalt, Wärme dämmung, Klimaverbesserung und der neu geschaffene Lebensraum für Pflanzen und Tiere positiv in der Bilanz nieder. Kein anderes Baukonzept schafft eine vergleichbare Vielfalt an positiven Effekten für Gebäude, Mensch und Umwelt.
+
+Wohn- und Freizeitraum in luftiger Höhe
+
+32 Schlusswort
+
+Deutscher Dachgärtner Verband e.V.
+
+Der Deutsche Dachgärtner Verband e.V. (DDV) ist eine Vereinigung von mehr als 130 Landschaftsgärtnern, Dachdeckern, Planern und Umweltschützern. Aufgrund unserer langjährigen Werbearbeit für das Thema ,,Grüne Dächer" können unsere ausführenden Mitgliedsbetriebe auf einen umfangreichen Informations- und Wissenspool zurückgreifen. Dabei legen wir besonderen Wert auf qualitativ hochwertige Begrünungssysteme und fach gerechte Ausführung.
+Jedes zusätzliche Gründach verbessert die Umwelt- und Wohnqualität in versiegelten Wohn- und Industriegebieten. Im Rahmen unserer Öffentlichkeitsarbeit bieten wir deshalb allen Baubeteiligten und Gründach-Interessierten fundierte Informationen, um Vorurteile abzubauen, Markthemmnisse zu beseitigen und langfristig funktionssichere Gründächer zu planen.
+
+Fachvorträge: Das DDV-Referententeam ist mit Fach vorträgen bei Umweltmessen, Bürgerinfo-Abenden und Ausbildungsstätten/Hochschulen präsent.
+Richtlinienarbeit: Wir beteiligen uns an der Erstellung neuer Dachbegrünungsrichtlinien und Regelwerke, z. B. im Rahmen unserer Mitgliedschaft in der Forschungsge sellschaft Landschaftsentwicklung Landschaftsbau e. V. (FLL).
+Weitere wichtige Bausteine der DDV-Öffentlichkeitsarbeit sind Schaubegrünungen, Pressepublikationen, Messe aktivitäten und telefonische Fachberatungen. Aktuelle Hinweise zu Fördermaßnahmen, Dachbegrünungstechnik und unseren Veranstaltungen finden sie auch im Internet unter www.dachgaertnerverband.de.
+
+Unsere Aktivitäten im Überblick
+Fachberatung: Bauherren, Architekten und Planern liefert der DDV Informationsmaterial und Beratung zu allen wichtigen Fragen rund um das Thema Dachbegrünung. Auf unserer Internetseite www.dachgaertnerverband.de finden Sie außerdem erfahrene Dachbegrünungsbetriebe aus dem gesamten Bundesgebiet.
+
+Werden Sie Mitglied im Deutschen Dachgärtner Verband e.V.
+Unser Mitgliederservice beinhaltet:
+- Werbehilfen und PR-Material
+
+Netzwerk Kommune: Der DDV fördert den Informations austausch zwischen kommunalen Fachbehörden. Somit werden Gründachsatzungen erlassen, Dachbegrünungen gefördert und als Ausgleichsmaßnahme akzeptiert.
+
+- Kontinuierliche Fortbildung und technische Schulung
+- Kontaktbörse zu Bauherren, Architekten und Ausfüh rungsbetrieben
+
+Newsletter-Service: Objektberichte, DachbegrünungsTechnik, Fördermaßnahmen und aktuelle Veranstaltungen ­ unser Gründach-Newsletter hält Sie über alle wichtigen Dachbegrünungs-Trends auf dem Laufenden.
+Seminare und Workshops: Mit der erfolgreichen Informationsreihe ,,Gründach-Forum" erreichen wir Architekten, Baubeteiligte und Fachbehörden im gesamten Bundesgebiet.
+
+-Internetpräsentation und Zugang zum Mitgliederbereich
+- Regelmäßiger Erfahrungsaustausch mit Kollegen
+Weitere Informationen: Telefon: 07022 / 6003-590 E-Mail: contact@dachgaertnerverband.de Internet: www.dachgaertnerverband.de
+
+33
+
+Deutscher Dachgärtner Verband e.V.
+Der neue DDV-Praxisratgeber ,,Das 1x1 der Dachbegrünung"
+Auf 52 Seiten hat der Deutsche Dachgärtner Verband e.V. alle wichtigen Informationen rund ums grüne Dach auf kompakte und qualifizierte Weise zusammengestellt. Dazu gehören die ökologischen und ökonomischen Vorteile des Multi-Talents ,,Dachbegrünung" ebenso wie die technischen Grundlagen (Material, Planungshilfen etc.). Aber auch die Aspekte ,,kommunale Fördergelder" und ,,Praxistipps für die Ausführung" kommen in der Broschüre nicht zu kurz. Der DDV möchte mit dem neuen Praxisratgeber ,,Dach begrünung" vor allem private Bauherren dazu anregen, grüne Oasen auf ihren ungenutzten Dächern zu schaffen. Planern, Architekten, Ausführungsbetrieben und Umwelt verbänden kann die Broschüre ebenfalls als erster Einstieg in die Dachbegrünungsthematik dienen. Der DDV-Praxisratgeber kann gegen eine Schutzgebühr von 5,00  zzgl. Versandkosten telefonisch (07022 / 6003590) oder über die Internetseiten des Deutschen Dach gärtner Verbandes (www.dachgaertnerverband.de) bestellt werden.
+34
+
+Kontaktdaten Arbeitskreis
+
+Teilnehmer:
+
+Deutscher Dachgärtner Verband e.V. Herr Hans-Joachim Seeger Herr Wolfgang Ansel Postfach 2025, 72610 Nürtingen Internet: www.dachgaertnerverband.de
+
+Fritz Müller GmbH Herr Stefan Müller Feuchtmayrstr. 25 88250 Weingarten Internet: www.garten-mueller.de
+
+Büschkes GmbH & Co. KG Herr André Büschkes Kirchheimerstr. 32 53881 Euskirchen Internet: www.bueschkes.com
+
+Neumann Gusenburger Prof. Dr. Klaus Neumann Heerstr. 90 14055 Berlin Internet: www.ng-landschaftsarchitekten.com
+
+Epple Luther Rechtsanwälte Herr Tilmann Mögle Gartenstr. 43 72764 Reutlingen Internet: www.eppleluther.de
+
+Neumann | Architekt Herr Maik Neumann Wannenstrasse 24 70199 Stuttgart Internet: www.neumann-architekt.de
+
+FDT FlachdachTechnologie GmbH & Co. KG Herr Olaf Hundertmark, Geschäftsleitung/Vertrieb Eisenbahnstr. 6-8 68199 Mannheim Internet: www.fdt.de
+
+Vulkatec Riebensahm GmbH Herr Dirk Riebensahm Bismarckplatz 6a/Hafen 06385 Aken/Elbe Internet: www.vulkatec.de
+
+GDT Gründach Technik GmbH Südwest Herr Hövekamp Dammstr. 4 72669 Unterensingen Internet: www.gruendach-technik.de
+
+Rolf Wied GmbH Herr Georg Kowarsch Maybachstr. 14 71404 Korb Internet: www.wied-gmbh.de
+
+Grün + Dach Herr Jürgen Quindeau Talburgstr. 75 42579 Heiligenhaus Internet: www.gruenunddach.de
+
+ZinCo GmbH Herr Dieter Schenk, Herr Roland Appl Grabenstr. 33 72669 Unterensingen Internet: www.zinco.de
+
+Kebulin - Gesellschaft Kettler GmbH & Co. KG Herr Rainer Scherff Ostring 9 45701 Herten - Westerholt Internet: www.kebu.de
+
+Dipl. Ing. Matthias Zöller ö.b.u.v. Sachverständiger Pfalzgrafenstr. 31 67434 Neustadt/Wstr. Internet: www.sv-zoeller.de
+
+Ingenieurbüro Ludewig Herr Thomas Ludewig Pavillonstr. 10 66740 Saarlouis Internet: www.ludewig.biz/
+35
+
+Der Inhalt des DDV-Leitfadens ,,Sicherer Gewerkeübergang" setzt sich im Wesentlichen aus zwei Modulen zusammen:
+· In der Checkliste sind die aktuellen Prüfkriterien der Schnittstelle Dach-/ Vegetationstechnik auf kompakte und übersichtliche Weise zusammengestellt.
+· Der begleitende Kommentarband enthält zusätzliche Erläuterungen und Bildmaterial zu allen wichtigen Fachbegriffen und Fragestellungen der Checkliste.
+
+Fachliche Grundlage des neuen DDV-Leitfadens sind die langjährigen praktischen Erfahrungen der DDVFachbetriebe aus dem Bereich des Garten- und Landschaftsbaus und des Dachdecker-Handwerks. Diese werden ergänzt durch die Empfehlungen einer interdisziplinär besetzten Expertengruppe, zu der Fachleute aus dem Abdichtungsbereich, der Bauleitplanung, dem Sachverständigenwesen und dem Baurecht gehören.
+
+Deutscher Dachgärtner Verband e.V. · Geschäftsstelle Postfach 2025 · 72610 Nürtingen · Telefon 07022 / 60 03-590 · Telefax 07022 / 60 03-591 Internet: www.dachgaertnerverband.de · E-Mail: contact@dachgaertnerverband.de
+
+
