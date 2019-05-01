@@ -8,7 +8,7 @@ In this repository, you'll find some of our NLP work (with explanation) from the
 We worked on analysing various text for GreunStattGrau, a non-profit company working on urban greening projects. Our teams contributions involved 
 <ul><li>
 converting and cleaning raw, unstructured pdf files (magazines) into data that we can actually analyse;</li>
-    <li>we ran LDA algorithms for topic modelling with gensim including topic visualization (see the <a href = "/notebooks/1.1_LiadRegDan_topicmodelling.ipynb" >notebook</a>); </li>
+    <li>we ran LDA algorithms for topic modelling with gensim including topic visualization (see the <a href = "/notebooks/1.1_LiadRegDan_topicmodelling.ipynb" >notebook</a>, use nbviewer to see interactive visuals); </li>
     <li>using Spacy's NER, we extracted relevant locations and organisations in the urban greening business and visualized our findings on interactive maps (see the <a href = "/notebooks/2.0_RegDan_locationdetection.ipynb" >notebook</a>); </li>
         <li> we highlighted co-occuring entities (persons, organisations) in the text on a graph (using networkx);
             <li>we put forward a simple optimisation model for creating green corridors in urban areas; </li>
