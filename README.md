@@ -1,6 +1,6 @@
 # data4good---GruenStattGrau
 
-<img src="Gruestattgrau_Logo.jpg" alt="Gruenstattgrau" align="middle">
+<img src="/assets/Gruestattgrau_Logo.jpg" alt="Gruenstattgrau" align="middle">
 
 
 In this repository, you'll find some of our NLP work (with explanation) from the <a href = "https://trendydots.com/data4good/" >data4good hackathon</a>. 
