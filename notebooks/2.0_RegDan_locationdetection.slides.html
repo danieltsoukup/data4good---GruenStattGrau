@@ -13242,8 +13242,25 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Location-extraction-and-visualization">Location extraction and visualization<a class="anchor-link" href="#Location-extraction-and-visualization">&#182;</a></h1><h4 id="Presentation-by-Daniel-T.-Soukup">Presentation by Daniel T. Soukup<a class="anchor-link" href="#Presentation-by-Daniel-T.-Soukup">&#182;</a></h4><h4 id="Joint-work-with-Regina-Babo-and-Liad-Magen-at-the-data4good-Hackathon-(April-27-28,-2019).">Joint work with Regina Babo and Liad Magen at the data4good Hackathon (April 27-28, 2019).<a class="anchor-link" href="#Joint-work-with-Regina-Babo-and-Liad-Magen-at-the-data4good-Hackathon-(April-27-28,-2019).">&#182;</a></h4><p><br></p>
-<p><img src="../assets/vdsg_transparent_260x86.png" alt="vdsg" align="middle"></p>
+<h1 id="Location-extraction-and-visualization">Location extraction and visualization<a class="anchor-link" href="#Location-extraction-and-visualization">&#182;</a></h1><h4 id="Presentation-by-Daniel-T.-Soukup-(Faculty-of-Math,-Uni-Vienna)">Presentation by Daniel T. Soukup (Faculty of Math, Uni Vienna)<a class="anchor-link" href="#Presentation-by-Daniel-T.-Soukup-(Faculty-of-Math,-Uni-Vienna)">&#182;</a></h4><h4 id="Joint-work-with-Regina-Babo-and-Liad-Magen.">Joint work with Regina Babo and Liad Magen.<a class="anchor-link" href="#Joint-work-with-Regina-Babo-and-Liad-Magen.">&#182;</a></h4>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><img src="../assets/vdsg_transparent_260x86.png" alt="vdsg" align="right" width="300"></p>
+<h1 id="data4good-hackathon">data4good hackathon<a class="anchor-link" href="#data4good-hackathon">&#182;</a></h1><p><br>
+<br></p>
+<p>This work was mostly done at the data4good Hackathon (April 27-28, 2019).</p>
+<p><br></p>
+<ul>
+<li>2 days, 4 teams working paired with with 4 NGOs</li>
+<li>Our team lead: Liad Magen.</li>
+</ul>
+<p><br></p>
+<p><img src="../assets/ch1-team.png" alt="vdsg" align="middle" width="500"></p>
+<p><br></p>
 <p><br></p>
 
 </div>
@@ -13252,20 +13269,19 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Goals">Goals<a class="anchor-link" href="#Goals">&#182;</a></h1><p><br>
-During the data4good hackathon, we worked with Gruenstadtgrau, an NGO focusing on urban greening projects and green rooftops. <b>One of our goals was to analyse the urban greening literature and determine where most of the these projects happen</b>.</p>
+<h1 id="Textual-analysis-of-urban-greening-projects-in-the-press">Textual analysis of urban greening projects in the press<a class="anchor-link" href="#Textual-analysis-of-urban-greening-projects-in-the-press">&#182;</a></h1><p><br>To analyse the urban greening literature and <b>determine where most of the these projects happen</b>.</p>
 <p><br></p>
 <p><br></p>
 <p><img src="../assets/Gruenstattgrau_Logo.jpg" alt="Gruenstattgrau" align="middle"></p>
 
 </div>
 </div>
-</div></section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The raw documents looked like this: are these locations relevant?</p>
-<p><img src="../data/pages1.jpg" align="middle"></p>
+<h1 id="Location-extraction">Location extraction<a class="anchor-link" href="#Location-extraction">&#182;</a></h1><p>The raw documents looked like this: are these locations relevant?</p>
+<p><img src="../data/pages1.jpg" align="middle" width="800"></p>
 
 </div>
 </div>
@@ -13274,7 +13290,7 @@ During the data4good hackathon, we worked with Gruenstadtgrau, an NGO focusing o
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>How about these locations?</p>
-<p><img src="../data/pages2.jpg" align="middle"></p>
+<p><img src="../data/pages2.jpg" align="middle" width="800"></p>
 
 </div>
 </div>
@@ -13337,7 +13353,6 @@ During the data4good hackathon, we worked with Gruenstadtgrau, an NGO focusing o
 <span class="kn">import</span> <span class="nn">spacy</span>
 <span class="kn">import</span> <span class="nn">gensim</span>
 <span class="kn">from</span> <span class="nn">sklearn.feature_extraction.text</span> <span class="k">import</span> <span class="n">CountVectorizer</span>
-<span class="n">nlp</span> <span class="o">=</span> <span class="n">spacy</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;de_core_news_sm&quot;</span><span class="p">)</span>
 <span class="kn">from</span> <span class="nn">geotext</span> <span class="k">import</span> <span class="n">GeoText</span> <span class="c1"># for location detection</span>
 </pre></div>
 
@@ -13370,61 +13385,10 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Building-the-corpus">Building the corpus<a class="anchor-link" href="#Building-the-corpus">&#182;</a></h2>
+<h2 id="Skipping-the-pdf2txt-adventures...">Skipping the pdf2txt adventures...<a class="anchor-link" href="#Skipping-the-pdf2txt-adventures...">&#182;</a></h2><h4 id="...imagine-we-have-25-documents-loaded.">...imagine we have 25 documents loaded.<a class="anchor-link" href="#...imagine-we-have-25-documents-loaded.">&#182;</a></h4>
 </div>
 </div>
-</div><div class="fragment">
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>The pdfs were converted online to txt files. We read the txt files and build our corpus:</p>
-
-</div>
-</div>
-</div></div><div class="fragment">
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">data_path</span> <span class="o">=</span> <span class="s2">&quot;../data/interim/pdf2text&quot;</span>
-
-<span class="n">data_files</span> <span class="o">=</span> <span class="n">glob</span><span class="o">.</span><span class="n">glob</span><span class="p">(</span><span class="n">data_path</span> <span class="o">+</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">sep</span> <span class="o">+</span> <span class="s2">&quot;*.txt&quot;</span><span class="p">);</span> <span class="n">data_files</span>
-
-<span class="n">data_files</span> <span class="o">=</span> <span class="p">[</span><span class="n">item</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">data_path</span> <span class="o">+</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">sep</span><span class="p">,</span> <span class="s2">&quot;&quot;</span><span class="p">)</span> <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="n">data_files</span><span class="p">]</span>  <span class="c1"># Strip the dir name and the path separator from begining</span>
-
-<span class="n">corpus</span> <span class="o">=</span> <span class="p">[]</span>
-
-<span class="k">for</span> <span class="n">txt_file</span> <span class="ow">in</span> <span class="n">data_files</span><span class="p">:</span>
-    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">data_path</span> <span class="o">+</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">sep</span> <span class="o">+</span> <span class="n">txt_file</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf-8&#39;</span><span class="p">,</span> <span class="n">mode</span><span class="o">=</span><span class="s2">&quot;r&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">f</span><span class="p">:</span>
-        <span class="n">corpus</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">f</span><span class="o">.</span><span class="n">readlines</span><span class="p">())</span>
-        
-<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;We have&#39;</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">corpus</span><span class="p">),</span> <span class="s1">&#39;documents loaded.&#39;</span><span class="p">)</span> 
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>We have 25 documents loaded.
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div></div></section></section><section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -13442,15 +13406,15 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">nlp_corpus</span> <span class="o">=</span> <span class="p">[]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">nlp</span> <span class="o">=</span> <span class="n">spacy</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;de_core_news_sm&quot;</span><span class="p">,</span> <span class="n">disable</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;tagger&quot;</span><span class="p">])</span>
+<span class="n">nlp_corpus</span> <span class="o">=</span> <span class="p">[]</span>
 <span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">raw</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">corpus</span><span class="p">):</span>
     <span class="n">joined</span> <span class="o">=</span> <span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">raw</span><span class="p">)</span> <span class="c1"># we join the docs (which are lists of strings)</span>
     <span class="n">joined_nlp</span> <span class="o">=</span> <span class="n">nlp</span><span class="p">(</span><span class="n">joined</span><span class="p">)</span> 
     <span class="n">nlp_corpus</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">joined_nlp</span><span class="p">)</span>
-    
 </pre></div>
 
     </div>
@@ -13468,11 +13432,10 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sents_with_loc</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span><span class="s1">&#39;doc number&#39;</span><span class="p">:</span> <span class="p">[],</span> <span class="s1">&#39;location&#39;</span><span class="p">:</span> <span class="p">[],</span> <span class="s1">&#39;sentence&#39;</span><span class="p">:</span> <span class="p">[]})</span>
-
 <span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">doc</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">nlp_corpus</span><span class="p">):</span>
     <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">doc</span><span class="o">.</span><span class="n">sents</span><span class="p">:</span>
         <span class="n">locations</span> <span class="o">=</span> <span class="p">[]</span>
@@ -13481,9 +13444,7 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
                 <span class="n">locations</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">ent</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
         <span class="k">if</span> <span class="n">locations</span><span class="p">:</span>
             <span class="n">sents_with_loc</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="nb">len</span><span class="p">(</span><span class="n">sents_with_loc</span><span class="p">)]</span> <span class="o">=</span><span class="p">[</span><span class="n">idx</span><span class="p">,</span> <span class="n">locations</span><span class="p">,</span> <span class="n">sent</span><span class="p">]</span>
-            
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;We have&#39;</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">sents_with_loc</span><span class="p">),</span> <span class="s1">&#39;sentences with locations.&#39;</span><span class="p">)</span>
-<span class="n">sents_with_loc</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13505,9 +13466,30 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div>
 </div>
 
+</div>
+</div>
+
+</div></div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">pd</span><span class="o">.</span><span class="n">options</span><span class="o">.</span><span class="n">display</span><span class="o">.</span><span class="n">max_colwidth</span> <span class="o">=</span> <span class="mi">100</span>
+<span class="n">sents_with_loc</span><span class="o">.</span><span class="n">sample</span><span class="p">(</span><span class="n">n</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[7]:</div>
+    <div class="prompt output_prompt">Out[8]:</div>
 
 
 
@@ -13537,64 +13519,64 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
-      <td>0.0</td>
-      <td>[Biodiversitätsdach]</td>
-      <td>(Biodiversitätsdach, auf, dem, Besucherzentrum...</td>
+      <th>3328</th>
+      <td>17.0</td>
+      <td>[GeWOFAG, Mehrkosten]</td>
+      <td>(Die, landeshauptstadt, München, hat, sich, 2015, aufgrund, einer, Stadtratsanfrage, einer, poli...</td>
     </tr>
     <tr>
-      <th>1</th>
-      <td>0.0</td>
-      <td>[Berlin, Pflanzenauswahl]</td>
-      <td>(Dachbegrünung, und, Biodiversität, \n \n , 2,...</td>
+      <th>4059</th>
+      <td>19.0</td>
+      <td>[Stadt]</td>
+      <td>(Mit, einer, Grundstücksfläche, von, 25.000, Quadratmetern, und, einer, Bruttogeschossfläche, vo...</td>
     </tr>
     <tr>
-      <th>2</th>
-      <td>0.0</td>
-      <td>[Biodiversitätsdächer]</td>
-      <td>(Biodiversitätsdächer, \n \n , 16, \n \n , Koo...</td>
+      <th>5767</th>
+      <td>22.0</td>
+      <td>[Steigenberger, Airport-Hotels, Frankfurt am Main, Fachverband]</td>
+      <td>(Für, Dach-, und, Fassadenbegrünung, ,, ,, Am, Montag, ,, dem, 19.02.1990, ,, erschienen, im, Sa...</td>
     </tr>
     <tr>
-      <th>3</th>
-      <td>0.0</td>
-      <td>[Biodiversitätsprinzipien, Biotop-Funktion]</td>
-      <td>(Durch, verschiedene, Gestaltungsmaßnahmen, un...</td>
+      <th>263</th>
+      <td>1.0</td>
+      <td>[Oberflächengewässer]</td>
+      <td>(..., ..., \n \n , 7, Immission, Oberflächengewässer, ...)</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>0.0</td>
-      <td>[Biodiversitäts-Gründach]</td>
-      <td>(Dem, Deutschen, Dachgärtner, Verband, dient, ...</td>
+      <th>2835</th>
+      <td>15.0</td>
+      <td>[Gründach, Fassadengrün, Photovoltaik]</td>
+      <td>(Bei, einem, EnergieGrünDach, oder, einer, EnergieGrünFassade, handelt, es, sich, um, eine, komb...</td>
     </tr>
     <tr>
-      <th>5</th>
-      <td>0.0</td>
-      <td>[Biodiversitätsdach]</td>
-      <td>(Ein, ,, ,, upgrade, ", bereits, existierender...</td>
+      <th>2519</th>
+      <td>14.0</td>
+      <td>[Wissen]</td>
+      <td>(Wissen, auf, sehr, anschauliche, und, greifbare, Weise, \n \n , Wiedner, Hauptstraße)</td>
     </tr>
     <tr>
-      <th>6</th>
-      <td>0.0</td>
-      <td>[Totholz\n ]</td>
-      <td>(10, \n \n , Einbringung, von, Totholz, \n )</td>
+      <th>5395</th>
+      <td>21.0</td>
+      <td>[Fremdaufwuchs]</td>
+      <td>(Ebenso, Fremdaufwuchs, .)</td>
     </tr>
     <tr>
-      <th>7</th>
-      <td>0.0</td>
-      <td>[Totholz]</td>
-      <td>(Totholz, wird, unter, anderem, von, Moosen, ,...</td>
+      <th>2036</th>
+      <td>13.0</td>
+      <td>[MEISSE]</td>
+      <td>(MEISSE, \n \n )</td>
     </tr>
     <tr>
-      <th>8</th>
-      <td>0.0</td>
-      <td>[Biodiversitätsdach]</td>
-      <td>(Für, das, Biodiversitätsdach, wird, deshalb, ...</td>
+      <th>3846</th>
+      <td>18.0</td>
+      <td>[SNFCC, Nationaloper, Nationalbibliothek]</td>
+      <td>(Das, neue, Kulturzentrum, SNFCC, mit, Nationaloper, und, Nationalbibliothek, ist, eingebettet, ...</td>
     </tr>
     <tr>
-      <th>9</th>
-      <td>0.0</td>
-      <td>[www.tu-berlin.de]</td>
-      <td>(www.dachgaertnerverband.de, \n \n , www.tu-be...</td>
+      <th>5850</th>
+      <td>22.0</td>
+      <td>[Hauptkriterien]</td>
+      <td>(2, ., Motivation, ,, ,, Umfeldverbesserung, ", Ökologie-/Umweltaspekte, ,, Aufenthaltsqualität,...</td>
     </tr>
   </tbody>
 </table>
@@ -13606,11 +13588,11 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div>
 </div>
 
-</div></div></section></section><section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Identifying-coutries-and-cities-with-GeoText">Identifying coutries and cities with GeoText<a class="anchor-link" href="#Identifying-coutries-and-cities-with-GeoText">&#182;</a></h1>
+<h1 id="Identifying-countries-and-cities-with-GeoText">Identifying countries and cities with GeoText<a class="anchor-link" href="#Identifying-countries-and-cities-with-GeoText">&#182;</a></h1>
 </div>
 </div>
 </div><div class="fragment">
@@ -13714,14 +13696,9 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sents_with_loc</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_pickle</span><span class="p">(</span><span class="s1">&#39;sents_with_loc.pkl&#39;</span><span class="p">)</span>
 <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;country mentions&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="n">GeoText</span><span class="p">(</span><span class="n">sent</span><span class="p">)</span><span class="o">.</span><span class="n">country_mentions</span> <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;sentence&#39;</span><span class="p">]],</span>
                                                <span class="n">index</span> <span class="o">=</span> <span class="n">sents_with_loc</span><span class="o">.</span><span class="n">index</span><span class="p">)</span>
-
 <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;cities&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="n">GeoText</span><span class="p">(</span><span class="n">sent</span><span class="p">)</span><span class="o">.</span><span class="n">cities</span> <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;sentence&#39;</span><span class="p">]],</span>
                                                <span class="n">index</span> <span class="o">=</span> <span class="n">sents_with_loc</span><span class="o">.</span><span class="n">index</span><span class="p">)</span>
-
-<span class="c1"># discard the rows without any location detected by Geotext for now:</span>
-
 <span class="n">sents_with_loc</span> <span class="o">=</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;country mentions&#39;</span><span class="p">]</span> <span class="o">!=</span> <span class="p">{}]</span>
-<span class="n">sents_with_loc</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;We have&#39;</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">sents_with_loc</span><span class="p">),</span> <span class="s1">&#39;sentences now.&#39;</span><span class="p">)</span>
 <span class="n">sents_with_loc</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
@@ -14010,7 +13987,7 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Ommiting Germany, we have the following barchart:</p>
+<p>Omitting Germany, we have the following barchart:</p>
 
 </div>
 </div>
@@ -14223,7 +14200,7 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div></div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%%html</span>
@@ -14254,14 +14231,6 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div>
 </div>
 
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Cities-from-Germany">Cities from Germany<a class="anchor-link" href="#Cities-from-Germany">&#182;</a></h2><p>Let's look at Germany now and focus on the cities. The barchart now looks as follows:</p>
-
-</div>
-</div>
 </div><aside class="notes">
 
 <div class="cell border-box-sizing code_cell rendered">
@@ -14375,87 +14344,6 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 
 </div>
 </div>
-</div></div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>The map now looks like this:</p>
-
-</div>
-</div>
-</div><aside class="notes">
-
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">city_list</span> <span class="o">=</span> <span class="nb">list</span><span class="p">()</span>
-<span class="n">not_found</span> <span class="o">=</span> <span class="nb">list</span><span class="p">()</span>
-
-<span class="n">m2</span> <span class="o">=</span> <span class="n">folium</span><span class="o">.</span><span class="n">Map</span><span class="p">(</span><span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mi">51</span><span class="p">,</span><span class="mi">10</span><span class="p">],</span> <span class="n">tiles</span><span class="o">=</span><span class="s2">&quot;Mapbox Bright&quot;</span><span class="p">,</span> <span class="n">zoom_start</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
- 
-    
-<span class="k">for</span> <span class="n">city</span><span class="p">,</span> <span class="n">count</span> <span class="ow">in</span> <span class="n">city_count</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
-    <span class="n">city_info</span> <span class="o">=</span> <span class="n">german_cities</span><span class="p">[</span><span class="n">german_cities</span><span class="p">[</span><span class="s1">&#39;city&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="n">city</span><span class="p">]</span>
-    <span class="k">if</span> <span class="n">count</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="ow">and</span> <span class="nb">len</span><span class="p">(</span><span class="n">city_info</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="n">city_list</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">city</span><span class="p">)</span>
-        <span class="c1">#mask = german_cities[&#39;city&#39;] == city</span>
-        <span class="n">lat</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">city_info</span><span class="p">[</span><span class="s1">&#39;lat&#39;</span><span class="p">])</span>
-        <span class="n">lon</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">city_info</span><span class="p">[</span><span class="s1">&#39;lng&#39;</span><span class="p">])</span>
-
-        <span class="n">folium</span><span class="o">.</span><span class="n">Circle</span><span class="p">(</span>
-        <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="n">lat</span><span class="p">,</span> <span class="n">lon</span><span class="p">],</span>
-        <span class="n">popup</span> <span class="o">=</span> <span class="n">city</span> <span class="o">+</span> <span class="s1">&#39;:&#39;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">count</span><span class="p">)</span> <span class="o">+</span> <span class="s1">&#39; mentions&#39;</span><span class="p">,</span>
-        <span class="n">radius</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">log</span><span class="p">(</span><span class="n">count</span><span class="p">)</span> <span class="o">*</span> <span class="mi">15000</span><span class="p">,</span>
-        <span class="n">color</span> <span class="o">=</span> <span class="s1">&#39;crimson&#39;</span><span class="p">,</span>
-        <span class="n">fill</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
-        <span class="n">fill_color</span> <span class="o">=</span> <span class="s1">&#39;crimson&#39;</span>
-        <span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m2</span><span class="p">)</span>
-    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">city_info</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="n">not_found</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">city</span><span class="p">,</span> <span class="n">count</span><span class="p">))</span>
-<span class="n">m2</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="s1">&#39;germany_counts.html&#39;</span><span class="p">)</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-</aside><div class="fragment">
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%%html</span>
-<span class="p">&lt;</span><span class="nt">iframe</span> <span class="na">src</span><span class="o">=</span><span class="s">&quot;germany_counts.html&quot;</span> <span class="na">width</span><span class="o">=</span><span class="s">&quot;800&quot;</span> <span class="na">height</span><span class="o">=</span><span class="s">&quot;800&quot;</span> <span class="na">align</span><span class="o">=</span><span class="s">&quot;middle&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">iframe</span><span class="p">&gt;</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-
-<div class="output_html rendered_html output_subarea ">
-<iframe src="germany_counts.html" width="800" height="800" align="middle"></iframe>
-
-</div>
-
-</div>
-
-</div>
-</div>
-
 </div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -14475,7 +14363,7 @@ D:\anaconda\envs\data4good\lib\site-packages\gensim\utils.py:1197: UserWarning: 
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">sample</span> <span class="o">=</span> <span class="n">sents_with_loc</span><span class="o">.</span><span class="n">sample</span><span class="p">(</span><span class="n">n</span> <span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="n">random_state</span> <span class="o">=</span> <span class="mi">42</span><span class="p">)</span>
@@ -14533,22 +14421,20 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[29]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">nltk</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="s1">&#39;stopwords&#39;</span><span class="p">)</span>
-
 <span class="c1"># we have some English text in the German too so add those as well</span>
 <span class="kn">from</span> <span class="nn">nltk.corpus</span> <span class="k">import</span> <span class="n">stopwords</span>
 <span class="n">stop_words</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">stopwords</span><span class="o">.</span><span class="n">words</span><span class="p">(</span><span class="s1">&#39;german&#39;</span><span class="p">))</span>
 <span class="n">stop_words</span> <span class="o">=</span> <span class="n">stop_words</span><span class="o">.</span><span class="n">union</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">stopwords</span><span class="o">.</span><span class="n">words</span><span class="p">(</span><span class="s1">&#39;english&#39;</span><span class="p">)))</span>
 
 
+<span class="n">corpus</span> <span class="o">=</span> <span class="p">[</span><span class="n">sent</span> <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;sentence&#39;</span><span class="p">]]</span>
+
 <span class="n">vect</span> <span class="o">=</span> <span class="n">CountVectorizer</span><span class="p">(</span><span class="n">min_df</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span> <span class="n">max_df</span><span class="o">=</span><span class="mf">0.2</span><span class="p">,</span> <span class="n">stop_words</span><span class="o">=</span><span class="n">stop_words</span><span class="p">,</span> 
                        <span class="n">token_pattern</span><span class="o">=</span><span class="s1">&#39;(?u)</span><span class="se">\\</span><span class="s1">b</span><span class="se">\\</span><span class="s1">w</span><span class="se">\\</span><span class="s1">w</span><span class="se">\\</span><span class="s1">w+</span><span class="se">\\</span><span class="s1">b&#39;</span><span class="p">)</span>
-
-<span class="c1"># our corpus</span>
-<span class="n">corpus</span> <span class="o">=</span> <span class="p">[</span><span class="n">sent</span> <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;sentence&#39;</span><span class="p">]]</span>
 
 <span class="c1"># create the sparse matrix</span>
 <span class="n">X</span> <span class="o">=</span> <span class="n">vect</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">corpus</span><span class="p">)</span>
@@ -14581,7 +14467,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 </div></div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># IDs to words dict</span>
@@ -14615,7 +14501,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[170]:</div>
+<div class="prompt input_prompt">In&nbsp;[31]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">ldamodel</span><span class="o">.</span><span class="n">print_topics</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
@@ -14631,7 +14517,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[170]:</div>
+    <div class="prompt output_prompt">Out[31]:</div>
 
 
 
@@ -14675,7 +14561,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[192]:</div>
+<div class="prompt input_prompt">In&nbsp;[32]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">topic_distribution</span><span class="p">(</span><span class="n">new_doc_list</span><span class="p">):</span>
@@ -14690,16 +14576,677 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 
 <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;dominant topic&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="n">dominant_topic</span><span class="p">([</span><span class="n">sent</span><span class="p">])</span> 
                                               <span class="k">for</span> <span class="n">sent</span> <span class="ow">in</span> <span class="n">sents_with_loc</span><span class="p">[</span><span class="s1">&#39;sentence&#39;</span><span class="p">]])</span>
+<span class="n">sents_with_loc</span>
 </pre></div>
 
     </div>
 </div>
 </div>
 
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt output_prompt">Out[32]:</div>
+
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>index</th>
+      <th>doc number</th>
+      <th>location</th>
+      <th>sentence</th>
+      <th>country mentions</th>
+      <th>cities</th>
+      <th>dominant topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>0</td>
+      <td>0</td>
+      <td>['Biodiversitätsdach']</td>
+      <td>Biodiversitätsdach auf dem Besucherzentrum der...</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(1, 0.5499903)</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1</td>
+      <td>0</td>
+      <td>['Berlin', 'Pflanzenauswahl']</td>
+      <td>Dachbegrünung und Biodiversität\n \n 2\n \n Be...</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(1, 0.69998765)</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>11</td>
+      <td>0</td>
+      <td>['Schorndorf']</td>
+      <td>Ansprechpartner im Bereich der Nisthilfen war ...</td>
+      <td>{'DE': 1}</td>
+      <td>[Schorndorf]</td>
+      <td>(3, 0.5499983)</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>12</td>
+      <td>0</td>
+      <td>['Falkensee']</td>
+      <td>Für das Totholz zeichnete sich die Firma Kusch...</td>
+      <td>{'DE': 1}</td>
+      <td>[Falkensee]</td>
+      <td>(3, 0.5499983)</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>16</td>
+      <td>1</td>
+      <td>['Hamburg', 'Hannover', 'Berlin', 'Kornwestheim']</td>
+      <td>(Deutscher Dachgärtner Verband e.V. - DDV), Ju...</td>
+      <td>{'DE': 5}</td>
+      <td>[Hamburg, Stuttgart, Hannover, Berlin, Kornwes...</td>
+      <td>(7, 0.77570164)</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>26</td>
+      <td>1</td>
+      <td>['Berlin', 'Hamburg', 'Hannover', 'Ludwigsburg...</td>
+      <td>Neben aktuellen Gründach-Initiativen aus Berli...</td>
+      <td>{'DE': 5}</td>
+      <td>[Berlin, Hamburg, Hannover, Ludwigsburg, Stutt...</td>
+      <td>(7, 0.84997654)</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>27</td>
+      <td>1</td>
+      <td>['Hannover']</td>
+      <td>25\n \n Hannover:</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(0, 0.54999775)</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>28</td>
+      <td>1</td>
+      <td>['Stuttgart']</td>
+      <td>Gebäudebegrünung als Bestandteil der Klimaanpa...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(6, 0.378283)</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>30</td>
+      <td>1</td>
+      <td>['Berlin']</td>
+      <td>32\n \n Berlin:</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>31</td>
+      <td>1</td>
+      <td>['Ludwigsburg']</td>
+      <td>Ökologische Gebäudekonzepte und Modellvorhaben...</td>
+      <td>{'DE': 1}</td>
+      <td>[Ludwigsburg]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>37</td>
+      <td>1</td>
+      <td>['Berlin', 'Hamburg', 'Hannover', 'Ludwigsburg...</td>
+      <td>Die in dieser Broschüre vorgestellten praktisc...</td>
+      <td>{'DE': 5}</td>
+      <td>[Berlin, Hamburg, Hannover, Ludwigsburg, Stutt...</td>
+      <td>(8, 0.27521625)</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>44</td>
+      <td>1</td>
+      <td>['Pilotprojektes', 'Hamburg', 'BUE', 'Stuttgar...</td>
+      <td>Zu den weiteren Kooperationspartnern des Pilot...</td>
+      <td>{'DE': 2}</td>
+      <td>[Karlsruhe, Stuttgart]</td>
+      <td>(7, 0.8150366)</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>65</td>
+      <td>1</td>
+      <td>['Straße', '\n ']</td>
+      <td>Man sieht an dieser Stelle bereits, dass die v...</td>
+      <td>{'CI': 1, 'SE': 1}</td>
+      <td>[Man, Boden]</td>
+      <td>(4, 0.77499545)</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>119</td>
+      <td>1</td>
+      <td>['Ökosystemleistungen']</td>
+      <td>Die damit einhergehende Quantifizierung der ge...</td>
+      <td>{'SE': 1}</td>
+      <td>[Boden]</td>
+      <td>(4, 0.36666808)</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>126</td>
+      <td>1</td>
+      <td>['Kommunales', 'Berlin']</td>
+      <td>/ Kommunales Grünprogramm Berlin:</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>128</td>
+      <td>1</td>
+      <td>['\n \n \x0cHamburg\n ']</td>
+      <td>TH Treibhaus Landschaftsarchitekten, Luftbild:...</td>
+      <td>{'DE': 1}</td>
+      <td>[Hamburg]</td>
+      <td>(7, 0.7749931)</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>129</td>
+      <td>1</td>
+      <td>['Hamburg']</td>
+      <td>Hamburg:</td>
+      <td>{'DE': 1}</td>
+      <td>[Hamburg]</td>
+      <td>(8, 0.5499831)</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>154</td>
+      <td>1</td>
+      <td>['Hannover', 'Hannover', 'Zahl']</td>
+      <td>Nach der von der Landeshauptstadt in 2010 beau...</td>
+      <td>{'DE': 2}</td>
+      <td>[Hannover, Hannover]</td>
+      <td>(0, 0.69999844)</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>158</td>
+      <td>1</td>
+      <td>['Hannover']</td>
+      <td>Mögliche Folgen des Klimawandels für Hannover</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(0, 0.54999757)</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>172</td>
+      <td>1</td>
+      <td>['\n \n \x0cHannover']</td>
+      <td>Teil II Kommunale Gründach-Strategien 29\n \n ...</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(7, 0.61583203)</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>180</td>
+      <td>1</td>
+      <td>['Hannover']</td>
+      <td>Die Nord/LB in Hannover verfügt über eine knap...</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(0, 0.3666658)</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>183</td>
+      <td>1</td>
+      <td>['Hannover']</td>
+      <td>Von diesen Gründachflächen fließen (bezogen au...</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(7, 0.35741398)</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>185</td>
+      <td>1</td>
+      <td>['Stadt Hannover', 'Stadt', 'Hannover']</td>
+      <td>Ein Beispiel für Fördermöglichkeiten bietet da...</td>
+      <td>{'DE': 1}</td>
+      <td>[Hannover]</td>
+      <td>(0, 0.72287095)</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>192</td>
+      <td>1</td>
+      <td>['\n \n \x0cStuttgart']</td>
+      <td>Teil II Kommunale Gründach-Strategien 31\n \n ...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(7, 0.7749838)</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>193</td>
+      <td>1</td>
+      <td>['Stuttgart']</td>
+      <td>Stuttgart:</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.54998803)</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>196</td>
+      <td>1</td>
+      <td>['Stuttgart']</td>
+      <td>Urbanes Gärtnern in Stuttgart</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.5499881)</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>198</td>
+      <td>1</td>
+      <td>['Stuttgart']</td>
+      <td>Doch Nutzgärten haben in vielen Städten eine l...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.5499881)</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>202</td>
+      <td>1</td>
+      <td>['Stuttgart']</td>
+      <td>Weitere Gärten in Stuttgart sind geplant.</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.5499881)</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>210</td>
+      <td>1</td>
+      <td>['Stadt Stuttgart', 'Stuttgart', 'Stuttgart']</td>
+      <td>© Stadt Stuttgart\n \n In den letzten Jahren s...</td>
+      <td>{'DE': 2}</td>
+      <td>[Stuttgart, Stuttgart]</td>
+      <td>(8, 0.41395968)</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>217</td>
+      <td>1</td>
+      <td>['Landes-\n \n hauptstadt', 'Stuttgart']</td>
+      <td>Die Gemeinderäte haben der neuen Richtlinie fü...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(6, 0.62410635)</td>
+    </tr>
+    <tr>
+      <th>...</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th>1332</th>
+      <td>7616</td>
+      <td>24</td>
+      <td>['Darmstadt']</td>
+      <td>Darmstadt\n \n</td>
+      <td>{'DE': 1}</td>
+      <td>[Darmstadt]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1333</th>
+      <td>7617</td>
+      <td>24</td>
+      <td>['Bulgaria']</td>
+      <td>Bulgaria\n \n</td>
+      <td>{'BG': 1}</td>
+      <td>[]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1334</th>
+      <td>7618</td>
+      <td>24</td>
+      <td>['South Korea']</td>
+      <td>South Korea\n \n</td>
+      <td>{'KR': 1}</td>
+      <td>[]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1335</th>
+      <td>7619</td>
+      <td>24</td>
+      <td>['Seoul', 'Korea\n \n Germany Germany']</td>
+      <td>curve and keyword analysis for biodiversity co...</td>
+      <td>{'KR': 1}</td>
+      <td>[Seoul]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1336</th>
+      <td>7620</td>
+      <td>24</td>
+      <td>['Design-for-Safety']</td>
+      <td>Why we need Design-for-Safety (DfS) for Skyris...</td>
+      <td>{'FR': 1}</td>
+      <td>[]</td>
+      <td>(9, 0.6999999)</td>
+    </tr>
+    <tr>
+      <th>1337</th>
+      <td>7621</td>
+      <td>24</td>
+      <td>['Deutschland']</td>
+      <td>Switzerland\n \n Artenschutz über den Köpfen -...</td>
+      <td>{'CH': 1, 'AT': 1, 'KR': 1}</td>
+      <td>[Seoul]</td>
+      <td>(9, 0.87141585)</td>
+    </tr>
+    <tr>
+      <th>1338</th>
+      <td>7623</td>
+      <td>24</td>
+      <td>['Denver Colorado', 'Denver', 'Colorado', 'USA']</td>
+      <td>Denver Colorado\n \n BIO-TECTURE Living Wall S...</td>
+      <td>{'DE': 1, 'US': 1, 'BR': 1}</td>
+      <td>[Denver, Colorado]</td>
+      <td>(3, 0.5499947)</td>
+    </tr>
+    <tr>
+      <th>1339</th>
+      <td>7624</td>
+      <td>24</td>
+      <td>['Poland\n ']</td>
+      <td>Living walls in public spaces in Poland\n</td>
+      <td>{'PL': 1}</td>
+      <td>[]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1340</th>
+      <td>7630</td>
+      <td>24</td>
+      <td>['Vienna', 'Tel.', '\n Prof. Dr.-Ing']</td>
+      <td>Architects Bernardgasse 21 A - 1070 Vienna, Te...</td>
+      <td>{'US': 1}</td>
+      <td>[Vienna]</td>
+      <td>(5, 0.5912214)</td>
+    </tr>
+    <tr>
+      <th>1341</th>
+      <td>7634</td>
+      <td>24</td>
+      <td>['Madrid']</td>
+      <td>2 E - 28040 Madrid\n Dr. rer. hort.</td>
+      <td>{'ES': 1}</td>
+      <td>[Madrid]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1342</th>
+      <td>7637</td>
+      <td>24</td>
+      <td>['Pokfulam']</td>
+      <td>Y. Chen Department of Geography, The Universit...</td>
+      <td>{'HK': 4}</td>
+      <td>[]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1343</th>
+      <td>7638</td>
+      <td>24</td>
+      <td>['Berlin']</td>
+      <td>D - 10965 Berlin</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1344</th>
+      <td>7639</td>
+      <td>24</td>
+      <td>['\n ']</td>
+      <td>DD-Berlin.de\n</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1345</th>
+      <td>7642</td>
+      <td>24</td>
+      <td>['Bolzano', 'Bozen']</td>
+      <td>22 Mühlbachpromenade 22 I - 39100 Bolzano - Bo...</td>
+      <td>{'IT': 1}</td>
+      <td>[Bolzano]</td>
+      <td>(5, 0.55)</td>
+    </tr>
+    <tr>
+      <th>1346</th>
+      <td>7643</td>
+      <td>24</td>
+      <td>['Budapest']</td>
+      <td>Elnök utca 24 HUN - 1089 Budapest pdezsenyi@gr...</td>
+      <td>{'HU': 1}</td>
+      <td>[Budapest]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1347</th>
+      <td>7645</td>
+      <td>24</td>
+      <td>['USA', 'Boston']</td>
+      <td>20 Custom House Street Suite 800 USA - Boston,...</td>
+      <td>{'US': 1}</td>
+      <td>[Boston]</td>
+      <td>(5, 0.52477914)</td>
+    </tr>
+    <tr>
+      <th>1348</th>
+      <td>7653</td>
+      <td>24</td>
+      <td>['\n \n Prof.']</td>
+      <td>Babul Asociacion de Infrastructura Verde de Ch...</td>
+      <td>{'CL': 1}</td>
+      <td>[]</td>
+      <td>(5, 0.3983512)</td>
+    </tr>
+    <tr>
+      <th>1349</th>
+      <td>7656</td>
+      <td>24</td>
+      <td>['Bonn\n Marco Fritz European Commission DG Re...</td>
+      <td>II 6 ­ Bauen und Umwelt Deichmanns Aue 31-37 D...</td>
+      <td>{'DE': 2}</td>
+      <td>[Aue, Bonn]</td>
+      <td>(7, 0.5499994)</td>
+    </tr>
+    <tr>
+      <th>1350</th>
+      <td>7659</td>
+      <td>24</td>
+      <td>['Chapingo', 'Edo']</td>
+      <td>38.5 Carretera México-Texcoco, Chapingo, Edo. ...</td>
+      <td>{'MX': 1}</td>
+      <td>[]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1351</th>
+      <td>7663</td>
+      <td>24</td>
+      <td>['Haus 16', 'Berlin']</td>
+      <td>Philippstr. 13, Haus 16 D - 10115 Berlin</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1352</th>
+      <td>7671</td>
+      <td>24</td>
+      <td>['Stuttgart']</td>
+      <td>KG Korntaler Landstraße 63 D - 70499 Stuttgart...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.3707545)</td>
+    </tr>
+    <tr>
+      <th>1353</th>
+      <td>7673</td>
+      <td>24</td>
+      <td>['Bad Pyrmont']</td>
+      <td>Baarsen 77 D - 31812 Bad Pyrmont</td>
+      <td>{'DE': 1}</td>
+      <td>[Bad Pyrmont]</td>
+      <td>(5, 0.5499988)</td>
+    </tr>
+    <tr>
+      <th>1354</th>
+      <td>7679</td>
+      <td>24</td>
+      <td>['Berlin']</td>
+      <td>D - 10178 Berlin</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1355</th>
+      <td>7682</td>
+      <td>24</td>
+      <td>['Berlin']</td>
+      <td>D - 10707 Berlin</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1356</th>
+      <td>7689</td>
+      <td>24</td>
+      <td>['D', 'Berlin']</td>
+      <td>135 e, D - 14167 Berlin k.neumann@kn-mail.de</td>
+      <td>{'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1357</th>
+      <td>7703</td>
+      <td>24</td>
+      <td>['Nachhaltiges', 'Stuttgart', '\n ']</td>
+      <td>Deutsche Gesellschaft für Nachhaltiges Bauen ­...</td>
+      <td>{'DE': 1}</td>
+      <td>[Stuttgart]</td>
+      <td>(3, 0.37075663)</td>
+    </tr>
+    <tr>
+      <th>1358</th>
+      <td>7706</td>
+      <td>24</td>
+      <td>['Berlin', '\n Prof.']</td>
+      <td>+43-699-19744304 bernhard.scharf@green4cities....</td>
+      <td>{'SG': 1, 'DE': 1}</td>
+      <td>[Berlin]</td>
+      <td>(5, 0.82631105)</td>
+    </tr>
+    <tr>
+      <th>1359</th>
+      <td>7707</td>
+      <td>24</td>
+      <td>['London', 'EC1A']</td>
+      <td>CIRIA Griffin Court, 15 Long Lane UK - London,...</td>
+      <td>{'GB': 1}</td>
+      <td>[London]</td>
+      <td>(1, 0.5499942)</td>
+    </tr>
+    <tr>
+      <th>1360</th>
+      <td>7714</td>
+      <td>24</td>
+      <td>['UK', 'Sheffield', 'S6']</td>
+      <td>UK - Sheffield, S6</td>
+      <td>{'GB': 1}</td>
+      <td>[Sheffield]</td>
+      <td>(0, 0.1)</td>
+    </tr>
+    <tr>
+      <th>1361</th>
+      <td>7715</td>
+      <td>24</td>
+      <td>['Denver', '\n Prof.']</td>
+      <td>1250 14th Street Suite 2000 USA - 80202 Denver...</td>
+      <td>{'US': 1}</td>
+      <td>[Denver]</td>
+      <td>(6, 0.36667323)</td>
+    </tr>
+  </tbody>
+</table>
+<p>1362 rows × 7 columns</p>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
 </div></div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[200]:</div>
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">filter_for_topic</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="n">top_id_list</span><span class="p">):</span>      
@@ -14737,7 +15284,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[200]:</div>
+    <div class="prompt output_prompt">Out[35]:</div>
 
 
 
@@ -14767,52 +15314,52 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
   <tbody>
     <tr>
       <th>991</th>
-      <td>122\n \n D 63768 Hösbach D 97486 Königsberg\n ...</td>
-      <td>(5, 0.9181703)</td>
+      <td>122\n \n D 63768 Hösbach D 97486 Königsberg\n \n www.ild-group.com www.benkert-dachbegruenung.de...</td>
+      <td>(5, 0.9181739)</td>
     </tr>
     <tr>
       <th>843</th>
-      <td>www.iasp.asp-berlin.de www.gruendach-mv.de www...</td>
+      <td>www.iasp.asp-berlin.de www.gruendach-mv.de www.fbg.fh-wiesbaden.de www.baubotanik.org\n \n 73730...</td>
       <td>(5, 0.90999997)</td>
     </tr>
     <tr>
       <th>1120</th>
-      <td>Viernheim\n \n www.novihum.de www.aco-hochbau....</td>
+      <td>Viernheim\n \n www.novihum.de www.aco-hochbau.de www.sachsenband.de www.xeroflor.com www.xeroflo...</td>
       <td>(5, 0.8874999)</td>
     </tr>
     <tr>
       <th>844</th>
-      <td>Bad Urach-Hengen 77933 Lahr 88633 Heiligenberg...</td>
+      <td>Bad Urach-Hengen 77933 Lahr 88633 Heiligenberg-Steigen\n \n www.xeroflor.de www.xeroflor.com www.</td>
       <td>(5, 0.8499999)</td>
     </tr>
     <tr>
       <th>965</th>
-      <td>www.gruendach-siebert.de www.vedag.de whawiw.v...</td>
-      <td>(5, 0.84999466)</td>
+      <td>www.gruendach-siebert.de www.vedag.de whawiw.vedag.com.cn\n \n D 01307 Dresden\n \n www.novihum....</td>
+      <td>(5, 0.84999585)</td>
     </tr>
     <tr>
       <th>1089</th>
-      <td>Die Wiese - Naturnahe Gärten GmbH Immo Herbst ...</td>
-      <td>(3, 0.8499826)</td>
+      <td>Die Wiese - Naturnahe Gärten GmbH Immo Herbst Dach- + Innenraumbegrünungs GmbH Helix Pflanzensys...</td>
+      <td>(3, 0.8499852)</td>
     </tr>
     <tr>
       <th>955</th>
-      <td>D 81927 München\n \n www.kramer-gartenbau.de\n...</td>
-      <td>(5, 0.82727367)</td>
+      <td>D 81927 München\n \n www.kramer-gartenbau.de\n \n D 86477 Adelsried\n \n www.garten-koenig.com\n...</td>
+      <td>(5, 0.8272736)</td>
     </tr>
     <tr>
       <th>836</th>
-      <td>China www.vedag.com\n \n DE\n \n 25494 Heist b...</td>
+      <td>China www.vedag.com\n \n DE\n \n 25494 Heist bei Hamburg\n \n www.sachsenband.de\n \n DE\n \n 28...</td>
       <td>(5, 0.8272732)</td>
     </tr>
     <tr>
       <th>1358</th>
-      <td>+43-699-19744304 bernhard.scharf@green4cities....</td>
+      <td>+43-699-19744304 bernhard.scharf@green4cities.com www.green4cities.com\n \n Rudi Scheuermann Aru...</td>
       <td>(5, 0.82631105)</td>
     </tr>
     <tr>
-      <th>698</th>
-      <td>www.singaporeparks.org/igrip2017.html Bologna:...</td>
+      <th>988</th>
+      <td>www.schadenberg.nl\n \n SI 4260 Bled\n \n www.greenwalls.si\n \n US MD 21211 Baltimore\n \n www....</td>
       <td>(5, 0.8199999)</td>
     </tr>
   </tbody>
@@ -14829,7 +15376,7 @@ Auch hier zeigt sich, dass durch Bewässerung eine höhere CO2-Aufnahme im Jahre
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Thank-you-for-your-attention!">Thank you for your attention!<a class="anchor-link" href="#Thank-you-for-your-attention!">&#182;</a></h1>
+<h1 id="Thank-you-for-your-attention!">Thank you for your attention<a href="https://docs.google.com/presentation/d/1PzeVghmDcjDCG2OaRibq6cDBoHCELQHDyn0zAVlag_w/edit">!</a><a class="anchor-link" href="#Thank-you-for-your-attention!">&#182;</a></h1>
 </div>
 </div>
 </div></section></section>
