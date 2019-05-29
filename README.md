@@ -18,7 +18,7 @@ converting and cleaning raw, unstructured pdf files (magazines) into data that w
 You can find a short description of our work <a href = "https://trendydots.com/data4good/challenge1.html" >here</a> at the project website and in our final <a href = "/assets/ch1-final-results.pdf" >presentation</a>. 
 
 <br>
-Follow up: I gave a talk on our results at the first NLP meetup. Click <a href="/assets/2.0_RegDan_locationdetection.slides.html" >here</a> for my slides created from the Jupyter Notebook. 
+Follow up: I gave a talk on our results at the first NLP meetup. Click <a href="/notebooks/2.0_RegDan_locationdetection.slides.html" >here</a> for my slides created from the Jupyter Notebook. 
 
 
 <img src="/assets/nlp_talk.jpeg" alt="talk pic" align="middle">
